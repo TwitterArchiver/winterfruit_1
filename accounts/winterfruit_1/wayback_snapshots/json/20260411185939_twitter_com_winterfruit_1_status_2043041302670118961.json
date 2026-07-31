@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2042938328295838157",
+    "created_at": "2026-04-11T18:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043041302670118961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896545514302443520",
+          "start": 0,
+          "username": "FengYinCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043041302670118961",
+    "in_reply_to_user_id": "1896545514302443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043041063418638772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengYinCC 居然是胜率太高无法反制大人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2042938328295838157",
+        "created_at": "2026-04-11T18:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043041302670118961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896545514302443520",
+              "start": 0,
+              "username": "FengYinCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043041302670118961",
+        "in_reply_to_user_id": "1896545514302443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043041063418638772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengYinCC 居然是胜率太高无法反制大人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896545514302443520",
+        "conversation_id": "2042938328295838157",
+        "created_at": "2026-04-11T18:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043041063418638772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043041063418638772",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042938328295838157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 致敬传奇吸魂拦截王（目移）\n致敬传奇摇铃未校准无法使用技能大人（望天）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 1465,
+          "like_count": 39674,
+          "listed_count": 7,
+          "media_count": 1689,
+          "tweet_count": 11609
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:57:54.000Z",
+        "description": "我想要可以脏兮兮地发光",
+        "id": "1896545514302443520",
+        "location": "山的那边海的那边",
+        "name": "是风吟哦🍀",
+        "pinned_tweet_id": "1899366385337405562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935219395753820161/MqDR_nOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 199,
+          "like_count": 40827,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 4769
+        },
+        "username": "FengYinCC",
+        "verified": false
+      }
+    ]
+  }
+}

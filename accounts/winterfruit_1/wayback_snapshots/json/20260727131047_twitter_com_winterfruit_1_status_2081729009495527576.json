@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2081654674265088059",
+    "created_at": "2026-07-27T13:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081729009495527576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620640366071369729",
+          "start": 0,
+          "username": "qwq_Nyako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081729009495527576",
+    "in_reply_to_user_id": "1620640366071369729",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081654674265088059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_Nyako （（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2081654674265088059",
+        "created_at": "2026-07-27T13:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081729009495527576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620640366071369729",
+              "start": 0,
+              "username": "qwq_Nyako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081729009495527576",
+        "in_reply_to_user_id": "1620640366071369729",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081654674265088059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_Nyako （（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620640366071369729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2081654674265088059",
+        "created_at": "2026-07-27T08:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081654674265088059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2081315130370150647",
+              "start": 12,
+              "url": "https://t.co/BZgLHIw42Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081654674265088059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315130370150647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗这样我也想去看了 https://t.co/BZgLHIw42Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 1484,
+          "like_count": 43738,
+          "listed_count": 6,
+          "media_count": 1907,
+          "tweet_count": 13269
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T04:29:15.000Z",
+        "description": "sub/brat/04/双相治疗中……",
+        "id": "1620640366071369729",
+        "name": "Nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077657011341393922/K0g4axj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "qwq_Nyako",
+        "verified": false
+      }
+    ]
+  }
+}

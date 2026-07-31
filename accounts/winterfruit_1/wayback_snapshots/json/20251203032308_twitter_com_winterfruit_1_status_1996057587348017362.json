@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1996043690662658556",
+    "created_at": "2025-12-03T03:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996057587348017362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996057587348017362",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996043690662658556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 好古老"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996043690662658556].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996043690662658556",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996043690662658556"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1996043690662658556",
+        "created_at": "2025-12-03T03:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996057587348017362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996057587348017362",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996043690662658556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 好古老"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙🐙■■■：@■ / 江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1995495062290231407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1349,
+          "like_count": 24820,
+          "listed_count": 6,
+          "media_count": 894,
+          "tweet_count": 7861
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "ddl的小账/小小小帐@ddlrsgt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "ddlrsgt"
+              }
+            ]
+          }
+        },
+        "id": "1850053428711718912",
+        "name": "玲朵朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053736913305600/7Gk6zFr1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 242,
+          "like_count": 5776,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1799
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

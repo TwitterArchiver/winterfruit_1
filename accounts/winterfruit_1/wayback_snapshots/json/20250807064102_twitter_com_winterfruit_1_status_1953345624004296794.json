@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953195144137654272"
+      ],
+      "media_source_tweet_id": [
+        "1953195303378543017"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953345624004296794",
+    "created_at": "2025-08-07T06:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T07:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953345624004296794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1437195014975655936",
+          "start": 3,
+          "username": "abstractpurple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGFpWc1Icb",
+          "end": 43,
+          "expanded_url": "https://x.com/abstractpurple/status/1953195303378543017/photo/1",
+          "media_key": "3_1953195144137654272",
+          "start": 20,
+          "url": "https://t.co/EGFpWc1Icb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953345624004296794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 776
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953195303378543017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abstractpurple: https://t.co/EGFpWc1Icb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2548,
+        "media_key": "3_1953195144137654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxskopdXwAASoov.jpg",
+        "width": 3545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953195144137654272"
+          ],
+          "media_source_tweet_id": [
+            "1953195303378543017"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953345624004296794",
+        "created_at": "2025-08-07T06:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953345624004296794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1437195014975655936",
+              "start": 3,
+              "username": "abstractpurple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGFpWc1Icb",
+              "end": 43,
+              "expanded_url": "https://x.com/abstractpurple/status/1953195303378543017/photo/1",
+              "media_key": "3_1953195144137654272",
+              "start": 20,
+              "url": "https://t.co/EGFpWc1Icb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953345624004296794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 776
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953195303378543017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abstractpurple: https://t.co/EGFpWc1Icb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953195144137654272"
+          ]
+        },
+        "author_id": "1437195014975655936",
+        "conversation_id": "1953195303378543017",
+        "created_at": "2025-08-06T20:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T21:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953195303378543017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGFpWc1Icb",
+              "end": 23,
+              "expanded_url": "https://x.com/abstractpurple/status/1953195303378543017/photo/1",
+              "media_key": "3_1953195144137654272",
+              "start": 0,
+              "url": "https://t.co/EGFpWc1Icb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953195303378543017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1889,
+          "impression_count": 135164,
+          "like_count": 15156,
+          "quote_count": 38,
+          "reply_count": 59,
+          "retweet_count": 776
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EGFpWc1Icb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 427,
+          "like_count": 8775,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2715
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T23:23:07.000Z",
+        "description": "I draw cute girls | pfp by @mochidog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "mochidog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/abstractpurple",
+                "end": 23,
+                "expanded_url": "https://patreon.com/abstractpurple",
+                "start": 0,
+                "url": "https://t.co/arRBg17UQ1"
+              }
+            ]
+          }
+        },
+        "id": "1437195014975655936",
+        "location": "Brazil",
+        "name": "Abstract 🍺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928950151927758848/2_29Gp-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108655,
+          "following_count": 153,
+          "like_count": 26338,
+          "listed_count": 89,
+          "media_count": 859,
+          "tweet_count": 7523
+        },
+        "url": "https://t.co/arRBg17UQ1",
+        "username": "abstractpurple",
+        "verified": false
+      }
+    ]
+  }
+}

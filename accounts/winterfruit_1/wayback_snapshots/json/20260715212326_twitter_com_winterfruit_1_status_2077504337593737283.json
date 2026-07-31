@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2077026153034809607",
+    "created_at": "2026-07-15T21:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T22:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077504337593737283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060291413598965760",
+          "start": 0,
+          "username": "MIKEiaae"
+        },
+        {
+          "end": 25,
+          "id": "739155848853893121",
+          "start": 10,
+          "username": "doridoriko_koi"
+        },
+        {
+          "end": 37,
+          "id": "1937718514124750851",
+          "start": 26,
+          "username": "umiko_sssd"
+        },
+        {
+          "end": 50,
+          "id": "1881232630202392576",
+          "start": 38,
+          "username": "AudioHollow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077504337593737283",
+    "in_reply_to_user_id": "2060291413598965760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077325584099860928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKEiaae @doridoriko_koi @umiko_sssd @AudioHollow 看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2077325538390343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQkki6agAAopza.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2077026153034809607",
+        "created_at": "2026-07-15T21:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077504337593737283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060291413598965760",
+              "start": 0,
+              "username": "MIKEiaae"
+            },
+            {
+              "end": 25,
+              "id": "739155848853893121",
+              "start": 10,
+              "username": "doridoriko_koi"
+            },
+            {
+              "end": 37,
+              "id": "1937718514124750851",
+              "start": 26,
+              "username": "umiko_sssd"
+            },
+            {
+              "end": 50,
+              "id": "1881232630202392576",
+              "start": 38,
+              "username": "AudioHollow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077504337593737283",
+        "in_reply_to_user_id": "2060291413598965760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077325584099860928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKEiaae @doridoriko_koi @umiko_sssd @AudioHollow 看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077325538390343680"
+          ]
+        },
+        "author_id": "2060291413598965760",
+        "conversation_id": "2077026153034809607",
+        "created_at": "2026-07-15T09:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077325584099860928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "739155848853893121",
+              "start": 0,
+              "username": "doridoriko_koi"
+            },
+            {
+              "end": 27,
+              "id": "1937718514124750851",
+              "start": 16,
+              "username": "umiko_sssd"
+            },
+            {
+              "end": 40,
+              "id": "1881232630202392576",
+              "start": 28,
+              "username": "AudioHollow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htxTMwwWsj",
+              "end": 64,
+              "expanded_url": "https://x.com/MIKEiaae/status/2077325584099860928/photo/1",
+              "media_key": "3_2077325538390343680",
+              "start": 41,
+              "url": "https://t.co/htxTMwwWsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077325584099860928",
+        "in_reply_to_user_id": "739155848853893121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 823,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077026153034809607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doridoriko_koi @umiko_sssd @AudioHollow https://t.co/htxTMwwWsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 1484,
+          "like_count": 43527,
+          "listed_count": 6,
+          "media_count": 1896,
+          "tweet_count": 13118
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T09:28:27.000Z",
+        "description": "",
+        "id": "2060291413598965760",
+        "name": "MIKE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324841493028864/ETbtC78O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "MIKEiaae",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-04T18:04:22.000Z",
+        "description": "Wholesome Vanilla 💕 NSFW 🔞 Animator| Rat \nLinktree: https://t.co/5hoelLlC1H\nConsider supporting me: https://t.co/FFYVc7RKYN\nAlt: @vrc_joy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 129,
+                "username": "vrc_joy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/doridoriko?utm_",
+                "end": 75,
+                "expanded_url": "https://linktr.ee/doridoriko?utm_",
+                "start": 52,
+                "url": "https://t.co/5hoelLlC1H"
+              },
+              {
+                "display_url": "patreon.com/doridoriko",
+                "end": 123,
+                "expanded_url": "https://www.patreon.com/doridoriko",
+                "start": 100,
+                "url": "https://t.co/FFYVc7RKYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/doridoriko",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/doridoriko",
+                "start": 0,
+                "url": "https://t.co/FFYVc7RKYN"
+              }
+            ]
+          }
+        },
+        "id": "739155848853893121",
+        "location": "Iwatodai Dorm",
+        "name": "DoriDoriko 🐁 | KK",
+        "pinned_tweet_id": "2077026153034809607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865210667675815936/tO0SuglD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182385,
+          "following_count": 354,
+          "like_count": 1643,
+          "listed_count": 422,
+          "media_count": 547,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/FFYVc7RKYN",
+        "username": "doridoriko_koi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T03:44:40.000Z",
+        "description": "⚓ VA & Sailor Girl\n🔞 Support: https://t.co/XGcHKs7ltj\n🎤 Commissions: https://t.co/fXJH9E9BX0\n❓ Backup / Personal: @umiko_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "umiko_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Patreon.com/umiko_sssd",
+                "end": 53,
+                "expanded_url": "http://Patreon.com/umiko_sssd",
+                "start": 30,
+                "url": "https://t.co/XGcHKs7ltj"
+              },
+              {
+                "display_url": "umiko-sssd.uwu.ai",
+                "end": 92,
+                "expanded_url": "https://umiko-sssd.uwu.ai/",
+                "start": 69,
+                "url": "https://t.co/fXJH9E9BX0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "umiko-sssd.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://umiko-sssd.uwu.ai/",
+                "start": 0,
+                "url": "https://t.co/fXJH9E9BX0"
+              }
+            ]
+          }
+        },
+        "id": "1937718514124750851",
+        "location": "b: @mu_maan",
+        "name": "Umiko 🌟 🛳️ Lewd VA",
+        "pinned_tweet_id": "2037171305573998755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076871450238275584/Kg0xq1Dp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 792,
+          "like_count": 2259,
+          "listed_count": 13,
+          "media_count": 77,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/fXJH9E9BX0",
+        "username": "umiko_sssd",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T06:50:06.000Z",
+        "description": "MINORS DO NOT INTERACT | SFX-Only Account |\nSound Designer | Video Editor | 3D Modeler | 🇧🇷🇺🇸🇪🇦🇯🇵 |",
+        "id": "1881232630202392576",
+        "location": "Hidden in your Wi-Fi",
+        "name": "🏮The Sound Behind the Whimper🏮🔞",
+        "pinned_tweet_id": "1916404446428283154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917267634736844800/RFxqunwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 30,
+          "like_count": 86,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "AudioHollow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1106288123082792960",
+          "name": "Sae Ootsuka"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1106288123082792960",
+          "name": "Sae Ootsuka"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1106288123082792960",
+          "name": "Sae Ootsuka"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2006981577205756317",
+    "created_at": "2026-01-03T03:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T04:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007298329143894314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697970750773424128",
+          "start": 0,
+          "username": "Jostar1999"
+        },
+        {
+          "end": 23,
+          "id": "3232514690",
+          "start": 12,
+          "username": "Sae_Otsuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007298329143894314",
+    "in_reply_to_user_id": "1697970750773424128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007043449997111378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jostar1999 @Sae_Otsuka 思明棍哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2006981577205756317",
+        "created_at": "2026-01-03T03:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007298329143894314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697970750773424128",
+              "start": 0,
+              "username": "Jostar1999"
+            },
+            {
+              "end": 23,
+              "id": "3232514690",
+              "start": 12,
+              "username": "Sae_Otsuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007298329143894314",
+        "in_reply_to_user_id": "1697970750773424128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007043449997111378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jostar1999 @Sae_Otsuka 思明棍哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697970750773424128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106288123082792960",
+              "name": "Sae Ootsuka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2006981577205756317",
+        "created_at": "2026-01-02T10:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007043449997111378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3232514690",
+              "start": 0,
+              "username": "Sae_Otsuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007043449997111378",
+        "in_reply_to_user_id": "3232514690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4440,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006981577205756317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sae_Otsuka 因为现代中文的语法大量的借鉴了英文，我们不妨用英文语法来理解\n       ''相同意思'' 是名词，可以将其放在动词后面。强调的是''意思''（或者说是事物的概念）方面是''相同的''\n       ''意思相同''作为修饰词，通常伴随着名词出现。强调的是两个事物之间有相同的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1398,
+          "like_count": 27110,
+          "listed_count": 6,
+          "media_count": 1097,
+          "tweet_count": 8825
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T13:53:01.000Z",
+        "description": "那很好了",
+        "id": "1697970750773424128",
+        "name": "otto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827787834880835584/t-XsA_a1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 807,
+          "like_count": 3982,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 105
+        },
+        "username": "Jostar1999",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T11:50:56.000Z",
+        "description": "2025.10.10（fri）4th LIVE ＆ 初のフルアルバム「 #ロマンス至上主義 」 https://t.co/BC7VjTchGz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 36,
+                "tag": "ロマンス至上主義"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nex-tone.lnk.to/7e4EOB",
+                "end": 71,
+                "expanded_url": "https://nex-tone.lnk.to/7e4EOB",
+                "start": 48,
+                "url": "https://t.co/BC7VjTchGz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eplus.jp/sf/detail/4309…",
+                "end": 23,
+                "expanded_url": "https://eplus.jp/sf/detail/4309760001",
+                "start": 0,
+                "url": "https://t.co/Bn7xONElEP"
+              }
+            ]
+          }
+        },
+        "id": "3232514690",
+        "location": "TICKET",
+        "name": "大塚紗英",
+        "pinned_tweet_id": "1994022111082668236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951115262876590083/NIntj9zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190138,
+          "following_count": 404,
+          "like_count": 604278,
+          "listed_count": 2532,
+          "media_count": 6285,
+          "tweet_count": 27551
+        },
+        "url": "https://t.co/Bn7xONElEP",
+        "username": "Sae_Otsuka",
+        "verified": true
+      }
+    ]
+  }
+}

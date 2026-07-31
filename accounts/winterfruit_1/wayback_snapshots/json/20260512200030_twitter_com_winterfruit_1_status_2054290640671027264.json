@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054147609678524416"
+      ],
+      "media_source_tweet_id": [
+        "2054147623830114736"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2054290640671027264",
+    "created_at": "2026-05-12T20:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054290640671027264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gaOUWRyhAT",
+          "end": 41,
+          "expanded_url": "https://x.com/bghtnya/status/2054147623830114736/photo/1",
+          "media_key": "3_2054147609678524416",
+          "start": 18,
+          "url": "https://t.co/gaOUWRyhAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054290640671027264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054147623830114736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 帽子工厂 https://t.co/gaOUWRyhAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2156,
+        "media_key": "3_2054147609678524416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHMXh8bMAAnO5H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054147609678524416"
+          ],
+          "media_source_tweet_id": [
+            "2054147623830114736"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2054290640671027264",
+        "created_at": "2026-05-12T20:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054290640671027264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaOUWRyhAT",
+              "end": 41,
+              "expanded_url": "https://x.com/bghtnya/status/2054147623830114736/photo/1",
+              "media_key": "3_2054147609678524416",
+              "start": 18,
+              "url": "https://t.co/gaOUWRyhAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054290640671027264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054147623830114736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 帽子工厂 https://t.co/gaOUWRyhAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054147609678524416"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2054147623830114736",
+        "created_at": "2026-05-12T10:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054147623830114736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaOUWRyhAT",
+              "end": 28,
+              "expanded_url": "https://x.com/bghtnya/status/2054147623830114736/photo/1",
+              "media_key": "3_2054147609678524416",
+              "start": 5,
+              "url": "https://t.co/gaOUWRyhAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054147623830114736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 787,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "帽子工厂 https://t.co/gaOUWRyhAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 1476,
+          "like_count": 41242,
+          "listed_count": 6,
+          "media_count": 1786,
+          "tweet_count": 12129
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9204,
+          "following_count": 2199,
+          "like_count": 177785,
+          "listed_count": 20,
+          "media_count": 3883,
+          "tweet_count": 47542
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

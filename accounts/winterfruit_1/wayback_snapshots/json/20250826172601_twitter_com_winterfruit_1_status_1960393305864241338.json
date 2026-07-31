@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1960372694287032769",
+    "created_at": "2025-08-26T17:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960393305864241338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944307753977360389",
+          "start": 0,
+          "username": "njwje52788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960393305864241338",
+    "in_reply_to_user_id": "1944307753977360389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960372694287032769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@njwje52788 跌得粉碎了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1960372690449260544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSkk1Ga4AANRlE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 259,
+        "media_key": "3_1960372688134004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSkksea4AAFWKL.jpg",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1960372694287032769",
+        "created_at": "2025-08-26T17:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960393305864241338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944307753977360389",
+              "start": 0,
+              "username": "njwje52788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960393305864241338",
+        "in_reply_to_user_id": "1944307753977360389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960372694287032769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njwje52788 跌得粉碎了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960372690449260544",
+            "3_1960372688134004736"
+          ]
+        },
+        "author_id": "1944307753977360389",
+        "conversation_id": "1960372694287032769",
+        "created_at": "2025-08-26T16:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960372694287032769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhKWxhceEo",
+              "end": 25,
+              "expanded_url": "https://x.com/njwje52788/status/1960372694287032769/photo/1",
+              "media_key": "3_1960372690449260544",
+              "start": 2,
+              "url": "https://t.co/UhKWxhceEo"
+            },
+            {
+              "display_url": "pic.x.com/UhKWxhceEo",
+              "end": 25,
+              "expanded_url": "https://x.com/njwje52788/status/1960372694287032769/photo/1",
+              "media_key": "3_1960372688134004736",
+              "start": 2,
+              "url": "https://t.co/UhKWxhceEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960372694287032769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "该 https://t.co/UhKWxhceEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 455,
+          "like_count": 10046,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3268
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T08:08:22.000Z",
+        "description": "我喜欢从其他地方搬运，你感觉冒犯到你了请私信我删除那个帖子，千万不要把我挂墙内！",
+        "id": "1944307753977360389",
+        "name": "এ琼瑾ﻬꦿ 1989.6.4",
+        "pinned_tweet_id": "1958539471030464998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951667382193377280/HOasloo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 77,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 562
+        },
+        "username": "njwje52788",
+        "verified": false
+      }
+    ]
+  }
+}

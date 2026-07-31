@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2079604559547146392",
+    "created_at": "2026-07-22T04:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079784668900286565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768708221764616192",
+          "start": 0,
+          "username": "justalexoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079784668900286565",
+    "in_reply_to_user_id": "1768708221764616192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079604559547146392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justalexoki 变成雌性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2079604559547146392",
+        "created_at": "2026-07-22T04:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079784668900286565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768708221764616192",
+              "start": 0,
+              "username": "justalexoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079784668900286565",
+        "in_reply_to_user_id": "1768708221764616192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079604559547146392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justalexoki 变成雌性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768708221764616192",
+        "conversation_id": "2079604559547146392",
+        "created_at": "2026-07-21T16:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079604559547146392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caudilloxiv/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/caudilloxiv/status/2079342513228304519",
+              "start": 39,
+              "url": "https://t.co/gKUKKqWs9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079604559547146392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1096,
+          "impression_count": 1714711,
+          "like_count": 14233,
+          "quote_count": 136,
+          "reply_count": 684,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079342513228304519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "what do asian men do when they give up https://t.co/gKUKKqWs9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 1484,
+          "like_count": 43569,
+          "listed_count": 6,
+          "media_count": 1900,
+          "tweet_count": 13193
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T18:38:11.000Z",
+        "description": "the worlds most favored sloth",
+        "id": "1768708221764616192",
+        "name": "taoki",
+        "pinned_tweet_id": "1787373971819655551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998772421290078208/aSQs_5zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35003,
+          "following_count": 1041,
+          "like_count": 643358,
+          "listed_count": 242,
+          "media_count": 6587,
+          "tweet_count": 96634
+        },
+        "url": "",
+        "username": "justalexoki",
+        "verified": true
+      }
+    ]
+  }
+}

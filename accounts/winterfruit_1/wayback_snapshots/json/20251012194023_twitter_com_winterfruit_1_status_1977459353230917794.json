@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1976544156249096466",
+    "created_at": "2025-10-12T19:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T20:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977459353230917794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838634075638083584",
+          "start": 0,
+          "username": "Rikki2012love"
+        },
+        {
+          "end": 25,
+          "id": "3000026024",
+          "start": 15,
+          "username": "youfeizhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977459353230917794",
+    "in_reply_to_user_id": "1838634075638083584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977459278559490092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikki2012love @youfeizhu 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1977459278559490092].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977459278559490092",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1977459278559490092"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1976544156249096466",
+        "created_at": "2025-10-12T19:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977459353230917794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838634075638083584",
+              "start": 0,
+              "username": "Rikki2012love"
+            },
+            {
+              "end": 25,
+              "id": "3000026024",
+              "start": 15,
+              "username": "youfeizhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977459353230917794",
+        "in_reply_to_user_id": "1838634075638083584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977459278559490092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikki2012love @youfeizhu 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 789,
+          "like_count": 16673,
+          "listed_count": 3,
+          "media_count": 559,
+          "tweet_count": 5296
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T17:38:29.000Z",
+        "description": "Rikki漂亮漂亮漂亮！",
+        "id": "1838634075638083584",
+        "location": "从古田再出发",
+        "name": "椎名立希头号粉丝",
+        "pinned_tweet_id": "1900585198443499535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976010298822696960/wddYDxLT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Rikki2012love",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-28T23:14:30.000Z",
+        "description": "胡鑫宇案律师 ，中共奴隶共活国的奴隶，点赞、评论、转发加关注，我们早日成为自由人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lawyeryou?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lawyeryou?si=TPgS42lE2K4LfX5A",
+                "start": 0,
+                "url": "https://t.co/vCS32VR083"
+              }
+            ]
+          }
+        },
+        "id": "3000026024",
+        "location": "中国",
+        "name": "游飞翥律师",
+        "pinned_tweet_id": "1976544156249096466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973912389776257026/urV7m7sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 26,
+          "like_count": 2168,
+          "listed_count": 23,
+          "media_count": 604,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/vCS32VR083",
+        "username": "youfeizhu",
+        "verified": true
+      }
+    ]
+  }
+}

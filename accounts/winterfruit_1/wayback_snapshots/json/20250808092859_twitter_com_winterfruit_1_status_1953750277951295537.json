@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953750277951295537",
+    "created_at": "2025-08-08T09:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T10:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953750277951295537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/db2epik/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/db2epik/status/1883912401688711247",
+          "start": 2,
+          "url": "https://t.co/dWIHg4Nokx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953750277951295537",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883912401688711247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🫡 https://t.co/dWIHg4Nokx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_1883912397892571139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiUAWDBXUAM6Yor.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953750277951295537",
+        "created_at": "2025-08-08T09:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953750277951295537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/db2epik/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/db2epik/status/1883912401688711247",
+              "start": 2,
+              "url": "https://t.co/dWIHg4Nokx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953750277951295537",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883912401688711247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🫡 https://t.co/dWIHg4Nokx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883912397892571139"
+          ]
+        },
+        "author_id": "909163734618202112",
+        "conversation_id": "1883531641907462406",
+        "created_at": "2025-01-27T16:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883912401688711247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584572914904739840",
+              "start": 0,
+              "username": "bartender0810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v234kdAfi5",
+              "end": 38,
+              "expanded_url": "https://x.com/DB2EpiK/status/1883912401688711247/photo/1",
+              "media_key": "3_1883912397892571139",
+              "start": 15,
+              "url": "https://t.co/v234kdAfi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883912401688711247",
+        "in_reply_to_user_id": "1584572914904739840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 960,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883531641907462406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bartender0810 https://t.co/v234kdAfi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 433,
+          "like_count": 8850,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2769
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-16T21:15:00.000Z",
+        "description": "",
+        "id": "909163734618202112",
+        "name": "Bobby_san",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1178814555021021184/rOunp-mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 260,
+          "like_count": 162618,
+          "listed_count": 1,
+          "media_count": 2483,
+          "tweet_count": 10596
+        },
+        "username": "DB2EpiK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952748217801822208"
+      ],
+      "media_source_tweet_id": [
+        "1952748220712366476"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953009944724439382",
+    "created_at": "2025-08-06T08:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T09:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953009944724439382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/etTQS6bCS4",
+          "end": 48,
+          "expanded_url": "https://x.com/DanJack67524194/status/1952748220712366476/photo/1",
+          "media_key": "3_1952748217801822208",
+          "start": 25,
+          "url": "https://t.co/etTQS6bCS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953009944724439382",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952748220712366476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanJack67524194: ^w^ https://t.co/etTQS6bCS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_1952748217801822208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmOKHHa0AAkxM9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952748217801822208"
+          ],
+          "media_source_tweet_id": [
+            "1952748220712366476"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953009944724439382",
+        "created_at": "2025-08-06T08:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953009944724439382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/etTQS6bCS4",
+              "end": 48,
+              "expanded_url": "https://x.com/DanJack67524194/status/1952748220712366476/photo/1",
+              "media_key": "3_1952748217801822208",
+              "start": 25,
+              "url": "https://t.co/etTQS6bCS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953009944724439382",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952748220712366476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanJack67524194: ^w^ https://t.co/etTQS6bCS4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952748217801822208"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1952748220712366476",
+        "created_at": "2025-08-05T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952748220712366476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etTQS6bCS4",
+              "end": 27,
+              "expanded_url": "https://x.com/DanJack67524194/status/1952748220712366476/photo/1",
+              "media_key": "3_1952748217801822208",
+              "start": 4,
+              "url": "https://t.co/etTQS6bCS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952748220712366476",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 121181,
+          "like_count": 3050,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "^w^ https://t.co/etTQS6bCS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 420,
+          "like_count": 8636,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2636
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\n棉花糖：https://t.co/Kc3Sive5zs\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v1uq470chztz12…",
+                "end": 67,
+                "expanded_url": "https://marshmallow-qa.com/v1uq470chztz122?t=yjLkkv&u",
+                "start": 44,
+                "url": "https://t.co/Kc3Sive5zs"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 100,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 77,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊開學只剩一個月",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6756,
+          "following_count": 1796,
+          "like_count": 30179,
+          "listed_count": 20,
+          "media_count": 6909,
+          "tweet_count": 31222
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

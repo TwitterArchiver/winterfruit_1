@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2014014742239601069",
+    "created_at": "2026-01-21T16:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014018654166544530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014018654166544530",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014014742239601069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 我好想要优米。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2014014742239601069].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2014014742239601069",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2014014742239601069"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2014014742239601069",
+        "created_at": "2026-01-21T16:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014018654166544530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014018654166544530",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014014742239601069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 我好想要优米。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 1460,
+          "like_count": 29979,
+          "listed_count": 6,
+          "media_count": 1241,
+          "tweet_count": 9623
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "如果你觉得逼死一个14岁双向情感障碍+重度抑郁＋手臂满是伤疤＋喜欢晚睡＋爱听网易云+敏感多疑胡思乱想+日日以泪洗面的infp蝴蝶小孩很好玩的话那你们可以继续",
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2008882687399100687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010293815253622784/yQXrLdEu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 173,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1512
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

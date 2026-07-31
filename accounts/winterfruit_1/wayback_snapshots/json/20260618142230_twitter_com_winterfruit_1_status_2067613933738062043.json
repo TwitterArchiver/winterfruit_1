@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2067610448103678212",
+    "created_at": "2026-06-18T14:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067613933738062043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999415746997420036",
+          "start": 0,
+          "username": "Xuzawanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067613933738062043",
+    "in_reply_to_user_id": "1999415746997420036",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067613526542451177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuzawanoda 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2067610448103678212",
+        "created_at": "2026-06-18T14:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067613933738062043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999415746997420036",
+              "start": 0,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613933738062043",
+        "in_reply_to_user_id": "1999415746997420036",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067613526542451177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawanoda 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999415746997420036",
+        "conversation_id": "2067610448103678212",
+        "created_at": "2026-06-18T14:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067613526542451177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613526542451177",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067610448103678212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 原来你也"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 1476,
+          "like_count": 43027,
+          "listed_count": 6,
+          "media_count": 1867,
+          "tweet_count": 12811
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T09:47:30.000Z",
+        "description": "这都是什么啊喏哒！\n无言势，点赞势",
+        "id": "1999415746997420036",
+        "location": "🔴in a private world",
+        "name": "苦呀西EX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044304101362868224/2_HCv6c-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 270,
+          "like_count": 9512,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 609
+        },
+        "username": "Xuzawanoda",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1972193163868885090",
+    "created_at": "2025-09-28T06:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972193163868885090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783819937045237760",
+          "start": 3,
+          "username": "iiihatehuman"
+        },
+        {
+          "end": 31,
+          "id": "1697865048776142848",
+          "start": 21,
+          "username": "Ken122100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972193163868885090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972131584544547167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiihatehuman: 官宣了@Ken122100"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1972193163868885090",
+        "created_at": "2025-09-28T06:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972193163868885090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783819937045237760",
+              "start": 3,
+              "username": "iiihatehuman"
+            },
+            {
+              "end": 31,
+              "id": "1697865048776142848",
+              "start": 21,
+              "username": "Ken122100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972193163868885090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972131584544547167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiihatehuman: 官宣了@Ken122100"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1972131584544547167",
+        "created_at": "2025-09-28T02:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T03:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972131584544547167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697865048776142848",
+              "start": 3,
+              "username": "Ken122100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ken122100/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ken122100/status/1972123778428862846",
+              "start": 14,
+              "url": "https://t.co/evDn48tgYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972131584544547167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972123778428862846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "官宣了@Ken122100 https://t.co/evDn48tgYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 544,
+          "like_count": 13707,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 4062
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "「總有一天，我會回到你身邊」",
+        "id": "1783819937045237760",
+        "location": "襤褸飛旋",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1963655529823441073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968536245149253632/yo7B-X_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 426,
+          "like_count": 2982,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 2391
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T06:52:36.000Z",
+        "description": "24岁/同志社在读/社会学研究生/喜欢散步🚶",
+        "id": "1697865048776142848",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "K en",
+        "pinned_tweet_id": "1960322508433006976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960328662865281024/Pz3G3sEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 271,
+          "like_count": 779,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 228
+        },
+        "username": "Ken122100",
+        "verified": false
+      }
+    ]
+  }
+}

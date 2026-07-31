@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957600355883106304"
+      ],
+      "media_source_tweet_id": [
+        "1957600359435649390"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1957762623900119344",
+    "created_at": "2025-08-19T11:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T12:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957762623900119344"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "vedal",
+          "probability": 0.5212,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "heartheartart",
+          "probability": 0.4679,
+          "start": 53,
+          "type": "Other"
+        },
+        {
+          "end": 76,
+          "normalized_text": "cerberart",
+          "probability": 0.6224,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 52,
+          "tag": "heartheartart"
+        },
+        {
+          "end": 77,
+          "start": 67,
+          "tag": "cerberart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1598610067581984768",
+          "start": 3,
+          "username": "ArklonVangreeg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mee4fPbDMm",
+          "end": 101,
+          "expanded_url": "https://x.com/ArklonVangreeg/status/1957600359435649390/photo/1",
+          "media_key": "3_1957600355883106304",
+          "start": 78,
+          "url": "https://t.co/mee4fPbDMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957762623900119344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957600359435649390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArklonVangreeg: vedal top 3 driving instructor\n\n#heartheartart #cerberart https://t.co/mee4fPbDMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957600355883106304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrLJuCXQAAuA_N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957600355883106304"
+          ],
+          "media_source_tweet_id": [
+            "1957600359435649390"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1957762623900119344",
+        "created_at": "2025-08-19T11:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957762623900119344"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "vedal",
+              "probability": 0.5212,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "heartheartart",
+              "probability": 0.4679,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "cerberart",
+              "probability": 0.6224,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 52,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "cerberart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1598610067581984768",
+              "start": 3,
+              "username": "ArklonVangreeg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mee4fPbDMm",
+              "end": 101,
+              "expanded_url": "https://x.com/ArklonVangreeg/status/1957600359435649390/photo/1",
+              "media_key": "3_1957600355883106304",
+              "start": 78,
+              "url": "https://t.co/mee4fPbDMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957762623900119344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957600359435649390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArklonVangreeg: vedal top 3 driving instructor\n\n#heartheartart #cerberart https://t.co/mee4fPbDMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957600355883106304"
+          ]
+        },
+        "author_id": "1598610067581984768",
+        "conversation_id": "1957600359435649390",
+        "created_at": "2025-08-19T00:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957600359435649390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "cerberart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mee4fPbDMm",
+              "end": 81,
+              "expanded_url": "https://x.com/ArklonVangreeg/status/1957600359435649390/photo/1",
+              "media_key": "3_1957600355883106304",
+              "start": 58,
+              "url": "https://t.co/mee4fPbDMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957600359435649390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3005,
+          "like_count": 515,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "vedal top 3 driving instructor\n\n#heartheartart #cerberart https://t.co/mee4fPbDMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit涘er澪",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 443,
+          "like_count": 9760,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 3173
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T09:28:51.000Z",
+        "description": "You can call me Arklon or Just Ark for short :D (I know its hard to pronounce it)\nCommissions:\n| Discord: ArklonVangreeg\n| Email: arklonvangreeg@gmail.com",
+        "id": "1598610067581984768",
+        "name": "ArklonVangreeg (Commissions Open)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920295012069183488/xNRcLU3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 66,
+          "like_count": 947,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 91
+        },
+        "username": "ArklonVangreeg",
+        "verified": false
+      }
+    ]
+  }
+}

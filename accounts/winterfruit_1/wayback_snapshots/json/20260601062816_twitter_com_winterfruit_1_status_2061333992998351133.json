@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2061327110690750882",
+    "created_at": "2026-06-01T06:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061333992998351133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530060423025655808",
+          "start": 0,
+          "username": "AyumiP_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061333992998351133",
+    "in_reply_to_user_id": "1530060423025655808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061327110690750882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyumiP_Official 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061327101807214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtOE-UawAA7oTI.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2061327110690750882",
+        "created_at": "2026-06-01T06:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061333992998351133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530060423025655808",
+              "start": 0,
+              "username": "AyumiP_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061333992998351133",
+        "in_reply_to_user_id": "1530060423025655808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061327110690750882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyumiP_Official 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061327101807214592"
+          ]
+        },
+        "author_id": "1530060423025655808",
+        "conversation_id": "2061327110690750882",
+        "created_at": "2026-06-01T06:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061327110690750882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTO0lEbzop",
+              "end": 27,
+              "expanded_url": "https://x.com/AyumiP_Official/status/2061327110690750882/photo/1",
+              "media_key": "3_2061327101807214592",
+              "start": 4,
+              "url": "https://t.co/qTO0lEbzop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061327110690750882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/qTO0lEbzop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 1471,
+          "like_count": 42336,
+          "listed_count": 6,
+          "media_count": 1838,
+          "tweet_count": 12576
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T05:36:54.000Z",
+        "description": "沪 07 无证含糖 🏳️‍⚧️ /解离性身份识别障碍/真空花sys/2023.4 HRT/重抑/mixing engineer/guitarist/music producer",
+        "id": "1530060423025655808",
+        "location": "中国上海",
+        "name": "空空空空岛可乐🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038544052942180353/dwhVzgt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 292,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "AyumiP_Official",
+        "verified": false
+      }
+    ]
+  }
+}

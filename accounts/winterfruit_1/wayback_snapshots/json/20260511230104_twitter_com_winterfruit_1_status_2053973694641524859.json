@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2053931388345454700",
+    "created_at": "2026-05-11T23:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053973694641524859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901290700064333824",
+          "start": 0,
+          "username": "skysea220314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053973694641524859",
+    "in_reply_to_user_id": "1901290700064333824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053948328342417473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skysea220314 早起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2053931388345454700",
+        "created_at": "2026-05-11T23:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053973694641524859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901290700064333824",
+              "start": 0,
+              "username": "skysea220314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053973694641524859",
+        "in_reply_to_user_id": "1901290700064333824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053948328342417473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skysea220314 早起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901290700064333824",
+        "conversation_id": "2053931388345454700",
+        "created_at": "2026-05-11T21:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053948328342417473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053948328342417473",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053931388345454700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 不懂就问，4点是早睡还是早起？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 1477,
+          "like_count": 41184,
+          "listed_count": 6,
+          "media_count": 1784,
+          "tweet_count": 12119
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:14:04.000Z",
+        "description": "男，普通不普信，私信看见必回，想和你聊聊天想听听你的故事，虚幻的网上也难以影响现实，想了解我不曾经历过的",
+        "id": "1901290700064333824",
+        "location": "我该在的地方",
+        "name": "九天星光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048846775453126656/a8G90IxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 21,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 438
+        },
+        "username": "skysea220314",
+        "verified": false
+      }
+    ]
+  }
+}

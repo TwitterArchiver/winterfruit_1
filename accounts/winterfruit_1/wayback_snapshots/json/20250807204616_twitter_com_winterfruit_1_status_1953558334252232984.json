@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953439865284308992"
+      ],
+      "media_source_tweet_id": [
+        "1953439874343649695"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953558334252232984",
+    "created_at": "2025-08-07T20:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T21:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953558334252232984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544242656070758400",
+          "start": 3,
+          "username": "ringi_kinoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGROBkwZs1",
+          "end": 46,
+          "expanded_url": "https://x.com/ringi_kinoko/status/1953439874343649695/photo/1",
+          "media_key": "3_1953439865284308992",
+          "start": 23,
+          "url": "https://t.co/tGROBkwZs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953558334252232984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953439874343649695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringi_kinoko: れぐそす https://t.co/tGROBkwZs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1953439865284308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwDNSxbsAAx4ED.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953439865284308992"
+          ],
+          "media_source_tweet_id": [
+            "1953439874343649695"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953558334252232984",
+        "created_at": "2025-08-07T20:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T21:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953558334252232984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544242656070758400",
+              "start": 3,
+              "username": "ringi_kinoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGROBkwZs1",
+              "end": 46,
+              "expanded_url": "https://x.com/ringi_kinoko/status/1953439874343649695/photo/1",
+              "media_key": "3_1953439865284308992",
+              "start": 23,
+              "url": "https://t.co/tGROBkwZs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953558334252232984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953439874343649695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringi_kinoko: れぐそす https://t.co/tGROBkwZs1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953439865284308992"
+          ]
+        },
+        "author_id": "1544242656070758400",
+        "conversation_id": "1953439874343649695",
+        "created_at": "2025-08-07T12:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953439874343649695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGROBkwZs1",
+              "end": 28,
+              "expanded_url": "https://x.com/ringi_kinoko/status/1953439874343649695/photo/1",
+              "media_key": "3_1953439865284308992",
+              "start": 5,
+              "url": "https://t.co/tGROBkwZs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953439874343649695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3766,
+          "like_count": 356,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "れぐそす https://t.co/tGROBkwZs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 429,
+          "like_count": 8836,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2756
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T08:53:50.000Z",
+        "description": "お絵描用垢/\nメアビにハマって抜け出せぬ/\nボ卿好こ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/ringi_kinoko",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/ringi_kinoko",
+                "start": 0,
+                "url": "https://t.co/AX2pEYt9Sg"
+              }
+            ]
+          }
+        },
+        "id": "1544242656070758400",
+        "location": "奈落",
+        "name": "えりんぎ",
+        "pinned_tweet_id": "1544245174603481088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936739948666798080/nSIQ2ykj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3772,
+          "following_count": 96,
+          "like_count": 12018,
+          "listed_count": 15,
+          "media_count": 1199,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/AX2pEYt9Sg",
+        "username": "ringi_kinoko",
+        "verified": false
+      }
+    ]
+  }
+}

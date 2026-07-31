@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050936345925939200"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2050936410564346068",
+    "created_at": "2026-05-03T13:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050936410564346068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfKW12Qqj9",
+          "end": 34,
+          "expanded_url": "https://x.com/winterfruit_1/status/2050936410564346068/video/1",
+          "media_key": "13_2050936345925939200",
+          "start": 11,
+          "url": "https://t.co/mfKW12Qqj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050936410564346068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干了一整天飞马，舒服 https://t.co/mfKW12Qqj9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35568,
+        "height": 854,
+        "media_key": "13_2050936345925939200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050936345925939200/img/-3PsEapIWemKI1A3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050936345925939200/vid/avc1/320x568/8W3ipJNGDaVPSXlJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050936345925939200/vid/avc1/480x854/0XswNw21iwLpttJi.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050936345925939200/pl/e7QtRkxK1REqH6Cy.m3u8?tag=27"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050936345925939200"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2050936410564346068",
+        "created_at": "2026-05-03T13:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050936410564346068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfKW12Qqj9",
+              "end": 34,
+              "expanded_url": "https://x.com/winterfruit_1/status/2050936410564346068/video/1",
+              "media_key": "13_2050936345925939200",
+              "start": 11,
+              "url": "https://t.co/mfKW12Qqj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050936410564346068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干了一整天飞马，舒服 https://t.co/mfKW12Qqj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 1489,
+          "like_count": 40986,
+          "listed_count": 7,
+          "media_count": 1760,
+          "tweet_count": 11985
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

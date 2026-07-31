@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926156387538616320"
+      ],
+      "media_source_tweet_id": [
+        "1926156392479469801"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1939146316858396977",
+    "created_at": "2025-06-29T02:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T03:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939146316858396977"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "AIart"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "若葉睦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1082613981523730433",
+          "start": 3,
+          "username": "hayakawa_illust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7OCoLYfOMy",
+          "end": 56,
+          "expanded_url": "https://x.com/hayakawa_illust/status/1926156392479469801/photo/1",
+          "media_key": "3_1926156387538616320",
+          "start": 33,
+          "url": "https://t.co/7OCoLYfOMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939146316858396977",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 382
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926156392479469801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayakawa_illust: #AIart #若葉睦 https://t.co/7OCoLYfOMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_1926156387538616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsVB30WwAAc3m5.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926156387538616320"
+          ],
+          "media_source_tweet_id": [
+            "1926156392479469801"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1939146316858396977",
+        "created_at": "2025-06-29T02:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939146316858396977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "AIart"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "若葉睦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1082613981523730433",
+              "start": 3,
+              "username": "hayakawa_illust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7OCoLYfOMy",
+              "end": 56,
+              "expanded_url": "https://x.com/hayakawa_illust/status/1926156392479469801/photo/1",
+              "media_key": "3_1926156387538616320",
+              "start": 33,
+              "url": "https://t.co/7OCoLYfOMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939146316858396977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 382
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926156392479469801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayakawa_illust: #AIart #若葉睦 https://t.co/7OCoLYfOMy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926156387538616320"
+          ]
+        },
+        "author_id": "1082613981523730433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1926156392479469801",
+        "created_at": "2025-05-24T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926156392479469801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7OCoLYfOMy",
+              "end": 35,
+              "expanded_url": "https://x.com/hayakawa_illust/status/1926156392479469801/photo/1",
+              "media_key": "3_1926156387538616320",
+              "start": 12,
+              "url": "https://t.co/7OCoLYfOMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926156392479469801",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 336,
+          "impression_count": 60154,
+          "like_count": 3525,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart #若葉睦 https://t.co/7OCoLYfOMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 349,
+          "like_count": 7155,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2006
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T12:24:21.000Z",
+        "description": "AI使用 ||| 中文/ENG/日本語 OK |||\nStable Diffusion + Photoshop 修正 ||| Bilibili@早川_hayakawa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18448528",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/18448528",
+                "start": 0,
+                "url": "https://t.co/fn57MCrIFy"
+              }
+            ]
+          }
+        },
+        "id": "1082613981523730433",
+        "name": "hayakawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918651068655013889/74l4OHDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9674,
+          "following_count": 213,
+          "like_count": 345,
+          "listed_count": 40,
+          "media_count": 27,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/fn57MCrIFy",
+        "username": "hayakawa_illust",
+        "verified": false
+      }
+    ]
+  }
+}

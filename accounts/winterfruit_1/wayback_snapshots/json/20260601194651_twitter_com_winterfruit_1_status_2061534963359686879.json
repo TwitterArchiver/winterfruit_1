@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1894660472085102755",
+    "created_at": "2026-06-01T19:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061534963359686879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1132099720564887552",
+          "start": 0,
+          "username": "anyneko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061534963359686879",
+    "in_reply_to_user_id": "1132099720564887552",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894660472085102755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyneko_ hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1894660472085102755",
+        "created_at": "2026-06-01T19:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061534963359686879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1132099720564887552",
+              "start": 0,
+              "username": "anyneko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061534963359686879",
+        "in_reply_to_user_id": "1132099720564887552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894660472085102755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyneko_ hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132099720564887552",
+        "conversation_id": "1894660472085102755",
+        "created_at": "2025-02-26T08:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T09:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894660472085102755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894660472085102755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9270,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近的垃圾私信多到了一种诡异的地步，所以反正我把私信关了，有要联系我的发Telegram（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 1475,
+          "like_count": 42420,
+          "listed_count": 6,
+          "media_count": 1839,
+          "tweet_count": 12595
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-25T01:43:01.000Z",
+        "description": "桥南桥北桥坊下，雨山雨水雨花台。 //任意猫,19,She/Her. //本次列车是开往参宿四方向的单程大站快车，有需要前往雨山天街的猫娘，请等待下一班前往心宿二的列车。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anyneko",
+                "end": 23,
+                "expanded_url": "https://t.me/anyneko",
+                "start": 0,
+                "url": "https://t.co/kekCWTVvYT"
+              }
+            ]
+          }
+        },
+        "id": "1132099720564887552",
+        "location": "One Among Us",
+        "name": "雨山澪",
+        "pinned_tweet_id": "1894660472085102755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933893203125805056/LlsffB9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8857,
+          "following_count": 2342,
+          "like_count": 109871,
+          "listed_count": 27,
+          "media_count": 761,
+          "tweet_count": 8345
+        },
+        "url": "https://t.co/kekCWTVvYT",
+        "username": "anyneko_",
+        "verified": false
+      }
+    ]
+  }
+}

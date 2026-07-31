@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1852336280140644571",
+    "created_at": "2024-11-02T12:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T13:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852690122715926648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678027184072691712",
+          "start": 0,
+          "username": "bratovo030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852690122715926648",
+    "in_reply_to_user_id": "1678027184072691712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852336280140644571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bratovo030 接一起吃kfc吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1852336280140644571",
+        "created_at": "2024-11-02T12:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T13:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852690122715926648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678027184072691712",
+              "start": 0,
+              "username": "bratovo030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852690122715926648",
+        "in_reply_to_user_id": "1678027184072691712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852336280140644571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bratovo030 接一起吃kfc吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852336269734617088"
+          ]
+        },
+        "author_id": "1678027184072691712",
+        "conversation_id": "1852336280140644571",
+        "created_at": "2024-11-01T13:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T14:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852336280140644571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTsEQtgi29",
+              "end": 27,
+              "expanded_url": "https://x.com/bratovo030/status/1852336280140644571/photo/1",
+              "media_key": "3_1852336269734617088",
+              "start": 4,
+              "url": "https://t.co/GTsEQtgi29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852336280140644571",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 229900,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接接接 https://t.co/GTsEQtgi29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "Free｜朋友 @Lizitou01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Lizitou01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w i n i t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851262418368020481/eVmlAJ_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 195,
+          "like_count": 2926,
+          "listed_count": 0,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:04:00.000Z",
+        "description": "一个很莫名其妙的逼",
+        "id": "1678027184072691712",
+        "name": "夹断过牛汁",
+        "pinned_tweet_id": "1842533788661973367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844486540736724994/8L2AZQUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64705,
+          "following_count": 31,
+          "like_count": 614,
+          "listed_count": 192,
+          "tweet_count": 104
+        },
+        "username": "bratovo030",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1976394274880287061",
+    "created_at": "2025-10-09T21:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T22:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976394274880287061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanjunxie/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/wanjunxie/status/1976026656637845819",
+          "start": 20,
+          "url": "https://t.co/ICG9gQw5SE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976394274880287061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976026656637845819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据传，谢万军是张顺飞和东北雨姐的私生子 https://t.co/ICG9gQw5SE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1976394274880287061",
+        "created_at": "2025-10-09T21:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976394274880287061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1976026656637845819",
+              "start": 20,
+              "url": "https://t.co/ICG9gQw5SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976394274880287061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976026656637845819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据传，谢万军是张顺飞和东北雨姐的私生子 https://t.co/ICG9gQw5SE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257050388",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1976026656637845819",
+        "created_at": "2025-10-08T20:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T21:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976026656637845819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/P0sr3NmWxvc",
+              "end": 96,
+              "expanded_url": "https://youtu.be/P0sr3NmWxvc",
+              "start": 73,
+              "status": 200,
+              "title": "恐慌情绪开始在军中蔓延，军中开始不稳，形势万分危急。如果习近平不下台，连张又侠都无法继续掌控军队了，此后，中国或将大乱和内战！（谢万军第106期）",
+              "unwound_url": "https://www.youtube.com/watch?v=P0sr3NmWxvc&feature=youtu.be",
+              "url": "https://t.co/HX6o7OMlxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976026656637845819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12646,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恐慌情绪开始在军中蔓延，军中开始不稳，形势万分危急。如果习近平不下台，连张又侠都无法继续掌控军队了，此后，中国或将大乱和内战！（谢万军第106期）https://t.co/HX6o7OMlxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 746,
+          "like_count": 16012,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 4968
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席   Chairman of China Democracy Party\n中国民主党的理念：公平、公正、天下为公！\nIdea of CDP: Fairness, Justice, Country belong to Public !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1Zblv"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "location": "New York",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278196323980922880/R_KQ72x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132431,
+          "following_count": 6456,
+          "like_count": 43732,
+          "listed_count": 538,
+          "media_count": 19366,
+          "tweet_count": 54174
+        },
+        "url": "https://t.co/6NrkK1Zblv",
+        "username": "wanjunxie",
+        "verified": true
+      }
+    ]
+  }
+}

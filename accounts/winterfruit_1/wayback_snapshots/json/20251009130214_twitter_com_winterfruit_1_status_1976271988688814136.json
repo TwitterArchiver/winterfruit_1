@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1975226224067916110",
+    "created_at": "2025-10-09T13:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976271988688814136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769987262635458560",
+          "start": 0,
+          "username": "papa520131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976271988688814136",
+    "in_reply_to_user_id": "1769987262635458560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975226224067916110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@papa520131 炫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1975226195341103105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lpwmxaUAEHypi.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1975226224067916110",
+        "created_at": "2025-10-09T13:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976271988688814136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769987262635458560",
+              "start": 0,
+              "username": "papa520131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976271988688814136",
+        "in_reply_to_user_id": "1769987262635458560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975226224067916110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@papa520131 炫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975226195341103105"
+          ]
+        },
+        "author_id": "1769987262635458560",
+        "conversation_id": "1975226224067916110",
+        "created_at": "2025-10-06T15:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975226224067916110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nq5SWbGpjB",
+              "end": 34,
+              "expanded_url": "https://x.com/papa520131/status/1975226224067916110/photo/1",
+              "media_key": "3_1975226195341103105",
+              "start": 11,
+              "url": "https://t.co/nq5SWbGpjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975226224067916110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 1490462,
+          "like_count": 4275,
+          "quote_count": 2,
+          "reply_count": 181,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "中秋是谁幸福了我不说 https://t.co/nq5SWbGpjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 745,
+          "like_count": 15953,
+          "listed_count": 3,
+          "media_count": 513,
+          "tweet_count": 4944
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T07:20:33.000Z",
+        "description": "盯着你👀【推广自辩】",
+        "id": "1769987262635458560",
+        "name": "不知名美女",
+        "pinned_tweet_id": "1975790205987938709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924304499973214208/KqF35paR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14259,
+          "following_count": 32,
+          "like_count": 438,
+          "listed_count": 17,
+          "media_count": 179,
+          "tweet_count": 564
+        },
+        "username": "papa520131",
+        "verified": false
+      }
+    ]
+  }
+}

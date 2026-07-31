@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060060483408060475",
+    "created_at": "2026-05-28T18:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060060483408060475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1171414629400158208",
+          "start": 3,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060060483408060475",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059939941530980672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zknmoe: Questo è un tweet in italiano. Voglio vedere quanti cinesi riescono a vederlo."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060060483408060475",
+        "created_at": "2026-05-28T18:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060060483408060475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1171414629400158208",
+              "start": 3,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060060483408060475",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939941530980672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zknmoe: Questo è un tweet in italiano. Voglio vedere quanti cinesi riescono a vederlo."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171414629400158208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059939941530980672",
+        "created_at": "2026-05-28T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939941530980672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059939941530980672",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 287067,
+          "like_count": 5874,
+          "quote_count": 10,
+          "reply_count": 1477,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Questo è un tweet in italiano. Voglio vedere quanti cinesi riescono a vederlo."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 1473,
+          "like_count": 42161,
+          "listed_count": 6,
+          "media_count": 1834,
+          "tweet_count": 12510
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "誰かに認められたくて、今日も生きてる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zknmoe",
+                "end": 23,
+                "expanded_url": "http://t.me/zknmoe",
+                "start": 0,
+                "url": "https://t.co/napztrf6fW"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, PD",
+        "name": "kɑːve/ .k3n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056524918922113024/bwBtpJ2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 120,
+          "like_count": 3655,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/napztrf6fW",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

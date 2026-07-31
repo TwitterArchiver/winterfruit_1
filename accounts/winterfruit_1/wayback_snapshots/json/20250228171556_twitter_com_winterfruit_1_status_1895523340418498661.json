@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1895117165352886403",
+    "created_at": "2025-02-28T17:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T18:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895523340418498661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895523340418498661",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895117165352886403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 从名字到评论都给我一种很不可思议的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1895117165352886403",
+        "created_at": "2025-02-28T17:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T18:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895523340418498661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895523340418498661",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895117165352886403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 从名字到评论都给我一种很不可思议的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1895117165352886403",
+        "created_at": "2025-02-27T14:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T15:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895117165352886403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unqintgent66/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/unqintgent66/status/1893892407101378629",
+              "start": 19,
+              "url": "https://t.co/PC37L9sYeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895117165352886403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893892407101378629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会直接把你舔晕死过去，相信我的能力 https://t.co/PC37L9sYeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 244,
+          "like_count": 4287,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1159
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心尖尖上的明珠：浪浪宝贝",
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1858379364754493737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3722,
+          "following_count": 976,
+          "like_count": 14403,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4016
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

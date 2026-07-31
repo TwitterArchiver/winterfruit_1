@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1949876551572738502",
+    "created_at": "2025-07-29T22:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T23:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950321721669783865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373755792948531200",
+          "start": 0,
+          "username": "_ASimpleSmile_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950321721669783865",
+    "in_reply_to_user_id": "1373755792948531200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949876551572738502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ASimpleSmile_ 😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1949876551572738502",
+        "created_at": "2025-07-29T22:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950321721669783865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373755792948531200",
+              "start": 0,
+              "username": "_ASimpleSmile_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950321721669783865",
+        "in_reply_to_user_id": "1373755792948531200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949876551572738502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ASimpleSmile_ 😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373755792948531200",
+        "conversation_id": "1949876551572738502",
+        "created_at": "2025-07-28T16:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T17:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949876551572738502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949876551572738502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3717,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多mtf说话都有股味，很刻意的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 405,
+          "like_count": 8297,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2435
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "心情不好",
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932400929476911104/Ij45JsQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 952,
+          "like_count": 94725,
+          "listed_count": 2,
+          "media_count": 1231,
+          "tweet_count": 6895
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

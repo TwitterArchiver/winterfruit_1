@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2048310897362510266",
+    "created_at": "2026-04-27T04:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048622130687012972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887403868667191296",
+          "start": 0,
+          "username": "CaiWangzaici"
+        },
+        {
+          "end": 26,
+          "id": "1490670069877252101",
+          "start": 14,
+          "username": "XiangCai200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048622130687012972",
+    "in_reply_to_user_id": "1887403868667191296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048598245434167613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiWangzaici @XiangCai200 must be the water"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2048598240510275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4VPu0a8AA1aAv.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2048310897362510266",
+        "created_at": "2026-04-27T04:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048622130687012972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887403868667191296",
+              "start": 0,
+              "username": "CaiWangzaici"
+            },
+            {
+              "end": 26,
+              "id": "1490670069877252101",
+              "start": 14,
+              "username": "XiangCai200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048622130687012972",
+        "in_reply_to_user_id": "1887403868667191296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048598245434167613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiWangzaici @XiangCai200 must be the water"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048598240510275584"
+          ]
+        },
+        "author_id": "1887403868667191296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2048310897362510266",
+        "created_at": "2026-04-27T03:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048598245434167613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "XiangCai200"
+            },
+            {
+              "end": 27,
+              "id": "1837114188046684161",
+              "start": 13,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvPhRMKQLq",
+              "end": 90,
+              "expanded_url": "https://x.com/CaiWangzaici/status/2048598245434167613/photo/1",
+              "media_key": "3_2048598240510275584",
+              "start": 67,
+              "url": "https://t.co/nvPhRMKQLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048598245434167613",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048522181315903502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiangCai200 @winterfruit_1 详情见F1 2025赛季澳大利亚大奖赛Lec TR，看F1的朋友应该懂这个梗 https://t.co/nvPhRMKQLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\nAsakiii @w0sh1Asak1 \n香香梨 @Kikunashi30712\n璟江别 @cy79p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "username": "cy79p"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 1481,
+          "like_count": 40568,
+          "listed_count": 7,
+          "media_count": 1742,
+          "tweet_count": 11865
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:32:15.000Z",
+        "description": "",
+        "id": "1887403868667191296",
+        "name": "GerogeYang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038928777422770176/UUav2gbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 46,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "CaiWangzaici",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n\n先问是不是，再问为什么\n\nI never want someone's chest lying under my foot\nЯ никому не хочу ставить ногу на грудь\n\n我先是一个人，然后才是各种身份标签\n\n☮️🇵🇸",
+        "id": "1490670069877252101",
+        "location": "幻想乡，距离你1.4公里",
+        "name": "香菜重度依赖(不吃香菜版)",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041170424088653824/EEk3AoI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 1805,
+          "like_count": 307844,
+          "listed_count": 16,
+          "media_count": 1760,
+          "tweet_count": 52965
+        },
+        "username": "XiangCai200",
+        "verified": false
+      }
+    ]
+  }
+}

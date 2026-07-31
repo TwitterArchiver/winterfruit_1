@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2071274119380033922",
+    "created_at": "2026-06-29T07:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071503694231695667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966938405700251648",
+          "start": 0,
+          "username": "llll806092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071503694231695667",
+    "in_reply_to_user_id": "1966938405700251648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071274119380033922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llll806092 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2071274119380033922",
+        "created_at": "2026-06-29T07:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071503694231695667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966938405700251648",
+              "start": 0,
+              "username": "llll806092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071503694231695667",
+        "in_reply_to_user_id": "1966938405700251648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071274119380033922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llll806092 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966938405700251648",
+        "conversation_id": "2071274119380033922",
+        "created_at": "2026-06-28T16:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071274119380033922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071274119380033922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 256,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日了祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 1478,
+          "like_count": 43401,
+          "listed_count": 6,
+          "media_count": 1872,
+          "tweet_count": 12933
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T18:54:02.000Z",
+        "description": "176 54kg 男娘 mtx，看心情更新 🚪50 在上海 可手可口可足可半绿全绿陪玩 小号生活号@IIII926080",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "IIII926080"
+              }
+            ]
+          }
+        },
+        "id": "1966938405700251648",
+        "name": "网友泉顺方（R18版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054181730509058048/sLBMKzcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 69,
+          "like_count": 382,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "llll806092",
+        "verified": false
+      }
+    ]
+  }
+}

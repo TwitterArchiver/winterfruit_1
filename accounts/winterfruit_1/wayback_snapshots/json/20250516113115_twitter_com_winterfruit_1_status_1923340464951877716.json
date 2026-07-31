@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1923340464951877716",
+    "created_at": "2025-05-16T11:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T12:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923340464951877716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922473225436725248",
+          "start": 3,
+          "username": "winit420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923340464951877716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922556188584972567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winit420: 住院好烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1923340464951877716",
+        "created_at": "2025-05-16T11:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T12:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923340464951877716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922473225436725248",
+              "start": 3,
+              "username": "winit420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923340464951877716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922556188584972567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winit420: 住院好烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922473225436725248",
+        "conversation_id": "1922556188584972567",
+        "created_at": "2025-05-14T07:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922556188584972567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922556188584972567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "住院好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose丨可以叫我420",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 272,
+          "like_count": 4984,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1422
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T02:05:17.000Z",
+        "description": "大号：@winterfruit_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "winterfruit_1"
+              }
+            ]
+          }
+        },
+        "id": "1922473225436725248",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922473315790422016/qYKsRhOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "winit420",
+        "verified": false
+      }
+    ]
+  }
+}

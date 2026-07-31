@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1932146582113128726",
+    "created_at": "2025-06-22T22:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936907798870421532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891552025793658881",
+          "start": 0,
+          "username": "hui7319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936907798870421532",
+    "in_reply_to_user_id": "1891552025793658881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932146582113128726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui7319 我想知道一个问题，为什么您一直在说别人干什么了，就像幼儿园的小朋友做坏事被老师发现了，说谁谁谁也干了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1932146582113128726",
+        "created_at": "2025-06-22T22:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936907798870421532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891552025793658881",
+              "start": 0,
+              "username": "hui7319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936907798870421532",
+        "in_reply_to_user_id": "1891552025793658881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932146582113128726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui7319 我想知道一个问题，为什么您一直在说别人干什么了，就像幼儿园的小朋友做坏事被老师发现了，说谁谁谁也干了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891552025793658881",
+        "conversation_id": "1932146582113128726",
+        "created_at": "2025-06-09T18:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932146582113128726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zmx8067/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zmx8067/status/1931882041081274618",
+              "start": 13,
+              "url": "https://t.co/BPtPTHO1SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932146582113128726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931882041081274618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "铭记美国2568的勇士！ https://t.co/BPtPTHO1SD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 339,
+          "like_count": 6813,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1906
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:16:34.000Z",
+        "description": "",
+        "id": "1891552025793658881",
+        "name": "打殖畜反贼",
+        "pinned_tweet_id": "1932146582113128726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891580339845464066/nAVbwfeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 595,
+          "like_count": 2704,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 1106
+        },
+        "username": "hui7319",
+        "verified": false
+      }
+    ]
+  }
+}

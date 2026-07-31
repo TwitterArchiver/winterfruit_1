@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043916220781715456"
+      ],
+      "media_source_tweet_id": [
+        "2043916415682654393"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044113837771895011",
+    "created_at": "2026-04-14T18:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044113837771895011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0inRMZSvYY",
+          "end": 23,
+          "expanded_url": "https://x.com/neneneko_yknya/status/2043916415682654393/video/1",
+          "media_key": "13_2043916220781715456",
+          "start": 0,
+          "url": "https://t.co/0inRMZSvYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044113837771895011",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0inRMZSvYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7082,
+        "height": 1080,
+        "media_key": "13_2043916220781715456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043916220781715456/img/w35P3oyiy2AkppVl.jpg",
+        "public_metrics": {
+          "view_count": 289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043916220781715456/vid/avc1/720x720/_-3_yXaIHhxw2WU_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043916220781715456/pl/QvURa3E5f0eS-1Su.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043916220781715456/vid/avc1/1080x1080/j_Rz4xs1pUsyr5_b.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043916220781715456/vid/avc1/320x320/Ihp4x5aZMj0oUHGu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043916220781715456/vid/avc1/540x540/Dz6ecjMjdwkzO76y.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043916220781715456"
+          ],
+          "media_source_tweet_id": [
+            "2043916415682654393"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044113837771895011",
+        "created_at": "2026-04-14T18:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044113837771895011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0inRMZSvYY",
+              "end": 23,
+              "expanded_url": "https://x.com/neneneko_yknya/status/2043916415682654393/video/1",
+              "media_key": "13_2043916220781715456",
+              "start": 0,
+              "url": "https://t.co/0inRMZSvYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044113837771895011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0inRMZSvYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1462,
+          "like_count": 40070,
+          "listed_count": 7,
+          "media_count": 1709,
+          "tweet_count": 11728
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

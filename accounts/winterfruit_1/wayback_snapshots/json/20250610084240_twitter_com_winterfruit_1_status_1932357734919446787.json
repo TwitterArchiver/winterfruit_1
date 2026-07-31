@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1932311056040493370",
+    "created_at": "2025-06-10T08:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T09:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932357734919446787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1931946212930076672",
+          "start": 0,
+          "username": "wudaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932357734919446787",
+    "in_reply_to_user_id": "1931946212930076672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932311056040493370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudaisuki 我干的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932311047681314816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDyqPibkAA8vSw.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1932311056040493370",
+        "created_at": "2025-06-10T08:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T09:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932357734919446787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1931946212930076672",
+              "start": 0,
+              "username": "wudaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932357734919446787",
+        "in_reply_to_user_id": "1931946212930076672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932311056040493370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudaisuki 我干的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932311047681314816"
+          ]
+        },
+        "author_id": "1931946212930076672",
+        "conversation_id": "1932311056040493370",
+        "created_at": "2025-06-10T05:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932311056040493370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C70PLpJ0RI",
+              "end": 23,
+              "expanded_url": "https://x.com/wudaisuki/status/1932311056040493370/photo/1",
+              "media_key": "3_1932311047681314816",
+              "start": 0,
+              "url": "https://t.co/C70PLpJ0RI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932311056040493370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C70PLpJ0RI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 319,
+          "like_count": 5942,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1658
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T05:27:34.000Z",
+        "description": "这里是舞 喜欢吃牛肉盖饭",
+        "id": "1931946212930076672",
+        "name": "川澄 舞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931946328063725568/26JQ1Rn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 39,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "username": "wudaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

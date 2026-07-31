@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920890948034134016"
+      ],
+      "media_source_tweet_id": [
+        "1920890955609075899"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1928092278154805740",
+    "created_at": "2025-05-29T14:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928092278154805740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1590939682568736769",
+          "start": 3,
+          "username": "0975and8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xRyj2YEFR",
+          "end": 40,
+          "expanded_url": "https://x.com/2222bu75/status/1920890955609075899/photo/1",
+          "media_key": "3_1920890948034134016",
+          "start": 17,
+          "url": "https://t.co/3xRyj2YEFR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928092278154805740",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920890955609075899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0975and8964: https://t.co/3xRyj2YEFR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1920890948034134016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqhgI9HWgAAbVN7.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920890948034134016"
+          ],
+          "media_source_tweet_id": [
+            "1920890955609075899"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1928092278154805740",
+        "created_at": "2025-05-29T14:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928092278154805740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1590939682568736769",
+              "start": 3,
+              "username": "0975and8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xRyj2YEFR",
+              "end": 40,
+              "expanded_url": "https://x.com/2222bu75/status/1920890955609075899/photo/1",
+              "media_key": "3_1920890948034134016",
+              "start": 17,
+              "url": "https://t.co/3xRyj2YEFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928092278154805740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920890955609075899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0975and8964: https://t.co/3xRyj2YEFR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920890948034134016"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "conversation_id": "1920890955609075899",
+        "created_at": "2025-05-09T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920890955609075899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xRyj2YEFR",
+              "end": 23,
+              "expanded_url": "https://x.com/2222bu75/status/1920890955609075899/photo/1",
+              "media_key": "3_1920890948034134016",
+              "start": 0,
+              "url": "https://t.co/3xRyj2YEFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920890955609075899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31007,
+          "like_count": 277,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3xRyj2YEFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 263,
+          "like_count": 5259,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1508
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "谜之菜（只有美国和澳洲国籍的同胞才可以关注我）",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "謎之菜0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921254917034909697/HbH76SJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 1207,
+          "like_count": 21247,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 6046
+        },
+        "username": "0975and8964",
+        "verified": false
+      }
+    ]
+  }
+}

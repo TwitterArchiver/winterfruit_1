@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1948032494949015617",
+    "created_at": "2025-07-23T16:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T17:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948054827495461107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783819937045237760",
+          "start": 0,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948054827495461107",
+    "in_reply_to_user_id": "1783819937045237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948032494949015617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihatehuman 发生什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1948032494949015617",
+        "created_at": "2025-07-23T16:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948054827495461107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783819937045237760",
+              "start": 0,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948054827495461107",
+        "in_reply_to_user_id": "1783819937045237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948032494949015617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihatehuman 发生什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1948032494949015617",
+        "created_at": "2025-07-23T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948032494949015617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948032494949015617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吐出來。好惡心好惡心好惡心好惡心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 395,
+          "like_count": 7930,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2297
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎",
+        "id": "1783819937045237760",
+        "location": "🚪88/188/288/388/520/1314",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 370,
+          "like_count": 2039,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 1707
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

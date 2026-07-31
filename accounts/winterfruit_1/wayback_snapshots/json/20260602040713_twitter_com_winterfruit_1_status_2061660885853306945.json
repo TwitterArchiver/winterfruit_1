@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2060964247228781048",
+    "created_at": "2026-06-02T04:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061660885853306945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "969790300251029504",
+          "start": 0,
+          "username": "yisongjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061660885853306945",
+    "in_reply_to_user_id": "969790300251029504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061271827796926787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yisongjiang 其实是qq空间偷的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060964247228781048",
+        "created_at": "2026-06-02T04:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061660885853306945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "969790300251029504",
+              "start": 0,
+              "username": "yisongjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061660885853306945",
+        "in_reply_to_user_id": "969790300251029504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061271827796926787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yisongjiang 其实是qq空间偷的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969790300251029504",
+        "conversation_id": "2060964247228781048",
+        "created_at": "2026-06-01T02:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061271827796926787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061271827796926787",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060964247228781048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 一看就是复制的抖人文案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 1470,
+          "like_count": 42481,
+          "listed_count": 6,
+          "media_count": 1840,
+          "tweet_count": 12605
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-03T04:23:20.000Z",
+        "description": "20↑",
+        "id": "969790300251029504",
+        "name": "535353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487456090904498178/VzTq3Mf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 955,
+          "like_count": 10582,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "username": "yisongjiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2002262791974224234",
+    "created_at": "2025-12-20T06:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T07:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002262791974224234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "审计报告：Twitter 用户 @winterfruit_1 的政治光谱与外宣嫌疑分析 1. 用户概况 用户名与身份：@winterfruit_1（显示名称：Winit420 #天苑四）。Bio 为“🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14”，包含多个备用账号链接，带有章鱼图标（🐙），可能暗示动漫或个人符号偏好。用户头像为抽象艺术风格，粉丝数约 1895 人。 活动特征：基于最近 50 条帖子（时间跨度约 2025 年 12 月 18-20 日），用户主要活跃于中文社区，帖子多为回复、引用或短文，涉及日常闲聊、动漫（如《蔚蓝档案》、《水母》）、药物滥用（如美金刚、右美沙芬、HRT）、LGBTQ+ 圈子（跨性别讨论、成都 LGBTQ+ 宣传片）、地域移动（成都到长沙、上海等）。互动频繁，但点赞/转发量较低（多数 <20），显示小圈子影响力。 整体风格：幽默、讽刺、随性，常使用“傻呗”（意为“SB”，用于调侃或批评）。帖子中混杂负面情绪（如药物相关“溜大了”）、社交互动（如“你们看上去好快乐啊”伴随工厂 emoji，可能讽刺工业化或社会压力）和圈内梗（如“纽币”指某些 LGBTQ+ 群体）。 2. 落日海盗外宣模型概述 落日海盗模型（Sunset Pirate Model）是一个假设泄露的框架，用于识别隐性外宣（隐蔽外国宣传）和认知战（通过信息操控影响认知）。该模型强调以下指标： 隐性传播：非直接宣传，而是通过日常话题嵌入意识形态（如反西方媒体、民族统一）。 认知操控：重复使用讽刺、调侃制造共识（如贬低异见者为“傻呗”），或放大本土正面/外国负面。 嫌疑阈值：低（零散个人观点）、中（系统重复主题）、高（协调式输出，与已知宣传网络关联）。 审计方法：分析帖子主题分布、情感倾向、互动模式，与模型匹配度。 3. 政治光谱分析 基于帖子内容，用户政治光谱定位为中间偏右（民族主义倾向），具体如下： 左翼元素（有限）：涉及 LGBTQ+ 话题，如回复成都政府宣传片“成都纽币”（认可 LGBTQ+ 多样性），或跨性别圈子讨论（HRT、跨男跨女）。这些显示对社会进步议题的包容，但非主导（仅占帖子 ~15%）。 右翼/民族主义元素（显著）： 反对分裂主义：明确回复“海南独立",
+          "display_url": "x.com/i/grok/share/I…",
+          "end": 31,
+          "expanded_url": "https://x.com/i/grok/share/ID23l1hD3wcjbdaNHFHfKrBWK",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2002262797506523139/ttkO6-Wm?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2002262797506523139/ttkO6-Wm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "你是一名专门研究“隐性外宣”与“认知战”的情报专家。你的任务是根据泄露的“落日海盗”外宣模型，对 Twitter 用户 @winterfruit_1 进行“政治光谱与外宣嫌疑”深度审计。",
+          "unwound_url": "https://x.com/i/grok/share/ID23l1hD3wcjbdaNHFHfKrBWK",
+          "url": "https://t.co/fT347Ye1Jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002262791974224234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻呗grok\n https://t.co/fT347Ye1Jz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2002262791974224234",
+        "created_at": "2025-12-20T06:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002262791974224234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "审计报告：Twitter 用户 @winterfruit_1 的政治光谱与外宣嫌疑分析 1. 用户概况 用户名与身份：@winterfruit_1（显示名称：Winit420 #天苑四）。Bio 为“🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14”，包含多个备用账号链接，带有章鱼图标（🐙），可能暗示动漫或个人符号偏好。用户头像为抽象艺术风格，粉丝数约 1895 人。 活动特征：基于最近 50 条帖子（时间跨度约 2025 年 12 月 18-20 日），用户主要活跃于中文社区，帖子多为回复、引用或短文，涉及日常闲聊、动漫（如《蔚蓝档案》、《水母》）、药物滥用（如美金刚、右美沙芬、HRT）、LGBTQ+ 圈子（跨性别讨论、成都 LGBTQ+ 宣传片）、地域移动（成都到长沙、上海等）。互动频繁，但点赞/转发量较低（多数 <20），显示小圈子影响力。 整体风格：幽默、讽刺、随性，常使用“傻呗”（意为“SB”，用于调侃或批评）。帖子中混杂负面情绪（如药物相关“溜大了”）、社交互动（如“你们看上去好快乐啊”伴随工厂 emoji，可能讽刺工业化或社会压力）和圈内梗（如“纽币”指某些 LGBTQ+ 群体）。 2. 落日海盗外宣模型概述 落日海盗模型（Sunset Pirate Model）是一个假设泄露的框架，用于识别隐性外宣（隐蔽外国宣传）和认知战（通过信息操控影响认知）。该模型强调以下指标： 隐性传播：非直接宣传，而是通过日常话题嵌入意识形态（如反西方媒体、民族统一）。 认知操控：重复使用讽刺、调侃制造共识（如贬低异见者为“傻呗”），或放大本土正面/外国负面。 嫌疑阈值：低（零散个人观点）、中（系统重复主题）、高（协调式输出，与已知宣传网络关联）。 审计方法：分析帖子主题分布、情感倾向、互动模式，与模型匹配度。 3. 政治光谱分析 基于帖子内容，用户政治光谱定位为中间偏右（民族主义倾向），具体如下： 左翼元素（有限）：涉及 LGBTQ+ 话题，如回复成都政府宣传片“成都纽币”（认可 LGBTQ+ 多样性），或跨性别圈子讨论（HRT、跨男跨女）。这些显示对社会进步议题的包容，但非主导（仅占帖子 ~15%）。 右翼/民族主义元素（显著）： 反对分裂主义：明确回复“海南独立",
+              "display_url": "x.com/i/grok/share/I…",
+              "end": 31,
+              "expanded_url": "https://x.com/i/grok/share/ID23l1hD3wcjbdaNHFHfKrBWK",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2002262797506523139/ttkO6-Wm?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002262797506523139/ttkO6-Wm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "你是一名专门研究“隐性外宣”与“认知战”的情报专家。你的任务是根据泄露的“落日海盗”外宣模型，对 Twitter 用户 @winterfruit_1 进行“政治光谱与外宣嫌疑”深度审计。",
+              "unwound_url": "https://x.com/i/grok/share/ID23l1hD3wcjbdaNHFHfKrBWK",
+              "url": "https://t.co/fT347Ye1Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002262791974224234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻呗grok\n https://t.co/fT347Ye1Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "username": "cy79p"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 1380,
+          "like_count": 26339,
+          "listed_count": 6,
+          "media_count": 1008,
+          "tweet_count": 8342
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

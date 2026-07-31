@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055935190023946240",
+        "3_2055935190044930048"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2055935200212004912",
+    "created_at": "2026-05-17T08:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055935200212004912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/10sSslxUgO",
+          "end": 29,
+          "expanded_url": "https://x.com/winterfruit_1/status/2055935200212004912/photo/1",
+          "media_key": "3_2055935190023946240",
+          "start": 6,
+          "url": "https://t.co/10sSslxUgO"
+        },
+        {
+          "display_url": "pic.x.com/10sSslxUgO",
+          "end": 29,
+          "expanded_url": "https://x.com/winterfruit_1/status/2055935200212004912/photo/1",
+          "media_key": "3_2055935190044930048",
+          "start": 6,
+          "url": "https://t.co/10sSslxUgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055935200212004912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情头推荐： https://t.co/10sSslxUgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055935190023946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgmKZqaQAAzSUf.jpg",
+        "width": 834
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055935190044930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgmKZvacAAEGro.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055935190023946240",
+            "3_2055935190044930048"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2055935200212004912",
+        "created_at": "2026-05-17T08:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055935200212004912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10sSslxUgO",
+              "end": 29,
+              "expanded_url": "https://x.com/winterfruit_1/status/2055935200212004912/photo/1",
+              "media_key": "3_2055935190023946240",
+              "start": 6,
+              "url": "https://t.co/10sSslxUgO"
+            },
+            {
+              "display_url": "pic.x.com/10sSslxUgO",
+              "end": 29,
+              "expanded_url": "https://x.com/winterfruit_1/status/2055935200212004912/photo/1",
+              "media_key": "3_2055935190044930048",
+              "start": 6,
+              "url": "https://t.co/10sSslxUgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055935200212004912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情头推荐： https://t.co/10sSslxUgO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 1491,
+          "like_count": 41561,
+          "listed_count": 7,
+          "media_count": 1804,
+          "tweet_count": 12270
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

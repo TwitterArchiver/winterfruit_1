@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1971417156337492289",
+    "created_at": "2025-09-28T20:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T21:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972405141929337337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1970205312461488130",
+          "start": 0,
+          "username": "wezz911"
+        },
+        {
+          "end": 18,
+          "id": "1581478431274983424",
+          "start": 9,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972405141929337337",
+    "in_reply_to_user_id": "1970205312461488130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971768636932346123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wezz911 @zhoynqi3 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1971417156337492289",
+        "created_at": "2025-09-28T20:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972405141929337337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1970205312461488130",
+              "start": 0,
+              "username": "wezz911"
+            },
+            {
+              "end": 18,
+              "id": "1581478431274983424",
+              "start": 9,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972405141929337337",
+        "in_reply_to_user_id": "1970205312461488130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971768636932346123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wezz911 @zhoynqi3 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970205312461488130",
+        "conversation_id": "1971417156337492289",
+        "created_at": "2025-09-27T02:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971768636932346123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 24,
+              "id": "1581478431274983424",
+              "start": 15,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971768636932346123",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971511403933831480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 @zhoynqi3 你小学就住宿？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 551,
+          "like_count": 13836,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 4095
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T19:15:47.000Z",
+        "description": "花姑娘滴死啦死啦滴干活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cctv.com",
+                "end": 23,
+                "expanded_url": "http://www.cctv.com",
+                "start": 0,
+                "url": "https://t.co/mLGRrG3mzU"
+              }
+            ]
+          }
+        },
+        "id": "1970205312461488130",
+        "location": "栃木 関東地方",
+        "name": "王维克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971030184771059716/PAcXQLaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/mLGRrG3mzU",
+        "username": "wezz911",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1971916084787007981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 167,
+          "like_count": 20864,
+          "listed_count": 10,
+          "media_count": 136,
+          "tweet_count": 4705
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2040662884196438254",
+    "created_at": "2026-04-05T05:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040662884196438254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2040662819767783593",
+          "start": 8,
+          "url": "https://t.co/u2oSJqpN2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040662884196438254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040662819767783593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！？波袭来？！ https://t.co/u2oSJqpN2q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2040662884196438254",
+        "created_at": "2026-04-05T05:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040662884196438254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2040662819767783593",
+              "start": 8,
+              "url": "https://t.co/u2oSJqpN2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040662884196438254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040662819767783593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！？波袭来？！ https://t.co/u2oSJqpN2q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2040474486567534926",
+        "created_at": "2026-04-05T05:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040662819767783593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040662819767783593",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040662583506849901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 波奇，袭来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1467,
+          "like_count": 38866,
+          "listed_count": 7,
+          "media_count": 1626,
+          "tweet_count": 11390
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

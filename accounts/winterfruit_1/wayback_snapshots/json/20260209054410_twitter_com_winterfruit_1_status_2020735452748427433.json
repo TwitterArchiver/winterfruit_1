@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020735444594655232"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2020735452748427433",
+    "created_at": "2026-02-09T05:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020735452748427433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p59GXpnfQJ",
+          "end": 44,
+          "expanded_url": "https://x.com/winterfruit_1/status/2020735452748427433/photo/1",
+          "media_key": "3_2020735444594655232",
+          "start": 21,
+          "url": "https://t.co/p59GXpnfQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020735452748427433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诈尸。主要是想给你们看蜘蛛\n（虫子警告） https://t.co/p59GXpnfQJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020735452748427433].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020735452748427433",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020735452748427433"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020735444594655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsYLjgbAAA4GWb.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2019769914744082728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1518,
+          "like_count": 32691,
+          "listed_count": 7,
+          "media_count": 1328,
+          "tweet_count": 10001
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

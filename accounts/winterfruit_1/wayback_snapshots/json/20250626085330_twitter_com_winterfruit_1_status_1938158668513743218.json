@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1938154396854194458",
+    "created_at": "2025-06-26T08:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T09:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938158668513743218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820902594396774400",
+          "start": 0,
+          "username": "ziyaoawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938158668513743218",
+    "in_reply_to_user_id": "1820902594396774400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938154396854194458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyaoawa 帕金森？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1938154396854194458].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1938154396854194458",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1938154396854194458"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1938154396854194458",
+        "created_at": "2025-06-26T08:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T09:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938158668513743218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820902594396774400",
+              "start": 0,
+              "username": "ziyaoawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938158668513743218",
+        "in_reply_to_user_id": "1820902594396774400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938154396854194458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyaoawa 帕金森？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 345,
+          "like_count": 7101,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1979
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:20:15.000Z",
+        "description": "这生活太累了，咱还是先去睡觉，其他的再说吧！\n回fo私我\ni am not a bot😭\n喜欢你们所有人\ncs/vrc/mc\n无特定身份 随意称呼我 🤗\nLGBT+ Friendly 永远的小杂鱼@Alxiaz_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "Alxiaz_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ziyaoawa2",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ziyaoawa2",
+                "start": 0,
+                "url": "https://t.co/xvVc3Sbxu1"
+              }
+            ]
+          }
+        },
+        "id": "1820902594396774400",
+        "name": "285288233uffjkoufdssssddd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884130766118084613/injKbUqZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 288,
+          "like_count": 5351,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2855
+        },
+        "url": "https://t.co/xvVc3Sbxu1",
+        "username": "ziyaoawa",
+        "verified": false
+      }
+    ]
+  }
+}

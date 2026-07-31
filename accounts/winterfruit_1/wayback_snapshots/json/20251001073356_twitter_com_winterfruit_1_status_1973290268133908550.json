@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1973273240312369480",
+    "created_at": "2025-10-01T07:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T08:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973290268133908550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973290268133908550",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973273240312369480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 邪恶花斑蚊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_1973273237359566853",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2J5jfWaIAUmgqB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1973273240312369480",
+        "created_at": "2025-10-01T07:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T08:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973290268133908550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973290268133908550",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973273240312369480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 邪恶花斑蚊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973273237359566853"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "conversation_id": "1973273240312369480",
+        "created_at": "2025-10-01T06:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973273240312369480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDeooU5eKF",
+              "end": 50,
+              "expanded_url": "https://x.com/yepa41/status/1973273240312369480/photo/1",
+              "media_key": "3_1973273237359566853",
+              "start": 27,
+              "url": "https://t.co/tDeooU5eKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973273240312369480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草一个有白色条纹的蚊子在我脸上咬了个包从来没这么痒过 https://t.co/tDeooU5eKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 590,
+          "like_count": 14335,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 4248
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "有无人生金手指，在线等",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1968260064982233494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 372,
+          "like_count": 30140,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1235
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

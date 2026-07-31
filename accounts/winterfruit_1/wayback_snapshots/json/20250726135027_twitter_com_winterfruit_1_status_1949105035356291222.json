@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949105026703740928"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1949105035356291222",
+    "created_at": "2025-07-26T13:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T14:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949105035356291222"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "西柚",
+          "probability": 0.6627,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s5dfCyqRU3",
+          "end": 27,
+          "expanded_url": "https://x.com/winterfruit_1/status/1949105035356291222/photo/1",
+          "media_key": "3_1949105026703740928",
+          "start": 4,
+          "url": "https://t.co/s5dfCyqRU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949105035356291222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西柚汁 https://t.co/s5dfCyqRU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1949105026703740928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwycseqa0AA2g6B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949105026703740928"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1949105035356291222",
+        "created_at": "2025-07-26T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949105035356291222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "西柚",
+              "probability": 0.6627,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5dfCyqRU3",
+              "end": 27,
+              "expanded_url": "https://x.com/winterfruit_1/status/1949105035356291222/photo/1",
+              "media_key": "3_1949105026703740928",
+              "start": 4,
+              "url": "https://t.co/s5dfCyqRU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949105035356291222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁 https://t.co/s5dfCyqRU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 399,
+          "like_count": 8145,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2358
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

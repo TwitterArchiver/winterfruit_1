@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2044117136025755843",
+    "created_at": "2026-04-14T18:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044117136025755843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992140394679910400",
+          "start": 3,
+          "username": "Overdose_DID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044117136025755843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044115357120770436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DID: 吸毒的人越来越多了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2044117136025755843",
+        "created_at": "2026-04-14T18:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044117136025755843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992140394679910400",
+              "start": 3,
+              "username": "Overdose_DID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044117136025755843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044115357120770436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DID: 吸毒的人越来越多了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992140394679910400",
+        "conversation_id": "2044115357120770436",
+        "created_at": "2026-04-14T18:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044115357120770436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044115357120770436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒的人越来越多了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 1462,
+          "like_count": 40071,
+          "listed_count": 7,
+          "media_count": 1709,
+          "tweet_count": 11729
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T07:57:50.000Z",
+        "description": "",
+        "id": "1992140394679910400",
+        "name": "超级橘橘橘雪莉",
+        "pinned_tweet_id": "2007669123795632152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044115223045603328/ioalwIhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 28,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "username": "Overdose_DID",
+        "verified": false
+      }
+    ]
+  }
+}

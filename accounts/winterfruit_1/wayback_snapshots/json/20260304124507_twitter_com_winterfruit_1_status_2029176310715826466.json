@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2029168242447794581",
+    "created_at": "2026-03-04T12:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029176310715826466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728798875593654272",
+          "start": 0,
+          "username": "whydoyouwantlsd"
+        },
+        {
+          "end": 30,
+          "id": "1700948552078467072",
+          "start": 17,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029176310715826466",
+    "in_reply_to_user_id": "1728798875593654272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029168242447794581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoyouwantlsd @Overdose_DBD 也许我们明日就会消失"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Overdose_DBD].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Overdose_DBD",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Overdose_DBD"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029168242447794581].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029168242447794581",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029168242447794581"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2029168242447794581",
+        "created_at": "2026-03-04T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029176310715826466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728798875593654272",
+              "start": 0,
+              "username": "whydoyouwantlsd"
+            },
+            {
+              "end": 30,
+              "id": "1700948552078467072",
+              "start": 17,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029176310715826466",
+        "in_reply_to_user_id": "1728798875593654272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029168242447794581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoyouwantlsd @Overdose_DBD 也许我们明日就会消失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1445,
+          "like_count": 35741,
+          "listed_count": 7,
+          "media_count": 1463,
+          "tweet_count": 10525
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，■TX，退役oder，碎碎念博主，诗歌，文学，精神医学，ASD。永冇正反之分，水中月中月無月。",
+        "id": "1728798875593654272",
+        "name": "眼球已死",
+        "pinned_tweet_id": "2006847733030858899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014427806932074496/1KDfhoun_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 256,
+          "like_count": 1761,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 811
+        },
+        "username": "whydoyouwantlsd",
+        "verified": false
+      }
+    ]
+  }
+}

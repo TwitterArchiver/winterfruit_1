@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952647814879875072"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1952648018488181200",
+    "created_at": "2025-08-05T08:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952648018488181200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/An3qWGiGjs",
+          "end": 28,
+          "expanded_url": "https://x.com/winterfruit_1/status/1952648018488181200/video/1",
+          "media_key": "13_1952647814879875072",
+          "start": 5,
+          "url": "https://t.co/An3qWGiGjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952648018488181200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么魂啊 https://t.co/An3qWGiGjs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18506,
+        "height": 480,
+        "media_key": "13_1952647814879875072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952647814879875072/img/OmsOUnxhRMWMMYKT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952647814879875072/vid/avc1/348x270/c3a2OdqQpoPIcXv3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952647814879875072/vid/avc1/464x360/XLTHMan1EnY6YYU_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952647814879875072/vid/avc1/620x480/_dlM2lRtXTizhGZm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952647814879875072/pl/39iFe1pHcurliUKe.m3u8"
+          }
+        ],
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952647814879875072"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1952648018488181200",
+        "created_at": "2025-08-05T08:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952648018488181200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/An3qWGiGjs",
+              "end": 28,
+              "expanded_url": "https://x.com/winterfruit_1/status/1952648018488181200/video/1",
+              "media_key": "13_1952647814879875072",
+              "start": 5,
+              "url": "https://t.co/An3qWGiGjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952648018488181200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么魂啊 https://t.co/An3qWGiGjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 418,
+          "like_count": 8635,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 2594
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

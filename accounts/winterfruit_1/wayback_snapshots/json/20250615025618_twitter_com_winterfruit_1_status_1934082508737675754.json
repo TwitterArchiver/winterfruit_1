@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1934082508737675754",
+    "created_at": "2025-06-15T02:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T03:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934082508737675754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703762928",
+          "start": 3,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934082508737675754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933960581213819094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1965chich: 有了推特真好，再也不用和身边人说话了，也不需要朋友，每天发点b话搞搞抽象，玩玩游戏，舒服一辈子就完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1934082508737675754",
+        "created_at": "2025-06-15T02:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934082508737675754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703762928",
+              "start": 3,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934082508737675754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933960581213819094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1965chich: 有了推特真好，再也不用和身边人说话了，也不需要朋友，每天发点b话搞搞抽象，玩玩游戏，舒服一辈子就完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1933960581213819094",
+        "created_at": "2025-06-14T18:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933960581213819094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933960581213819094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有了推特真好，再也不用和身边人说话了，也不需要朋友，每天发点b话搞搞抽象，玩玩游戏，舒服一辈子就完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 328,
+          "like_count": 6241,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1722
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心里第一：浪浪宝贝 /爸爸：@kaijiangtuotu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kaijiangtuotu_"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1878440851308994947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932716380283154432/s3qRERUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6057,
+          "following_count": 1049,
+          "like_count": 17314,
+          "listed_count": 7,
+          "media_count": 248,
+          "tweet_count": 5432
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

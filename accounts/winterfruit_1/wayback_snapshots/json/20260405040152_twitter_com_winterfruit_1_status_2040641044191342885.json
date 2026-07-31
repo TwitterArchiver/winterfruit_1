@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040641034838056960"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040641044191342885",
+    "created_at": "2026-04-05T04:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T05:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040641044191342885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jw4ThXdknA",
+          "end": 36,
+          "expanded_url": "https://x.com/winterfruit_1/status/2040641044191342885/photo/1",
+          "media_key": "3_2040641034838056960",
+          "start": 13,
+          "url": "https://t.co/jw4ThXdknA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040641044191342885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回游玩一玩，掉到二阶一了 https://t.co/jw4ThXdknA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040641034838056960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHQNZuboAAhITD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040641034838056960"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040641044191342885",
+        "created_at": "2026-04-05T04:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040641044191342885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw4ThXdknA",
+              "end": 36,
+              "expanded_url": "https://x.com/winterfruit_1/status/2040641044191342885/photo/1",
+              "media_key": "3_2040641034838056960",
+              "start": 13,
+              "url": "https://t.co/jw4ThXdknA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040641044191342885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回游玩一玩，掉到二阶一了 https://t.co/jw4ThXdknA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 1466,
+          "like_count": 38852,
+          "listed_count": 7,
+          "media_count": 1626,
+          "tweet_count": 11385
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

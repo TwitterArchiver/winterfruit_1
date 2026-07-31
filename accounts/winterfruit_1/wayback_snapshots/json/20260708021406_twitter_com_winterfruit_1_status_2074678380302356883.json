@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074455380520841217"
+      ],
+      "media_source_tweet_id": [
+        "2074455396647936033"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2074678380302356883",
+    "created_at": "2026-07-08T02:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074678380302356883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365613446058893313",
+          "start": 3,
+          "username": "kayjikayji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnO2W9Rjl9",
+          "end": 48,
+          "expanded_url": "https://x.com/kayjikayji/status/2074455396647936033/video/1",
+          "media_key": "7_2074455380520841217",
+          "start": 25,
+          "url": "https://t.co/RnO2W9Rjl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074678380302356883",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074455396647936033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kayjikayji: Found it https://t.co/RnO2W9Rjl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10263,
+        "height": 852,
+        "media_key": "7_2074455380520841217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074455380520841217/pu/img/mx0qDaTaaR6_vnKj.jpg",
+        "public_metrics": {
+          "view_count": 644200
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/vid/avc1/320x568/9LXdzurqAJwpTN89.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/vid/avc1/480x852/z3Y4Ezs1VoLNgOUz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074455380520841217/pu/pl/auuLcWvYErsThvn5.m3u8?tag=12&v=9f8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074455380520841217"
+          ],
+          "media_source_tweet_id": [
+            "2074455396647936033"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2074678380302356883",
+        "created_at": "2026-07-08T02:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074678380302356883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365613446058893313",
+              "start": 3,
+              "username": "kayjikayji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnO2W9Rjl9",
+              "end": 48,
+              "expanded_url": "https://x.com/kayjikayji/status/2074455396647936033/video/1",
+              "media_key": "7_2074455380520841217",
+              "start": 25,
+              "url": "https://t.co/RnO2W9Rjl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074678380302356883",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074455396647936033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kayjikayji: Found it https://t.co/RnO2W9Rjl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074455380520841217"
+          ]
+        },
+        "author_id": "1365613446058893313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2074455396647936033",
+        "created_at": "2026-07-07T11:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074455396647936033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnO2W9Rjl9",
+              "end": 32,
+              "expanded_url": "https://x.com/kayjikayji/status/2074455396647936033/video/1",
+              "media_key": "7_2074455380520841217",
+              "start": 9,
+              "url": "https://t.co/RnO2W9Rjl9"
+            },
+            {
+              "display_url": "x.com/kayjikayji/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/kayjikayji/status/2074453743148450266",
+              "start": 33,
+              "url": "https://t.co/OEGJPEDmqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074455396647936033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21544,
+          "impression_count": 2336219,
+          "like_count": 88178,
+          "quote_count": 622,
+          "reply_count": 458,
+          "retweet_count": 10941
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074453743148450266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Found it https://t.co/RnO2W9Rjl9 https://t.co/OEGJPEDmqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 1481,
+          "like_count": 43560,
+          "listed_count": 6,
+          "media_count": 1881,
+          "tweet_count": 13016
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T10:43:32.000Z",
+        "description": "🇩🇪 | 18+! | 19 (unc) | gay |  kitty cat | compsci student",
+        "id": "1365613446058893313",
+        "location": "BaWü",
+        "name": "Kayji 🍍",
+        "pinned_tweet_id": "2069393330786488641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072584456917966848/lEy09cvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 338,
+          "like_count": 9299,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3878
+        },
+        "url": "",
+        "username": "kayjikayji",
+        "verified": false
+      }
+    ]
+  }
+}

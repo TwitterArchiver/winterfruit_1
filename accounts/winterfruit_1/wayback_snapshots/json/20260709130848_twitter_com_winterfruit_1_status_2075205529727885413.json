@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2075085504773750869",
+    "created_at": "2026-07-09T13:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075205529727885413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1536879871694999553",
+          "start": 0,
+          "username": "Summerkanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075205529727885413",
+    "in_reply_to_user_id": "1536879871694999553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075085504773750869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summerkanna 足小子假交"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1465,
+        "media_key": "3_2075085453863317504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwvOdwacAAtgkw.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2075085504773750869",
+        "created_at": "2026-07-09T13:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075205529727885413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1536879871694999553",
+              "start": 0,
+              "username": "Summerkanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075205529727885413",
+        "in_reply_to_user_id": "1536879871694999553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075085504773750869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summerkanna 足小子假交"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075085453863317504"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2075085504773750869",
+        "created_at": "2026-07-09T05:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075085504773750869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRJftytrLX",
+              "end": 32,
+              "expanded_url": "https://x.com/Summerkanna/status/2075085504773750869/photo/1",
+              "media_key": "3_2075085453863317504",
+              "start": 9,
+              "url": "https://t.co/kRJftytrLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075085504773750869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 28915,
+          "like_count": 479,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你比較喜歡那一種 https://t.co/kRJftytrLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 1479,
+          "like_count": 43604,
+          "listed_count": 6,
+          "media_count": 1883,
+          "tweet_count": 13038
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az\nDC:https://t.co/WXH7ekjseM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/XkezSx3J",
+                "end": 132,
+                "expanded_url": "https://discord.gg/XkezSx3J",
+                "start": 109,
+                "url": "https://t.co/WXH7ekjseM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天カンナ@轉貼迷因Vtuber",
+        "pinned_tweet_id": "2065084654361903262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055941908778909696/RLsrOHnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10487,
+          "following_count": 993,
+          "like_count": 21986,
+          "listed_count": 49,
+          "media_count": 6749,
+          "tweet_count": 21077
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "Summerkanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1946827420360933654",
+    "created_at": "2025-07-20T07:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946842306327499252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609879813107634178",
+          "start": 0,
+          "username": "XyBilibili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946842306327499252",
+    "in_reply_to_user_id": "1609879813107634178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946841733297209837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XyBilibili 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1946827420360933654",
+        "created_at": "2025-07-20T07:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946842306327499252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609879813107634178",
+              "start": 0,
+              "username": "XyBilibili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946842306327499252",
+        "in_reply_to_user_id": "1609879813107634178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946841733297209837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XyBilibili 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609879813107634178",
+        "conversation_id": "1946827420360933654",
+        "created_at": "2025-07-20T07:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946841733297209837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946841733297209837",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946827420360933654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 ？花钱找罪受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 387,
+          "like_count": 7839,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 2224
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T11:50:41.000Z",
+        "description": "日本ボカロ爱好者 欢迎术人扩列🎉",
+        "id": "1609879813107634178",
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "name": "チュウゴク の ポカロファン gumiku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817651165473251328/_7yhhk5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 186,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 486
+        },
+        "username": "XyBilibili",
+        "verified": false
+      }
+    ]
+  }
+}

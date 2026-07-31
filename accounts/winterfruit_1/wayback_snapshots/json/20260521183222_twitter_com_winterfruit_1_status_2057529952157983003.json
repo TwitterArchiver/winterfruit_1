@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2057529380939976841",
+    "created_at": "2026-05-21T18:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057529952157983003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840720004620361728",
+          "start": 0,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057529952157983003",
+    "in_reply_to_user_id": "1840720004620361728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057529380939976841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaoriAoii 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2057529380939976841",
+        "created_at": "2026-05-21T18:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057529952157983003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840720004620361728",
+              "start": 0,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057529952157983003",
+        "in_reply_to_user_id": "1840720004620361728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057529380939976841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaoriAoii 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840720004620361728",
+        "conversation_id": "2057529380939976841",
+        "created_at": "2026-05-21T18:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057529380939976841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057529380939976841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人记得我不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1481,
+          "like_count": 41815,
+          "listed_count": 6,
+          "media_count": 1819,
+          "tweet_count": 12370
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "淡推",
+        "id": "1840720004620361728",
+        "name": "奥菲od号",
+        "pinned_tweet_id": "2040369819464392972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022896688927846400/pSq3AKDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 134,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 641
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

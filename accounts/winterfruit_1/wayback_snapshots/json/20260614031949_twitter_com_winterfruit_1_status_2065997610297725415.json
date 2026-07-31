@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065896949166051329"
+      ],
+      "media_source_tweet_id": [
+        "2065896952034975798"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2065997610297725415",
+    "created_at": "2026-06-14T03:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065997610297725415"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625532021463457795",
+          "start": 3,
+          "username": "cherroapg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SHAisGPjn",
+          "end": 46,
+          "expanded_url": "https://x.com/cherroapg/status/2065896952034975798/photo/1",
+          "media_key": "3_2065896949166051329",
+          "start": 23,
+          "url": "https://t.co/8SHAisGPjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065997610297725415",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065896952034975798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cherroapg: #maimai https://t.co/8SHAisGPjn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2065896949166051329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuKVGWbEAEgwSM.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065896949166051329"
+          ],
+          "media_source_tweet_id": [
+            "2065896952034975798"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2065997610297725415",
+        "created_at": "2026-06-14T03:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065997610297725415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625532021463457795",
+              "start": 3,
+              "username": "cherroapg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SHAisGPjn",
+              "end": 46,
+              "expanded_url": "https://x.com/cherroapg/status/2065896952034975798/photo/1",
+              "media_key": "3_2065896949166051329",
+              "start": 23,
+              "url": "https://t.co/8SHAisGPjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065997610297725415",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065896952034975798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cherroapg: #maimai https://t.co/8SHAisGPjn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065896949166051329"
+          ]
+        },
+        "author_id": "1625532021463457795",
+        "conversation_id": "2065896952034975798",
+        "created_at": "2026-06-13T20:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065896952034975798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SHAisGPjn",
+              "end": 31,
+              "expanded_url": "https://x.com/cherroapg/status/2065896952034975798/photo/1",
+              "media_key": "3_2065896949166051329",
+              "start": 8,
+              "url": "https://t.co/8SHAisGPjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065896952034975798",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 22621,
+          "like_count": 3000,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "#maimai https://t.co/8SHAisGPjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 1472,
+          "like_count": 42713,
+          "listed_count": 6,
+          "media_count": 1855,
+          "tweet_count": 12724
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T16:27:05.000Z",
+        "description": "i draw // voice synth + mv fanatic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/cherroapg",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/cherroapg",
+                "start": 0,
+                "url": "https://t.co/wkB6X5XaKt"
+              }
+            ]
+          }
+        },
+        "id": "1625532021463457795",
+        "location": "18 | 🇲🇾 | AI🚫",
+        "name": "chio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064819660860882944/v9eyZjqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6434,
+          "following_count": 778,
+          "like_count": 24705,
+          "listed_count": 8,
+          "media_count": 411,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/wkB6X5XaKt",
+        "username": "cherroapg",
+        "verified": false
+      }
+    ]
+  }
+}

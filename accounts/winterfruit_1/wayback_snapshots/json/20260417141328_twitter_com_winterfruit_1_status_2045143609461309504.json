@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2045124532076499119",
+    "created_at": "2026-04-17T14:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045143609461309504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757320080604741633",
+          "start": 0,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045143609461309504",
+    "in_reply_to_user_id": "1757320080604741633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045124532076499119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyallcestmoi 晚安 巴氯芬 晚安 优米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2045124532076499119",
+        "created_at": "2026-04-17T14:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045143609461309504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045143609461309504",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045124532076499119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi 晚安 巴氯芬 晚安 优米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757320080604741633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2045124532076499119",
+        "created_at": "2026-04-17T12:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045124532076499119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2045102829023752615",
+              "start": 113,
+              "url": "https://t.co/KR6yPEaBci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045124532076499119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045102829023752615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据身份证号后四位选择你的五一小长假专属od组合\n1：右美：白兔\n2：愈美片\n3：晚安\n4：盐野义（日本右美\n5：苯海索\n6：苯海拉明\n7：普瑞巴林\n8：巴氯酚\n9：复方甘草片\n0：感康\nX：EVE\n快看看你的组合是什么吧~ https://t.co/KR6yPEaBci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 1457,
+          "like_count": 40162,
+          "listed_count": 7,
+          "media_count": 1715,
+          "tweet_count": 11755
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "👽AS小孩 | 🌈彩虹友好 | 🐳动物保护 |🍹生活艺术 | 🤮赤石分享 |♀低脂蝈釹 | 🍼幼稚巨婴 |❔持续虚无 | 🥃荣誉健全 | 👻随地抛尸 | 🪷人淡如莲 | pansexual | 给我发送匿名消息：https://t.co/mazPCu6XHb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiyallcestmoi",
+                "end": 129,
+                "expanded_url": "https://ngl.link/hiyallcestmoi",
+                "start": 106,
+                "url": "https://t.co/mazPCu6XHb"
+              }
+            ]
+          }
+        },
+        "id": "1757320080604741633",
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "2021167129974739317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984426303538544644/6ht9CNJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 439,
+          "like_count": 3397,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 3897
+        },
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

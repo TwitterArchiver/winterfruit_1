@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1908241577434374243",
+    "created_at": "2025-04-04T19:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T20:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908241577434374243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908241577434374243",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@SQ100722 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1908241577434374243",
+        "created_at": "2025-04-04T19:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T20:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908241577434374243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908241577434374243",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@SQ100722 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 258,
+          "like_count": 4541,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1266
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "男的/10♋️/视奸所有人/死猪/阳痿/早泄/发情空间@2727_SQ/提问箱https://t.co/8dQBjNETw8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "2727_SQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sq27272727",
+                "end": 62,
+                "expanded_url": "https://ngl.link/sq27272727",
+                "start": 39,
+                "url": "https://t.co/8dQBjNETw8"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727_SQ",
+        "pinned_tweet_id": "1907375696512708671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882110769422381056/eqSREqGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 470,
+          "like_count": 19600,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 2422
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

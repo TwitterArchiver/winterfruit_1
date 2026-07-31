@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1972515039618965944",
+    "created_at": "2025-09-29T04:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972515039618965944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875115728166342656",
+          "start": 3,
+          "username": "3253212MCZ"
+        },
+        {
+          "end": 30,
+          "id": "1837114188046684161",
+          "start": 16,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972515039618965944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972496439281619133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3253212MCZ: @winterfruit_1 : 我军训的时候，有人泄露我是磕糖大王，都起哄要我表演磕糖，我上去直接1分钟磕了5000颗糖，还有一半是色谱，教官都傻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1972515039618965944",
+        "created_at": "2025-09-29T04:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972515039618965944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875115728166342656",
+              "start": 3,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 30,
+              "id": "1837114188046684161",
+              "start": 16,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972515039618965944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972496439281619133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3253212MCZ: @winterfruit_1 : 我军训的时候，有人泄露我是磕糖大王，都起哄要我表演磕糖，我上去直接1分钟磕了5000颗糖，还有一半是色谱，教官都傻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875115728166342656",
+        "conversation_id": "1972010157912756387",
+        "created_at": "2025-09-29T02:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972496439281619133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972496439281619133",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972010157912756387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 : 我军训的时候，有人泄露我是磕糖大王，都起哄要我表演磕糖，我上去直接1分钟磕了5000颗糖，还有一半是色谱，教官都傻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 553,
+          "like_count": 13877,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 4110
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "infj | 喜欢雨天发呆 | 讨厌香菜 | 178cm？ | 抑郁症自愈者 | 想去看世界！|MTF：2025.7.6 |MIKU重度依赖者 | 小西红柿重度依赖| 包菜重度依赖 | 分享欲旺盛 | 互fo |话说真的有人会看简介吗？",
+        "id": "1875115728166342656",
+        "location": "北京",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 213,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 275
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

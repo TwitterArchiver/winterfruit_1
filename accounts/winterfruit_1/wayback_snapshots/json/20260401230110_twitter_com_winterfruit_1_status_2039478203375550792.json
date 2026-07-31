@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2039478203375550792",
+    "created_at": "2026-04-01T23:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T00:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039478203375550792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039399272819662848",
+          "start": 3,
+          "username": "ChenX100914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039478203375550792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039471523212427587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenX100914: 关注寥若晨星谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2039478203375550792",
+        "created_at": "2026-04-01T23:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039478203375550792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039399272819662848",
+              "start": 3,
+              "username": "ChenX100914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039478203375550792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039471523212427587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenX100914: 关注寥若晨星谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039399272819662848",
+        "conversation_id": "2039471523212427587",
+        "created_at": "2026-04-01T22:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039471523212427587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039471523212427587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关注寥若晨星谢谢喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038575262062014465/r89x5P5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 1465,
+          "like_count": 38624,
+          "listed_count": 7,
+          "media_count": 1604,
+          "tweet_count": 11298
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:48:23.000Z",
+        "description": "极度乐观的悲观主义者☁️\n @noth1nghere14 ｜@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "2039399272819662848",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039403619964080128/zlm9X1f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ChenX100914",
+        "verified": false
+      }
+    ]
+  }
+}

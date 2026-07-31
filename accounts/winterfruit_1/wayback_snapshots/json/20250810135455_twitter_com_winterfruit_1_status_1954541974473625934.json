@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1954536414848176266",
+    "created_at": "2025-08-10T13:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T14:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954541974473625934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954541974473625934",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954536414848176266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 挺好的，但在只在这个平台收集的数据太单一了，有种去学校统计有多少人是学生的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_1954536261797953536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_oX-EWQAANFYe.jpg",
+        "width": 1771
+      },
+      {
+        "height": 1381,
+        "media_key": "3_1954536282098429953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_oZJsW8AEtgPr.jpg",
+        "width": 1557
+      },
+      {
+        "height": 1723,
+        "media_key": "3_1954536299764781057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_oaLgWEAE5j_h.jpg",
+        "width": 1557
+      },
+      {
+        "height": 1789,
+        "media_key": "3_1954536314558201856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_obCnXwAASyFx.jpg",
+        "width": 1556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1954536414848176266",
+        "created_at": "2025-08-10T13:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T14:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954541974473625934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954541974473625934",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954536414848176266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 挺好的，但在只在这个平台收集的数据太单一了，有种去学校统计有多少人是学生的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954536261797953536",
+            "3_1954536282098429953",
+            "3_1954536299764781057",
+            "3_1954536314558201856"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1954536414848176266",
+        "created_at": "2025-08-10T13:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T14:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954536414848176266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。",
+              "display_url": "611Study.Icu",
+              "end": 23,
+              "expanded_url": "http://611Study.Icu",
+              "start": 0,
+              "status": 200,
+              "title": "611 Study ICU.",
+              "unwound_url": "https://611study.icu/zh-CN",
+              "url": "https://t.co/e9tg4GyiQG"
+            },
+            {
+              "display_url": "pic.x.com/9T2pW09fvD",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1954536414848176266/photo/1",
+              "media_key": "3_1954536261797953536",
+              "start": 107,
+              "url": "https://t.co/9T2pW09fvD"
+            },
+            {
+              "display_url": "pic.x.com/9T2pW09fvD",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1954536414848176266/photo/1",
+              "media_key": "3_1954536282098429953",
+              "start": 107,
+              "url": "https://t.co/9T2pW09fvD"
+            },
+            {
+              "display_url": "pic.x.com/9T2pW09fvD",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1954536414848176266/photo/1",
+              "media_key": "3_1954536299764781057",
+              "start": 107,
+              "url": "https://t.co/9T2pW09fvD"
+            },
+            {
+              "display_url": "pic.x.com/9T2pW09fvD",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1954536414848176266/photo/1",
+              "media_key": "3_1954536314558201856",
+              "start": 107,
+              "url": "https://t.co/9T2pW09fvD"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1946193970633040108",
+              "start": 131,
+              "url": "https://t.co/n1eveqPymO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954536414848176266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "611Study.Icu",
+                "end": 23,
+                "expanded_url": "http://611Study.Icu",
+                "start": 0,
+                "url": "https://t.co/eifxlMQujz"
+              }
+            ]
+          },
+          "text": "https://t.co/eifxlMQujz\n截至8月8日，我们共回收暑期补课问卷410份，其中95.6%的学校被报告存在组织暑期补课的情况；在这些学校中，91.95%安排周末补课，44.9%存在额外收费现象。\n学生的心理健康状况不容乐观，有69.5%的学生表现出不同程度的抑郁症状，其中54.9%达到中度及以上抑郁，22%属于重度抑郁，约73.66%的学生曾表示有过自杀念头。\n80.49%的受访者反映学校存在违纪或不当行为，共计举报违规行为797项，其中54.5%涉及校方违纪（如违规收费），40.3%为教师体罚或变相体罚，37%涉及升学率或成绩造假，32.1%反映校园暴力被包庇或举报者遭打压，29.1%举报师生关系不当（如骚扰、操控成绩等）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10180,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946193970633040108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/e9tg4GyiQG\n截至8月8日，我们共回收暑期补课问卷410份，其中95.6%的学校被报告存在组织暑期补课的情况；在这些学校中，91.95%安排周末补课，44.9%存在额外收费现象。 https://t.co/9T2pW09fvD https://t.co/n1eveqPymO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 435,
+          "like_count": 8995,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2841
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072707,
+          "following_count": 982,
+          "like_count": 7892,
+          "listed_count": 8259,
+          "media_count": 33183,
+          "tweet_count": 39912
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

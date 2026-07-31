@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1948021568514494922",
+    "created_at": "2025-07-23T14:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T15:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948021568514494922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/dJY",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/dJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948021568514494922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947946536572486058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: 🔝\n我是蕾/つぼみ／レイ\n\nOD/自伤/极端负面言论/日常\n我喜欢文艺片/恐影/听歌/看番\n我有一个我很爱她也很爱我的女朋友\n目前家里蹲中 常年坐标浙a沪a \n\n想认识更多朋友✌︎('ω')✌︎\n\n转发的事情拜托了🫶🫶🫶 https://t.co/dJY…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948021568514494922].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948021568514494922",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948021568514494922"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947946525608525825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh_C1xaQAEP5W6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947946525625307136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh_C11aUAA0Ar_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947946525608525825",
+            "3_1947946525625307136"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "1947946536572486058",
+        "created_at": "2025-07-23T09:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947946536572486058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJYYRKLyJL",
+              "end": 134,
+              "expanded_url": "https://x.com/Re1_y0/status/1947946536572486058/photo/1",
+              "media_key": "3_1947946525608525825",
+              "start": 111,
+              "url": "https://t.co/dJYYRKLyJL"
+            },
+            {
+              "display_url": "pic.x.com/dJYYRKLyJL",
+              "end": 134,
+              "expanded_url": "https://x.com/Re1_y0/status/1947946536572486058/photo/1",
+              "media_key": "3_1947946525625307136",
+              "start": 111,
+              "url": "https://t.co/dJYYRKLyJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947946536572486058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n我是蕾/つぼみ／レイ\n\nOD/自伤/极端负面言论/日常\n我喜欢文艺片/恐影/听歌/看番\n我有一个我很爱她也很爱我的女朋友\n目前家里蹲中 常年坐标浙a沪a \n\n想认识更多朋友✌︎('ω')✌︎\n\n转发的事情拜托了🫶🫶🫶 https://t.co/dJYYRKLyJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 394,
+          "like_count": 7919,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2295
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜OD&自傷｜直fo选回｜非互fo私信不回｜清水推 ｜⚠️DO NOT re-upload or use my photos｜GF @Asszeqr｜https://t.co/bDeHLHWgRo📪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 123,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 100,
+                "url": "https://t.co/bDeHLHWgRo"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友",
+        "name": "レイ",
+        "pinned_tweet_id": "1937038817640480853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 205,
+          "like_count": 1671,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3512
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2061467512248656207",
+    "created_at": "2026-06-02T22:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061945797168832554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4775210080",
+          "start": 0,
+          "username": "lazydjay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061945797168832554",
+    "in_reply_to_user_id": "4775210080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061467512248656207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazydjay 暗恋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2061466842229567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvNK79W8AAkEZN.png",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2061467512248656207",
+        "created_at": "2026-06-02T22:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061945797168832554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4775210080",
+              "start": 0,
+              "username": "lazydjay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061945797168832554",
+        "in_reply_to_user_id": "4775210080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061467512248656207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazydjay 暗恋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061466842229567488"
+          ]
+        },
+        "author_id": "4775210080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2061467512248656207",
+        "created_at": "2026-06-01T15:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061467512248656207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qH1kK3etCw",
+              "end": 57,
+              "expanded_url": "https://x.com/lazydjay/status/2061467512248656207/photo/1",
+              "media_key": "3_2061466842229567488",
+              "start": 34,
+              "url": "https://t.co/qH1kK3etCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061467512248656207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 1652176,
+          "like_count": 3530,
+          "quote_count": 45,
+          "reply_count": 762,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "一到半夜，川普就发他和习近平的图片，已经两个星期了，这是什么病？🤔 https://t.co/qH1kK3etCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 1470,
+          "like_count": 42568,
+          "listed_count": 6,
+          "media_count": 1842,
+          "tweet_count": 12630
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-11T14:56:13.000Z",
+        "description": "叫俺\"小外宣\"好了，早期毕业中国XX美术学院，现为职业画家，定居英国，爱好自由，对独裁深恶痛绝，有朋自远方来 聊感兴趣的话题 不亦乐乎！💕",
+        "id": "4775210080",
+        "name": "Jay Yates",
+        "pinned_tweet_id": "1468233775490478080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026910219251388417/J8FomQsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81050,
+          "following_count": 329,
+          "like_count": 62249,
+          "listed_count": 346,
+          "media_count": 18851,
+          "tweet_count": 38914
+        },
+        "username": "lazydjay",
+        "verified": false
+      }
+    ]
+  }
+}

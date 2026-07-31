@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1855367291782984086",
+    "created_at": "2024-11-09T22:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T23:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855370923039429045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855370923039429045",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855367291782984086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T 你是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1855367291782984086",
+        "created_at": "2024-11-09T22:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T23:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855370923039429045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855370923039429045",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855367291782984086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T 你是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764991223792906240",
+        "conversation_id": "1855367291782984086",
+        "created_at": "2024-11-09T21:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T22:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855367291782984086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsrxingqiri/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hsrxingqiri/status/1855365899055706132",
+              "start": 20,
+              "url": "https://t.co/7RIUeSTfNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855367291782984086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855365899055706132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来评评牢日，大家应该都能猜出来他是谁吧 https://t.co/7RIUeSTfNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "我是我",
+        "id": "1837114188046684161",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 218,
+          "like_count": 3329,
+          "listed_count": 0,
+          "tweet_count": 866
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz🎄🎄🎄",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844415201975971840/XVhxyUfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1894,
+          "like_count": 130515,
+          "listed_count": 6,
+          "tweet_count": 13582
+        },
+        "username": "ZW3333T",
+        "verified": false
+      }
+    ]
+  }
+}

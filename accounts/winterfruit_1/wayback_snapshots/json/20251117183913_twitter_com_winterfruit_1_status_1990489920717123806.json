@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1990361383591157760"
+      ],
+      "media_source_tweet_id": [
+        "1990361683089674246"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990489920717123806",
+    "created_at": "2025-11-17T18:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T19:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990489920717123806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963118330707050496",
+          "start": 3,
+          "username": "mtnyan123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAN91IwWAE",
+          "end": 38,
+          "expanded_url": "https://x.com/mtnyan123/status/1990361683089674246/video/1",
+          "media_key": "7_1990361383591157760",
+          "start": 15,
+          "url": "https://t.co/oAN91IwWAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990489920717123806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990361683089674246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtnyan123: https://t.co/oAN91IwWAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120500,
+        "height": 720,
+        "media_key": "7_1990361383591157760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990361383591157760/pu/img/9QAS_c3YO6_GeXgE.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990361383591157760/pu/vid/avc1/320x320/apQvtK8GVWyWXhuC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990361383591157760/pu/vid/avc1/540x540/ae3BoLdeqDT-_8WM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990361383591157760/pu/vid/avc1/720x720/ndDzb0GasxXShhPe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990361383591157760/pu/pl/mNSK2ibKUTZJ-qy0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990361383591157760"
+          ],
+          "media_source_tweet_id": [
+            "1990361683089674246"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990489920717123806",
+        "created_at": "2025-11-17T18:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T19:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990489920717123806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963118330707050496",
+              "start": 3,
+              "username": "mtnyan123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAN91IwWAE",
+              "end": 38,
+              "expanded_url": "https://x.com/mtnyan123/status/1990361683089674246/video/1",
+              "media_key": "7_1990361383591157760",
+              "start": 15,
+              "url": "https://t.co/oAN91IwWAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990489920717123806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990361683089674246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtnyan123: https://t.co/oAN91IwWAE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990361383591157760"
+          ]
+        },
+        "author_id": "1963118330707050496",
+        "conversation_id": "1990361683089674246",
+        "created_at": "2025-11-17T10:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990361683089674246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAN91IwWAE",
+              "end": 23,
+              "expanded_url": "https://x.com/mtnyan123/status/1990361683089674246/video/1",
+              "media_key": "7_1990361383591157760",
+              "start": 0,
+              "url": "https://t.co/oAN91IwWAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990361683089674246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oAN91IwWAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1287,
+          "like_count": 22232,
+          "listed_count": 5,
+          "media_count": 783,
+          "tweet_count": 7192
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜极度社恐 / 泛性恋｜世界是由乌冬面构成的｜见证人远离我｜加入乌冬面教的tg频道https://t.co/O8CWPcfvRP｜🚪28.88可以加墙内联系方式喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wdm5201314",
+                "end": 75,
+                "expanded_url": "https://t.me/wdm5201314",
+                "start": 52,
+                "url": "https://t.co/O8CWPcfvRP"
+              }
+            ]
+          }
+        },
+        "id": "1963118330707050496",
+        "location": "🚪28.88",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1990306294591562157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 155,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 512
+        },
+        "username": "mtnyan123",
+        "verified": false
+      }
+    ]
+  }
+}

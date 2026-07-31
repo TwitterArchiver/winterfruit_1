@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025710344191246336"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2025710351401296374",
+    "created_at": "2026-02-22T23:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T00:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025710351401296374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXpj6wKbTt",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/2025710351401296374/photo/1",
+          "media_key": "3_2025710344191246336",
+          "start": 0,
+          "url": "https://t.co/SXpj6wKbTt"
+        },
+        {
+          "display_url": "x.com/n552aan552aa/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/n552aan552aa/status/2025521449994469843",
+          "start": 24,
+          "url": "https://t.co/aVaS1Bimkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025710351401296374",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025521449994469843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/SXpj6wKbTt https://t.co/aVaS1Bimkw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025710351401296374].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025710351401296374",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025710351401296374"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2025710344191246336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzE00tagAAGN1f.jpg",
+        "width": 1100
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2025521440934776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwZBNPa0AAsgT9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025521440934776832"
+          ]
+        },
+        "author_id": "2011805883937013766",
+        "conversation_id": "2025521449994469843",
+        "created_at": "2026-02-22T10:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025521449994469843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dqj89gonvo",
+              "end": 138,
+              "expanded_url": "https://x.com/N552AAN552AA/status/2025521449994469843/photo/1",
+              "media_key": "3_2025521440934776832",
+              "start": 115,
+              "url": "https://t.co/Dqj89gonvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025521449994469843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8011,
+          "like_count": 37,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "被我妈抛弃了\n接圆角（我要治双相精分ADHDBPD）\n微信号N552AA（过门槛再加）\n门槛25\n暂时接江浙沪单主包路费\n纯绿50/h \n半绿80/h 可以做插入式以外的行为\n口交400/次\n涩涩800/次无套+150要准备试纸 https://t.co/Dqj89gonvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1403,
+          "like_count": 34365,
+          "listed_count": 7,
+          "media_count": 1388,
+          "tweet_count": 10262
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:21:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/精分/家长抛弃党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/imSQNaN8M8"
+              }
+            ]
+          }
+        },
+        "id": "2011805883937013766",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（五代目）",
+        "pinned_tweet_id": "2025521449994469843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011806091517313029/rq4MKgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 124,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/imSQNaN8M8",
+        "username": "N552AAN552AA",
+        "verified": false
+      }
+    ]
+  }
+}

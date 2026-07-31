@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886020823217303552"
+      ],
+      "media_source_tweet_id": [
+        "1886020831391982001"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "1886654743520665796",
+    "created_at": "2025-02-04T05:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T06:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886654743520665796"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "オーゼンさん",
+          "probability": 0.573,
+          "start": 48,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "miabyss"
+        },
+        {
+          "end": 35,
+          "start": 26,
+          "tag": "メイドインアビス"
+        },
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "オーゼン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775175173047820288",
+          "start": 3,
+          "username": "Kinonono0_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YpcGihYF9Z",
+          "end": 78,
+          "expanded_url": "https://x.com/Kinonono0_0/status/1886020831391982001/photo/1",
+          "media_key": "3_1886020823217303552",
+          "start": 55,
+          "url": "https://t.co/YpcGihYF9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886654743520665796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886020831391982001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinonono0_0: #miabyss #メイドインアビス  #オーゼン \n祝福妄想オーゼンさん https://t.co/YpcGihYF9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886020823217303552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gix98jbbcAANOSy.jpg",
+        "width": 1480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886020823217303552"
+          ],
+          "media_source_tweet_id": [
+            "1886020831391982001"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1886654743520665796",
+        "created_at": "2025-02-04T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886654743520665796"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "オーゼンさん",
+              "probability": 0.573,
+              "start": 48,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "miabyss"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "オーゼン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775175173047820288",
+              "start": 3,
+              "username": "Kinonono0_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpcGihYF9Z",
+              "end": 78,
+              "expanded_url": "https://x.com/Kinonono0_0/status/1886020831391982001/photo/1",
+              "media_key": "3_1886020823217303552",
+              "start": 55,
+              "url": "https://t.co/YpcGihYF9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886654743520665796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886020831391982001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinonono0_0: #miabyss #メイドインアビス  #オーゼン \n祝福妄想オーゼンさん https://t.co/YpcGihYF9Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886020823217303552"
+          ]
+        },
+        "author_id": "1775175173047820288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          }
+        ],
+        "conversation_id": "1886020831391982001",
+        "created_at": "2025-02-02T11:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T12:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886020831391982001"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "オーゼンさん",
+              "probability": 0.5274,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "miabyss"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "オーゼン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpcGihYF9Z",
+              "end": 61,
+              "expanded_url": "https://x.com/Kinonono0_0/status/1886020831391982001/photo/1",
+              "media_key": "3_1886020823217303552",
+              "start": 38,
+              "url": "https://t.co/YpcGihYF9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886020831391982001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 18746,
+          "like_count": 1741,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "#miabyss #メイドインアビス  #オーゼン \n祝福妄想オーゼンさん https://t.co/YpcGihYF9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4646,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1122
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T14:55:29.000Z",
+        "description": "18 3L、EN🤏 オゼ様狂  少年漫画練習 雑食 左右相手非固定",
+        "id": "1775175173047820288",
+        "name": "きにょこ",
+        "pinned_tweet_id": "1886356571720151424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886021018378231808/e3ZrIidi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 16,
+          "like_count": 1505,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 826
+        },
+        "username": "Kinonono0_0",
+        "verified": false
+      }
+    ]
+  }
+}

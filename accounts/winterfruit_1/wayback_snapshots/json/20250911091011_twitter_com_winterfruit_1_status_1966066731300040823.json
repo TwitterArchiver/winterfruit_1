@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1966066731300040823",
+    "created_at": "2025-09-11T09:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T10:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966066731300040823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/edward_8964/status/1966021883503247574",
+          "start": 6,
+          "url": "https://t.co/tJUObyF6wb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966066731300040823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966021883503247574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也玩毒吗 https://t.co/tJUObyF6wb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966021870131744768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0i2eXXaEAA54cz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1966066731300040823",
+        "created_at": "2025-09-11T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966066731300040823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/edward_8964/status/1966021883503247574",
+              "start": 6,
+              "url": "https://t.co/tJUObyF6wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966066731300040823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966021883503247574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也玩毒吗 https://t.co/tJUObyF6wb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966021870131744768"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1966021883503247574",
+        "created_at": "2025-09-11T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966021883503247574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woxNjqlNJo",
+              "end": 23,
+              "expanded_url": "https://x.com/Edward_8964/status/1966021883503247574/photo/1",
+              "media_key": "3_1966021870131744768",
+              "start": 0,
+              "url": "https://t.co/woxNjqlNJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966021883503247574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/woxNjqlNJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 477,
+          "like_count": 11104,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 3551
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1965081461217964097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965419822738800644/pPqeg0w5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 429,
+          "like_count": 3840,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

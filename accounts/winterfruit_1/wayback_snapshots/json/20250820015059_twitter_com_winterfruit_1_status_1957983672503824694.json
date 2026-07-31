@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957871301621583872"
+      ],
+      "media_source_tweet_id": [
+        "1957871309301457208"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1957983672503824694",
+    "created_at": "2025-08-20T01:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T02:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957983672503824694"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Japan",
+          "probability": 0.9693,
+          "start": 35,
+          "type": "Place"
+        },
+        {
+          "end": 87,
+          "normalized_text": "Neurosama",
+          "probability": 0.7423,
+          "start": 79,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 63,
+          "tag": "heartheartart"
+        },
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "Neurosama"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1296526496",
+          "start": 3,
+          "username": "Mantisprayer22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PunKmVxMNJ",
+          "end": 112,
+          "expanded_url": "https://x.com/Mantisprayer22/status/1957871309301457208/photo/1",
+          "media_key": "3_1957871301621583872",
+          "start": 89,
+          "url": "https://t.co/PunKmVxMNJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957983672503824694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957871309301457208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mantisprayer22: Neuro visiting Japan! Such a great stream.\n#heartheartart #Neurosama https://t.co/PunKmVxMNJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1957871301621583872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyvBk1kWEAAiVw5.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957871301621583872"
+          ],
+          "media_source_tweet_id": [
+            "1957871309301457208"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957983672503824694",
+        "created_at": "2025-08-20T01:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957983672503824694"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Japan",
+              "probability": 0.9693,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Neurosama",
+              "probability": 0.7423,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 63,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "Neurosama"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1296526496",
+              "start": 3,
+              "username": "Mantisprayer22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PunKmVxMNJ",
+              "end": 112,
+              "expanded_url": "https://x.com/Mantisprayer22/status/1957871309301457208/photo/1",
+              "media_key": "3_1957871301621583872",
+              "start": 89,
+              "url": "https://t.co/PunKmVxMNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957983672503824694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957871309301457208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mantisprayer22: Neuro visiting Japan! Such a great stream.\n#heartheartart #Neurosama https://t.co/PunKmVxMNJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957871301621583872"
+          ]
+        },
+        "author_id": "1296526496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957871309301457208",
+        "created_at": "2025-08-19T18:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T19:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957871309301457208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Japan",
+              "probability": 0.9764,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Neurosama",
+              "probability": 0.721,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 43,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "Neurosama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PunKmVxMNJ",
+              "end": 92,
+              "expanded_url": "https://x.com/Mantisprayer22/status/1957871309301457208/photo/1",
+              "media_key": "3_1957871301621583872",
+              "start": 69,
+              "url": "https://t.co/PunKmVxMNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957871309301457208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 4656,
+          "like_count": 657,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "Neuro visiting Japan! Such a great stream.\n#heartheartart #Neurosama https://t.co/PunKmVxMNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit涘er澪",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 443,
+          "like_count": 9813,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3188
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-24T20:24:01.000Z",
+        "description": "Drawing poorly since 1995.",
+        "id": "1296526496",
+        "name": "Mantisprayer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668651249246281729/hBatSM0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 396,
+          "like_count": 16619,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 403
+        },
+        "username": "Mantisprayer22",
+        "verified": false
+      }
+    ]
+  }
+}

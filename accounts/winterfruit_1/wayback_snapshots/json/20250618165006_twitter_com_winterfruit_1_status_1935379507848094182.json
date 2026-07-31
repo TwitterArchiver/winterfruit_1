@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935320672215121924"
+      ],
+      "media_source_tweet_id": [
+        "1935320695212491072"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1935379507848094182",
+    "created_at": "2025-06-18T16:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T17:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935379507848094182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931946212930076672",
+          "start": 3,
+          "username": "wudaisuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WSBgAfWZ9h",
+          "end": 43,
+          "expanded_url": "https://x.com/wudaisuki/status/1935320695212491072/photo/1",
+          "media_key": "3_1935320672215121924",
+          "start": 20,
+          "url": "https://t.co/WSBgAfWZ9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935379507848094182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935320695212491072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wudaisuki: 今日总结 https://t.co/WSBgAfWZ9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1935320672215121924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtuj5cnaQAQ7a2_.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935320672215121924"
+          ],
+          "media_source_tweet_id": [
+            "1935320695212491072"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1935379507848094182",
+        "created_at": "2025-06-18T16:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935379507848094182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931946212930076672",
+              "start": 3,
+              "username": "wudaisuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSBgAfWZ9h",
+              "end": 43,
+              "expanded_url": "https://x.com/wudaisuki/status/1935320695212491072/photo/1",
+              "media_key": "3_1935320672215121924",
+              "start": 20,
+              "url": "https://t.co/WSBgAfWZ9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935379507848094182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935320695212491072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wudaisuki: 今日总结 https://t.co/WSBgAfWZ9h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935320672215121924"
+          ]
+        },
+        "author_id": "1931946212930076672",
+        "conversation_id": "1935320695212491072",
+        "created_at": "2025-06-18T12:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935320695212491072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSBgAfWZ9h",
+              "end": 28,
+              "expanded_url": "https://x.com/wudaisuki/status/1935320695212491072/photo/1",
+              "media_key": "3_1935320672215121924",
+              "start": 5,
+              "url": "https://t.co/WSBgAfWZ9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935320695212491072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日总结 https://t.co/WSBgAfWZ9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 333,
+          "like_count": 6492,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1809
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T05:27:34.000Z",
+        "description": "这里是小舞 喜欢吃牛肉盖饭",
+        "id": "1931946212930076672",
+        "name": "川澄 舞",
+        "pinned_tweet_id": "1933571861964861466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931946328063725568/26JQ1Rn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 104,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 164
+        },
+        "username": "wudaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

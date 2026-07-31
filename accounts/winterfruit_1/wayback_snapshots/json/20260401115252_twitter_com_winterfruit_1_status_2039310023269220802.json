@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039309992361328640"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039310023269220802",
+    "created_at": "2026-04-01T11:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039310023269220802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5FJY03wIo",
+          "end": 27,
+          "expanded_url": "https://x.com/winterfruit_1/status/2039310023269220802/photo/1",
+          "media_key": "3_2039309992361328640",
+          "start": 4,
+          "url": "https://t.co/n5FJY03wIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039310023269220802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "伏特加 https://t.co/n5FJY03wIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039309992361328640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0VoiGaAAAMu--.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039309992361328640"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039310023269220802",
+        "created_at": "2026-04-01T11:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039310023269220802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5FJY03wIo",
+              "end": 27,
+              "expanded_url": "https://x.com/winterfruit_1/status/2039310023269220802/photo/1",
+              "media_key": "3_2039309992361328640",
+              "start": 4,
+              "url": "https://t.co/n5FJY03wIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039310023269220802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伏特加 https://t.co/n5FJY03wIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038575262062014465/r89x5P5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1465,
+          "like_count": 38567,
+          "listed_count": 7,
+          "media_count": 1602,
+          "tweet_count": 11288
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

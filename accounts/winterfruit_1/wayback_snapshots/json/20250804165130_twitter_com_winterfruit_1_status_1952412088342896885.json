@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952382319467356160"
+      ],
+      "media_source_tweet_id": [
+        "1952382387394076863"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1952412088342896885",
+    "created_at": "2025-08-04T16:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952412088342896885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "969172098382946305",
+          "start": 3,
+          "username": "Slug10000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQwERGU92T",
+          "end": 38,
+          "expanded_url": "https://x.com/Slug10000/status/1952382387394076863/photo/1",
+          "media_key": "3_1952382319467356160",
+          "start": 15,
+          "url": "https://t.co/RQwERGU92T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952412088342896885",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952382387394076863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slug10000: https://t.co/RQwERGU92T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1952382319467356160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhBYBma4AA4YS2.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952382319467356160"
+          ],
+          "media_source_tweet_id": [
+            "1952382387394076863"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1952412088342896885",
+        "created_at": "2025-08-04T16:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952412088342896885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "969172098382946305",
+              "start": 3,
+              "username": "Slug10000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQwERGU92T",
+              "end": 38,
+              "expanded_url": "https://x.com/Slug10000/status/1952382387394076863/photo/1",
+              "media_key": "3_1952382319467356160",
+              "start": 15,
+              "url": "https://t.co/RQwERGU92T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952412088342896885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952382387394076863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Slug10000: https://t.co/RQwERGU92T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952382319467356160"
+          ]
+        },
+        "author_id": "969172098382946305",
+        "conversation_id": "1952382387394076863",
+        "created_at": "2025-08-04T14:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952382387394076863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQwERGU92T",
+              "end": 23,
+              "expanded_url": "https://x.com/Slug10000/status/1952382387394076863/photo/1",
+              "media_key": "3_1952382319467356160",
+              "start": 0,
+              "url": "https://t.co/RQwERGU92T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952382387394076863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 14271,
+          "like_count": 905,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RQwERGU92T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 412,
+          "like_count": 8547,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 2568
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-01T11:26:49.000Z",
+        "description": "炸虾",
+        "id": "969172098382946305",
+        "location": "china",
+        "name": "s'slug",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902180770221068288/MM0l2bIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10223,
+          "following_count": 85,
+          "like_count": 114,
+          "listed_count": 55,
+          "media_count": 258,
+          "tweet_count": 273
+        },
+        "username": "Slug10000",
+        "verified": false
+      }
+    ]
+  }
+}

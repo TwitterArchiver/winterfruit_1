@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022879267365990400"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2022879273993015700",
+    "created_at": "2026-02-15T03:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022879273993015700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/muO7quk9hu",
+          "end": 68,
+          "expanded_url": "https://x.com/winterfruit_1/status/2022879273993015700/photo/1",
+          "media_key": "3_2022879267365990400",
+          "start": 45,
+          "url": "https://t.co/muO7quk9hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022879273993015700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你吗的，如果人类都能善用屏蔽就好了\n大家都少去对着别人指指点点的话网络环境一定会好很多的 https://t.co/muO7quk9hu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022879273993015700].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022879273993015700",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022879273993015700"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 428,
+        "media_key": "3_2022879267365990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK1-draMAA98ZY.jpg",
+        "width": 1320
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 1524,
+          "like_count": 33400,
+          "listed_count": 7,
+          "media_count": 1351,
+          "tweet_count": 10118
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

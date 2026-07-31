@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1855185972880924933",
+    "created_at": "2024-11-09T11:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T12:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855212538419663009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814278258189533184",
+          "start": 0,
+          "username": "Asphyxia_v_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855212538419663009",
+    "in_reply_to_user_id": "1814278258189533184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855209828765081937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asphyxia_v_ 我是winit😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1855185972880924933",
+        "created_at": "2024-11-09T11:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855212538419663009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814278258189533184",
+              "start": 0,
+              "username": "Asphyxia_v_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855212538419663009",
+        "in_reply_to_user_id": "1814278258189533184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855209828765081937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asphyxia_v_ 我是winit😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814278258189533184",
+        "conversation_id": "1855185972880924933",
+        "created_at": "2024-11-09T11:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855209828765081937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855209828765081937",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855185972880924933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 那你tm是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "今日方知我是我😋",
+        "id": "1837114188046684161",
+        "location": "北京",
+        "name": "栗子头？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854880019505729536/4DQjDuCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 207,
+          "like_count": 3271,
+          "listed_count": 0,
+          "tweet_count": 857
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T12:37:12.000Z",
+        "description": "总体是阳光开朗的，如果有时候突然发了个什么很奇怪的推，那大概率是有什么东西跑出来了，不用管，过会就回去了。",
+        "id": "1814278258189533184",
+        "location": "诺文斯克经济开发区",
+        "name": "废熊Asphyxia",
+        "pinned_tweet_id": "1838059931628707907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814488676312985607/v0LxtW_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 170,
+          "like_count": 24720,
+          "listed_count": 2,
+          "tweet_count": 14172
+        },
+        "username": "Asphyxia_v_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040480133115736064"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2040480139486839230",
+    "created_at": "2026-04-04T17:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040480139486839230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkB1Bvxjvs",
+          "end": 28,
+          "expanded_url": "https://x.com/winterfruit_1/status/2040480139486839230/photo/1",
+          "media_key": "3_2040480133115736064",
+          "start": 5,
+          "url": "https://t.co/rkB1Bvxjvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040480139486839230",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/rkB1Bvxjvs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2040480133115736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE93sGa8AA4Ytv.jpg",
+        "width": 399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040480133115736064"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2040480139486839230",
+        "created_at": "2026-04-04T17:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040480139486839230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkB1Bvxjvs",
+              "end": 28,
+              "expanded_url": "https://x.com/winterfruit_1/status/2040480139486839230/photo/1",
+              "media_key": "3_2040480133115736064",
+              "start": 5,
+              "url": "https://t.co/rkB1Bvxjvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040480139486839230",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/rkB1Bvxjvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 1463,
+          "like_count": 38788,
+          "listed_count": 7,
+          "media_count": 1618,
+          "tweet_count": 11364
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

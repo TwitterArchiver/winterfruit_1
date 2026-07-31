@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067610419175542784"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067610448103678212",
+    "created_at": "2026-06-18T14:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067610448103678212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NAs2vjjcW",
+          "end": 30,
+          "expanded_url": "https://x.com/winterfruit_1/status/2067610448103678212/photo/1",
+          "media_key": "3_2067610419175542784",
+          "start": 7,
+          "url": "https://t.co/3NAs2vjjcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067610448103678212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舞萌病毒初期 https://t.co/3NAs2vjjcW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067610419175542784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGguLja0AAM0fP.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067610419175542784"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067610448103678212",
+        "created_at": "2026-06-18T14:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067610448103678212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NAs2vjjcW",
+              "end": 30,
+              "expanded_url": "https://x.com/winterfruit_1/status/2067610448103678212/photo/1",
+              "media_key": "3_2067610419175542784",
+              "start": 7,
+              "url": "https://t.co/3NAs2vjjcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067610448103678212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌病毒初期 https://t.co/3NAs2vjjcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 1476,
+          "like_count": 43026,
+          "listed_count": 6,
+          "media_count": 1867,
+          "tweet_count": 12810
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

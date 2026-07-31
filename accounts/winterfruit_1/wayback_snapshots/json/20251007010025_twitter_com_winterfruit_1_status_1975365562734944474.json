@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974279624424398934",
+    "created_at": "2025-10-07T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975365562734944474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975365562734944474",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974279624424398934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974279624424398934",
+        "created_at": "2025-10-07T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975365562734944474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975365562734944474",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974279624424398934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617685747116675073",
+        "conversation_id": "1974279624424398934",
+        "created_at": "2025-10-04T01:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T02:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974279624424398934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/overdose_six/status/1974033597318524942",
+              "start": 13,
+              "url": "https://t.co/GNCGNiUvlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974279624424398934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974033597318524942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起来我干嚼白云山了 https://t.co/GNCGNiUvlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 712,
+          "like_count": 15586,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 4783
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "=牧雨║ボカロP🤍DTM💙MUG🩶Music Anim🩵Psyyyyy！🖤退役CChOer║妹@molmolxing┊姐@elsa_yrt┊妹@ZTYQ_0319┆好友ちゃん@634LIVINLIMBO┊亲爱的@Nijika_Overdose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "molmolxing"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "ZTYQ_0319"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Nijika_Overdose"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "location": "Love Pays for Itself",
+        "name": "旋宫牧雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 750,
+          "like_count": 55701,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 8156
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985640914048729089"
+      ],
+      "media_source_tweet_id": [
+        "1985640924756787425"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1985655017630810300",
+    "created_at": "2025-11-04T10:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985655017630810300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/En8cCniEaA",
+          "end": 66,
+          "expanded_url": "https://x.com/FxxkApexLegend/status/1985640924756787425/photo/1",
+          "media_key": "3_1985640914048729089",
+          "start": 43,
+          "url": "https://t.co/En8cCniEaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985655017630810300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985640924756787425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 和我在成都的街头走一走哦哦哦哦哦哦哦要高潮了 https://t.co/En8cCniEaA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985655017630810300].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985655017630810300",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985655017630810300"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_1985640914048729089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45p5BVbQAEa8zN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985640914048729089"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1985640924756787425",
+        "created_at": "2025-11-04T09:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T10:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985640924756787425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/En8cCniEaA",
+              "end": 46,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1985640924756787425/photo/1",
+              "media_key": "3_1985640914048729089",
+              "start": 23,
+              "url": "https://t.co/En8cCniEaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985640924756787425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和我在成都的街头走一走哦哦哦哦哦哦哦要高潮了 https://t.co/En8cCniEaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1222,
+          "like_count": 21237,
+          "listed_count": 5,
+          "media_count": 712,
+          "tweet_count": 6632
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834861589573632/M2WZxoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 338,
+          "like_count": 2371,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

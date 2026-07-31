@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1936398696390037578",
+    "created_at": "2025-06-21T13:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T14:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936413281650086164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        },
+        {
+          "end": 22,
+          "id": "1753419726582345728",
+          "start": 9,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 32,
+          "id": "1852293817627787264",
+          "start": 23,
+          "username": "Orc30678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936413281650086164",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936413154734645351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T @GravitySwiss @Orc30678 我喜欢你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1936413154734645351].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1936413154734645351",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1936413154734645351"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1936398696390037578",
+        "created_at": "2025-06-21T13:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936413281650086164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            },
+            {
+              "end": 22,
+              "id": "1753419726582345728",
+              "start": 9,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 32,
+              "id": "1852293817627787264",
+              "start": 23,
+              "username": "Orc30678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936413281650086164",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936413154734645351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T @GravitySwiss @Orc30678 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 339,
+          "like_count": 6636,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1860
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz✌😹💯",
+        "pinned_tweet_id": "1910023961548841235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934552792490029056/HKkorxZQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 2782,
+          "like_count": 223307,
+          "listed_count": 17,
+          "media_count": 1095,
+          "tweet_count": 24084
+        },
+        "username": "ZW3333T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 2809,
+          "like_count": 117331,
+          "listed_count": 15,
+          "media_count": 1493,
+          "tweet_count": 35021
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T10:18:17.000Z",
+        "description": "あのブルグント人をコロセ @AzumaSerenの野良父 変人垢、ブロックミュート、以外フォロー、返す。 hoi4等のゲーム内容を投稿しています。基本自ら政治の話をしない。 無許可会話追加は遠慮で。興味極広い。アクナイドクター\n小号/サブ垢@SubOrc30678",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "AzumaSeren"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "SubOrc30678"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "TNO.wiki",
+                "end": 23,
+                "expanded_url": "http://TNO.wiki",
+                "start": 0,
+                "url": "https://t.co/iHdsSVFUEH"
+              }
+            ]
+          }
+        },
+        "id": "1852293817627787264",
+        "location": "ブルグント騎士団国 ブリュッセル本部",
+        "name": "☢️🇩🇪ORC🇨🇵☢️",
+        "pinned_tweet_id": "1895074326891897023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936082350984798208/DiaUb_wJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 2643,
+          "like_count": 43006,
+          "listed_count": 1,
+          "media_count": 753,
+          "tweet_count": 8712
+        },
+        "url": "https://t.co/iHdsSVFUEH",
+        "username": "Orc30678",
+        "verified": false
+      }
+    ]
+  }
+}

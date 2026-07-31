@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2029580321751240759",
+    "created_at": "2026-03-05T19:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T20:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029637710642827537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942936355140689920",
+          "start": 0,
+          "username": "BaoLian15506"
+        },
+        {
+          "end": 23,
+          "id": "1968187553695272960",
+          "start": 14,
+          "username": "EzraRan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029637710642827537",
+    "in_reply_to_user_id": "1942936355140689920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029580690019467531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoLian15506 @EzraRan_ 火玄里予禾中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2029580321751240759",
+        "created_at": "2026-03-05T19:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T20:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029637710642827537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942936355140689920",
+              "start": 0,
+              "username": "BaoLian15506"
+            },
+            {
+              "end": 23,
+              "id": "1968187553695272960",
+              "start": 14,
+              "username": "EzraRan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029637710642827537",
+        "in_reply_to_user_id": "1942936355140689920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029580690019467531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoLian15506 @EzraRan_ 火玄里予禾中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942936355140689920",
+        "conversation_id": "2029580321751240759",
+        "created_at": "2026-03-05T15:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029580690019467531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029580690019467531",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029580321751240759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan_ 这词还是一个主播创造出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1449,
+          "like_count": 35880,
+          "listed_count": 7,
+          "media_count": 1470,
+          "tweet_count": 10561
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T13:18:32.000Z",
+        "description": "政治立场中间偏左，反中，沾点精日，半个支黑，军迷，但是坚决反对法西斯和军国主义，我个人说话有些不解风情和烦人请别介意",
+        "id": "1942936355140689920",
+        "name": "保安司令部小将冬雪莲",
+        "pinned_tweet_id": "2025801520491712807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942936749837361152/UAyzFnx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 1176,
+          "like_count": 8221,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1093
+        },
+        "username": "BaoLian15506",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRanレン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté Égalité Fraternité🇫🇷丨Egalitarianism&EQUAL opportunity丨\n🇯🇵 #国民民主党 🇹🇼 #民衆党 支持丨ガンディ推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 130,
+                "tag": "国民民主党"
+              },
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "民衆党"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 2179,
+          "like_count": 29189,
+          "listed_count": 9,
+          "media_count": 1247,
+          "tweet_count": 9185
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

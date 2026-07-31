@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1942888333224657104",
+    "created_at": "2025-07-09T18:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T19:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943018757342863557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943018757342863557",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942888333224657104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1942888333224657104",
+        "created_at": "2025-07-09T18:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T19:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943018757342863557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943018757342863557",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942888333224657104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828062670580543488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1665842709817442304",
+              "name": "Apple Vision Pro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1942888333224657104",
+        "created_at": "2025-07-09T10:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942888333224657104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942888333224657104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用Apple Vision Pro看片感觉好真实啊，上次去朋友家试戴，结果真的被操了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 368,
+          "like_count": 7491,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2097
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo https://t.co/iQo8cdBwYA（discord频道）畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN https://t.co/Rn34rO8Ity",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/NUn8b5A9",
+                "end": 66,
+                "expanded_url": "https://discord.gg/NUn8b5A9",
+                "start": 43,
+                "url": "https://t.co/iQo8cdBwYA"
+              },
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=N1RbskWt",
+                "start": 104,
+                "url": "https://t.co/Rn34rO8Ity"
+              }
+            ]
+          }
+        },
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "暖言猫猫喵梦Nyamuchi💖💖💖",
+        "pinned_tweet_id": "1916695020075459027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917501944379367427/pNBs76Ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 325,
+          "like_count": 6518,
+          "listed_count": 6,
+          "media_count": 599,
+          "tweet_count": 8722
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952056917167124480"
+      ],
+      "media_source_tweet_id": [
+        "1952056970027917777"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952277391600197862",
+    "created_at": "2025-08-04T07:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T08:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952277391600197862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1501687755184607236",
+          "start": 3,
+          "username": "twinsfucker"
+        },
+        {
+          "end": 32,
+          "id": "1764683277150060544",
+          "start": 17,
+          "username": "_Mononobe_Futo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqqxLtXKhM",
+          "end": 56,
+          "expanded_url": "https://x.com/twinsfucker/status/1952056970027917777/video/1",
+          "media_key": "13_1952056917167124480",
+          "start": 33,
+          "url": "https://t.co/fqqxLtXKhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952277391600197862",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952056970027917777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twinsfucker: @_Mononobe_Futo https://t.co/fqqxLtXKhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45909,
+        "height": 480,
+        "media_key": "13_1952056917167124480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952056917167124480/img/1CUgQ5ilzr69-_eo.jpg",
+        "public_metrics": {
+          "view_count": 274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952056917167124480/vid/avc1/320x320/zb-Z0pIvW8fsvutR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952056917167124480/vid/avc1/480x480/fBmlXJq2v5Z4JD89.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952056917167124480/pl/xaFRyNJHl1nKG22w.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952056917167124480"
+          ],
+          "media_source_tweet_id": [
+            "1952056970027917777"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952277391600197862",
+        "created_at": "2025-08-04T07:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T08:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952277391600197862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1501687755184607236",
+              "start": 3,
+              "username": "twinsfucker"
+            },
+            {
+              "end": 32,
+              "id": "1764683277150060544",
+              "start": 17,
+              "username": "_Mononobe_Futo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqqxLtXKhM",
+              "end": 56,
+              "expanded_url": "https://x.com/twinsfucker/status/1952056970027917777/video/1",
+              "media_key": "13_1952056917167124480",
+              "start": 33,
+              "url": "https://t.co/fqqxLtXKhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952277391600197862",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952056970027917777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twinsfucker: @_Mononobe_Futo https://t.co/fqqxLtXKhM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952056917167124480"
+          ]
+        },
+        "author_id": "1501687755184607236",
+        "conversation_id": "1952047594714382608",
+        "created_at": "2025-08-03T17:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T18:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952056970027917777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764683277150060544",
+              "start": 0,
+              "username": "_Mononobe_Futo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqqxLtXKhM",
+              "end": 39,
+              "expanded_url": "https://x.com/twinsfucker/status/1952056970027917777/video/1",
+              "media_key": "13_1952056917167124480",
+              "start": 16,
+              "url": "https://t.co/fqqxLtXKhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952056970027917777",
+        "in_reply_to_user_id": "1764683277150060544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 655,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952047594714382608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Mononobe_Futo https://t.co/fqqxLtXKhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 409,
+          "like_count": 8505,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2551
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T22:34:08.000Z",
+        "description": "🐰",
+        "id": "1501687755184607236",
+        "name": "Stranded",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942046596289425408/fZM-bE7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 434,
+          "like_count": 14496,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 202
+        },
+        "username": "twinsfucker",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T16:04:37.000Z",
+        "description": "The Shikaisen from Ancient Japan",
+        "id": "1764683277150060544",
+        "location": "Hall of Dreams Great Mausoleum",
+        "name": "Mononobe no Futo",
+        "pinned_tweet_id": "1770713399158055191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906297240819486720/2ReUmj_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15483,
+          "following_count": 400,
+          "like_count": 13986,
+          "listed_count": 18,
+          "media_count": 2673,
+          "tweet_count": 11906
+        },
+        "username": "_Mononobe_Futo",
+        "verified": false
+      }
+    ]
+  }
+}

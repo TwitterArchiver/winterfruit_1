@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1961256682241331636",
+    "created_at": "2025-08-29T02:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T03:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961256682241331636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "878230708606468098",
+          "start": 3,
+          "username": "McatSpicy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961256682241331636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960875882148716585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @McatSpicy: 辣猫认为\n     年轻人要待在\n     这样的城市\n1. 有麦当劳\n不符合以上标准的城市\n我劝你年轻人不要待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1961256682241331636",
+        "created_at": "2025-08-29T02:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961256682241331636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "878230708606468098",
+              "start": 3,
+              "username": "McatSpicy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961256682241331636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960875882148716585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @McatSpicy: 辣猫认为\n     年轻人要待在\n     这样的城市\n1. 有麦当劳\n不符合以上标准的城市\n我劝你年轻人不要待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878230708606468098",
+        "conversation_id": "1960875882148716585",
+        "created_at": "2025-08-28T01:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960875882148716585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960875882148716585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14765,
+          "like_count": 243,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "辣猫认为\n     年轻人要待在\n     这样的城市\n1. 有麦当劳\n不符合以上标准的城市\n我劝你年轻人不要待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 445,
+          "like_count": 10131,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3286
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-23T12:38:12.000Z",
+        "description": "馋嘴猫猫叠加麦辣的独特辣味，辣的口感更有层次。搭配清爽切块生菜和美味沙拉酱，多重滋味享受。",
+        "id": "878230708606468098",
+        "location": "麦門町",
+        "name": "麦辣鸡腿猫 =ω=",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944717712862969856/Uvr3SK2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1083,
+          "like_count": 37281,
+          "listed_count": 1,
+          "media_count": 723,
+          "tweet_count": 4421
+        },
+        "username": "McatSpicy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2055435398613205060",
+    "created_at": "2026-05-16T03:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055490220838314251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799623143683944448",
+          "start": 0,
+          "username": "weiguoqingGX"
+        },
+        {
+          "end": 24,
+          "id": "1944225210284314624",
+          "start": 14,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055490220838314251",
+    "in_reply_to_user_id": "1799623143683944448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055438841499308399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiguoqingGX @NMD_China 生日快乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055438841499308399].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055438841499308399",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055438841499308399"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2055435398613205060",
+        "created_at": "2026-05-16T03:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055490220838314251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799623143683944448",
+              "start": 0,
+              "username": "weiguoqingGX"
+            },
+            {
+              "end": 24,
+              "id": "1944225210284314624",
+              "start": 14,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055490220838314251",
+        "in_reply_to_user_id": "1799623143683944448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055438841499308399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiguoqingGX @NMD_China 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 1491,
+          "like_count": 41477,
+          "listed_count": 6,
+          "media_count": 1799,
+          "tweet_count": 12253
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T02:03:20.000Z",
+        "description": "中国，向何处去？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xijinpingnb.cn",
+                "end": 23,
+                "expanded_url": "http://xijinpingnb.cn",
+                "start": 0,
+                "url": "https://t.co/NaO2d8e7KJ"
+              }
+            ]
+          }
+        },
+        "id": "1799623143683944448",
+        "location": "中华人民公社",
+        "name": "🚩山田凉前辈📕☭（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031298376592154624/uVqzrgj8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 803,
+          "like_count": 10275,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 3409
+        },
+        "url": "https://t.co/NaO2d8e7KJ",
+        "username": "weiguoqingGX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "一个因为穷困潦倒无法确诊的脑残患者\n旷世巨作——我的一张大字报：我的劣根性\n你说的对所以我们睡大觉吧\n逃生舱@tiegang114514\n**死男同出没注意**",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 899,
+          "like_count": 159965,
+          "listed_count": 22,
+          "media_count": 1246,
+          "tweet_count": 4614
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

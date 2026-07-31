@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2030282062885011585",
+    "created_at": "2026-03-07T13:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030282062885011585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1683967489946927104",
+          "start": 3,
+          "username": "Lostinlove1962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030282062885011585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030259504110342396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lostinlove1962: 🔝置顶\nhello我是蕾Tsubomi \n目前和女友杭漂中…入🚪即可领取图包（40➕视频50➕图片）TvT\n和女友杭漂中 纯绿188/h 非绿请🚪咨询 定制视频视内容定价\n\n🧱这条抽两个18.88r 三人各送两盒橙普 3.13开奖\n#门槛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030282062885011585].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030282062885011585",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030282062885011585"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030259493016317953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzuQIsaMAE3BOh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030259493033201665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzuQIwb0AEAG_V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030259493016317953",
+            "3_2030259493033201665"
+          ]
+        },
+        "author_id": "1683967489946927104",
+        "conversation_id": "2030259504110342396",
+        "created_at": "2026-03-07T12:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030259504110342396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "门哥"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "可验证"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "地雷女"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "母狗"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "骚狗M"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "杭州"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "杭州线下"
+            },
+            {
+              "end": 167,
+              "start": 162,
+              "tag": "线上非绿"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "百合"
+            },
+            {
+              "end": 175,
+              "start": 172,
+              "tag": "双飞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRvzR3mzWH",
+              "end": 199,
+              "expanded_url": "https://x.com/Lostinlove1962/status/2030259504110342396/photo/1",
+              "media_key": "3_2030259493016317953",
+              "start": 176,
+              "url": "https://t.co/MRvzR3mzWH"
+            },
+            {
+              "display_url": "pic.x.com/MRvzR3mzWH",
+              "end": 199,
+              "expanded_url": "https://x.com/Lostinlove1962/status/2030259504110342396/photo/1",
+              "media_key": "3_2030259493033201665",
+              "start": 176,
+              "url": "https://t.co/MRvzR3mzWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030259504110342396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶\nhello我是蕾Tsubomi \n目前和女友杭漂中…入🚪即可领取图包（40➕视频50➕图片）TvT\n和女友杭漂中 纯绿188/h 非绿请🚪咨询 定制视频视内容定价\n\n🧱这条抽两个18.88r 三人各送两盒橙普 3.13开奖\n#门槛哥  #门哥  #门槛妹 #可验证 #地雷女 #母狗 #骚狗M  #杭州 #杭州线下 #线上非绿 #百合 #双飞 https://t.co/MRvzR3mzWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "Love @w0sh1Asak1 / WinterFruit / 💙 💙💙💙💙💙💙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 1452,
+          "like_count": 36249,
+          "listed_count": 7,
+          "media_count": 1492,
+          "tweet_count": 10651
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T22:29:26.000Z",
+        "description": "🟰蕾160/50kg｜🚪88/188/288/520/1314 赞赏码or口令 入门即可解锁视频图包（40多视频50多张图片）｜ 线下和定制视频请过188🚪咨询（定制看具体要求定价）会报价格和坐标 除过门外私信一律不回 验证20",
+        "id": "1683967489946927104",
+        "name": "Tsubomi（接定制视频",
+        "pinned_tweet_id": "2030259504110342396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030111240258007040/nfX2oQHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "Lostinlove1962",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066555152069541888"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2066516775756562578",
+    "created_at": "2026-06-15T16:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066555161255039324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 27,
+          "id": "1802704441961017344",
+          "start": 14,
+          "username": "misumikaede3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tn4mEetYI0",
+          "end": 51,
+          "expanded_url": "https://x.com/winterfruit_1/status/2066555161255039324/photo/1",
+          "media_key": "3_2066555152069541888",
+          "start": 28,
+          "url": "https://t.co/tn4mEetYI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066555161255039324",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066516775756562578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @misumikaede3 https://t.co/tn4mEetYI0"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066516775756562578].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066516775756562578",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066516775756562578"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2066555152069541888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3g9jPbwAAnxPT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066555152069541888"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2066516775756562578",
+        "created_at": "2026-06-15T16:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066555161255039324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 27,
+              "id": "1802704441961017344",
+              "start": 14,
+              "username": "misumikaede3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn4mEetYI0",
+              "end": 51,
+              "expanded_url": "https://x.com/winterfruit_1/status/2066555161255039324/photo/1",
+              "media_key": "3_2066555152069541888",
+              "start": 28,
+              "url": "https://t.co/tn4mEetYI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066555161255039324",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516775756562578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @misumikaede3 https://t.co/tn4mEetYI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 1472,
+          "like_count": 42875,
+          "listed_count": 6,
+          "media_count": 1859,
+          "tweet_count": 12759
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "高原整活观景台 https://t.co/ALu7jA4oBj\n有事请点击https://t.co/VRpZNWqcKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 31,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 8,
+                "url": "https://t.co/ALu7jA4oBj"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 60,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 37,
+                "url": "https://t.co/VRpZNWqcKT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 70,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 735,
+          "tweet_count": 7251
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1230,
+          "like_count": 36266,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 11518
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

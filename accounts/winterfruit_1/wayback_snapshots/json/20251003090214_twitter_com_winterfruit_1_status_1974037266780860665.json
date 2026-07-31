@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974037266780860665",
+    "created_at": "2025-10-03T09:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974037266780860665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1973990436374204879",
+          "start": 10,
+          "url": "https://t.co/wL4bOaekfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974037266780860665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973990436374204879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "素质品味修养都很低 https://t.co/wL4bOaekfg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974037266780860665",
+        "created_at": "2025-10-03T09:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974037266780860665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1973990436374204879",
+              "start": 10,
+              "url": "https://t.co/wL4bOaekfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974037266780860665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973990436374204879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "素质品味修养都很低 https://t.co/wL4bOaekfg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1973278225494384686",
+        "created_at": "2025-10-03T05:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973990436374204879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973990436374204879",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973278225494384686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 玩正版游戏的人，真的很没有素质，根本没有早期互联网共享万岁野蛮生长的黄金精神，从输入者变为互联网缴纳税款的良民费拉，本人从来不花一个子，再和人聊天的时候大家都只能通过对我的吹捧和钦佩来掩饰对自己懦弱无能的的心虚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 622,
+          "like_count": 14744,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 4423
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1968999740789362908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 284,
+          "like_count": 17,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 2238
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

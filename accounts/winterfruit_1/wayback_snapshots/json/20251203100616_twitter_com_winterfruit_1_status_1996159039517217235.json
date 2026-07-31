@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1996159039517217235",
+    "created_at": "2025-12-03T10:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996159039517217235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/1fchan/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/1fchan/status/1995903969282195601",
+          "start": 14,
+          "url": "https://t.co/2w65HIJ82s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159039517217235",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995903969282195601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu https://t.co/2w65HIJ82s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_1995903964043481088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LgFJ6bEAA3ZdL.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1996159039517217235",
+        "created_at": "2025-12-03T10:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996159039517217235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1fchan/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1fchan/status/1995903969282195601",
+              "start": 14,
+              "url": "https://t.co/2w65HIJ82s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159039517217235",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995903969282195601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu https://t.co/2w65HIJ82s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995903964043481088"
+          ]
+        },
+        "author_id": "1328537445609172992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1995903969282195601",
+        "created_at": "2025-12-02T17:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995903969282195601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0J6PhEh5Ee",
+              "end": 55,
+              "expanded_url": "https://x.com/1Fchan/status/1995903969282195601/photo/1",
+              "media_key": "3_1995903964043481088",
+              "start": 32,
+              "url": "https://t.co/0J6PhEh5Ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995903969282195601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 51598,
+          "like_count": 194,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "iOS最喜欢的就是这个「仍然通知」的按钮，感觉按了爽爆了😋😋😋 https://t.co/0J6PhEh5Ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙🐙■■■：@■ / 江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1995495062290231407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1349,
+          "like_count": 24847,
+          "listed_count": 6,
+          "media_count": 896,
+          "tweet_count": 7869
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 253,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 99
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-17T03:16:38.000Z",
+        "description": "这里是F酱⭐️｜我永远喜欢西魔幽💜｜有四只耳朵🐱｜NMLG-B｜摄影器材师｜索尼大法好｜欢迎找我聊酒店飞机铁道｜梦想是财务自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fchyan",
+                "end": 23,
+                "expanded_url": "https://t.me/fchyan",
+                "start": 0,
+                "url": "https://t.co/RgOsWOvB8W"
+              }
+            ]
+          }
+        },
+        "id": "1328537445609172992",
+        "location": "22°33′32″N, 114°07′40″E",
+        "name": "Fchan",
+        "pinned_tweet_id": "1777335652323045399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708221064898129920/b7fsSMqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5628,
+          "following_count": 999,
+          "like_count": 7769,
+          "listed_count": 10,
+          "media_count": 505,
+          "tweet_count": 4339
+        },
+        "url": "https://t.co/RgOsWOvB8W",
+        "username": "1Fchan",
+        "verified": false
+      }
+    ]
+  }
+}

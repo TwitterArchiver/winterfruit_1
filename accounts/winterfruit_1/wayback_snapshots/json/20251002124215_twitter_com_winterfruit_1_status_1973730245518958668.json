@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945792174643159041"
+      ],
+      "media_source_tweet_id": [
+        "1945792408744251783"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1973730245518958668",
+    "created_at": "2025-10-02T12:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T13:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973730245518958668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1185431906436804608",
+          "start": 3,
+          "username": "furyouindouairi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fDJzD2ygBS",
+          "end": 50,
+          "expanded_url": "https://x.com/furyouindouairi/status/1945792408744251783/video/1",
+          "media_key": "13_1945792174643159041",
+          "start": 27,
+          "url": "https://t.co/fDJzD2ygBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973730245518958668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945792408744251783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @furyouindouairi: 百度缓存的 https://t.co/fDJzD2ygBS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1973730245518958668].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1973730245518958668",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1973730245518958668"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110991,
+        "height": 480,
+        "media_key": "13_1945792174643159041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945792174643159041/img/n508-DijcYaYs2y6.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/478x270/lBFoUIijBHs-uhbF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/638x360/zElGGKVtN2_aoxqT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/852x480/mhw7OvQJ23NbOfnk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/pl/UTuXY6T3QavNglDk.m3u8?tag=14"
+          }
+        ],
+        "width": 853
+      },
+      {
+        "duration_ms": 110991,
+        "height": 480,
+        "media_key": "13_1945792174643159041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945792174643159041/img/n508-DijcYaYs2y6.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/478x270/lBFoUIijBHs-uhbF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/638x360/zElGGKVtN2_aoxqT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/vid/avc1/852x480/mhw7OvQJ23NbOfnk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945792174643159041/pl/UTuXY6T3QavNglDk.m3u8?tag=14"
+          }
+        ],
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945792174643159041"
+          ]
+        },
+        "author_id": "1185431906436804608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1945792408744251783",
+        "created_at": "2025-07-17T10:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945792408744251783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDJzD2ygBS",
+              "end": 29,
+              "expanded_url": "https://x.com/furyouindouairi/status/1945792408744251783/video/1",
+              "media_key": "13_1945792174643159041",
+              "start": 6,
+              "url": "https://t.co/fDJzD2ygBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945792408744251783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 292,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "百度缓存的 https://t.co/fDJzD2ygBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 607,
+          "like_count": 14586,
+          "listed_count": 3,
+          "media_count": 401,
+          "tweet_count": 4345
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "骂我先骂@natsutooi | 现在最大的成分是网哲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "natsutooi"
+              }
+            ]
+          }
+        },
+        "id": "1185431906436804608",
+        "name": "OverwhelmWiki",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 905,
+          "like_count": 48723,
+          "listed_count": 3,
+          "media_count": 1066,
+          "tweet_count": 22966
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

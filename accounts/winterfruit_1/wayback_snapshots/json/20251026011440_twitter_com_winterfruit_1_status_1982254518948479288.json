@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1982254518948479288",
+    "created_at": "2025-10-26T01:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982254518948479288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870780665295474688",
+          "start": 3,
+          "username": "doraneko_rana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982254518948479288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982078566834868459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doraneko_rana: 对于这种人，我的建议是直接枪毙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1982254518948479288",
+        "created_at": "2025-10-26T01:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982254518948479288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870780665295474688",
+              "start": 3,
+              "username": "doraneko_rana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982254518948479288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982078566834868459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doraneko_rana: 对于这种人，我的建议是直接枪毙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870780665295474688",
+        "conversation_id": "1982078566834868459",
+        "created_at": "2025-10-25T13:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982078566834868459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1981832387022770474",
+              "start": 16,
+              "url": "https://t.co/qdTLz6LPyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982078566834868459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981832387022770474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于这种人，我的建议是直接枪毙 https://t.co/qdTLz6LPyx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 1109,
+          "like_count": 19655,
+          "listed_count": 5,
+          "media_count": 671,
+          "tweet_count": 6246
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T10:37:31.000Z",
+        "description": "I'm not sure that any of that matters. Friends, enemies. So long as there's mercy. Always mercy. \n女儿@iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "iranon_lcf"
+              }
+            ]
+          }
+        },
+        "id": "1870780665295474688",
+        "name": "死仇时代的恨意",
+        "pinned_tweet_id": "1871958460302315698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978519080660500480/aZbQ-tux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 496,
+          "like_count": 12037,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 4282
+        },
+        "username": "doraneko_rana",
+        "verified": false
+      }
+    ]
+  }
+}

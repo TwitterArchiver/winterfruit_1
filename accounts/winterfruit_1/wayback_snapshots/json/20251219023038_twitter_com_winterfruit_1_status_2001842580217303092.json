@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2001842580217303092",
+    "created_at": "2025-12-19T02:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001842580217303092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kana_ami_ami/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kana_ami_ami/status/2001592020901470488",
+          "start": 16,
+          "url": "https://t.co/1gP9HhzATl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001842580217303092",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001592020901470488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 https://t.co/1gP9HhzATl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2001556683999580162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8b1MwuakAIdH88.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2001842580217303092",
+        "created_at": "2025-12-19T02:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001842580217303092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kana_ami_ami/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kana_ami_ami/status/2001592020901470488",
+              "start": 16,
+              "url": "https://t.co/1gP9HhzATl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001842580217303092",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001592020901470488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 https://t.co/1gP9HhzATl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001556683999580162"
+          ]
+        },
+        "author_id": "826763741781823489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001592020901470488",
+        "created_at": "2025-12-18T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001592020901470488"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "城ヶ崎ノア",
+              "probability": 0.7306,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "まのさば"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aht4RQOxgy",
+              "end": 45,
+              "expanded_url": "https://x.com/kana_ami_ami/status/2001592020901470488/photo/1",
+              "media_key": "3_2001556683999580162",
+              "start": 22,
+              "url": "https://t.co/Aht4RQOxgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001592020901470488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 26536,
+          "like_count": 2667,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 371
+        },
+        "reply_settings": "everyone",
+        "text": "城ヶ崎ノア\n#まのさば #まのさば二次創作 https://t.co/Aht4RQOxgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "username": "cy79p"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 1381,
+          "like_count": 26266,
+          "listed_count": 6,
+          "media_count": 1003,
+          "tweet_count": 8328
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 206,
+          "like_count": 134,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T12:06:51.000Z",
+        "description": "イラストレーター/ご依頼募集中\n🔶TCG・グッズ用イラスト\n🔶Vtuberデザイン\n🔶webtoon着彩…など\n\n実績の確認やご連絡はこちらから↓\nhttps://t.co/OHFQqIEj2E\npixiv↓\nhttps://t.co/o51TrfZmkD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kanaami7777.wixsite.com/kanaami",
+                "end": 97,
+                "expanded_url": "http://kanaami7777.wixsite.com/kanaami",
+                "start": 74,
+                "url": "https://t.co/OHFQqIEj2E"
+              },
+              {
+                "display_url": "pixiv.net/users/23275704",
+                "end": 128,
+                "expanded_url": "http://pixiv.net/users/23275704",
+                "start": 105,
+                "url": "https://t.co/o51TrfZmkD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kana_ami_ami",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@kana_ami_ami",
+                "start": 0,
+                "url": "https://t.co/sFrcbzvK2y"
+              }
+            ]
+          }
+        },
+        "id": "826763741781823489",
+        "location": "画像の無断転載・無断使用等禁止！",
+        "name": "Kana◇ami @イラストレーター",
+        "pinned_tweet_id": "1966433855205957773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913550153619046400/HEN3C6oj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8648,
+          "following_count": 643,
+          "like_count": 30025,
+          "listed_count": 79,
+          "media_count": 1406,
+          "tweet_count": 11650
+        },
+        "url": "https://t.co/sFrcbzvK2y",
+        "username": "kana_ami_ami",
+        "verified": false
+      }
+    ]
+  }
+}

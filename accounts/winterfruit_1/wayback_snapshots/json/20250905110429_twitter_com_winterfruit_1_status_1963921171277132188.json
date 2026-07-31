@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1963921171277132188",
+    "created_at": "2025-09-05T11:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963921171277132188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783819937045237760",
+          "start": 3,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963921171277132188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963897263702593822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiihatehuman: 我沒法接受自己的平庸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1963921171277132188",
+        "created_at": "2025-09-05T11:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963921171277132188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783819937045237760",
+              "start": 3,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963921171277132188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963897263702593822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiihatehuman: 我沒法接受自己的平庸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1963897263702593822",
+        "created_at": "2025-09-05T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963897263702593822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963897263702593822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我沒法接受自己的平庸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 454,
+          "like_count": 10556,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 3426
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx",
+        "id": "1783819937045237760",
+        "location": "襤褸飛旋",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1963655529823441073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958251736008978433/ehrkyO22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 414,
+          "like_count": 2701,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 2179
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1985383315537563780",
+    "created_at": "2025-11-03T19:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T20:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985433069030162777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985433069030162777",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985383315537563780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 死过一次就当谢罪了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1985383315537563780",
+        "created_at": "2025-11-03T19:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985433069030162777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985433069030162777",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985383315537563780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 死过一次就当谢罪了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "1985383315537563780",
+        "created_at": "2025-11-03T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985383315537563780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o_satsu/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/o_satsu/status/1954823562361262261",
+              "start": 22,
+              "url": "https://t.co/ky6BFfSbh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985383315537563780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954823562361262261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接受不能，为什么会有人磕霸凌者和被霸凌者😰 https://t.co/ky6BFfSbh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1224,
+          "like_count": 21119,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 6607
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "MBTI:INTP-T/5w4/戒OD💊/双相/泛性恋，智性恋/躁期/自伤/会回关，没回关叫我一下/",
+        "id": "1912916776519954432",
+        "location": "石家庄",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "1984282652321652840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985065808847044608/Uat0xkD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 95,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 668
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2054455155924557948",
+    "created_at": "2026-05-13T13:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054548105098568118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031591173975060489",
+          "start": 0,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054548105098568118",
+    "in_reply_to_user_id": "2031591173975060489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054455155924557948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiloou07 我直接把他外卖偷了让他急的团团转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2054455155924557948",
+        "created_at": "2026-05-13T13:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054548105098568118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031591173975060489",
+              "start": 0,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054548105098568118",
+        "in_reply_to_user_id": "2031591173975060489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054455155924557948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiloou07 我直接把他外卖偷了让他急的团团转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2054455155924557948",
+        "created_at": "2026-05-13T06:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054455155924557948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054455155924557948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 105640,
+          "like_count": 1494,
+          "quote_count": 11,
+          "reply_count": 152,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普太精了 ，今天到中国，明天可以享受疯狂星期四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 1481,
+          "like_count": 41292,
+          "listed_count": 6,
+          "media_count": 1792,
+          "tweet_count": 12167
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99加✈️",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5741,
+          "following_count": 0,
+          "like_count": 627,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2002095581628674077",
+    "created_at": "2025-12-21T21:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T22:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002856669467074927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        },
+        {
+          "end": 18,
+          "id": "1919296206381170688",
+          "start": 8,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002856669467074927",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002095581628674077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX @juhao0721 復活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2002094120656121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jd_sSbMAAr1Ze.jpg",
+        "width": 578
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2002094164490792966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jeCPlbMAYEElH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 961,
+        "media_key": "3_2002094202470162432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jeEdEaYAAMeuZ.jpg",
+        "width": 1194
+      },
+      {
+        "height": 1129,
+        "media_key": "3_2002094225027182598",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jeFxGbMAY1ORm.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2002095581628674077",
+        "created_at": "2025-12-21T21:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T22:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002856669467074927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            },
+            {
+              "end": 18,
+              "id": "1919296206381170688",
+              "start": 8,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002856669467074927",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002095581628674077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX @juhao0721 復活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002094120656121856",
+            "3_2002094164490792966",
+            "3_2002094202470162432",
+            "3_2002094225027182598"
+          ]
+        },
+        "author_id": "2001598933169315840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2002095581628674077",
+        "created_at": "2025-12-19T19:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T20:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002095581628674077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1919296206381170688",
+              "start": 61,
+              "username": "juhao0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hv2B7VCI5v",
+              "end": 136,
+              "expanded_url": "https://x.com/XldscX/status/2002095581628674077/photo/1",
+              "media_key": "3_2002094120656121856",
+              "start": 113,
+              "url": "https://t.co/hv2B7VCI5v"
+            },
+            {
+              "display_url": "pic.x.com/hv2B7VCI5v",
+              "end": 136,
+              "expanded_url": "https://x.com/XldscX/status/2002095581628674077/photo/1",
+              "media_key": "3_2002094164490792966",
+              "start": 113,
+              "url": "https://t.co/hv2B7VCI5v"
+            },
+            {
+              "display_url": "pic.x.com/hv2B7VCI5v",
+              "end": 136,
+              "expanded_url": "https://x.com/XldscX/status/2002095581628674077/photo/1",
+              "media_key": "3_2002094202470162432",
+              "start": 113,
+              "url": "https://t.co/hv2B7VCI5v"
+            },
+            {
+              "display_url": "pic.x.com/hv2B7VCI5v",
+              "end": 136,
+              "expanded_url": "https://x.com/XldscX/status/2002095581628674077/photo/1",
+              "media_key": "3_2002094225027182598",
+              "start": 113,
+              "url": "https://t.co/hv2B7VCI5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002095581628674077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9062,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "置顶贴：\n\n很高兴认识你💗\n\n我是翎  MtX  叫我什么都可以  舞萌 DX Apex 手柄 Arcaea 玩家 对象是@juhao0721 欢迎找我玩 or 玩游戏 交朋友 不友好的私信不会回 P4 可以赞助主播打舞萌👍 https://t.co/hv2B7VCI5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "username": "cy79p"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1382,
+          "like_count": 26522,
+          "listed_count": 6,
+          "media_count": 1020,
+          "tweet_count": 8439
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.apple.com/cn/album/deici…",
+                "end": 23,
+                "expanded_url": "https://music.apple.com/cn/album/deicide-feat-hazuki-koizumi/1776078589?i=1776078591",
+                "start": 0,
+                "url": "https://t.co/lBYUvU7OP6"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "澳门 花地玛堂区",
+        "name": "翎かめりあ",
+        "pinned_tweet_id": "2002095581628674077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001599167043620865/6OmuRr-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 74,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/lBYUvU7OP6",
+        "username": "XldscX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "生日 1.7/神秘mtx or mtf小登/推特想到什么发什么/舞萌w65/翎的对象 ♥️@Fxxkapexlegend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "Fxxkapexlegend"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "东京",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 99,
+          "like_count": 2700,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 1165
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

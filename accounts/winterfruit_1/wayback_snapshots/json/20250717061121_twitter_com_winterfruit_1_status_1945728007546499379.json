@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945727998176505856"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945728007546499379",
+    "created_at": "2025-07-17T06:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945728007546499379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fb31rUubW",
+          "end": 34,
+          "expanded_url": "https://x.com/winterfruit_1/status/1945728007546499379/photo/1",
+          "media_key": "3_1945727998176505856",
+          "start": 11,
+          "url": "https://t.co/7fb31rUubW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945728007546499379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带着我的机箱去电脑城 https://t.co/7fb31rUubW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1945727998176505856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCdTjDXsAAhhjk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945727998176505856"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945728007546499379",
+        "created_at": "2025-07-17T06:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945728007546499379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fb31rUubW",
+              "end": 34,
+              "expanded_url": "https://x.com/winterfruit_1/status/1945728007546499379/photo/1",
+              "media_key": "3_1945727998176505856",
+              "start": 11,
+              "url": "https://t.co/7fb31rUubW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945728007546499379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着我的机箱去电脑城 https://t.co/7fb31rUubW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 384,
+          "like_count": 7721,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2169
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

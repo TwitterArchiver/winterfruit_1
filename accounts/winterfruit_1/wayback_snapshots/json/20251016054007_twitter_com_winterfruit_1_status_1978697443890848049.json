@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1978697443890848049",
+    "created_at": "2025-10-16T05:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978697443890848049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/westeraoc/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/westeraoc/status/1978345396611977462",
+          "start": 11,
+          "url": "https://t.co/rNdU5zCBCJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978697443890848049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978345396611977462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家都在炒作，没办法 https://t.co/rNdU5zCBCJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1978345394150023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3R-p31XoAAMAdk.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1978697443890848049",
+        "created_at": "2025-10-16T05:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978697443890848049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/westeraoc/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/westeraoc/status/1978345396611977462",
+              "start": 11,
+              "url": "https://t.co/rNdU5zCBCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978697443890848049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978345396611977462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都在炒作，没办法 https://t.co/rNdU5zCBCJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978345394150023168"
+          ]
+        },
+        "author_id": "1586955045450416129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1978345396611977462",
+        "created_at": "2025-10-15T06:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978345396611977462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "说的道理"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XqJC32vDs",
+              "end": 150,
+              "expanded_url": "https://x.com/WesterAOC/status/1978345396611977462/photo/1",
+              "media_key": "3_1978345394150023168",
+              "start": 127,
+              "url": "https://t.co/3XqJC32vDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978345396611977462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "说的道理"
+              }
+            ]
+          },
+          "text": "🤓☝️#说的道理\n你知道吗？即使中共政权看起来专制，实际上一点也不民主！\n你知道吗？网络上的粉红看起来人多势众，其实没有一个是人！\n你知道吗？习近平每多执政一年，中国人民就要被共产党多压迫365天！\n你知道吗？共产党每多抓一个人，就会又有一个人被逮捕！\n你知道吗？现在在中国的人还没有润出来！\n你知道吗？椎名立希其实是Mygo乐队的鼓手，并不是习近平的皮套！\n快点转发给你的朋友，让他读这段半分钟就要浪费30秒！\n咕咕嘎嘎！🐧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 33638,
+          "like_count": 178,
+          "quote_count": 14,
+          "reply_count": 21,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🤓☝️#说的道理\n你知道吗？即使中共政权看起来专制，实际上一点也不民主！\n你知道吗？网络上的粉红看起来人多势众，其实没有一个是人！\n你知道吗？习近平每多执政一年，中国人民就要被共产党多压迫365天！\n你知道吗？共产党每多抓一个人，就会又有一个人被逮捕！ https://t.co/3XqJC32vDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 884,
+          "like_count": 17512,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 5594
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "务实的党外工作者。Justitia Omnibus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "assemblyofcitizens.org",
+                "end": 23,
+                "expanded_url": "https://assemblyofcitizens.org",
+                "start": 0,
+                "url": "https://t.co/AwR3SakgFb"
+              }
+            ]
+          }
+        },
+        "id": "1586955045450416129",
+        "location": "转型正义纪念馆, 北京",
+        "name": "杨若晖 Ruohui Yang🤓",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899515483021336576/AeUgc84G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22267,
+          "following_count": 550,
+          "like_count": 520,
+          "listed_count": 88,
+          "media_count": 621,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/AwR3SakgFb",
+        "username": "WesterAOC",
+        "verified": false
+      }
+    ]
+  }
+}

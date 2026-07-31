@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935657815311314944"
+      ],
+      "media_source_tweet_id": [
+        "1935657835259691514"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1935922119734706286",
+    "created_at": "2025-06-20T04:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T05:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935922119734706286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745690614371651584",
+          "start": 3,
+          "username": "O_DENyarou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/toxSzbE3Cr",
+          "end": 45,
+          "expanded_url": "https://x.com/O_DENyarou/status/1935657835259691514/photo/1",
+          "media_key": "3_1935657815311314944",
+          "start": 22,
+          "url": "https://t.co/toxSzbE3Cr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935922119734706286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935657835259691514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O_DENyarou: けいおん！ https://t.co/toxSzbE3Cr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_1935657815311314944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzWhwhW8AA2FIO.jpg",
+        "width": 2591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935657815311314944"
+          ],
+          "media_source_tweet_id": [
+            "1935657835259691514"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1935922119734706286",
+        "created_at": "2025-06-20T04:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935922119734706286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745690614371651584",
+              "start": 3,
+              "username": "O_DENyarou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/toxSzbE3Cr",
+              "end": 45,
+              "expanded_url": "https://x.com/O_DENyarou/status/1935657835259691514/photo/1",
+              "media_key": "3_1935657815311314944",
+              "start": 22,
+              "url": "https://t.co/toxSzbE3Cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935922119734706286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935657835259691514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O_DENyarou: けいおん！ https://t.co/toxSzbE3Cr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935657815311314944"
+          ]
+        },
+        "author_id": "1745690614371651584",
+        "conversation_id": "1935657835259691514",
+        "created_at": "2025-06-19T11:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935657835259691514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toxSzbE3Cr",
+              "end": 29,
+              "expanded_url": "https://x.com/O_DENyarou/status/1935657835259691514/photo/1",
+              "media_key": "3_1935657815311314944",
+              "start": 6,
+              "url": "https://t.co/toxSzbE3Cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935657835259691514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 13839,
+          "like_count": 1324,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "けいおん！ https://t.co/toxSzbE3Cr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 336,
+          "like_count": 6591,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1843
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T06:14:29.000Z",
+        "description": "あずにゃんはとてもかわいい。 「けいおん！」と「ぼっち・ざ・ろっく！」が好き。 pixiv：https://t.co/FsZC0BiNOz bluesky : https://t.co/Wb8YFRGGhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58597863",
+                "end": 69,
+                "expanded_url": "https://www.pixiv.net/users/58597863",
+                "start": 46,
+                "url": "https://t.co/FsZC0BiNOz"
+              },
+              {
+                "display_url": "bsky.app/profile/o-deny…",
+                "end": 103,
+                "expanded_url": "https://bsky.app/profile/o-denyarou.bsky.social",
+                "start": 80,
+                "url": "https://t.co/Wb8YFRGGhM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odenyarou.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://odenyarou.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/P6NTES96Ac"
+              }
+            ]
+          }
+        },
+        "id": "1745690614371651584",
+        "location": "愛知県",
+        "name": "おでん野郎🍢",
+        "pinned_tweet_id": "1896653119133712860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929041039786127361/MvUyLvjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6228,
+          "following_count": 164,
+          "like_count": 638,
+          "listed_count": 38,
+          "media_count": 230,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/P6NTES96Ac",
+        "username": "O_DENyarou",
+        "verified": true
+      }
+    ]
+  }
+}

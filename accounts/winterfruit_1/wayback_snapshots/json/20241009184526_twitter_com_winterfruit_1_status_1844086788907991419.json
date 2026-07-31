@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1844079530371317960",
+    "created_at": "2024-10-09T18:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T19:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844086788907991419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844086788907991419",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844079530371317960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_TW 我是東雪蓮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1844079530371317960",
+        "created_at": "2024-10-09T18:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T19:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844086788907991419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844086788907991419",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844079530371317960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_TW 我是東雪蓮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "1844079530371317960",
+        "created_at": "2024-10-09T18:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T19:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844079530371317960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844079530371317960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自認為自己是沒有年齡沒有性別也不是人類\n或許我是一隻企鵝🐧\n沒有性別 沒有年齡的企鵝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w i n i t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839985830280212482/-apuDCIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 49,
+          "like_count": 525,
+          "listed_count": 0,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。小作家。EN/JP/CN 互fo大歡迎！",
+        "id": "1731670068189114368",
+        "location": "My mom",
+        "name": "崎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844015959159554048/RzY3Bh33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 152,
+          "like_count": 6453,
+          "listed_count": 0,
+          "tweet_count": 744
+        },
+        "username": "Oori_TW",
+        "verified": false
+      }
+    ]
+  }
+}

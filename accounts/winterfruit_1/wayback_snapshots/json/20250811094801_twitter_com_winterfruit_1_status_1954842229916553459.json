@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Alabama",
+          "id": "1004433527683731457",
+          "name": "Alabama"
+        }
+      }
+    ],
+    "conversation_id": "1954842229916553459",
+    "created_at": "2025-08-11T09:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T10:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954842229916553459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/idriss7m/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/idriss7m/status/1954679660601622771",
+          "start": 2,
+          "url": "https://t.co/aXJpdon7Lg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954842229916553459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954679660601622771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耶 https://t.co/aXJpdon7Lg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_1954679655778140160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyBqymRWwAAHZs0.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Alabama",
+              "id": "1004433527683731457",
+              "name": "Alabama"
+            }
+          }
+        ],
+        "conversation_id": "1954842229916553459",
+        "created_at": "2025-08-11T09:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954842229916553459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idriss7m/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/idriss7m/status/1954679660601622771",
+              "start": 2,
+              "url": "https://t.co/aXJpdon7Lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954842229916553459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954679660601622771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耶 https://t.co/aXJpdon7Lg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954679655778140160"
+          ]
+        },
+        "author_id": "1713646757425332224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Alabama",
+              "id": "1004433527683731457",
+              "name": "Alabama"
+            }
+          }
+        ],
+        "conversation_id": "1954679660601622771",
+        "created_at": "2025-08-10T23:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T00:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954679660601622771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Alabama",
+              "probability": 0.9755,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4D4b4ztrD",
+              "end": 63,
+              "expanded_url": "https://x.com/idriss7m/status/1954679660601622771/photo/1",
+              "media_key": "3_1954679655778140160",
+              "start": 40,
+              "url": "https://t.co/d4D4b4ztrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954679660601622771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2601,
+          "impression_count": 708281,
+          "like_count": 33352,
+          "quote_count": 344,
+          "reply_count": 380,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "This is the capital city of Alabama btw https://t.co/d4D4b4ztrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 436,
+          "like_count": 9093,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2881
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T20:03:25.000Z",
+        "description": "rip (@idriss8m)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "idriss8m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/idrxss_?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/idrxss_?igsh=dDZyaXJiN2NtNXhw&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqbAvhZRwJ"
+              }
+            ]
+          }
+        },
+        "id": "1713646757425332224",
+        "name": "niggachu🇸🇴",
+        "pinned_tweet_id": "1950894015634710936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814347597387071488/CMh8QTve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9175,
+          "following_count": 5474,
+          "like_count": 5834,
+          "listed_count": 10,
+          "media_count": 720,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/tqbAvhZRwJ",
+        "username": "idriss7m",
+        "verified": false
+      }
+    ]
+  }
+}

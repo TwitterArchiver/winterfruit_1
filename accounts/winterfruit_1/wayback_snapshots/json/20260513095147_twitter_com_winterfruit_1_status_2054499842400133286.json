@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2054499840697221120"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2054499842400133286",
+    "created_at": "2026-05-13T09:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054499842400133286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054499842400133286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果有方法一劳永逸地治好你所有的心理问题，让你变得完全健全，你会离开Overdose吗"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2026-05-16T09:51:47.000Z",
+        "id": "2054499840697221120",
+        "options": [
+          {
+            "label": "会",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不会",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054499840697221120"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2054499842400133286",
+        "created_at": "2026-05-13T09:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054499842400133286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054499842400133286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有方法一劳永逸地治好你所有的心理问题，让你变得完全健全，你会离开Overdose吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 1478,
+          "like_count": 41261,
+          "listed_count": 6,
+          "media_count": 1790,
+          "tweet_count": 12149
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

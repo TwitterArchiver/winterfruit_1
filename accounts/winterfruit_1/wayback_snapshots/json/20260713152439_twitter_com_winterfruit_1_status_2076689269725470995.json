@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2076501876762128872",
+    "created_at": "2026-07-13T15:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076689269725470995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913225245378686976",
+          "start": 0,
+          "username": "cuizhe80"
+        },
+        {
+          "end": 19,
+          "id": "1465701247021838341",
+          "start": 10,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076689269725470995",
+    "in_reply_to_user_id": "1913225245378686976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076523101404442702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuizhe80 @show5560 难说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2076501876762128872",
+        "created_at": "2026-07-13T15:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076689269725470995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913225245378686976",
+              "start": 0,
+              "username": "cuizhe80"
+            },
+            {
+              "end": 19,
+              "id": "1465701247021838341",
+              "start": 10,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076689269725470995",
+        "in_reply_to_user_id": "1913225245378686976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076523101404442702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuizhe80 @show5560 难说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913225245378686976",
+        "conversation_id": "2076501876762128872",
+        "created_at": "2026-07-13T04:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076523101404442702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076523101404442702",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4692,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076501876762128872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 共产党的人可以为理想付出生命的代价\n而二次元爱好人士就不一定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 1480,
+          "like_count": 43657,
+          "listed_count": 6,
+          "media_count": 1893,
+          "tweet_count": 13086
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T13:37:16.000Z",
+        "description": "国家统一，社会民主，人民团结",
+        "id": "1913225245378686976",
+        "location": "中华人民共和国 贵州省",
+        "name": "NPA",
+        "pinned_tweet_id": "2012488660005040343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913226276044734464/DEFiOQYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 19,
+          "like_count": 46,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3567
+        },
+        "url": "",
+        "username": "cuizhe80",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 坐标:成都/蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2074205000189005939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 1732,
+          "like_count": 31088,
+          "listed_count": 12,
+          "media_count": 2234,
+          "tweet_count": 10368
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

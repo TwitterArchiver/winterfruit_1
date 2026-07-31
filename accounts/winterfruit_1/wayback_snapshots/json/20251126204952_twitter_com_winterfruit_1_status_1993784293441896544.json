@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1993676094764163574",
+    "created_at": "2025-11-26T20:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T21:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993784293441896544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993784293441896544",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993676094764163574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu 哦耶，我见过龙！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993676082172899329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r11XMbsAEQV1T.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1993676094764163574",
+        "created_at": "2025-11-26T20:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T21:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993784293441896544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993784293441896544",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993676094764163574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 哦耶，我见过龙！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993676082172899329"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993676094764163574",
+        "created_at": "2025-11-26T13:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993676094764163574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pw8tdnkDyU"
+            },
+            {
+              "display_url": "pic.x.com/Qub4Hv133J",
+              "end": 64,
+              "expanded_url": "https://x.com/gold_bihu/status/1993676094764163574/photo/1",
+              "media_key": "3_1993676082172899329",
+              "start": 41,
+              "url": "https://t.co/Qub4Hv133J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993676094764163574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pw8tdnkDyU https://t.co/Qub4Hv133J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 1324,
+          "like_count": 23742,
+          "listed_count": 5,
+          "media_count": 846,
+          "tweet_count": 7583
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 社恐｜当QQ空间用｜我爱视奸｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dldlg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dldlg1",
+                "start": 0,
+                "url": "https://t.co/pj8qiCyzau"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "location": "距你0.001km",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993756546220871680/60Y0RNTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 311,
+          "like_count": 6816,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/pj8qiCyzau",
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

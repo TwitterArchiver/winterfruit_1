@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1932146582113128726",
+    "created_at": "2025-06-23T07:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T08:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937051503946256406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891552025793658881",
+          "start": 0,
+          "username": "hui7319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937051503946256406",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937051384689709400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui7319 能开私信吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1932146582113128726",
+        "created_at": "2025-06-23T07:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937051503946256406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891552025793658881",
+              "start": 0,
+              "username": "hui7319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937051503946256406",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937051384689709400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui7319 能开私信吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1932146582113128726",
+        "created_at": "2025-06-23T07:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937051384689709400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891552025793658881",
+              "start": 0,
+              "username": "hui7319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937051384689709400",
+        "in_reply_to_user_id": "1891552025793658881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937041732119539722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui7319 我不也在骂马斯克傻逼吗。在国内你连一个日期提都不能提，是觉得大伙听什么都能信还是为什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 341,
+          "like_count": 6875,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1927
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:16:34.000Z",
+        "description": "",
+        "id": "1891552025793658881",
+        "name": "打殖畜反贼",
+        "pinned_tweet_id": "1932146582113128726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891580339845464066/nAVbwfeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 595,
+          "like_count": 2705,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1111
+        },
+        "username": "hui7319",
+        "verified": false
+      }
+    ]
+  }
+}

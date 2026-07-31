@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1972564222858186776",
+    "created_at": "2025-09-30T04:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972884396048097454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1244282246111973382",
+          "start": 0,
+          "username": "SR_Malaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972884396048097454",
+    "in_reply_to_user_id": "1244282246111973382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972564222858186776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SR_Malaya 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1972564222858186776",
+        "created_at": "2025-09-30T04:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972884396048097454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244282246111973382",
+              "start": 0,
+              "username": "SR_Malaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972884396048097454",
+        "in_reply_to_user_id": "1244282246111973382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972564222858186776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SR_Malaya 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244282246111973382",
+        "conversation_id": "1972564222858186776",
+        "created_at": "2025-09-29T07:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972564222858186776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972564222858186776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19440,
+          "like_count": 178,
+          "quote_count": 14,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我没有祖国，我的祖国在2025年被女权弄灭亡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 565,
+          "like_count": 14111,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 4178
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T15:16:38.000Z",
+        "description": "being institutionalized",
+        "id": "1244282246111973382",
+        "name": "乱编瞎想",
+        "pinned_tweet_id": "1972564222858186776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928684027097264131/omBFAIjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7499,
+          "following_count": 3643,
+          "like_count": 4535,
+          "listed_count": 44,
+          "media_count": 923,
+          "tweet_count": 8504
+        },
+        "username": "SR_Malaya",
+        "verified": false
+      }
+    ]
+  }
+}

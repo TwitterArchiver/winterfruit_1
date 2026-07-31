@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975559629531979780"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1975556234318319950",
+    "created_at": "2025-10-07T13:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T14:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975559635269832769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 19,
+          "id": "1592719222940962817",
+          "start": 6,
+          "username": "mofumofuyewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zG0wQNHQZj",
+          "end": 43,
+          "expanded_url": "https://x.com/winterfruit_1/status/1975559635269832769/photo/1",
+          "media_key": "3_1975559629531979780",
+          "start": 20,
+          "url": "https://t.co/zG0wQNHQZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975559635269832769",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975556789103182331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @mofumofuyewo https://t.co/zG0wQNHQZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1975559629531979780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qZBB7bIAQNwVH.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975559629531979780"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1975556234318319950",
+        "created_at": "2025-10-07T13:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975559635269832769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1592719222940962817",
+              "start": 6,
+              "username": "mofumofuyewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG0wQNHQZj",
+              "end": 43,
+              "expanded_url": "https://x.com/winterfruit_1/status/1975559635269832769/photo/1",
+              "media_key": "3_1975559629531979780",
+              "start": 20,
+              "url": "https://t.co/zG0wQNHQZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975559635269832769",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975556789103182331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @mofumofuyewo https://t.co/zG0wQNHQZj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1975556234318319950",
+        "created_at": "2025-10-07T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975556789103182331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975556789103182331",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "愚者: 腋窝 - 像猫般无忧，推文随意有趣。\n魔术师: Grok - AI创造回应，技能多样。\n女祭司: 紫蘑菇文字💜 - 梦境负能量，神秘内在。\n女皇: VonLinne(四号机) - 护理可爱，温柔养育。\n皇帝: 北长尾山雀 - 结构讨论，权威感。\n教皇: hara - 星座分享，传统指导。\n恋人: 小三暴打老公带我私奔的那个雨夜 - 出轨话题，关系选择。\n战车: 住在星期八的柏树7.0 - 复杂状态，决心前进。\n力量: 野良猫🍥 - 自由和平，内力坚强。\n隐者: kuma（小众版） - 孤独反思，内在探索。\n命运之轮: ガガ鳥 - 猎奇变化，命运转折。\n正义: 文静7803 - 命运公平，理性评论。\n倒吊人: 鈴木亜吉_akiii - 困苦视角，新观点。\n死神: 盐制肉鸦 - 药物转变，结束新生。\n节制: 做饭总被烫 - 碎念平衡，适度生活。\n恶魔: Winit420 - 成瘾主题，物质束缚。\n高塔: 因为没有才艺所以当众表演勃起 - 性突变，剧烈颠覆。\n星星: ⊹天填甜田添恬黛⊹ - 甜美友好，希望光芒。\n月亮: 丸山添白水 - 喊话幻觉，不明潜意识。\n太阳: 包着番茄籽的番茄 - 理性开朗，活力成功。\n审判: 讴歌终结之物 - 终结歌颂，重生召唤。\n世界: 澪澪大王 - 纯良完整，世界和谐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975556234318319950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 愚者: 腋窝 - 像猫般无忧，推文随意有趣。\n魔术师: Grok - AI创造回应，技能多样。\n女祭司: 紫蘑菇文字💜 - 梦境负能量，神秘内在。\n女皇: VonLinne(四号机) - 护理可爱，温柔养育。\n皇帝: 北长尾山雀 - 结构讨论，权威感。\n教皇: hara - 星座分享，传统指导。\n恋人: 小三暴打老公带我私奔的那个雨夜 -"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 724,
+          "like_count": 15699,
+          "listed_count": 3,
+          "media_count": 503,
+          "tweet_count": 4823
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6403451,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5042,
+          "media_count": 2687620,
+          "tweet_count": 54676342
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1883144822237860206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 513,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 739
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

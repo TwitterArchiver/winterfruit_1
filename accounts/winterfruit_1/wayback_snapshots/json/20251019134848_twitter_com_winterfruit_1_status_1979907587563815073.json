@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1979585093258887676",
+    "created_at": "2025-10-19T13:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T14:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979907587563815073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956140997731344390",
+          "start": 0,
+          "username": "NDPKaaa"
+        },
+        {
+          "end": 17,
+          "id": "1934297754626613248",
+          "start": 9,
+          "username": "SsssCld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979907587563815073",
+    "in_reply_to_user_id": "1956140997731344390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979866165091692659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NDPKaaa @SsssCld 习近平：不要练辣个东西，辣个是骂人的（哭腔）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1979585093258887676",
+        "created_at": "2025-10-19T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979907587563815073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956140997731344390",
+              "start": 0,
+              "username": "NDPKaaa"
+            },
+            {
+              "end": 17,
+              "id": "1934297754626613248",
+              "start": 9,
+              "username": "SsssCld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979907587563815073",
+        "in_reply_to_user_id": "1956140997731344390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979866165091692659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NDPKaaa @SsssCld 习近平：不要练辣个东西，辣个是骂人的（哭腔）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956140997731344390",
+        "conversation_id": "1979585093258887676",
+        "created_at": "2025-10-19T11:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979866165091692659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934297754626613248",
+              "start": 0,
+              "username": "SsssCld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979866165091692659",
+        "in_reply_to_user_id": "1934297754626613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979585093258887676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SsssCld 似母习哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 934,
+          "like_count": 18205,
+          "listed_count": 3,
+          "media_count": 612,
+          "tweet_count": 5818
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T23:49:24.000Z",
+        "description": "康米爱好者",
+        "id": "1956140997731344390",
+        "location": "卡斯卡迪亚",
+        "name": "拉脱维亚烤洋芋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965474344307752961/F1zz2aN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 68,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 319
+        },
+        "username": "NDPKaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:11:56.000Z",
+        "description": "No gap  / no masters  / no authority \nFreedom  / democracy  / bread",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssscld",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssscld",
+                "start": 0,
+                "url": "https://t.co/Dzj2iVoRBj"
+              }
+            ]
+          }
+        },
+        "id": "1934297754626613248",
+        "location": "state capitalism fallen zone",
+        "name": "Ⓐssss_cld 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934297930925572096/QLvDjZT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 230,
+          "like_count": 16467,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/Dzj2iVoRBj",
+        "username": "SsssCld",
+        "verified": false
+      }
+    ]
+  }
+}

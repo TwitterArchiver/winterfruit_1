@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1992482656773406929",
+    "created_at": "2025-11-24T02:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T03:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992787639146332555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992787639146332555",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992772649840476380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka 别骂斧子哥啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992772649840476380].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992772649840476380",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992772649840476380"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1992482656773406929",
+        "created_at": "2025-11-24T02:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T03:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992787639146332555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992787639146332555",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992772649840476380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka 别骂斧子哥啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1309,
+          "like_count": 23160,
+          "listed_count": 5,
+          "media_count": 815,
+          "tweet_count": 7434
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 🐖－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "💤",
+        "pinned_tweet_id": "1981402944018010598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984498160103014402/MqA72TeB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 617,
+          "like_count": 27139,
+          "listed_count": 1,
+          "media_count": 1060,
+          "tweet_count": 9871
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      }
+    ]
+  }
+}

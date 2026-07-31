@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1968547539122274371",
+    "created_at": "2025-09-18T20:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T21:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968772926246732274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783819937045237760",
+          "start": 0,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968772926246732274",
+    "in_reply_to_user_id": "1783819937045237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968547539122274371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihatehuman 还是要少键政，和别人辩经没什么用的，还会让自己越来越魔怔 ."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1968547539122274371",
+        "created_at": "2025-09-18T20:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T21:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968772926246732274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783819937045237760",
+              "start": 0,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968772926246732274",
+        "in_reply_to_user_id": "1783819937045237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968547539122274371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihatehuman 还是要少键政，和别人辩经没什么用的，还会让自己越来越魔怔 ."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1968547539122274371",
+        "created_at": "2025-09-18T05:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968547539122274371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyzlz3/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yyyzlz3/status/1967900152280297832",
+              "start": 27,
+              "url": "https://t.co/CzKwmCEluG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968547539122274371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967900152280297832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說白了我見證小鬼那段時期都不會和見證的談\n身上有股味 https://t.co/CzKwmCEluG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 483,
+          "like_count": 12055,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 3737
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "「總有一天，我會回到你身邊」",
+        "id": "1783819937045237760",
+        "location": "襤褸飛旋",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1963655529823441073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968536245149253632/yo7B-X_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 421,
+          "like_count": 2854,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2303
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

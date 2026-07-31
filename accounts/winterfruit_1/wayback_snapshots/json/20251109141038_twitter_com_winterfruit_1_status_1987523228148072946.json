@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987185861281390596"
+      ],
+      "media_source_tweet_id": [
+        "1987185878922633556"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1987523228148072946",
+    "created_at": "2025-11-09T14:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987523228148072946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1338731801267773442",
+          "start": 3,
+          "username": "7H4ZE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DXhLvh14aO",
+          "end": 34,
+          "expanded_url": "https://x.com/7H4ZE/status/1987185878922633556/photo/1",
+          "media_key": "3_1987185861281390596",
+          "start": 11,
+          "url": "https://t.co/DXhLvh14aO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987523228148072946",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987185878922633556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @7H4ZE: https://t.co/DXhLvh14aO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2116,
+        "media_key": "3_1987185861281390596",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PnAyRbIAQuWZ5.jpg",
+        "width": 1994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987185861281390596"
+          ],
+          "media_source_tweet_id": [
+            "1987185878922633556"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1987523228148072946",
+        "created_at": "2025-11-09T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987523228148072946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1338731801267773442",
+              "start": 3,
+              "username": "7H4ZE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXhLvh14aO",
+              "end": 34,
+              "expanded_url": "https://x.com/7H4ZE/status/1987185878922633556/photo/1",
+              "media_key": "3_1987185861281390596",
+              "start": 11,
+              "url": "https://t.co/DXhLvh14aO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987523228148072946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987185878922633556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @7H4ZE: https://t.co/DXhLvh14aO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987185861281390596"
+          ]
+        },
+        "author_id": "1338731801267773442",
+        "conversation_id": "1987185878922633556",
+        "created_at": "2025-11-08T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987185878922633556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXhLvh14aO",
+              "end": 23,
+              "expanded_url": "https://x.com/7H4ZE/status/1987185878922633556/photo/1",
+              "media_key": "3_1987185861281390596",
+              "start": 0,
+              "url": "https://t.co/DXhLvh14aO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987185878922633556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13523,
+          "impression_count": 911798,
+          "like_count": 88545,
+          "quote_count": 156,
+          "reply_count": 0,
+          "retweet_count": 7255
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/DXhLvh14aO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ / TG频道：https://t.co/8Fpj4I8VLs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 91,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 68,
+                "url": "https://t.co/8Fpj4I8VLs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1257,
+          "like_count": 21349,
+          "listed_count": 5,
+          "media_count": 736,
+          "tweet_count": 6887
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T06:25:14.000Z",
+        "description": "ハゼ  l  Illustrator / Concept Artist  #AAF #PROPIC / \n✉️tcmzi@naver.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 37,
+                "tag": "AAF"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "PROPIC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/7h4ze",
+                "end": 23,
+                "expanded_url": "https://lit.link/7h4ze",
+                "start": 0,
+                "url": "https://t.co/MXIfR8J0EM"
+              }
+            ]
+          }
+        },
+        "id": "1338731801267773442",
+        "name": "HAZE",
+        "pinned_tweet_id": "1972517639093366933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908928779852083200/ndbPkGZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208603,
+          "following_count": 1065,
+          "like_count": 3086,
+          "listed_count": 1164,
+          "media_count": 249,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/MXIfR8J0EM",
+        "username": "7H4ZE",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      }
+    ],
+    "conversation_id": "2014193784859349188",
+    "created_at": "2026-01-22T04:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014193784859349188"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Academia Briar",
+          "probability": 0.3104,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 89,
+          "normalized_text": "battleacademiabriar",
+          "probability": 0.5068,
+          "start": 71,
+          "type": "Other"
+        },
+        {
+          "end": 99,
+          "normalized_text": "briarlol",
+          "probability": 0.3531,
+          "start": 92,
+          "type": "Other"
+        },
+        {
+          "end": 113,
+          "normalized_text": "ArtofLegends",
+          "probability": 0.3791,
+          "start": 102,
+          "type": "Other"
+        },
+        {
+          "end": 130,
+          "normalized_text": "LeagueOfLegends",
+          "probability": 0.4658,
+          "start": 116,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 70,
+          "tag": "battleacademiabriar"
+        },
+        {
+          "end": 100,
+          "start": 91,
+          "tag": "briarlol"
+        },
+        {
+          "end": 114,
+          "start": 101,
+          "tag": "ArtofLegends"
+        },
+        {
+          "end": 131,
+          "start": 115,
+          "tag": "LeagueOfLegends"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "847857514960105473",
+          "start": 3,
+          "username": "DYAMONDARTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014193784859349188",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010745999778525449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DYAMONDARTS: Battle Academia Briar fan art \nI hope you like it! \n\n#battleacademiabriar #briarlol #ArtofLegends #LeagueOfLegends #league…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010745996108595200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ea1H-XgAAKktR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2014193784859349188",
+        "created_at": "2026-01-22T04:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014193784859349188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Academia Briar",
+              "probability": 0.3104,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "battleacademiabriar",
+              "probability": 0.5068,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "briarlol",
+              "probability": 0.3531,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "ArtofLegends",
+              "probability": 0.3791,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "LeagueOfLegends",
+              "probability": 0.4658,
+              "start": 116,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 70,
+              "tag": "battleacademiabriar"
+            },
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "briarlol"
+            },
+            {
+              "end": 114,
+              "start": 101,
+              "tag": "ArtofLegends"
+            },
+            {
+              "end": 131,
+              "start": 115,
+              "tag": "LeagueOfLegends"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "847857514960105473",
+              "start": 3,
+              "username": "DYAMONDARTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014193784859349188",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010745999778525449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DYAMONDARTS: Battle Academia Briar fan art \nI hope you like it! \n\n#battleacademiabriar #briarlol #ArtofLegends #LeagueOfLegends #league…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010745996108595200"
+          ]
+        },
+        "author_id": "847857514960105473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2010745999778525449",
+        "created_at": "2026-01-12T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010745999778525449"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Academia Briar",
+              "probability": 0.4494,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "battleacademiabriar",
+              "probability": 0.5694,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "briarlol",
+              "probability": 0.4634,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "ArtofLegends",
+              "probability": 0.5526,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "LeagueOfLegends",
+              "probability": 0.5726,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "leagueoflegendsfanart",
+              "probability": 0.7161,
+              "start": 116,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 53,
+              "tag": "battleacademiabriar"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "briarlol"
+            },
+            {
+              "end": 97,
+              "start": 84,
+              "tag": "ArtofLegends"
+            },
+            {
+              "end": 114,
+              "start": 98,
+              "tag": "LeagueOfLegends"
+            },
+            {
+              "end": 137,
+              "start": 115,
+              "tag": "leagueoflegendsfanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQ7FOkWkhF",
+              "end": 161,
+              "expanded_url": "https://x.com/DYAMONDARTS/status/2010745999778525449/photo/1",
+              "media_key": "3_2010745996108595200",
+              "start": 138,
+              "url": "https://t.co/yQ7FOkWkhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010745999778525449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 57095,
+          "like_count": 2250,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "Battle Academia Briar fan art \nI hope you like it! \n\n#battleacademiabriar #briarlol #ArtofLegends #LeagueOfLegends #leagueoflegendsfanart https://t.co/yQ7FOkWkhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1459,
+          "like_count": 30005,
+          "listed_count": 6,
+          "media_count": 1241,
+          "tweet_count": 9629
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-31T17:05:58.000Z",
+        "description": "Digital Artist\nMostly League of Legends fan arts\nI mainly post on Instagram  https://t.co/OXopbYYzV8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dyamondarts/",
+                "end": 100,
+                "expanded_url": "https://www.instagram.com/dyamondarts/",
+                "start": 77,
+                "url": "https://t.co/OXopbYYzV8"
+              }
+            ]
+          }
+        },
+        "id": "847857514960105473",
+        "location": "România",
+        "name": "DyamondArts",
+        "pinned_tweet_id": "2009659309597340140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011204541702709248/178y9uti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 45,
+          "like_count": 2059,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 308
+        },
+        "username": "DYAMONDARTS",
+        "verified": false
+      }
+    ]
+  }
+}

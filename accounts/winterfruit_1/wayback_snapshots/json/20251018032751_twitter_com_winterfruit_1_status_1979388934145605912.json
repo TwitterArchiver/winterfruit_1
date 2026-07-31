@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "1979388934145605912",
+    "created_at": "2025-10-18T03:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979388934145605912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_Wind/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Overdose_Wind/status/1557002957643993090",
+          "start": 5,
+          "url": "https://t.co/fL8A4T7BmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979388934145605912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1557002957643993090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析 https://t.co/fL8A4T7BmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_1557002931324731395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FZuV6qvaQAMJ2Lt.jpg",
+        "width": 1282
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1557002938329214978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FZuV7E1aMAIa4vM.jpg",
+        "width": 720
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1557002946839461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FZuV7kiaQAAGGuk.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1557002953592303616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FZuV79sacAAjFww.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "1979388934145605912",
+        "created_at": "2025-10-18T03:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979388934145605912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_Wind/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Overdose_Wind/status/1557002957643993090",
+              "start": 5,
+              "url": "https://t.co/fL8A4T7BmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979388934145605912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1557002957643993090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析 https://t.co/fL8A4T7BmO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1557002931324731395",
+            "3_1557002938329214978",
+            "3_1557002946839461888",
+            "3_1557002953592303616"
+          ]
+        },
+        "author_id": "1539562167036530688",
+        "conversation_id": "1557002957643993090",
+        "created_at": "2022-08-09T13:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2022-08-09T14:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1557002957643993090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d17uB0f5CR",
+              "end": 61,
+              "expanded_url": "https://x.com/Overdose_Wind/status/1557002957643993090/photo/1",
+              "media_key": "3_1557002931324731395",
+              "start": 38,
+              "url": "https://t.co/d17uB0f5CR"
+            },
+            {
+              "display_url": "pic.x.com/d17uB0f5CR",
+              "end": 61,
+              "expanded_url": "https://x.com/Overdose_Wind/status/1557002957643993090/photo/1",
+              "media_key": "3_1557002938329214978",
+              "start": 38,
+              "url": "https://t.co/d17uB0f5CR"
+            },
+            {
+              "display_url": "pic.x.com/d17uB0f5CR",
+              "end": 61,
+              "expanded_url": "https://x.com/Overdose_Wind/status/1557002957643993090/photo/1",
+              "media_key": "3_1557002946839461888",
+              "start": 38,
+              "url": "https://t.co/d17uB0f5CR"
+            },
+            {
+              "display_url": "pic.x.com/d17uB0f5CR",
+              "end": 61,
+              "expanded_url": "https://x.com/Overdose_Wind/status/1557002957643993090/photo/1",
+              "media_key": "3_1557002953592303616",
+              "start": 38,
+              "url": "https://t.co/d17uB0f5CR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1557002957643993090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 0,
+          "like_count": 78,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价B站圈内师老师专门开个小号放话 叫嚣着要把右美沙芬在所有平台都下架 https://t.co/d17uB0f5CR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 923,
+          "like_count": 17934,
+          "listed_count": 3,
+          "media_count": 600,
+          "tweet_count": 5734
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T10:53:25.000Z",
+        "description": "",
+        "id": "1539562167036530688",
+        "name": "Spring风 Overdose归来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607023614418915328/feHuXJLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 13,
+          "like_count": 120,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "username": "Overdose_Wind",
+        "verified": false
+      }
+    ]
+  }
+}

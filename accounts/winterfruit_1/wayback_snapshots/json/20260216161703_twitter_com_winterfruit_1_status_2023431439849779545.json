@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023431427191341056"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2023431439849779545",
+    "created_at": "2026-02-16T16:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023431439849779545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QALdMGF78G",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/2023431439849779545/video/1",
+          "media_key": "13_2023431427191341056",
+          "start": 0,
+          "url": "https://t.co/QALdMGF78G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023431439849779545",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/QALdMGF78G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6020,
+        "height": 720,
+        "media_key": "13_2023431427191341056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023431427191341056/img/BQDDJ0iNEVSsfKIj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023431427191341056/vid/avc1/320x320/5bRzydBwFidwhx6x.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023431427191341056/vid/avc1/540x540/gP-ZFHksLEQ8HMcS.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023431427191341056/vid/avc1/720x720/l8D3Rwi_Wl87d5iq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023431427191341056/pl/Udk77FE7T5Ud2P34.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023431427191341056"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2023431439849779545",
+        "created_at": "2026-02-16T16:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023431439849779545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QALdMGF78G",
+              "end": 23,
+              "expanded_url": "https://x.com/winterfruit_1/status/2023431439849779545/video/1",
+              "media_key": "13_2023431427191341056",
+              "start": 0,
+              "url": "https://t.co/QALdMGF78G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023431439849779545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QALdMGF78G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1397,
+          "like_count": 33627,
+          "listed_count": 7,
+          "media_count": 1358,
+          "tweet_count": 10149
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

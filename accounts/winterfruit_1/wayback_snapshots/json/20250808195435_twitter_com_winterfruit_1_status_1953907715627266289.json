@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953893973975871949",
+    "created_at": "2025-08-08T19:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T20:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953907715627266289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1226619509491978240",
+          "start": 0,
+          "username": "annylaifu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953907715627266289",
+    "in_reply_to_user_id": "1226619509491978240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953894831736209847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annylaifu 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953893973975871949",
+        "created_at": "2025-08-08T19:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T20:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953907715627266289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226619509491978240",
+              "start": 0,
+              "username": "annylaifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953907715627266289",
+        "in_reply_to_user_id": "1226619509491978240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953894831736209847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annylaifu 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226619509491978240",
+        "conversation_id": "1953893973975871949",
+        "created_at": "2025-08-08T19:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T20:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953894831736209847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953894831736209847",
+        "in_reply_to_user_id": "1226619509491978240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3327,
+          "like_count": 623,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953893973975871949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "a month straight of panic attacks about death back to back just making my brain filter things that matter more\nthey're still not gone completely but at least i'm feeling about some things a lot easier"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 434,
+          "like_count": 8899,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2792
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-09T21:31:07.000Z",
+        "description": "shitposting and just laifu things \n@annytf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "annytf"
+              }
+            ]
+          }
+        },
+        "id": "1226619509491978240",
+        "location": "東京都",
+        "name": "anny 🍊",
+        "pinned_tweet_id": "1346886820454285337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786013309457887232/peJIvOzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36667,
+          "following_count": 0,
+          "like_count": 349,
+          "listed_count": 28,
+          "media_count": 281,
+          "tweet_count": 1525
+        },
+        "username": "annylaifu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974472198288285897",
+    "created_at": "2025-10-04T19:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974552571173019818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974552571173019818",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974472198288285897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 主队状态比较差的时候我也不是很敢去看直播😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974472198288285897",
+        "created_at": "2025-10-04T19:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T20:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974552571173019818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974552571173019818",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974472198288285897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 主队状态比较差的时候我也不是很敢去看直播😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909626688675475456",
+        "conversation_id": "1974472198288285897",
+        "created_at": "2025-10-04T13:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974472198288285897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974472198288285897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想发点推但又不知道发什么......突然想问问有推u在追电竞比赛吗？每次主队的比赛我总是不敢看，但又突然在想如果我总是不看的话那它还是我主队吗（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 648,
+          "like_count": 15137,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 4574
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969276485317115904/faFm1o-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 88,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 216
+        },
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

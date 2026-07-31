@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040798170272399361"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2040798185799700715",
+    "created_at": "2026-04-05T14:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040798185799700715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qI8oNcUlC4",
+          "end": 37,
+          "expanded_url": "https://x.com/winterfruit_1/status/2040798185799700715/photo/1",
+          "media_key": "3_2040798170272399361",
+          "start": 14,
+          "url": "https://t.co/qI8oNcUlC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040798185799700715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种配置的电脑能用来做什么 https://t.co/qI8oNcUlC4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 249,
+        "media_key": "3_2040798170272399361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJfH41agAE1z51.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040798170272399361"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2040798185799700715",
+        "created_at": "2026-04-05T14:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040798185799700715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qI8oNcUlC4",
+              "end": 37,
+              "expanded_url": "https://x.com/winterfruit_1/status/2040798185799700715/photo/1",
+              "media_key": "3_2040798170272399361",
+              "start": 14,
+              "url": "https://t.co/qI8oNcUlC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040798185799700715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种配置的电脑能用来做什么 https://t.co/qI8oNcUlC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "四二磷",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 1467,
+          "like_count": 38931,
+          "listed_count": 7,
+          "media_count": 1633,
+          "tweet_count": 11414
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

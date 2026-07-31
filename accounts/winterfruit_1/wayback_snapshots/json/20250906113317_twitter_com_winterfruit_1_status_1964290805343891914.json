@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1964290805343891914",
+    "created_at": "2025-09-06T11:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T12:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964290805343891914"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "MILC",
+          "probability": 0.6174,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_szpecter/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/_szpecter/status/1893555912918315026",
+          "start": 5,
+          "url": "https://t.co/gQAV21ouPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964290805343891914",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893555912918315026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "MILC https://t.co/gQAV21ouPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1893554981694832640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdCOS6XgAAGgQH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3508,
+        "media_key": "3_1893555024703176704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkdCQzIWwAANi85.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1964290805343891914",
+        "created_at": "2025-09-06T11:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964290805343891914"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "MILC",
+              "probability": 0.6174,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_szpecter/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/_szpecter/status/1893555912918315026",
+              "start": 5,
+              "url": "https://t.co/gQAV21ouPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964290805343891914",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893555912918315026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MILC https://t.co/gQAV21ouPW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893554981694832640",
+            "3_1893555024703176704"
+          ]
+        },
+        "author_id": "1372631104721612800",
+        "conversation_id": "1893555912918315026",
+        "created_at": "2025-02-23T06:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893555912918315026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "cerberart",
+              "probability": 0.5189,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "cerberart"
+            },
+            {
+              "end": 48,
+              "start": 34,
+              "tag": "heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUcrE7p9hu",
+              "end": 72,
+              "expanded_url": "https://x.com/_szpecter/status/1893555912918315026/photo/1",
+              "media_key": "3_1893554981694832640",
+              "start": 49,
+              "url": "https://t.co/GUcrE7p9hu"
+            },
+            {
+              "display_url": "pic.x.com/GUcrE7p9hu",
+              "end": 72,
+              "expanded_url": "https://x.com/_szpecter/status/1893555912918315026/photo/1",
+              "media_key": "3_1893555024703176704",
+              "start": 49,
+              "url": "https://t.co/GUcrE7p9hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893555912918315026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 36598,
+          "like_count": 2508,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "Do not tease the dog😠\n\n#cerberart #heartheartart https://t.co/GUcrE7p9hu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 460,
+          "like_count": 10651,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3455
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T19:29:21.000Z",
+        "description": "I draw stuff(ship tag is #vedalverse) NSFW account- @_AndersNSFW 🃏🍥💙🦈 NSFW patreon-https://t.co/Rex9mtVGst",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 25,
+                "tag": "vedalverse"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "_AndersNSFW"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/anders_432",
+                "end": 106,
+                "expanded_url": "https://www.patreon.com/anders_432",
+                "start": 83,
+                "url": "https://t.co/Rex9mtVGst"
+              }
+            ]
+          }
+        },
+        "id": "1372631104721612800",
+        "name": "Anders 🃏🍥💙🦈🐟🤍",
+        "pinned_tweet_id": "1904041983150297309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933223495150022657/AtyGLCCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9847,
+          "following_count": 166,
+          "like_count": 13866,
+          "listed_count": 14,
+          "media_count": 963,
+          "tweet_count": 2369
+        },
+        "username": "_szpecter",
+        "verified": false
+      }
+    ]
+  }
+}

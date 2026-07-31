@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1936458475334459799",
+    "created_at": "2025-06-21T16:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T17:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936463367084138661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "nycticorax114"
+        },
+        {
+          "end": 28,
+          "id": "1797808410433560576",
+          "start": 15,
+          "username": "Lilisideyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936463367084138661",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936463288788791599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycticorax114 @Lilisideyeye 我要曹你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1936463288788791599].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1936463288788791599",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1936463288788791599"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1936458475334459799",
+        "created_at": "2025-06-21T16:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936463367084138661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "nycticorax114"
+            },
+            {
+              "end": 28,
+              "id": "1797808410433560576",
+              "start": 15,
+              "username": "Lilisideyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936463367084138661",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936463288788791599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycticorax114 @Lilisideyeye 我要曹你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 338,
+          "like_count": 6641,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1865
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "𝐒𝐨𝐥𝐚 𝐝𝐨𝐬𝐢𝐬 𝐟𝐚𝐜𝐢𝐭 𝐯𝐞𝐧𝐞𝐧𝐮𝐦.",
+        "id": "1833054299183878144",
+        "location": "湿地公园",
+        "name": "AAA打窝钓鱼夜师傅",
+        "pinned_tweet_id": "1935215063624990818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901176082298212352/S527TKcV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 577,
+          "like_count": 57934,
+          "listed_count": 2,
+          "media_count": 1226,
+          "tweet_count": 23116
+        },
+        "username": "nycticorax114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T01:52:47.000Z",
+        "description": "为了大多数，民族共产主义/保守社会主义/威权主义/民粹主义，坚决反对文化左翼 惩戒营爱好者",
+        "id": "1797808410433560576",
+        "location": "秦城监狱",
+        "name": "薄熙来",
+        "pinned_tweet_id": "1832480062320603604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932639894075285504/yoO2ZBVT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1004,
+          "like_count": 21548,
+          "listed_count": 4,
+          "media_count": 589,
+          "tweet_count": 8198
+        },
+        "username": "Lilisideyeye",
+        "verified": false
+      }
+    ]
+  }
+}

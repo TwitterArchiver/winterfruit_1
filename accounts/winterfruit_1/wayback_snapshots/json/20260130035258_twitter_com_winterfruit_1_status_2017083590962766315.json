@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2017083590962766315",
+    "created_at": "2026-01-30T03:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T04:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017083590962766315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017052934388011009",
+          "start": 3,
+          "username": "fragroooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017083590962766315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017054353287414066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fragroooooo: 大家好，我是饼饼，目前在为养活妈妈努力ing 中喵，请哥哥看看我喵🥺\n88vx➕开放朋友圈\n188vx➕开放朋友圈➕主动聊天\n388vx➕开放朋友圈➕主动聊天➕涩图包➕可以点歌（主播唱歌还可以）\n588以上所有➕定制诗歌文章➕语音聊天\n1888…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017083590962766315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017083590962766315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017083590962766315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017054328029401088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4EOXrbUAAKPuU.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017054328029401088"
+          ]
+        },
+        "author_id": "2017052934388011009",
+        "conversation_id": "2017054353287414066",
+        "created_at": "2026-01-30T01:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017054353287414066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvaeNFvU1D",
+              "end": 179,
+              "expanded_url": "https://x.com/fragroooooo/status/2017054353287414066/photo/1",
+              "media_key": "3_2017054328029401088",
+              "start": 156,
+              "url": "https://t.co/YvaeNFvU1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017054353287414066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是饼饼，目前在为养活妈妈努力ing 中喵，请哥哥看看我喵🥺\n88vx➕开放朋友圈\n188vx➕开放朋友圈➕主动聊天\n388vx➕开放朋友圈➕主动聊天➕涩图包➕可以点歌（主播唱歌还可以）\n588以上所有➕定制诗歌文章➕语音聊天\n1888以上所有➕永久视频聊天\n\n转赞还抽五个青提茉莉喵，拜托大家啦🥺🥺🥺 https://t.co/YvaeNFvU1D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 1487,
+          "like_count": 31185,
+          "listed_count": 6,
+          "media_count": 1279,
+          "tweet_count": 9796
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist坡千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017053222180179968/YKAfSZiQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

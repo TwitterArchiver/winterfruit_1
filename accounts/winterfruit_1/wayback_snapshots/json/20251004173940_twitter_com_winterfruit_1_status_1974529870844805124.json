@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974518367601217965",
+    "created_at": "2025-10-04T17:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974529870844805124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974529870844805124",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974518367601217965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974518367601217965",
+        "created_at": "2025-10-04T17:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974529870844805124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974529870844805124",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974518367601217965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826536169800437760",
+        "conversation_id": "1974518367601217965",
+        "created_at": "2025-10-04T16:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974518367601217965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SQ100722/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/SQ100722/status/1974517552496939208",
+              "start": 30,
+              "url": "https://t.co/0xEvdJXvoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974518367601217965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974517552496939208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在已经把他ig拉黑了 我现在先搜一下推上有没有号 太屮了 https://t.co/0xEvdJXvoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 645,
+          "like_count": 15112,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 4572
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "男/10♋️/无人之境@pharaoh420_sq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "pharaoh420_sq"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "2727_SQ",
+        "pinned_tweet_id": "1974075295629197690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973309794795790342/5_7Mjf9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 351,
+          "like_count": 19115,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 195
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

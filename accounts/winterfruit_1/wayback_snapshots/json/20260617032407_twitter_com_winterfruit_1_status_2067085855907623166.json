@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067085847514746880"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Vegetarian",
+          "id": "860147410856665088",
+          "name": "Vegetarianism"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1260985796053487616",
+          "name": "Organic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vegetarian",
+          "id": "860147410856665088",
+          "name": "Vegetarianism"
+        }
+      }
+    ],
+    "conversation_id": "2067085855907623166",
+    "created_at": "2026-06-17T03:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067085855907623166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxE56j7u7x",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/2067085855907623166/photo/1",
+          "media_key": "3_2067085847514746880",
+          "start": 0,
+          "url": "https://t.co/PxE56j7u7x"
+        },
+        {
+          "display_url": "x.com/windsofchange7…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/windsofchange72/status/2066797319824244921",
+          "start": 24,
+          "url": "https://t.co/cPP9t4kilr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067085855907623166",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066797319824244921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PxE56j7u7x https://t.co/cPP9t4kilr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2067085847514746880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_DoF1akAA16yH.jpg",
+        "width": 1100
+      },
+      {
+        "height": 859,
+        "media_key": "3_2066797195643457536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK69GV0aEAAI5gD.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067085847514746880"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          }
+        ],
+        "conversation_id": "2067085855907623166",
+        "created_at": "2026-06-17T03:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067085855907623166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxE56j7u7x",
+              "end": 23,
+              "expanded_url": "https://x.com/winterfruit_1/status/2067085855907623166/photo/1",
+              "media_key": "3_2067085847514746880",
+              "start": 0,
+              "url": "https://t.co/PxE56j7u7x"
+            },
+            {
+              "display_url": "x.com/windsofchange7…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/windsofchange72/status/2066797319824244921",
+              "start": 24,
+              "url": "https://t.co/cPP9t4kilr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067085855907623166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066797319824244921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PxE56j7u7x https://t.co/cPP9t4kilr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066797195643457536"
+          ]
+        },
+        "author_id": "1529466607319142402",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetarian",
+              "id": "860147410856665088",
+              "name": "Vegetarianism"
+            }
+          }
+        ],
+        "conversation_id": "2066797319824244921",
+        "created_at": "2026-06-16T08:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066797319824244921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WER6LhBGEt",
+              "end": 293,
+              "expanded_url": "https://x.com/Windsofchange72/status/2066797319824244921/photo/1",
+              "media_key": "3_2066797195643457536",
+              "start": 270,
+              "url": "https://t.co/WER6LhBGEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066797319824244921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 115243,
+          "like_count": 3607,
+          "quote_count": 38,
+          "reply_count": 151,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "My Shang brothers are so loving ❤️\n\nI'm getting sweet messages like these from them.....they invited me to their village and said they'll make a vegetarian feast for me (I'm touched ngl 🥹).\n\nThey're very grateful that Indians are speaking up for them. \n\nMade my day ❤️🙏 https://t.co/WER6LhBGEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1475,
+          "like_count": 42923,
+          "listed_count": 6,
+          "media_count": 1862,
+          "tweet_count": 12770
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T14:17:23.000Z",
+        "description": "Ex–Investment Banker turned Orthomolecular Health Coach 🍀\n\nDM - Personalised Coaching\n\nAesthetics ✨ | \n\nShāstra 🕉️ | \n\nCivilizational Revivalism 🪷 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/WindsOfChange72",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/WindsOfChange72",
+                "start": 0,
+                "url": "https://t.co/TUNVzdnc0W"
+              }
+            ]
+          }
+        },
+        "id": "1529466607319142402",
+        "location": "Hindu Rashtra",
+        "name": "SambhavāmiYugeYuge - Healthmaxxing🌞",
+        "pinned_tweet_id": "1992601699048190188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006475717366919171/yVyrDbaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6736,
+          "following_count": 1641,
+          "like_count": 159914,
+          "listed_count": 25,
+          "media_count": 6218,
+          "tweet_count": 41649
+        },
+        "url": "https://t.co/TUNVzdnc0W",
+        "username": "Windsofchange72",
+        "verified": true
+      }
+    ]
+  }
+}

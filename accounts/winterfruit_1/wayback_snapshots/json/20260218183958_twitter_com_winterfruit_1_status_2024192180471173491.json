@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2024192180471173491",
+    "created_at": "2026-02-18T18:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T19:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024192180471173491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingxialaibai/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tingxialaibai/status/1989208567149363710",
+          "start": 6,
+          "url": "https://t.co/8K42w9L6SQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024192180471173491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989208567149363710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是，春风 https://t.co/8K42w9L6SQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2024192180471173491",
+        "created_at": "2026-02-18T18:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024192180471173491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxialaibai/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tingxialaibai/status/1989208567149363710",
+              "start": 6,
+              "url": "https://t.co/8K42w9L6SQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024192180471173491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989208567149363710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是，春风 https://t.co/8K42w9L6SQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855690027034128384",
+        "conversation_id": "1988960708458082521",
+        "created_at": "2025-11-14T05:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989208567149363710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989208567149363710",
+        "in_reply_to_user_id": "1855690027034128384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988960708458082521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2.被最在乎春风的人之一当做春风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1397,
+          "like_count": 33837,
+          "listed_count": 7,
+          "media_count": 1366,
+          "tweet_count": 10179
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T19:13:04.000Z",
+        "description": "药物滥用的内容相关会转发到@Overdose_Wind / #StandWithUkraine/",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 30,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Overdose_Wind"
+              }
+            ]
+          }
+        },
+        "id": "1855690027034128384",
+        "location": "Japan",
+        "name": "Spring风#参宿四/二周目版",
+        "pinned_tweet_id": "1984222117836275963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881937166159872/yEeUDUOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 73,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1199
+        },
+        "username": "tingxialaibai",
+        "verified": false
+      }
+    ]
+  }
+}

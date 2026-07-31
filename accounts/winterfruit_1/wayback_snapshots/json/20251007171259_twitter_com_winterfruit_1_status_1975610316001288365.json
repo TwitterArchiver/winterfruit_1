@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974913648851345763",
+    "created_at": "2025-10-07T17:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975610316001288365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "257050388",
+          "start": 0,
+          "username": "wanjunxie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975610316001288365",
+    "in_reply_to_user_id": "257050388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974913648851345763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanjunxie 我也在现场，我看到了，是李颖推他下去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974913648851345763",
+        "created_at": "2025-10-07T17:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975610316001288365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257050388",
+              "start": 0,
+              "username": "wanjunxie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975610316001288365",
+        "in_reply_to_user_id": "257050388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974913648851345763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanjunxie 我也在现场，我看到了，是李颖推他下去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257050388",
+        "conversation_id": "1974913648851345763",
+        "created_at": "2025-10-05T19:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974913648851345763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974913648851345763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17995,
+          "like_count": 62,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "据传，于朦胧被杀现场，习远平也在场！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 734,
+          "like_count": 15746,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 4840
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席   Chairman of China Democracy Party\n中国民主党的理念：公平、公正、天下为公！\nIdea of CDP: Fairness, Justice, Country belong to Public !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1Zblv"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "location": "New York",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278196323980922880/R_KQ72x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132431,
+          "following_count": 6431,
+          "like_count": 43731,
+          "listed_count": 538,
+          "media_count": 19363,
+          "tweet_count": 54170
+        },
+        "url": "https://t.co/6NrkK1Zblv",
+        "username": "wanjunxie",
+        "verified": true
+      }
+    ]
+  }
+}

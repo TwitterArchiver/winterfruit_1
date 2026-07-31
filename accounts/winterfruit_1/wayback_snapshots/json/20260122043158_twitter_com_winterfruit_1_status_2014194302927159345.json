@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1695906224120750080"
+      ],
+      "media_source_tweet_id": [
+        "1695906251245236655"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      }
+    ],
+    "conversation_id": "2014194302927159345",
+    "created_at": "2026-01-22T04:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014194302927159345"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Briar",
+          "probability": 0.7621,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "LeagueOfLegends",
+          "probability": 0.5459,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "ArtofLegends",
+          "probability": 0.3716,
+          "start": 61,
+          "type": "Organization"
+        },
+        {
+          "end": 80,
+          "normalized_text": "briar",
+          "probability": 0.3722,
+          "start": 76,
+          "type": "Organization"
+        },
+        {
+          "end": 103,
+          "normalized_text": "LeagueOfLegendsFanArt",
+          "probability": 0.5082,
+          "start": 83,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 43,
+          "tag": "LeagueOfLegends"
+        },
+        {
+          "end": 73,
+          "start": 60,
+          "tag": "ArtofLegends"
+        },
+        {
+          "end": 81,
+          "start": 75,
+          "tag": "briar"
+        },
+        {
+          "end": 104,
+          "start": 82,
+          "tag": "LeagueOfLegendsFanArt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686329997940723713",
+          "start": 3,
+          "username": "Riot_Rammus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDryGSq8B0",
+          "end": 128,
+          "expanded_url": "https://x.com/leaguemasivo/status/1695906251245236655/video/1",
+          "media_key": "7_1695906224120750080",
+          "start": 105,
+          "url": "https://t.co/YDryGSq8B0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014194302927159345",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1695906251245236655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riot_Rammus: Lol community with Briar\n\n#LeagueOfLegends #ArtofLegends  #briar #LeagueOfLegendsFanArt https://t.co/YDryGSq8B0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7533,
+        "height": 1024,
+        "media_key": "7_1695906224120750080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1695906224120750080/pu/img/Ph_kbCrQ_oGR5Uja.jpg",
+        "public_metrics": {
+          "view_count": 4502
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695906224120750080/pu/vid/320x568/4UVCJlQ8TkZaa4JV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695906224120750080/pu/vid/480x852/VmoZjjI4f9_n_2Lt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1695906224120750080/pu/vid/576x1024/pT61BGexHDBwrgXa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1695906224120750080/pu/pl/BnUtzsjf1aNgkPQd.m3u8?tag=12&v=ade"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1695906224120750080"
+          ],
+          "media_source_tweet_id": [
+            "1695906251245236655"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "2014194302927159345",
+        "created_at": "2026-01-22T04:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014194302927159345"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Briar",
+              "probability": 0.7621,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "LeagueOfLegends",
+              "probability": 0.5459,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "ArtofLegends",
+              "probability": 0.3716,
+              "start": 61,
+              "type": "Organization"
+            },
+            {
+              "end": 80,
+              "normalized_text": "briar",
+              "probability": 0.3722,
+              "start": 76,
+              "type": "Organization"
+            },
+            {
+              "end": 103,
+              "normalized_text": "LeagueOfLegendsFanArt",
+              "probability": 0.5082,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 43,
+              "tag": "LeagueOfLegends"
+            },
+            {
+              "end": 73,
+              "start": 60,
+              "tag": "ArtofLegends"
+            },
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "briar"
+            },
+            {
+              "end": 104,
+              "start": 82,
+              "tag": "LeagueOfLegendsFanArt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686329997940723713",
+              "start": 3,
+              "username": "Riot_Rammus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDryGSq8B0",
+              "end": 128,
+              "expanded_url": "https://x.com/leaguemasivo/status/1695906251245236655/video/1",
+              "media_key": "7_1695906224120750080",
+              "start": 105,
+              "url": "https://t.co/YDryGSq8B0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014194302927159345",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695906251245236655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riot_Rammus: Lol community with Briar\n\n#LeagueOfLegends #ArtofLegends  #briar #LeagueOfLegendsFanArt https://t.co/YDryGSq8B0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1695906224120750080"
+          ]
+        },
+        "author_id": "1686329997940723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "1695906251245236655",
+        "created_at": "2023-08-27T21:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-27T22:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1695906251245236655"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Briar",
+              "probability": 0.7156,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 41,
+              "normalized_text": "LeagueOfLegends",
+              "probability": 0.5624,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "ArtofLegends",
+              "probability": 0.5016,
+              "start": 44,
+              "type": "Organization"
+            },
+            {
+              "end": 63,
+              "normalized_text": "briar",
+              "probability": 0.3456,
+              "start": 59,
+              "type": "Organization"
+            },
+            {
+              "end": 86,
+              "normalized_text": "LeagueOfLegendsFanArt",
+              "probability": 0.5486,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 26,
+              "tag": "LeagueOfLegends"
+            },
+            {
+              "end": 56,
+              "start": 43,
+              "tag": "ArtofLegends"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "briar"
+            },
+            {
+              "end": 87,
+              "start": 65,
+              "tag": "LeagueOfLegendsFanArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDryGSq8B0",
+              "end": 111,
+              "expanded_url": "https://x.com/leaguemasivo/status/1695906251245236655/video/1",
+              "media_key": "7_1695906224120750080",
+              "start": 88,
+              "url": "https://t.co/YDryGSq8B0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1695906251245236655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12580,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Lol community with Briar\n\n#LeagueOfLegends #ArtofLegends  #briar #LeagueOfLegendsFanArt https://t.co/YDryGSq8B0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1459,
+          "like_count": 30005,
+          "listed_count": 6,
+          "media_count": 1241,
+          "tweet_count": 9630
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T10:56:27.000Z",
+        "description": "OK dev👍 | Not afilliated with Riot Games",
+        "id": "1686329997940723713",
+        "location": "Summoner's Rift",
+        "name": "Riot Rammus",
+        "pinned_tweet_id": "1768636412134355197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765698200638197761/BJe7ZEfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12991,
+          "following_count": 2748,
+          "like_count": 33763,
+          "listed_count": 6,
+          "media_count": 1907,
+          "tweet_count": 36072
+        },
+        "username": "Riot_Rammus",
+        "verified": false
+      }
+    ]
+  }
+}

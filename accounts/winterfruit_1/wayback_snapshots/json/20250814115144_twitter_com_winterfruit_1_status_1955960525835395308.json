@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948122155721617408"
+      ],
+      "media_source_tweet_id": [
+        "1948122160855388520"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1955960525835395308",
+    "created_at": "2025-08-14T11:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955960525835395308"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "cerberart",
+          "probability": 0.4923,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "camilart",
+          "probability": 0.6841,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "vedalverse",
+          "probability": 0.7361,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 37,
+          "tag": "cerberart"
+        },
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "camilart"
+        },
+        {
+          "end": 69,
+          "start": 58,
+          "tag": "vedalverse"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763732232454414336",
+          "start": 3,
+          "username": "notklyzm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DlkDryCb0",
+          "end": 93,
+          "expanded_url": "https://x.com/notklyzm/status/1948122160855388520/photo/1",
+          "media_key": "3_1948122155721617408",
+          "start": 70,
+          "url": "https://t.co/9DlkDryCb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955960525835395308",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948122160855388520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notklyzm: they took her to the g\n#cerberart #camilart #vedalverse https://t.co/9DlkDryCb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_1948122155721617408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwkex27a8AAQKSf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948122155721617408"
+          ],
+          "media_source_tweet_id": [
+            "1948122160855388520"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1955960525835395308",
+        "created_at": "2025-08-14T11:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955960525835395308"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "cerberart",
+              "probability": 0.4923,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "camilart",
+              "probability": 0.6841,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "vedalverse",
+              "probability": 0.7361,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "cerberart"
+            },
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "camilart"
+            },
+            {
+              "end": 69,
+              "start": 58,
+              "tag": "vedalverse"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763732232454414336",
+              "start": 3,
+              "username": "notklyzm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DlkDryCb0",
+              "end": 93,
+              "expanded_url": "https://x.com/notklyzm/status/1948122160855388520/photo/1",
+              "media_key": "3_1948122155721617408",
+              "start": 70,
+              "url": "https://t.co/9DlkDryCb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955960525835395308",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948122160855388520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @notklyzm: they took her to the g\n#cerberart #camilart #vedalverse https://t.co/9DlkDryCb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948122155721617408"
+          ]
+        },
+        "author_id": "1763732232454414336",
+        "conversation_id": "1948122160855388520",
+        "created_at": "2025-07-23T20:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T21:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948122160855388520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "cerberart",
+              "probability": 0.5074,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "camilart",
+              "probability": 0.6415,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "vedalverse",
+              "probability": 0.7505,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "cerberart"
+            },
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "camilart"
+            },
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "vedalverse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DlkDryCb0",
+              "end": 79,
+              "expanded_url": "https://x.com/notklyzm/status/1948122160855388520/photo/1",
+              "media_key": "3_1948122155721617408",
+              "start": 56,
+              "url": "https://t.co/9DlkDryCb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948122160855388520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 27487,
+          "like_count": 1751,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "they took her to the g\n#cerberart #camilart #vedalverse https://t.co/9DlkDryCb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420  / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 445,
+          "like_count": 9306,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2997
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T01:05:33.000Z",
+        "description": "posting art once a year",
+        "id": "1763732232454414336",
+        "location": "Purgatory",
+        "name": "klysm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763737996766093312/9v_dLvKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 192,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 6
+        },
+        "username": "notklyzm",
+        "verified": false
+      }
+    ]
+  }
+}

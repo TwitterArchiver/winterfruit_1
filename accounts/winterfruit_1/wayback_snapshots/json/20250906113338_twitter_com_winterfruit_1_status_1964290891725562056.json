@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1964290891725562056",
+    "created_at": "2025-09-06T11:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T12:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964290891725562056"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Cerber",
+          "probability": 0.6473,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 109,
+          "normalized_text": "Cerber Discord",
+          "probability": 0.8427,
+          "start": 96,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "cerberart",
+          "probability": 0.6441,
+          "start": 112,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 111,
+          "tag": "cerberart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1904738570180702208",
+          "start": 3,
+          "username": "lika_miao71623"
+        },
+        {
+          "end": 67,
+          "id": "1835309183610068992",
+          "start": 56,
+          "username": "lukuwo2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zQsb",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/zQsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964290891725562056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962762455899050233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lika_miao71623: Cerber wake you up\nMy commission to @lukuwo2333 \nAnimated by me \nAudio from Cerber Discord\n#cerberart https://t.co/zQsb…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37960,
+        "height": 1080,
+        "media_key": "13_1962762338299236352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962762338299236352/img/muBkNyqc9hYJ6Idz.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962762338299236352/vid/avc1/480x270/c-PUGcc2EkkjODrB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962762338299236352/vid/avc1/640x360/dz87nN89sgOF4j4d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962762338299236352/vid/avc1/1280x720/k__tFhHSKvh5HXq_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962762338299236352/pl/PDlL2wS3_st-E6NA.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 270,
+        "media_key": "16_1962762382192566272",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gz0h_MkWYAAiqxW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gz0h_MkWYAAiqxW.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 600,
+        "media_key": "16_1962762415675785217",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gz0iBJTXwAEAfZY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gz0iBJTXwAEAfZY.mp4"
+          }
+        ],
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1964290891725562056",
+        "created_at": "2025-09-06T11:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T12:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964290891725562056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Cerber",
+              "probability": 0.6473,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Cerber Discord",
+              "probability": 0.8427,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "cerberart",
+              "probability": 0.6441,
+              "start": 112,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 111,
+              "tag": "cerberart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1904738570180702208",
+              "start": 3,
+              "username": "lika_miao71623"
+            },
+            {
+              "end": 67,
+              "id": "1835309183610068992",
+              "start": 56,
+              "username": "lukuwo2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/zQsb",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/zQsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964290891725562056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962762455899050233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lika_miao71623: Cerber wake you up\nMy commission to @lukuwo2333 \nAnimated by me \nAudio from Cerber Discord\n#cerberart https://t.co/zQsb…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962762338299236352",
+            "16_1962762382192566272",
+            "16_1962762415675785217"
+          ]
+        },
+        "author_id": "1904738570180702208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1962762455899050233",
+        "created_at": "2025-09-02T06:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962762455899050233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Cerber",
+              "probability": 0.6507,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "Cerber Discord",
+              "probability": 0.8752,
+              "start": 76,
+              "type": "Other"
+            },
+            {
+              "end": 100,
+              "normalized_text": "cerberart",
+              "probability": 0.6734,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 91,
+              "tag": "cerberart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1835309183610068992",
+              "start": 36,
+              "username": "lukuwo2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQsbaKH6wx",
+              "end": 125,
+              "expanded_url": "https://x.com/lika_miao71623/status/1962762455899050233/video/1",
+              "media_key": "13_1962762338299236352",
+              "start": 102,
+              "url": "https://t.co/zQsbaKH6wx"
+            },
+            {
+              "display_url": "pic.x.com/zQsbaKH6wx",
+              "end": 125,
+              "expanded_url": "https://x.com/lika_miao71623/status/1962762455899050233/video/1",
+              "media_key": "16_1962762382192566272",
+              "start": 102,
+              "url": "https://t.co/zQsbaKH6wx"
+            },
+            {
+              "display_url": "pic.x.com/zQsbaKH6wx",
+              "end": 125,
+              "expanded_url": "https://x.com/lika_miao71623/status/1962762455899050233/video/1",
+              "media_key": "16_1962762415675785217",
+              "start": 102,
+              "url": "https://t.co/zQsbaKH6wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962762455899050233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Cerber wake you up\nMy commission to @lukuwo2333 \nAnimated by me \nAudio from Cerber Discord\n#cerberart https://t.co/zQsbaKH6wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 461,
+          "like_count": 10652,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 3456
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:34:08.000Z",
+        "description": "Neuro clipper",
+        "id": "1904738570180702208",
+        "name": "Miaolika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904739701786894336/c72rXz49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "lika_miao71623",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T13:26:34.000Z",
+        "description": "🇨🇳i'm LEXing! you can also call me lukuwo.\ni usually share some of my paintings,nice to meet you🌹\n\nbanner:@tanshaoj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "tanshaoj"
+              }
+            ]
+          }
+        },
+        "id": "1835309183610068992",
+        "location": "a cat's stomach",
+        "name": "LEXingXD•ω•",
+        "pinned_tweet_id": "1887906455669588043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835684148368773120/St6CFjI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 156,
+          "like_count": 6147,
+          "listed_count": 8,
+          "media_count": 140,
+          "tweet_count": 2745
+        },
+        "username": "lukuwo2333",
+        "verified": false
+      }
+    ]
+  }
+}

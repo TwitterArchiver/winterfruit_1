@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029965375413321728",
+        "3_2029965375417503744"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2029965385760641239",
+    "created_at": "2026-03-06T17:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029965385760641239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2o1guOgFNR",
+          "end": 46,
+          "expanded_url": "https://x.com/winterfruit_1/status/2029965385760641239/photo/1",
+          "media_key": "3_2029965375413321728",
+          "start": 23,
+          "url": "https://t.co/2o1guOgFNR"
+        },
+        {
+          "display_url": "pic.x.com/2o1guOgFNR",
+          "end": 46,
+          "expanded_url": "https://x.com/winterfruit_1/status/2029965385760641239/photo/1",
+          "media_key": "3_2029965375417503744",
+          "start": 23,
+          "url": "https://t.co/2o1guOgFNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029965385760641239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炫狗真是独独又特特啊，你们有这样的独特主播吗 https://t.co/2o1guOgFNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2029965375413321728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCviwPPagAAJakH.jpg",
+        "width": 1091
+      },
+      {
+        "height": 536,
+        "media_key": "3_2029965375417503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCviwPQaUAAo_gl.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029965375413321728",
+            "3_2029965375417503744"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2029965385760641239",
+        "created_at": "2026-03-06T17:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029965385760641239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2o1guOgFNR",
+              "end": 46,
+              "expanded_url": "https://x.com/winterfruit_1/status/2029965385760641239/photo/1",
+              "media_key": "3_2029965375413321728",
+              "start": 23,
+              "url": "https://t.co/2o1guOgFNR"
+            },
+            {
+              "display_url": "pic.x.com/2o1guOgFNR",
+              "end": 46,
+              "expanded_url": "https://x.com/winterfruit_1/status/2029965385760641239/photo/1",
+              "media_key": "3_2029965375417503744",
+              "start": 23,
+              "url": "https://t.co/2o1guOgFNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029965385760641239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫狗真是独独又特特啊，你们有这样的独特主播吗 https://t.co/2o1guOgFNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 1451,
+          "like_count": 36096,
+          "listed_count": 7,
+          "media_count": 1486,
+          "tweet_count": 10617
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

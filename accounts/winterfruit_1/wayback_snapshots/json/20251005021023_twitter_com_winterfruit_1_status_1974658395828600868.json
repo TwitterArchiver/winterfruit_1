@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974396340160602501",
+    "created_at": "2025-10-05T02:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974658395828600868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1628358190655246338",
+          "start": 0,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974658395828600868",
+    "in_reply_to_user_id": "1628358190655246338",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974396340160602501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNzhende2007 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974396340160602501",
+        "created_at": "2025-10-05T02:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974658395828600868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974658395828600868",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974396340160602501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628358190655246338",
+        "conversation_id": "1974396340160602501",
+        "created_at": "2025-10-04T08:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T09:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974396340160602501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974396340160602501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4847,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为是跨性别被骂我真的会哭……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 658,
+          "like_count": 15178,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 4597
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "07/sub/mtf/le/男的不要私信骚扰我",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 370,
+          "like_count": 8132,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 2070
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

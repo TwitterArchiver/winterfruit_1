@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953087921562738688"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1952738818404012327",
+    "created_at": "2025-08-06T13:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953087933239476284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/os7ESc9cbd",
+          "end": 36,
+          "expanded_url": "https://x.com/winterfruit_1/status/1953087933239476284/photo/1",
+          "media_key": "3_1953087921562738688",
+          "start": 13,
+          "url": "https://t.co/os7ESc9cbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953087933239476284",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952769371551744512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 绷 https://t.co/os7ESc9cbd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 156,
+        "media_key": "3_1953087921562738688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrDHePaYAAEd4a.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 362328,
+        "height": 640,
+        "media_key": "13_1952769054772740098",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952769054772740098/img/vrBVcz3QOGrG3FgN.jpg",
+        "public_metrics": {
+          "view_count": 2423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952769054772740098/vid/avc1/288x640/50boK7WASMmU0BU0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952769054772740098/pl/G8eO7bjK804F1i25.m3u8?tag=14"
+          }
+        ],
+        "width": 288
+      },
+      {
+        "duration_ms": 404536,
+        "height": 640,
+        "media_key": "13_1952769054781128707",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952769054781128707/img/GBOm9RpHJJvlrqk_.jpg",
+        "public_metrics": {
+          "view_count": 551
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952769054781128707/vid/avc1/288x640/uLsKz45WecnbmM-S.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952769054781128707/pl/4BqCdmlhuF4JPjDq.m3u8?tag=14"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953087921562738688"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1952738818404012327",
+        "created_at": "2025-08-06T13:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953087933239476284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/os7ESc9cbd",
+              "end": 36,
+              "expanded_url": "https://x.com/winterfruit_1/status/1953087933239476284/photo/1",
+              "media_key": "3_1953087921562738688",
+              "start": 13,
+              "url": "https://t.co/os7ESc9cbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953087933239476284",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952769371551744512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 绷 https://t.co/os7ESc9cbd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952769054772740098",
+            "13_1952769054781128707"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1952738818404012327",
+        "created_at": "2025-08-05T16:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952769371551744512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcvDNyktUm",
+              "end": 59,
+              "expanded_url": "https://x.com/luobo4444/status/1952769371551744512/video/1",
+              "media_key": "13_1952769054772740098",
+              "start": 36,
+              "url": "https://t.co/xcvDNyktUm"
+            },
+            {
+              "display_url": "pic.x.com/xcvDNyktUm",
+              "end": 59,
+              "expanded_url": "https://x.com/luobo4444/status/1952769371551744512/video/1",
+              "media_key": "13_1952769054781128707",
+              "start": 36,
+              "url": "https://t.co/xcvDNyktUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952769371551744512",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 5360,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952738818404012327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刘嘉颖（猫猫命）骚母狗和前男友大秀16岁视频扣屁眼视频\n\nb照预警😹😹 https://t.co/xcvDNyktUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 421,
+          "like_count": 8675,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2660
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜｜高中生｜日本語学习中｜里垢老被封等过段时间再整",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUSGw"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1952738818404012327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7400,
+          "following_count": 443,
+          "like_count": 3329,
+          "listed_count": 9,
+          "media_count": 432,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/6Vz4UqUSGw",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

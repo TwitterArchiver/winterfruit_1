@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1974568643137884551",
+    "created_at": "2025-10-04T20:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T21:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974577596995449178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1263259728865566720",
+          "start": 0,
+          "username": "yu71053712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974577596995449178",
+    "in_reply_to_user_id": "1263259728865566720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974574404307988777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu71053712 电脑游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1974568643137884551",
+        "created_at": "2025-10-04T20:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974577596995449178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1263259728865566720",
+              "start": 0,
+              "username": "yu71053712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974577596995449178",
+        "in_reply_to_user_id": "1263259728865566720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974574404307988777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu71053712 电脑游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263259728865566720",
+        "conversation_id": "1974568643137884551",
+        "created_at": "2025-10-04T20:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974574404307988777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974574404307988777",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974568643137884551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 什么游戏呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 651,
+          "like_count": 15117,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 4580
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T00:06:20.000Z",
+        "description": "维也纳",
+        "id": "1263259728865566720",
+        "location": "奥地利",
+        "name": "维也纳🇦🇹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508409515984752644/uxo-uLhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 461
+        },
+        "username": "yu71053712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1914928536680640799",
+    "created_at": "2025-04-23T07:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T08:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914951359587373542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        },
+        {
+          "end": 30,
+          "id": "1638893284218261504",
+          "start": 14,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914951359587373542",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914930812602204284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day @Benzyl_titanium 想曹丕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1914928536680640799",
+        "created_at": "2025-04-23T07:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914951359587373542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            },
+            {
+              "end": 30,
+              "id": "1638893284218261504",
+              "start": 14,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914951359587373542",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914930812602204284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day @Benzyl_titanium 想曹丕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1914928536680640799",
+        "created_at": "2025-04-23T06:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T07:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914930812602204284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914930812602204284",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914930186866270642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 你不想知道地雷女用了会怎么样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 268,
+          "like_count": 4715,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1346
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1911617640910688727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 590,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 博客:https://t.co/Lj4Wy3oIEt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.top",
+                "end": 133,
+                "expanded_url": "https://benzyl-titanium.top",
+                "start": 110,
+                "url": "https://t.co/Lj4Wy3oIEt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.benzyl-titanium.top",
+                "end": 23,
+                "expanded_url": "http://home.benzyl-titanium.top",
+                "start": 0,
+                "url": "https://t.co/7GTXEKSjZy"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 519,
+          "like_count": 8245,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/7GTXEKSjZy",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

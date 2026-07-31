@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1963419922387931334",
+    "created_at": "2025-09-04T01:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963419922387931334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/04177_realname/status/1963256153254600924",
+          "start": 2,
+          "url": "https://t.co/S8WSr1AbbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963419922387931334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963256153254600924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "悲 https://t.co/S8WSr1AbbK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1963419922387931334",
+        "created_at": "2025-09-04T01:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963419922387931334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/04177_realname/status/1963256153254600924",
+              "start": 2,
+              "url": "https://t.co/S8WSr1AbbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963419922387931334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963256153254600924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲 https://t.co/S8WSr1AbbK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1963253091257458717",
+        "created_at": "2025-09-03T15:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963256153254600924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963256153254600924",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963253091257458717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早就不见了 一起抢手柄的他们 倒也没有反目成仇 就是变成了朋友圈点赞之交 时间真是相当可怕的东西啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 444,
+          "like_count": 10446,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 3391
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "你的人生导师，提供问题解答服务，详情见置顶/逃生舱：@04177_truth（来互fo）/ ❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "04177_truth"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1961655141700157841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10972,
+          "following_count": 6072,
+          "like_count": 64850,
+          "listed_count": 35,
+          "media_count": 2634,
+          "tweet_count": 19300
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

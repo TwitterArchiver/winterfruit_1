@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1935341660592107929",
+    "created_at": "2025-06-18T18:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T19:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935397538032664662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935397538032664662",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935341660592107929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 唉，学oi导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1935341660592107929",
+        "created_at": "2025-06-18T18:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T19:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935397538032664662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935397538032664662",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935341660592107929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 唉，学oi导致的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1935341660592107929",
+        "created_at": "2025-06-18T14:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935341660592107929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minaseayano/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/minaseayano/status/1935336311667527967",
+              "start": 132,
+              "url": "https://t.co/TJD1bSiRXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935341660592107929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935336311667527967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OIer belike\n當我從學齡前開始接觸到了第一個圖形化編程軟件開始，一切已經注定了\n年輕人不要學OI，太吃地區和天賦了，最後的結局也就是這樣的……\n特別是江浙滬弱市，當你第一次打csp-j的時候，便會發現一切都已經晚了…….\n競賽是資源和天賦堆砌出來的遊戲 https://t.co/TJD1bSiRXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 334,
+          "like_count": 6509,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1812
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1931446534899740939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921599678090780672/CQrzT5_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 546,
+          "like_count": 1404,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

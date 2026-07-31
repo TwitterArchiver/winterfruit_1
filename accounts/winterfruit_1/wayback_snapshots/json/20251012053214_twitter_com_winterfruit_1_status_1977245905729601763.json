@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1977245493987361258",
+    "created_at": "2025-10-12T05:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977245905729601763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870780665295474688",
+          "start": 0,
+          "username": "doraneko_rana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977245905729601763",
+    "in_reply_to_user_id": "1870780665295474688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977245723315098042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doraneko_rana 感觉不如安那其"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1977245493987361258",
+        "created_at": "2025-10-12T05:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977245905729601763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870780665295474688",
+              "start": 0,
+              "username": "doraneko_rana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977245905729601763",
+        "in_reply_to_user_id": "1870780665295474688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977245723315098042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doraneko_rana 感觉不如安那其"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870780665295474688",
+        "conversation_id": "1977245493987361258",
+        "created_at": "2025-10-12T05:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977245723315098042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977245723315098042",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977245493987361258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 左人：共产主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 774,
+          "like_count": 16562,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 5260
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T10:37:31.000Z",
+        "description": "I'm not sure that any of that matters. Friends, enemies. So long as there's mercy. Always mercy. \n女儿@iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "iranon_lcf"
+              }
+            ]
+          }
+        },
+        "id": "1870780665295474688",
+        "name": "死仇时代的恨意",
+        "pinned_tweet_id": "1871958460302315698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941793606203006976/-MfIsDXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 494,
+          "like_count": 11915,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 4134
+        },
+        "username": "doraneko_rana",
+        "verified": false
+      }
+    ]
+  }
+}

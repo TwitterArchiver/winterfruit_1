@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2070758542563504167",
+    "created_at": "2026-06-27T06:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070758542563504167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neru_sleep/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/neru_sleep/status/2070085132292432172",
+          "start": 3,
+          "url": "https://t.co/4BvFQ5DEKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070758542563504167",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070085132292432172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？。 https://t.co/4BvFQ5DEKC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070758542563504167",
+        "created_at": "2026-06-27T06:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070758542563504167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neru_sleep/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/neru_sleep/status/2070085132292432172",
+              "start": 3,
+              "url": "https://t.co/4BvFQ5DEKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070758542563504167",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070085132292432172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？。 https://t.co/4BvFQ5DEKC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "191830183",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2070085132292432172",
+        "created_at": "2026-06-25T10:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070085132292432172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070085132292432172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 673,
+          "impression_count": 422426,
+          "like_count": 16423,
+          "quote_count": 777,
+          "reply_count": 89,
+          "retweet_count": 1854
+        },
+        "reply_settings": "everyone",
+        "text": "ボカロP㊙️情報\n\n俺の乳首は左の方が1.2倍くらい大きい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 1478,
+          "like_count": 43319,
+          "listed_count": 6,
+          "media_count": 1870,
+          "tweet_count": 12918
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neru-official.com",
+                "end": 23,
+                "expanded_url": "https://www.neru-official.com/",
+                "start": 0,
+                "url": "https://t.co/xlXBR2UYLQ"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは次URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "1424295941893279745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604580,
+          "following_count": 298,
+          "like_count": 1116,
+          "listed_count": 3065,
+          "media_count": 204,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/xlXBR2UYLQ",
+        "username": "neru_sleep",
+        "verified": true
+      }
+    ]
+  }
+}

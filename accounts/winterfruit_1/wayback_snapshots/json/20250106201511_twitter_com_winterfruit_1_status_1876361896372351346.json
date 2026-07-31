@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1875768222831800492",
+    "created_at": "2025-01-06T20:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T21:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876361896372351346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706957692282249216",
+          "start": 0,
+          "username": "XiaWan27472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876361896372351346",
+    "in_reply_to_user_id": "1706957692282249216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875768222831800492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaWan27472 互联网已经完蛋了，无论墙内外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1875768222831800492",
+        "created_at": "2025-01-06T20:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T21:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876361896372351346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706957692282249216",
+              "start": 0,
+              "username": "XiaWan27472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876361896372351346",
+        "in_reply_to_user_id": "1706957692282249216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875768222831800492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaWan27472 互联网已经完蛋了，无论墙内外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706957692282249216",
+        "conversation_id": "1875768222831800492",
+        "created_at": "2025-01-05T04:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T05:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875768222831800492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875768222831800492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 335435,
+          "like_count": 2095,
+          "quote_count": 11,
+          "reply_count": 398,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "一年前翻墙上推特，初心是想看新闻，更快速更多视角的新闻。\n一年来的感受：推特看不到真正的新闻。\n我翻开新闻一查，这新闻没有时间，没有事实，歪歪斜斜的每页上都写着“自由民主”几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是“反华”‌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 238,
+          "like_count": 4498,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1075
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T09:03:41.000Z",
+        "description": "来自长江边，山城辣妹子",
+        "id": "1706957692282249216",
+        "location": "来自长江边，山城辣妹子",
+        "name": "夏天晚风吹",
+        "pinned_tweet_id": "1863238849041997871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862395390831611904/cnLn-2Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 288,
+          "like_count": 1741,
+          "listed_count": 26,
+          "media_count": 697,
+          "tweet_count": 10225
+        },
+        "username": "XiaWan27472",
+        "verified": false
+      }
+    ]
+  }
+}

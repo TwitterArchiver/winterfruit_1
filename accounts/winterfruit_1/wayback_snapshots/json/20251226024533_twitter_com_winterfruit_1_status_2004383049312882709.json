@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2004383049312882709",
+    "created_at": "2025-12-26T02:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004383049312882709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2003999499728179240",
+          "start": 6,
+          "url": "https://t.co/RBRl4IfiWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004383049312882709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003999499728179240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个 https://t.co/RBRl4IfiWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003999496842395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-i7LtaQAABx_j.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003999493885489152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-i7AsbcAAH5GJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003999494351052801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-i7CbbYAEUXml.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003999494300749827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-i7CPb0AMTfy7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2004383049312882709",
+        "created_at": "2025-12-26T02:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004383049312882709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2003999499728179240",
+              "start": 6,
+              "url": "https://t.co/RBRl4IfiWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004383049312882709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003999499728179240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个 https://t.co/RBRl4IfiWy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003999496842395648",
+            "3_2003999493885489152",
+            "3_2003999494351052801",
+            "3_2003999494300749827"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2003999499728179240",
+        "created_at": "2025-12-25T01:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003999499728179240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhz1vUo8Wk",
+              "end": 181,
+              "expanded_url": "https://x.com/yoshino_2333/status/2003999499728179240/photo/1",
+              "media_key": "3_2003999496842395648",
+              "start": 158,
+              "url": "https://t.co/vhz1vUo8Wk"
+            },
+            {
+              "display_url": "pic.x.com/vhz1vUo8Wk",
+              "end": 181,
+              "expanded_url": "https://x.com/yoshino_2333/status/2003999499728179240/photo/1",
+              "media_key": "3_2003999493885489152",
+              "start": 158,
+              "url": "https://t.co/vhz1vUo8Wk"
+            },
+            {
+              "display_url": "pic.x.com/vhz1vUo8Wk",
+              "end": 181,
+              "expanded_url": "https://x.com/yoshino_2333/status/2003999499728179240/photo/1",
+              "media_key": "3_2003999494351052801",
+              "start": 158,
+              "url": "https://t.co/vhz1vUo8Wk"
+            },
+            {
+              "display_url": "pic.x.com/vhz1vUo8Wk",
+              "end": 181,
+              "expanded_url": "https://x.com/yoshino_2333/status/2003999499728179240/photo/1",
+              "media_key": "3_2003999494300749827",
+              "start": 158,
+              "url": "https://t.co/vhz1vUo8Wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003999499728179240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 26365,
+          "like_count": 364,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "终于有勇气把自己做的一个小项目拿出来见人了：BBPlayer\n\n这是一个 Bilibili 音乐播放器，使用 React Native 构建。不仅支持登录账号后直接播放收藏夹、追更合集内的内容。也支持创建本地歌单添加歌曲。同时支持从网易云获取歌词，以及更多有趣的小功能。起码我很喜欢（）\n\n项目链接我放在评论区了。 https://t.co/vhz1vUo8Wk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / ■/ 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 1393,
+          "like_count": 26942,
+          "listed_count": 6,
+          "media_count": 1048,
+          "tweet_count": 8576
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 内网更常用名: Roitium | 赛博精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884576882760486912/fau5N8x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 434,
+          "like_count": 3985,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 3152
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      }
+    ]
+  }
+}

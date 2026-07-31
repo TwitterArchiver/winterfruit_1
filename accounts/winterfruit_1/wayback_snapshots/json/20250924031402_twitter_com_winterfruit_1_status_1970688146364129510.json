@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1970593836021027322",
+    "created_at": "2025-09-24T03:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T04:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970688146364129510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946995412767768576",
+          "start": 0,
+          "username": "president_bo73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970688146364129510",
+    "in_reply_to_user_id": "1946995412767768576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970669050419446158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@president_bo73 谁来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1970593836021027322",
+        "created_at": "2025-09-24T03:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970688146364129510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946995412767768576",
+              "start": 0,
+              "username": "president_bo73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970688146364129510",
+        "in_reply_to_user_id": "1946995412767768576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970669050419446158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@president_bo73 谁来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946995412767768576",
+        "conversation_id": "1970593836021027322",
+        "created_at": "2025-09-24T01:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T02:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970669050419446158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970669050419446158",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970593836021027322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 505,
+          "like_count": 12731,
+          "listed_count": 3,
+          "media_count": 347,
+          "tweet_count": 3872
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T18:07:44.000Z",
+        "description": "想变成一只小猫咪🐱，小号逃生舱@JianYu9325412（有作品都可以互fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "JianYu9325412"
+              }
+            ]
+          }
+        },
+        "id": "1946995412767768576",
+        "location": "北京",
+        "name": "薄主席",
+        "pinned_tweet_id": "1959330481364746269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955139322409066496/9JGTO_1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 421,
+          "like_count": 1605,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1565
+        },
+        "username": "president_bo73",
+        "verified": false
+      }
+    ]
+  }
+}

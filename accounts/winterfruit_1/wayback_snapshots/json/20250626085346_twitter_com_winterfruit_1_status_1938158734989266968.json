@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1938087764555448786",
+    "created_at": "2025-06-26T08:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T09:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938158734989266968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938158734989266968",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938087764555448786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1938087728501149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuV4hUja0AAgt2w.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1938087764555448786",
+        "created_at": "2025-06-26T08:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T09:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938158734989266968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938158734989266968",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938087764555448786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938087728501149696"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1938087764555448786",
+        "created_at": "2025-06-26T04:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938087764555448786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ua28suG2vS",
+              "end": 25,
+              "expanded_url": "https://x.com/codyhunk/status/1938087764555448786/photo/1",
+              "media_key": "3_1938087728501149696",
+              "start": 2,
+              "url": "https://t.co/Ua28suG2vS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938087764555448786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 51399,
+          "like_count": 467,
+          "quote_count": 10,
+          "reply_count": 47,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Ua28suG2vS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 345,
+          "like_count": 7101,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1980
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏(互fo",
+        "pinned_tweet_id": "1937115545910018402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5119,
+          "following_count": 818,
+          "like_count": 1404,
+          "listed_count": 7,
+          "media_count": 1998,
+          "tweet_count": 2197
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

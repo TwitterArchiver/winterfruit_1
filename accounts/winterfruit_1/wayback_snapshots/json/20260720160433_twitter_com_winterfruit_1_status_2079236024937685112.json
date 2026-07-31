@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2079236024937685112",
+    "created_at": "2026-07-20T16:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079236024937685112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515562361070960646",
+          "start": 3,
+          "username": "Minastear1"
+        },
+        {
+          "end": 48,
+          "id": "2031954172732719112",
+          "start": 35,
+          "username": "Minastear030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079236024937685112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079193756088385893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minastear1: 哇啊啊啊总之业务先转移到这里好了！我是@Minastear030 随机掉落一些神秘❄️尘 目前特价88cny/20mg 4t包u求转转助我寻回互关🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Minastear030].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Minastear030",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Minastear030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2079236024937685112",
+        "created_at": "2026-07-20T16:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079236024937685112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515562361070960646",
+              "start": 3,
+              "username": "Minastear1"
+            },
+            {
+              "end": 48,
+              "id": "2031954172732719112",
+              "start": 35,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079236024937685112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079193756088385893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minastear1: 哇啊啊啊总之业务先转移到这里好了！我是@Minastear030 随机掉落一些神秘❄️尘 目前特价88cny/20mg 4t包u求转转助我寻回互关🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515562361070960646",
+        "conversation_id": "2079193756088385893",
+        "created_at": "2026-07-20T13:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079193756088385893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2031954172732719112",
+              "start": 19,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079193756088385893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哇啊啊啊总之业务先转移到这里好了！我是@Minastear030 随机掉落一些神秘❄️尘 目前特价88cny/20mg 4t包u求转转助我寻回互关🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 1486,
+          "like_count": 43612,
+          "listed_count": 6,
+          "media_count": 1901,
+          "tweet_count": 13183
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱提供小零食出售业务︱第二世@Minastear030 等待复活中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 167,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false
+      }
+    ]
+  }
+}

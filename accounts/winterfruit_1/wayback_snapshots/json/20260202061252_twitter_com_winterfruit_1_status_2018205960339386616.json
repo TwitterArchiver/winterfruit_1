@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018205936889057280",
+        "3_2018205936863817728",
+        "3_2018205936863830016"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018205960339386616",
+    "created_at": "2026-02-02T06:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018205960339386616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xxmWgM5Vg",
+          "end": 84,
+          "expanded_url": "https://x.com/winterfruit_1/status/2018205960339386616/photo/1",
+          "media_key": "3_2018205936889057280",
+          "start": 61,
+          "url": "https://t.co/7xxmWgM5Vg"
+        },
+        {
+          "display_url": "pic.x.com/7xxmWgM5Vg",
+          "end": 84,
+          "expanded_url": "https://x.com/winterfruit_1/status/2018205960339386616/photo/1",
+          "media_key": "3_2018205936863817728",
+          "start": 61,
+          "url": "https://t.co/7xxmWgM5Vg"
+        },
+        {
+          "display_url": "pic.x.com/7xxmWgM5Vg",
+          "end": 84,
+          "expanded_url": "https://x.com/winterfruit_1/status/2018205960339386616/photo/1",
+          "media_key": "3_2018205936863830016",
+          "start": 61,
+          "url": "https://t.co/7xxmWgM5Vg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018205960339386616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Winit来乞讨了，有没有人能给Winit钱，Winit需要买车票，还需要住所和食物，呜呜，求求你们啦，给Winit钱吧 https://t.co/7xxmWgM5Vg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018205960339386616].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018205960339386616",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018205960339386616"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2018205936889057280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIbm0_bUAArN5D.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1129,
+        "media_key": "3_2018205936863817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIbm05aMAAeRJ0.jpg",
+        "width": 1164
+      },
+      {
+        "height": 486,
+        "media_key": "3_2018205936863830016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIbm05aYAAviNM.jpg",
+        "width": 500
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 1497,
+          "like_count": 31765,
+          "listed_count": 6,
+          "media_count": 1305,
+          "tweet_count": 9885
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

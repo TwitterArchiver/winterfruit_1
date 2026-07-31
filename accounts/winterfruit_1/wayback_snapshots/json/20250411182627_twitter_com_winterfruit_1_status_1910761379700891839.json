@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910415179759947776",
+        "3_1910415179734831104"
+      ],
+      "media_source_tweet_id": [
+        "1910415190757450022",
+        "1910415190757450022"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1910761379700891839",
+    "created_at": "2025-04-11T18:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T19:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910761379700891839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793636329299066880",
+          "start": 3,
+          "username": "cuichuna7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZUdxl8n9VO",
+          "end": 66,
+          "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+          "media_key": "3_1910415179759947776",
+          "start": 43,
+          "url": "https://t.co/ZUdxl8n9VO"
+        },
+        {
+          "display_url": "pic.x.com/ZUdxl8n9VO",
+          "end": 66,
+          "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+          "media_key": "3_1910415179734831104",
+          "start": 43,
+          "url": "https://t.co/ZUdxl8n9VO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910761379700891839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910415190757450022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuichuna7: 地雷系已被列管😸让那群逆天在墙内传播，习近平发力了吧🤪 https://t.co/ZUdxl8n9VO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910415179759947776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoMoe_MbEAAnand.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910415179734831104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoMoe_Gb0AAHhmb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910415179759947776",
+            "3_1910415179734831104"
+          ],
+          "media_source_tweet_id": [
+            "1910415190757450022",
+            "1910415190757450022"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1910761379700891839",
+        "created_at": "2025-04-11T18:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T19:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910761379700891839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793636329299066880",
+              "start": 3,
+              "username": "cuichuna7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUdxl8n9VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+              "media_key": "3_1910415179759947776",
+              "start": 43,
+              "url": "https://t.co/ZUdxl8n9VO"
+            },
+            {
+              "display_url": "pic.x.com/ZUdxl8n9VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+              "media_key": "3_1910415179734831104",
+              "start": 43,
+              "url": "https://t.co/ZUdxl8n9VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910761379700891839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910415190757450022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuichuna7: 地雷系已被列管😸让那群逆天在墙内传播，习近平发力了吧🤪 https://t.co/ZUdxl8n9VO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910415179759947776",
+            "3_1910415179734831104"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1910415190757450022",
+        "created_at": "2025-04-10T19:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T20:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910415190757450022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUdxl8n9VO",
+              "end": 51,
+              "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+              "media_key": "3_1910415179759947776",
+              "start": 28,
+              "url": "https://t.co/ZUdxl8n9VO"
+            },
+            {
+              "display_url": "pic.x.com/ZUdxl8n9VO",
+              "end": 51,
+              "expanded_url": "https://x.com/cuichuna7/status/1910415190757450022/photo/1",
+              "media_key": "3_1910415179734831104",
+              "start": 28,
+              "url": "https://t.co/ZUdxl8n9VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910415190757450022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20661,
+          "like_count": 287,
+          "quote_count": 10,
+          "reply_count": 38,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系已被列管😸让那群逆天在墙内传播，习近平发力了吧🤪 https://t.co/ZUdxl8n9VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 259,
+          "like_count": 4708,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1305
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "graee.time☃︎（能不能讨个foTVT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 3629,
+          "like_count": 7474,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 2414
+        },
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

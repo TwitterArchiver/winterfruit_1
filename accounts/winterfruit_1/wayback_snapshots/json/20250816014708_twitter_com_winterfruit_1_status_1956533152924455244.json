@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956151795555950599"
+      ],
+      "media_source_tweet_id": [
+        "1956152508059148742"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956533152924455244",
+    "created_at": "2025-08-16T01:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T02:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956533152924455244"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "NEURO CAR",
+          "probability": 0.4561,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3068808974",
+          "start": 3,
+          "username": "baovtuber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/etvumW1Tgs",
+          "end": 76,
+          "expanded_url": "https://x.com/baovtuber/status/1956152508059148742/video/1",
+          "media_key": "13_1956151795555950599",
+          "start": 53,
+          "url": "https://t.co/etvumW1Tgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956533152924455244",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 530
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956152508059148742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baovtuber: THE NEURO CAR VIDEO IS OFFICIALLY OUT https://t.co/etvumW1Tgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28100,
+        "height": 1080,
+        "media_key": "13_1956151795555950599",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956151795555950599/img/Qa3VhSk8H3EfgZzR.jpg",
+        "public_metrics": {
+          "view_count": 68527
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956151795555950599/pl/kgZNNVIyPeF8nakN.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956151795555950599/vid/avc1/480x270/vjGg_o9zizeNaYea.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956151795555950599/vid/avc1/1280x720/HS4N1-lf-Q61_4D2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956151795555950599/vid/avc1/640x360/TWRwvOKkFSHNDsGa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956151795555950599/vid/avc1/1920x1080/p79_2ojFKOB6lUDr.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956151795555950599"
+          ],
+          "media_source_tweet_id": [
+            "1956152508059148742"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956533152924455244",
+        "created_at": "2025-08-16T01:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956533152924455244"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "NEURO CAR",
+              "probability": 0.4561,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3068808974",
+              "start": 3,
+              "username": "baovtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/etvumW1Tgs",
+              "end": 76,
+              "expanded_url": "https://x.com/baovtuber/status/1956152508059148742/video/1",
+              "media_key": "13_1956151795555950599",
+              "start": 53,
+              "url": "https://t.co/etvumW1Tgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956533152924455244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 530
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956152508059148742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baovtuber: THE NEURO CAR VIDEO IS OFFICIALLY OUT https://t.co/etvumW1Tgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956151795555950599"
+          ]
+        },
+        "author_id": "3068808974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1956152508059148742",
+        "created_at": "2025-08-15T00:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T01:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956152508059148742"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "NEURO",
+              "probability": 0.4024,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/etvumW1Tgs",
+              "end": 61,
+              "expanded_url": "https://x.com/baovtuber/status/1956152508059148742/video/1",
+              "media_key": "13_1956151795555950599",
+              "start": 38,
+              "url": "https://t.co/etvumW1Tgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956152508059148742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 131553,
+          "like_count": 8485,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "THE NEURO CAR VIDEO IS OFFICIALLY OUT https://t.co/etvumW1Tgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420  / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 431,
+          "like_count": 9483,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 3072
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-08T23:33:44.000Z",
+        "description": "Just a silly whale girl • VSinger/VTuber/VA • Code “BAO” 10% off @GamerSupps • 🎨#baort • 🐳#baobblebath • 🔞#baojob • 🔴https://t.co/vpkNljLXaL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "baort"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "tag": "baobblebath"
+              },
+              {
+                "end": 113,
+                "start": 106,
+                "tag": "baojob"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "GamerSupps"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/bao",
+                "end": 140,
+                "expanded_url": "https://www.twitch.tv/bao",
+                "start": 117,
+                "url": "https://t.co/vpkNljLXaL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solo.to/bao",
+                "end": 23,
+                "expanded_url": "http://solo.to/bao",
+                "start": 0,
+                "url": "https://t.co/xJIu34SJR6"
+              }
+            ]
+          }
+        },
+        "id": "3068808974",
+        "location": "📧: teambao@unitedtalent.com",
+        "name": "Bao The Whale 🐳",
+        "pinned_tweet_id": "1954339412369629223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927971252310003712/aGfxhFXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652561,
+          "following_count": 417,
+          "like_count": 217614,
+          "listed_count": 1424,
+          "media_count": 4566,
+          "tweet_count": 128817
+        },
+        "url": "https://t.co/xJIu34SJR6",
+        "username": "baovtuber",
+        "verified": true
+      }
+    ]
+  }
+}

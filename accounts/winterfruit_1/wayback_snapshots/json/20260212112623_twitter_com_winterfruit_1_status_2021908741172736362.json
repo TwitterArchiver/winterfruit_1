@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2021418959824683008"
+      ],
+      "media_source_tweet_id": [
+        "2021720907689967719"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2021908741172736362",
+    "created_at": "2026-02-12T11:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021908741172736362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "50791157",
+          "start": 3,
+          "username": "googlejapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CgA2WAutTI",
+          "end": 124,
+          "expanded_url": "https://x.com/googlejapan/status/2021720907689967719/photo/1",
+          "media_key": "16_2021418959824683008",
+          "start": 101,
+          "url": "https://t.co/CgA2WAutTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021908741172736362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021720907689967719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @googlejapan: ユーザーのみなさまへ\n\n本日、Google 創立 10,000 日を迎えました！\nいつもご愛用いただき、本当にありがとうございます。\nこれからもよろしくお願いします！ https://t.co/CgA2WAutTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "16_2021418959824683008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HA2F1YKXAAAEEAU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HA2F1YKXAAAEEAU.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2021418959824683008"
+          ],
+          "media_source_tweet_id": [
+            "2021720907689967719"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2021908741172736362",
+        "created_at": "2026-02-12T11:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021908741172736362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "50791157",
+              "start": 3,
+              "username": "googlejapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgA2WAutTI",
+              "end": 124,
+              "expanded_url": "https://x.com/googlejapan/status/2021720907689967719/photo/1",
+              "media_key": "16_2021418959824683008",
+              "start": 101,
+              "url": "https://t.co/CgA2WAutTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021908741172736362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021720907689967719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @googlejapan: ユーザーのみなさまへ\n\n本日、Google 創立 10,000 日を迎えました！\nいつもご愛用いただき、本当にありがとうございます。\nこれからもよろしくお願いします！ https://t.co/CgA2WAutTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2021418959824683008"
+          ]
+        },
+        "author_id": "50791157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2021720907689967719",
+        "created_at": "2026-02-11T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021720907689967719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgA2WAutTI",
+              "end": 107,
+              "expanded_url": "https://x.com/googlejapan/status/2021720907689967719/photo/1",
+              "media_key": "16_2021418959824683008",
+              "start": 84,
+              "url": "https://t.co/CgA2WAutTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021720907689967719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 142893,
+          "like_count": 3855,
+          "quote_count": 119,
+          "reply_count": 121,
+          "retweet_count": 924
+        },
+        "reply_settings": "everyone",
+        "text": "ユーザーのみなさまへ\n\n本日、Google 創立 10,000 日を迎えました！\nいつもご愛用いただき、本当にありがとうございます。\nこれからもよろしくお願いします！ https://t.co/CgA2WAutTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 1520,
+          "like_count": 33136,
+          "listed_count": 7,
+          "media_count": 1341,
+          "tweet_count": 10075
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-25T22:23:54.000Z",
+        "description": "Google Japan の公式アカウントです。Google の使命は、世界中の情報を整理し、世界中の人がアクセスできて使えるようにすること。\n\nより多くの人々の、より良い毎日のために。\nみなさんのお役に立てるような情報を発信します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ngK1wikzAY"
+              }
+            ]
+          }
+        },
+        "id": "50791157",
+        "location": "Japan",
+        "name": "Google Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976184082162909185/77E81PNB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453005,
+          "following_count": 11,
+          "like_count": 790,
+          "listed_count": 4926,
+          "media_count": 5243,
+          "tweet_count": 40955
+        },
+        "url": "https://t.co/ngK1wikzAY",
+        "username": "googlejapan",
+        "verified": true
+      }
+    ]
+  }
+}

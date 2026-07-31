@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908057456862953472"
+      ],
+      "media_source_tweet_id": [
+        "1908057693098750068"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1915992891534807079",
+    "created_at": "2025-04-26T04:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T05:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915992891534807079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810826097514401793",
+          "start": 3,
+          "username": "subchannelchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TiyeZf2zLS",
+          "end": 52,
+          "expanded_url": "https://x.com/x_cxst_x/status/1908057693098750068/photo/1",
+          "media_key": "3_1908057456862953472",
+          "start": 29,
+          "url": "https://t.co/TiyeZf2zLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915992891534807079",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 766
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908057693098750068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @subchannelchan: 20250404 https://t.co/TiyeZf2zLS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915992891534807079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915992891534807079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915992891534807079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1898,
+        "media_key": "3_1908057456862953472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrIJc9aAAABxBu.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908057456862953472"
+          ]
+        },
+        "author_id": "1810826097514401793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908057693098750068",
+        "created_at": "2025-04-04T07:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908057693098750068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TiyeZf2zLS",
+              "end": 32,
+              "expanded_url": "https://x.com/x_cxst_x/status/1908057693098750068/photo/1",
+              "media_key": "3_1908057456862953472",
+              "start": 9,
+              "url": "https://t.co/TiyeZf2zLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908057693098750068",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 591,
+          "impression_count": 297937,
+          "like_count": 10425,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 766
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "20250404 https://t.co/TiyeZf2zLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 267,
+          "like_count": 4746,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1356
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T23:59:32.000Z",
+        "description": "アニメ描きたいです",
+        "id": "1810826097514401793",
+        "name": "さぶちゃんねる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909070574594469888/xBKJ_8ex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169360,
+          "following_count": 16,
+          "like_count": 69,
+          "listed_count": 352,
+          "media_count": 19,
+          "tweet_count": 33
+        },
+        "username": "subchannelchan",
+        "verified": true
+      }
+    ]
+  }
+}

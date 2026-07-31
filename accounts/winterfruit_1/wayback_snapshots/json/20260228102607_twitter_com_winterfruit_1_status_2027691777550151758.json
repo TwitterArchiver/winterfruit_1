@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027296797899816961",
+        "3_2027296798130507777"
+      ],
+      "media_source_tweet_id": [
+        "2027296811669741669",
+        "2027296811669741669"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2027691777550151758",
+    "created_at": "2026-02-28T10:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027691777550151758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932962027070210048",
+          "start": 3,
+          "username": "ffugdujh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IPkfhpIRfb",
+          "end": 44,
+          "expanded_url": "https://x.com/ffugdujh/status/2027296811669741669/photo/1",
+          "media_key": "3_2027296797899816961",
+          "start": 21,
+          "url": "https://t.co/IPkfhpIRfb"
+        },
+        {
+          "display_url": "pic.x.com/IPkfhpIRfb",
+          "end": 44,
+          "expanded_url": "https://x.com/ffugdujh/status/2027296811669741669/photo/1",
+          "media_key": "3_2027296798130507777",
+          "start": 21,
+          "url": "https://t.co/IPkfhpIRfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027691777550151758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027296811669741669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffugdujh: 求求啦QwQ https://t.co/IPkfhpIRfb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027691777550151758].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027691777550151758",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027691777550151758"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2027296797899816961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJnslUbAAEOLE2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1524,
+        "media_key": "3_2027296798130507777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJnsmLbEAE-JYa.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027296797899816961",
+            "3_2027296798130507777"
+          ]
+        },
+        "author_id": "1932962027070210048",
+        "conversation_id": "2027296811669741669",
+        "created_at": "2026-02-27T08:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027296811669741669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPkfhpIRfb",
+              "end": 30,
+              "expanded_url": "https://x.com/ffugdujh/status/2027296811669741669/photo/1",
+              "media_key": "3_2027296797899816961",
+              "start": 7,
+              "url": "https://t.co/IPkfhpIRfb"
+            },
+            {
+              "display_url": "pic.x.com/IPkfhpIRfb",
+              "end": 30,
+              "expanded_url": "https://x.com/ffugdujh/status/2027296811669741669/photo/1",
+              "media_key": "3_2027296798130507777",
+              "start": 7,
+              "url": "https://t.co/IPkfhpIRfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027296811669741669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求啦QwQ https://t.co/IPkfhpIRfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1424,
+          "like_count": 35119,
+          "listed_count": 7,
+          "media_count": 1433,
+          "tweet_count": 10398
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T00:44:14.000Z",
+        "description": "原来的号找不回来了@ovo_ti59598 QwQ\n🚪18.8半绿58.8嘻嘻（有好康的\n是只小0 (＞﹏＜)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ovo_ti59598"
+              }
+            ]
+          }
+        },
+        "id": "1932962027070210048",
+        "name": "想吃猫饼（二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026121791048138753/yIghW65K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 47,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 82
+        },
+        "username": "ffugdujh",
+        "verified": false
+      }
+    ]
+  }
+}

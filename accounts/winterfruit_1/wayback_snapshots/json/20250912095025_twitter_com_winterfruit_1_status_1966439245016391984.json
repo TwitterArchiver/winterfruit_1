@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966374873015660545"
+      ],
+      "media_source_tweet_id": [
+        "1966426563764711676"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1966439245016391984",
+    "created_at": "2025-09-12T09:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T10:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966439245016391984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2835757940",
+          "start": 3,
+          "username": "gorumosu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cOvDRKhA75",
+          "end": 43,
+          "expanded_url": "https://x.com/gorumosu/status/1966426563764711676/photo/1",
+          "media_key": "3_1966374873015660545",
+          "start": 20,
+          "url": "https://t.co/cOvDRKhA75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966439245016391984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966426563764711676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gorumosu: ゲリラ豪雨 https://t.co/cOvDRKhA75"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1966374873015660545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0n3h1laMAEEwo5.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966374873015660545"
+          ],
+          "media_source_tweet_id": [
+            "1966426563764711676"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1966439245016391984",
+        "created_at": "2025-09-12T09:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966439245016391984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2835757940",
+              "start": 3,
+              "username": "gorumosu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOvDRKhA75",
+              "end": 43,
+              "expanded_url": "https://x.com/gorumosu/status/1966426563764711676/photo/1",
+              "media_key": "3_1966374873015660545",
+              "start": 20,
+              "url": "https://t.co/cOvDRKhA75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966439245016391984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966426563764711676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gorumosu: ゲリラ豪雨 https://t.co/cOvDRKhA75"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966374873015660545"
+          ]
+        },
+        "author_id": "2835757940",
+        "conversation_id": "1966426563764711676",
+        "created_at": "2025-09-12T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966426563764711676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOvDRKhA75",
+              "end": 29,
+              "expanded_url": "https://x.com/gorumosu/status/1966426563764711676/photo/1",
+              "media_key": "3_1966374873015660545",
+              "start": 6,
+              "url": "https://t.co/cOvDRKhA75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966426563764711676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3481,
+          "like_count": 328,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "ゲリラ豪雨 https://t.co/cOvDRKhA75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 464,
+          "like_count": 11366,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 3590
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-30T06:51:03.000Z",
+        "description": "ガールズバンドクライの二次創作イラストを描いてます　ギャグ漫画が多めです　🦔仁菜推し🦔",
+        "id": "2835757940",
+        "location": "嘘みたいな馬鹿みたいなどうしようもない僕らの街",
+        "name": "ごるもす",
+        "pinned_tweet_id": "1961987317473886692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918087587090317312/hDvTjB-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8357,
+          "following_count": 199,
+          "like_count": 16448,
+          "listed_count": 46,
+          "media_count": 387,
+          "tweet_count": 11017
+        },
+        "username": "gorumosu",
+        "verified": false
+      }
+    ]
+  }
+}

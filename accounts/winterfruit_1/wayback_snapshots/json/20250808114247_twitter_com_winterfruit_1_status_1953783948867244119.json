@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953783948867244119",
+    "created_at": "2025-08-08T11:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953783948867244119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1953691449096077595",
+          "start": 9,
+          "url": "https://t.co/qaOBtCRbz2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953783948867244119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953691449096077595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来点did笑话。 https://t.co/qaOBtCRbz2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953783948867244119",
+        "created_at": "2025-08-08T11:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953783948867244119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1953691449096077595",
+              "start": 9,
+              "url": "https://t.co/qaOBtCRbz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953783948867244119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953691449096077595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来点did笑话。 https://t.co/qaOBtCRbz2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1953691449096077595",
+        "created_at": "2025-08-08T05:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953691449096077595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953691449096077595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1625,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘去看精神科。\n\n医生：did我是没办法给你做易性症诊断的，你得选一个雌堕主理人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 433,
+          "like_count": 8860,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2780
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F36猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18417,
+          "following_count": 189,
+          "like_count": 570,
+          "listed_count": 66,
+          "media_count": 90,
+          "tweet_count": 18512
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

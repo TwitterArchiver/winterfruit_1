@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1985027801846862010",
+    "created_at": "2025-11-02T16:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985027801846862010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870780665295474688",
+          "start": 3,
+          "username": "doraneko_rana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985027801846862010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985012541765173309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doraneko_rana: 冷知识，我真的会因为一个人双重标准把一个人排除到我的亲密关系之外，如果一个人的双重标准让我觉得不爽，那ta就永远别想进到我的社交内圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1985027801846862010",
+        "created_at": "2025-11-02T16:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985027801846862010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870780665295474688",
+              "start": 3,
+              "username": "doraneko_rana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985027801846862010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985012541765173309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doraneko_rana: 冷知识，我真的会因为一个人双重标准把一个人排除到我的亲密关系之外，如果一个人的双重标准让我觉得不爽，那ta就永远别想进到我的社交内圈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870780665295474688",
+        "conversation_id": "1985012541765173309",
+        "created_at": "2025-11-02T15:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985012541765173309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985012541765173309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，我真的会因为一个人双重标准把一个人排除到我的亲密关系之外，如果一个人的双重标准让我觉得不爽，那ta就永远别想进到我的社交内圈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1199,
+          "like_count": 20929,
+          "listed_count": 5,
+          "media_count": 705,
+          "tweet_count": 6555
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T10:37:31.000Z",
+        "description": "I'm not sure that any of that matters. Friends, enemies. So long as there's mercy. Always mercy. \n女儿@iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "iranon_lcf"
+              }
+            ]
+          }
+        },
+        "id": "1870780665295474688",
+        "name": "死仇时代的春风",
+        "pinned_tweet_id": "1871958460302315698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984707194810744837/quJojrx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 504,
+          "like_count": 12122,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 4487
+        },
+        "username": "doraneko_rana",
+        "verified": false
+      }
+    ]
+  }
+}

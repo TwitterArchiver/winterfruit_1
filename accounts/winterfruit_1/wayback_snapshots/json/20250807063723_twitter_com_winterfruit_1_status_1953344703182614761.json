@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953133366079054039",
+    "created_at": "2025-08-07T06:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T07:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953344703182614761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594500144845553665",
+          "start": 0,
+          "username": "gunmuotto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953344703182614761",
+    "in_reply_to_user_id": "1594500144845553665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953133366079054039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunmuotto 是日本人藤洋田下指使的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953133366079054039",
+        "created_at": "2025-08-07T06:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953344703182614761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594500144845553665",
+              "start": 0,
+              "username": "gunmuotto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953344703182614761",
+        "in_reply_to_user_id": "1594500144845553665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953133366079054039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunmuotto 是日本人藤洋田下指使的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594500144845553665",
+        "conversation_id": "1953133366079054039",
+        "created_at": "2025-08-06T16:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953133366079054039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953133366079054039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都别闹了，这个江油事件其实是我棍母一手挑起的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 427,
+          "like_count": 8774,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2714
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T01:17:25.000Z",
+        "description": "电棍的母亲（不再键证版）",
+        "id": "1594500144845553665",
+        "location": "中华人民共和国，北京",
+        "name": "棍母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886613422458200065/A3CdQuV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 561,
+          "like_count": 2997,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 368
+        },
+        "username": "gunmuotto",
+        "verified": false
+      }
+    ]
+  }
+}

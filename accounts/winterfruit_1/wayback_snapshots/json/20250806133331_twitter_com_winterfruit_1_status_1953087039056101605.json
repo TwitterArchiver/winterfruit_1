@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1950247218449174720",
+    "created_at": "2025-08-06T13:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953087039056101605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867571018820141056",
+          "start": 0,
+          "username": "ZPYD8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953087039056101605",
+    "in_reply_to_user_id": "1867571018820141056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950247218449174720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZPYD8964 土豆地雷，出头就爆了😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1950247218449174720",
+        "created_at": "2025-08-06T13:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953087039056101605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867571018820141056",
+              "start": 0,
+              "username": "ZPYD8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953087039056101605",
+        "in_reply_to_user_id": "1867571018820141056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950247218449174720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZPYD8964 土豆地雷，出头就爆了😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867571018820141056",
+        "conversation_id": "1950247218449174720",
+        "created_at": "2025-07-29T17:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T18:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950247218449174720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950247218449174720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4094,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么中国人一看到“自由主义”几个字就哈气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 421,
+          "like_count": 8675,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2659
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T14:03:40.000Z",
+        "description": "",
+        "id": "1867571018820141056",
+        "name": "佐批郁代",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947378999463972865/g0lPZ4Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 797,
+          "like_count": 34152,
+          "listed_count": 8,
+          "media_count": 319,
+          "tweet_count": 2038
+        },
+        "username": "ZPYD8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2066974168134873299",
+    "created_at": "2026-06-17T03:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067085508631793796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042208027432947712",
+          "start": 0,
+          "username": "hellgptforyou"
+        },
+        {
+          "end": 22,
+          "id": "1890343594248036352",
+          "start": 15,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067085508631793796",
+    "in_reply_to_user_id": "2042208027432947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067049271371935865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hellgptforyou @1s8964 他是过程理论都错了，但是结论对了一半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2066974168134873299",
+        "created_at": "2026-06-17T03:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067085508631793796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042208027432947712",
+              "start": 0,
+              "username": "hellgptforyou"
+            },
+            {
+              "end": 22,
+              "id": "1890343594248036352",
+              "start": 15,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067085508631793796",
+        "in_reply_to_user_id": "2042208027432947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067049271371935865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellgptforyou @1s8964 他是过程理论都错了，但是结论对了一半"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042208027432947712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2066974168134873299",
+        "created_at": "2026-06-17T00:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067049271371935865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067049271371935865",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066974168134873299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1s8964 其实牢a说的大部分都是真的，连grok都承认\n\n说中国有什么石族和永族那纯属胡扯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1475,
+          "like_count": 42923,
+          "listed_count": 6,
+          "media_count": 1861,
+          "tweet_count": 12769
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T11:48:43.000Z",
+        "description": "心里有鬼的人害怕我",
+        "id": "2042208027432947712",
+        "name": "地狱判官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042743721792540672/5mbFUUgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 72,
+          "like_count": 7219,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1634
+        },
+        "username": "hellgptforyou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "Freiheit ist immer Freiheit der Andersdenkenden",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/7z6gPw9fqS"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2046681269153476753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1321,
+          "like_count": 9087,
+          "listed_count": 10,
+          "media_count": 1511,
+          "tweet_count": 6973
+        },
+        "url": "https://t.co/7z6gPw9fqS",
+        "username": "1s8964",
+        "verified": false
+      }
+    ]
+  }
+}

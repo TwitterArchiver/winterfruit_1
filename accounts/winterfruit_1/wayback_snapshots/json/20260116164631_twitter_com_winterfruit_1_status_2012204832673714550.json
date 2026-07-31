@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012113157456793600"
+      ],
+      "media_source_tweet_id": [
+        "2012114752928207222"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2012204832673714550",
+    "created_at": "2026-01-16T16:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012204832673714550"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "廣井きくり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620445260915818497",
+          "start": 3,
+          "username": "AGM_Pm0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R91ngCVfGx",
+          "end": 53,
+          "expanded_url": "https://x.com/AGM_Pm0/status/2012114752928207222/photo/1",
+          "media_key": "3_2012113157456793600",
+          "start": 30,
+          "url": "https://t.co/R91ngCVfGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012204832673714550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 990
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012114752928207222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGM_Pm0: 温泉 きくり🍶\n \n#廣井きくり https://t.co/R91ngCVfGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2012113157456793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x2QY4aEAAaTqQ.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012113157456793600"
+          ],
+          "media_source_tweet_id": [
+            "2012114752928207222"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2012204832673714550",
+        "created_at": "2026-01-16T16:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012204832673714550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "廣井きくり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620445260915818497",
+              "start": 3,
+              "username": "AGM_Pm0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R91ngCVfGx",
+              "end": 53,
+              "expanded_url": "https://x.com/AGM_Pm0/status/2012114752928207222/photo/1",
+              "media_key": "3_2012113157456793600",
+              "start": 30,
+              "url": "https://t.co/R91ngCVfGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012204832673714550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 990
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012114752928207222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGM_Pm0: 温泉 きくり🍶\n \n#廣井きくり https://t.co/R91ngCVfGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012113157456793600"
+          ]
+        },
+        "author_id": "1620445260915818497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2012114752928207222",
+        "created_at": "2026-01-16T10:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012114752928207222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "廣井きくり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R91ngCVfGx",
+              "end": 40,
+              "expanded_url": "https://x.com/AGM_Pm0/status/2012114752928207222/photo/1",
+              "media_key": "3_2012113157456793600",
+              "start": 17,
+              "url": "https://t.co/R91ngCVfGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012114752928207222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2204,
+          "impression_count": 149811,
+          "like_count": 12357,
+          "quote_count": 24,
+          "reply_count": 11,
+          "retweet_count": 990
+        },
+        "reply_settings": "everyone",
+        "text": "温泉 きくり🍶\n \n#廣井きくり https://t.co/R91ngCVfGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1438,
+          "like_count": 29553,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 9465
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T15:34:15.000Z",
+        "description": "Character illustration and Character Design\nCharacter Design - https://t.co/fTi7fmsVGG\n\nPlease DM for commission.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "artstation.com/llknnh1234",
+                "end": 86,
+                "expanded_url": "https://www.artstation.com/llknnh1234",
+                "start": 63,
+                "url": "https://t.co/fTi7fmsVGG"
+              }
+            ]
+          }
+        },
+        "id": "1620445260915818497",
+        "name": "AGM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998045804725256193/jidBQKdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11614,
+          "following_count": 195,
+          "like_count": 1638,
+          "listed_count": 57,
+          "media_count": 186,
+          "tweet_count": 556
+        },
+        "username": "AGM_Pm0",
+        "verified": false
+      }
+    ]
+  }
+}

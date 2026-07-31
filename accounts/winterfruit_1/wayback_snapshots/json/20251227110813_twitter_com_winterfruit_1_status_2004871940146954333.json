@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2004870256146481352",
+    "created_at": "2025-12-27T11:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004871940146954333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922473225436725248",
+          "start": 0,
+          "username": "_Yuyuko_FTZ"
+        },
+        {
+          "end": 25,
+          "id": "1941411522691072006",
+          "start": 13,
+          "username": "justyanwu14"
+        },
+        {
+          "end": 36,
+          "id": "1850072961468043264",
+          "start": 26,
+          "username": "chenXXX_9"
+        },
+        {
+          "end": 52,
+          "id": "1796937387899064320",
+          "start": 37,
+          "username": "CleverFf050755"
+        },
+        {
+          "end": 66,
+          "id": "1567203042872926208",
+          "start": 53,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004871940146954333",
+    "in_reply_to_user_id": "1922473225436725248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004871847222165888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yuyuko_FTZ @justyanwu14 @chenXXX_9 @CleverFf050755 @Akinoyo_desu 影分身desuwa"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2004871847222165888].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2004871847222165888",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2004871847222165888"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2004870256146481352",
+        "created_at": "2025-12-27T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004871940146954333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922473225436725248",
+              "start": 0,
+              "username": "_Yuyuko_FTZ"
+            },
+            {
+              "end": 25,
+              "id": "1941411522691072006",
+              "start": 13,
+              "username": "justyanwu14"
+            },
+            {
+              "end": 36,
+              "id": "1850072961468043264",
+              "start": 26,
+              "username": "chenXXX_9"
+            },
+            {
+              "end": 52,
+              "id": "1796937387899064320",
+              "start": 37,
+              "username": "CleverFf050755"
+            },
+            {
+              "end": 66,
+              "id": "1567203042872926208",
+              "start": 53,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004871940146954333",
+        "in_reply_to_user_id": "1922473225436725248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004871847222165888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yuyuko_FTZ @justyanwu14 @chenXXX_9 @CleverFf050755 @Akinoyo_desu 影分身desuwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / ■/ 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 1396,
+          "like_count": 27089,
+          "listed_count": 6,
+          "media_count": 1058,
+          "tweet_count": 8648
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T02:05:17.000Z",
+        "description": "无法预知的亚热带气旋",
+        "id": "1922473225436725248",
+        "location": "波江座",
+        "name": "虹夏Yuyuko",
+        "pinned_tweet_id": "1985029865809318306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984512731085750277/cqH0Caow_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 74,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 333
+        },
+        "username": "_Yuyuko_FTZ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "",
+        "id": "1941411522691072006",
+        "name": "·",
+        "pinned_tweet_id": "1991884240057925960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004249810283663361/TKMXVa-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 105,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 538
+        },
+        "username": "justyanwu14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "hyw",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003095105486622721/HRgp7yrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 227,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 616
+        },
+        "username": "chenXXX_9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 222,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 428,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 342
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938138200033398785"
+      ],
+      "media_source_tweet_id": [
+        "1938138208153546763"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1938279648741495281",
+    "created_at": "2025-06-26T16:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938279648741495281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YdiyOnwisA",
+          "end": 59,
+          "expanded_url": "https://x.com/KagurazakaAzure/status/1938138208153546763/photo/1",
+          "media_key": "3_1938138200033398785",
+          "start": 36,
+          "url": "https://t.co/YdiyOnwisA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938279648741495281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938138208153546763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 这就是一套杀人不见血的体质。 https://t.co/YdiyOnwisA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_1938138200033398785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWmbJqbEAE4XyJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938138200033398785"
+          ],
+          "media_source_tweet_id": [
+            "1938138208153546763"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1938279648741495281",
+        "created_at": "2025-06-26T16:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938279648741495281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdiyOnwisA",
+              "end": 59,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1938138208153546763/photo/1",
+              "media_key": "3_1938138200033398785",
+              "start": 36,
+              "url": "https://t.co/YdiyOnwisA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938279648741495281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938138208153546763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KagurazakaAzure: 这就是一套杀人不见血的体质。 https://t.co/YdiyOnwisA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938138200033398785"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1938138208153546763",
+        "created_at": "2025-06-26T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938138208153546763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdiyOnwisA",
+              "end": 38,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1938138208153546763/photo/1",
+              "media_key": "3_1938138200033398785",
+              "start": 15,
+              "url": "https://t.co/YdiyOnwisA"
+            },
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1937785211724652568",
+              "start": 39,
+              "url": "https://t.co/cVeXKnHfgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938138208153546763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1056,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937785211724652568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是一套杀人不见血的体质。 https://t.co/YdiyOnwisA https://t.co/cVeXKnHfgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 346,
+          "like_count": 7106,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1988
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🧊🌊⁉️｜叫líng就好啦 ｜MtX｜🍥hrt24.4.20｜179cm55kg骨头架子｜🇬🇧预备役英区留子乐子人｜08｜重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "minokakay"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7195,
+          "following_count": 988,
+          "like_count": 31785,
+          "listed_count": 9,
+          "media_count": 2216,
+          "tweet_count": 17531
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

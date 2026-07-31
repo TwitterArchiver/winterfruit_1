@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2032038244179980746",
+    "created_at": "2026-03-12T10:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032039014153535996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032039014153535996",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032038244179980746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032038244179980746].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032038244179980746",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032038244179980746"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2032038244179980746",
+        "created_at": "2026-03-12T10:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032039014153535996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032039014153535996",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032038244179980746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit /  💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 1448,
+          "like_count": 36460,
+          "listed_count": 7,
+          "media_count": 1506,
+          "tweet_count": 10722
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "网站已经被鸡哥的DDoS Bomber炸成筛子了，没有制空权飞不起来。\nhttps://t.co/1UhiZIz90O —— odwiki直属群。\nhttps://t.co/0rL89PcGcg —— 后藤直属频道 高原整活观景台。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 59,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 36,
+                "url": "https://t.co/1UhiZIz90O"
+              },
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 97,
+                "expanded_url": "http://t.me/HWA_FK1",
+                "start": 74,
+                "url": "https://t.co/0rL89PcGcg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988123432157114368/v5c6Wjqz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 9,
+          "like_count": 430,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

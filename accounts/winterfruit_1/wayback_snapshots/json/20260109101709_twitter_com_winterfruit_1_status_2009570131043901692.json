@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2009570131043901692",
+    "created_at": "2026-01-09T10:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009570131043901692"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "普瑞"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "pr80"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009570131043901692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009563971251294283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: #普瑞巴林 #普瑞 #pr80\n还有人想找我买普瑞巴林吗 线下真实处方 六盒及以下30/次 喜思平睿鹤的都能买到！实力如图四天买了四十多盒 主页客单有十几张可以随意翻看qwq 代购细则看p2\n\n🧱这条随机抽一个宝宝免费代购三盒红普！ https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009570131043901692].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009570131043901692",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009570131043901692"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2009563964099919872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NnxzmaAAAsgPQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1851,
+        "media_key": "3_2009563964091584512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Nnxzka0AAesUF.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009563964099919872",
+            "3_2009563964091584512"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009563971251294283",
+        "created_at": "2026-01-09T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009563971251294283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "普瑞"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "pr80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ozEbIpQsb",
+              "end": 140,
+              "expanded_url": "https://x.com/Re1_y0/status/2009563971251294283/photo/1",
+              "media_key": "3_2009563964099919872",
+              "start": 117,
+              "url": "https://t.co/9ozEbIpQsb"
+            },
+            {
+              "display_url": "pic.x.com/9ozEbIpQsb",
+              "end": 140,
+              "expanded_url": "https://x.com/Re1_y0/status/2009563971251294283/photo/1",
+              "media_key": "3_2009563964091584512",
+              "start": 117,
+              "url": "https://t.co/9ozEbIpQsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009563971251294283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#普瑞巴林 #普瑞 #pr80\n还有人想找我买普瑞巴林吗 线下真实处方 六盒及以下30/次 喜思平睿鹤的都能买到！实力如图四天买了四十多盒 主页客单有十几张可以随意翻看qwq 代购细则看p2\n\n🧱这条随机抽一个宝宝免费代购三盒红普！ https://t.co/9ozEbIpQsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009536229600378880/TfAbt1bT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1419,
+          "like_count": 28118,
+          "listed_count": 6,
+          "media_count": 1156,
+          "tweet_count": 9124
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜🚪88/188/288/520 过门解锁聊天和无码doi视频及照片 目前开放线下纯绿 非过门不回私信 有事请三句话内说清楚 ｜DO NOT re-upload or use my photos 盗图全家死｜现接代购普瑞 具体见主页 ｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 131,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ｜接普瑞代购30/次",
+        "pinned_tweet_id": "1998794067568972032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3059,
+          "following_count": 270,
+          "like_count": 1868,
+          "listed_count": 4,
+          "media_count": 769,
+          "tweet_count": 5139
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

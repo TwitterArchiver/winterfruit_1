@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1978824274107342925",
+    "created_at": "2025-10-16T18:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T19:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978891086488645874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811057149805834241",
+          "start": 0,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978891086488645874",
+    "in_reply_to_user_id": "1811057149805834241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978824274107342925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarimarl 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1978824274107342925].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978824274107342925",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1978824274107342925"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1978824274107342925",
+        "created_at": "2025-10-16T18:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978891086488645874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978891086488645874",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978824274107342925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 899,
+          "like_count": 17666,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 5638
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "Nothing to you",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟",
+        "name": "Tarimar_Unofficial",
+        "pinned_tweet_id": "1975380698300314041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975459604252520448/tq9y3ha9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 574,
+          "like_count": 11245,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 3644
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

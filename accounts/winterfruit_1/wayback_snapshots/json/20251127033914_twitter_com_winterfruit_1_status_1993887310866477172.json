@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993787402717155330",
+        "3_1993787402708733952",
+        "3_1993787402364833795",
+        "3_1993787402364833794"
+      ],
+      "media_source_tweet_id": [
+        "1993787432152797584",
+        "1993787432152797584",
+        "1993787432152797584",
+        "1993787432152797584"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1993887310866477172",
+    "created_at": "2025-11-27T03:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993887310866477172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1506291557233999877",
+          "start": 3,
+          "username": "abc123hazuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ofp6l7Al0K",
+          "end": 57,
+          "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+          "media_key": "3_1993787402717155330",
+          "start": 34,
+          "url": "https://t.co/Ofp6l7Al0K"
+        },
+        {
+          "display_url": "pic.x.com/Ofp6l7Al0K",
+          "end": 57,
+          "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+          "media_key": "3_1993787402708733952",
+          "start": 34,
+          "url": "https://t.co/Ofp6l7Al0K"
+        },
+        {
+          "display_url": "pic.x.com/Ofp6l7Al0K",
+          "end": 57,
+          "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+          "media_key": "3_1993787402364833795",
+          "start": 34,
+          "url": "https://t.co/Ofp6l7Al0K"
+        },
+        {
+          "display_url": "pic.x.com/Ofp6l7Al0K",
+          "end": 57,
+          "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+          "media_key": "3_1993787402364833794",
+          "start": 34,
+          "url": "https://t.co/Ofp6l7Al0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993887310866477172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993787432152797584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abc123hazuki: 谦谦君子温润如玉soyorin https://t.co/Ofp6l7Al0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993787402717155330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tbFEia0AI40uA.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993787402708733952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tbFEgaUAAp49N.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993787402364833795",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tbFDOa0AMj1DB.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993787402364833794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tbFDOa0AI28_5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993787402717155330",
+            "3_1993787402708733952",
+            "3_1993787402364833795",
+            "3_1993787402364833794"
+          ],
+          "media_source_tweet_id": [
+            "1993787432152797584",
+            "1993787432152797584",
+            "1993787432152797584",
+            "1993787432152797584"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1993887310866477172",
+        "created_at": "2025-11-27T03:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993887310866477172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1506291557233999877",
+              "start": 3,
+              "username": "abc123hazuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 57,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402717155330",
+              "start": 34,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 57,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402708733952",
+              "start": 34,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 57,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402364833795",
+              "start": 34,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 57,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402364833794",
+              "start": 34,
+              "url": "https://t.co/Ofp6l7Al0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993887310866477172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993787432152797584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abc123hazuki: 谦谦君子温润如玉soyorin https://t.co/Ofp6l7Al0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993787402717155330",
+            "3_1993787402708733952",
+            "3_1993787402364833795",
+            "3_1993787402364833794"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "1993787432152797584",
+        "created_at": "2025-11-26T21:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T22:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993787432152797584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 39,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402717155330",
+              "start": 16,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 39,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402708733952",
+              "start": 16,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 39,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402364833795",
+              "start": 16,
+              "url": "https://t.co/Ofp6l7Al0K"
+            },
+            {
+              "display_url": "pic.x.com/Ofp6l7Al0K",
+              "end": 39,
+              "expanded_url": "https://x.com/8964hazuki/status/1993787432152797584/photo/1",
+              "media_key": "3_1993787402364833794",
+              "start": 16,
+              "url": "https://t.co/Ofp6l7Al0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993787432152797584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3899,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "谦谦君子温润如玉soyorin https://t.co/Ofp6l7Al0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1326,
+          "like_count": 23770,
+          "listed_count": 5,
+          "media_count": 847,
+          "tweet_count": 7592
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好",
+        "id": "1506291557233999877",
+        "location": "Japan",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 247,
+          "like_count": 6267,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 897
+        },
+        "username": "abc123hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

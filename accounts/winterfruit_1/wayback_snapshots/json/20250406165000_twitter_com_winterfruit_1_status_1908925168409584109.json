@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1908877318896181668",
+    "created_at": "2025-04-06T16:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T17:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908925168409584109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908925168409584109",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908877318896181668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 😨😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1908877318896181668",
+        "created_at": "2025-04-06T16:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908925168409584109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908925168409584109",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908877318896181668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 😨😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828062670580543488",
+        "conversation_id": "1908877318896181668",
+        "created_at": "2025-04-06T13:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T14:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908877318896181668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908877318896181668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“老蒯，说了多少次了别戴戒指”\n“那是我手表”\n“老蒯，说了多少次了别戴手表”\n“那是我项链”\n“老蒯，说了多少次了别戴项链”\n“那是我腰带”\n“老蒯，说了多少次了别戴腰带”\n“那是我汽车”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 258,
+          "like_count": 4572,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1274
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo 有事请留言",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi💙💜🖤",
+        "pinned_tweet_id": "1898222605204963660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900403837292195840/fwhiZF2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 317,
+          "like_count": 4694,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 5745
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001986455686766592"
+      ],
+      "media_source_tweet_id": [
+        "2001986459012882840"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2002292131323670557",
+    "created_at": "2025-12-20T08:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002292131323670557"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "奏",
+          "probability": 0.6121,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "宵崎奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717099888352382976",
+          "start": 3,
+          "username": "citori_1117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/brgNErWvt0",
+          "end": 71,
+          "expanded_url": "https://x.com/citori_1117/status/2001986459012882840/photo/1",
+          "media_key": "3_2001986455686766592",
+          "start": 48,
+          "url": "https://t.co/brgNErWvt0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002292131323670557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1778
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001986459012882840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @citori_1117: 奏、もうすぐクリスマスだね\n\n #prsk_FA  #宵崎奏 https://t.co/brgNErWvt0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001986455686766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8h8ExBaYAADI7l.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001986455686766592"
+          ],
+          "media_source_tweet_id": [
+            "2001986459012882840"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2002292131323670557",
+        "created_at": "2025-12-20T08:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002292131323670557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "奏",
+              "probability": 0.6121,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "宵崎奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717099888352382976",
+              "start": 3,
+              "username": "citori_1117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brgNErWvt0",
+              "end": 71,
+              "expanded_url": "https://x.com/citori_1117/status/2001986459012882840/photo/1",
+              "media_key": "3_2001986455686766592",
+              "start": 48,
+              "url": "https://t.co/brgNErWvt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002292131323670557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1778
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001986459012882840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @citori_1117: 奏、もうすぐクリスマスだね\n\n #prsk_FA  #宵崎奏 https://t.co/brgNErWvt0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001986455686766592"
+          ]
+        },
+        "author_id": "1717099888352382976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2001986459012882840",
+        "created_at": "2025-12-19T12:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001986459012882840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "奏",
+              "probability": 0.5489,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "宵崎奏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brgNErWvt0",
+              "end": 54,
+              "expanded_url": "https://x.com/citori_1117/status/2001986459012882840/photo/1",
+              "media_key": "3_2001986455686766592",
+              "start": 31,
+              "url": "https://t.co/brgNErWvt0"
+            },
+            {
+              "display_url": "x.com/SkyAboveMe_Art…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/SkyAboveMe_Art/status/1996273029144355274",
+              "start": 55,
+              "url": "https://t.co/3QfVjdpz7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001986459012882840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2292,
+          "impression_count": 263481,
+          "like_count": 14455,
+          "quote_count": 28,
+          "reply_count": 36,
+          "retweet_count": 1778
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996273029144355274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奏、もうすぐクリスマスだね\n\n #prsk_FA  #宵崎奏 https://t.co/brgNErWvt0 https://t.co/3QfVjdpz7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "username": "cy79p"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1380,
+          "like_count": 26347,
+          "listed_count": 6,
+          "media_count": 1008,
+          "tweet_count": 8344
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T08:45:34.000Z",
+        "description": "15↑｜絵師｜プロセカ｜ボカロ｜✖︎ミク︎｜🎼｜prsk垢(@citori_K_sb)｜依頼垢(@raimi_1117)｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "citori_K_sb"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "raimi_1117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@citori_1117",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@citori_1117",
+                "start": 0,
+                "url": "https://t.co/7NBTajQlFA"
+              }
+            ]
+          }
+        },
+        "id": "1717099888352382976",
+        "location": "目標：今年中にフォロワーさま3000人達成✨",
+        "name": "しとり",
+        "pinned_tweet_id": "1979155430531305635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954253585048588289/TVulQPIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 21,
+          "like_count": 1055,
+          "listed_count": 5,
+          "media_count": 48,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/7NBTajQlFA",
+        "username": "citori_1117",
+        "verified": false
+      }
+    ]
+  }
+}

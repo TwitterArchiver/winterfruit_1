@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1987019691572011493",
+    "created_at": "2025-11-08T04:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987019691572011493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1055268207542575105",
+          "start": 3,
+          "username": "RT_OnlyWill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987019691572011493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986780106246050083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RT_OnlyWill: 如何用最短的话展示自己是个键政入脑低能儿👇🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1987019691572011493",
+        "created_at": "2025-11-08T04:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987019691572011493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1055268207542575105",
+              "start": 3,
+              "username": "RT_OnlyWill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987019691572011493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986780106246050083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RT_OnlyWill: 如何用最短的话展示自己是个键政入脑低能儿👇🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1055268207542575105",
+        "conversation_id": "1986780106246050083",
+        "created_at": "2025-11-07T12:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986780106246050083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dr_Duckter/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Dr_Duckter/status/1986366687290270062",
+              "start": 23,
+              "url": "https://t.co/tIhBPZyjL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986780106246050083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19241,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986366687290270062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如何用最短的话展示自己是个键政入脑低能儿👇🏻 https://t.co/tIhBPZyjL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1246,
+          "like_count": 21179,
+          "listed_count": 5,
+          "media_count": 731,
+          "tweet_count": 6813
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-25T01:22:01.000Z",
+        "description": "Horse🐴 Line Fur Pie🥧\n\n【#非二元性取向】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "非二元性取向"
+              }
+            ]
+          }
+        },
+        "id": "1055268207542575105",
+        "location": "量子弹弓，前往未知",
+        "name": "RT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930306248161013766/GYQMQagQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6837,
+          "following_count": 773,
+          "like_count": 95927,
+          "listed_count": 40,
+          "media_count": 3037,
+          "tweet_count": 40861
+        },
+        "username": "RT_OnlyWill",
+        "verified": false
+      }
+    ]
+  }
+}

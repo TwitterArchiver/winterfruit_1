@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1987539980059894268",
+    "created_at": "2025-11-09T15:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987539980059894268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839980597206495232",
+          "start": 3,
+          "username": "cy79p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987539980059894268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987535495178690866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cy79p: 9.磅15便士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1987539980059894268",
+        "created_at": "2025-11-09T15:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987539980059894268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839980597206495232",
+              "start": 3,
+              "username": "cy79p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987539980059894268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987535495178690866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cy79p: 9.磅15便士"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839980597206495232",
+        "conversation_id": "1987372345120727221",
+        "created_at": "2025-11-09T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987535495178690866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987535495178690866",
+        "in_reply_to_user_id": "1839980597206495232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987508046277550102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9.磅15便士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1987527239416893621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1257,
+          "like_count": 21403,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 6905
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T10:49:06.000Z",
+        "description": "你说遗忘会在应许地风化 ｜🏳️‍🌈🏳️‍⚧️｜你说我怎样我就是怎样的｜四分之一个酒蒙子｜时月系统｜42｜「瑪德琳娜電台」@cy79p｜「花」@inwal3310｜「我是，女孩。」@txzm123 ｜「4 a.m.，-4 ℃」@winterfruit_1 https://t.co/I3YclQUHvU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "inwal3310"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "txzm123"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "winterfruit_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cy79p",
+                "end": 150,
+                "expanded_url": "https://ngl.link/cy79p",
+                "start": 127,
+                "url": "https://t.co/I3YclQUHvU"
+              }
+            ]
+          }
+        },
+        "id": "1839980597206495232",
+        "name": "璟江别",
+        "pinned_tweet_id": "1962215932266459411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944376595443712/HKJOjwkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 325,
+          "like_count": 6967,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 1211
+        },
+        "username": "cy79p",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2021946211473961006",
+    "created_at": "2026-02-12T13:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021946211473961006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/w0sh1asak1/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/w0sh1asak1/status/1993751983493403082",
+          "start": 3,
+          "url": "https://t.co/9YPZpkwU16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021946211473961006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993751983493403082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "故而 https://t.co/9YPZpkwU16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993751975658422272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6s628dagAAvzJM.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2021946211473961006",
+        "created_at": "2026-02-12T13:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021946211473961006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/w0sh1asak1/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/w0sh1asak1/status/1993751983493403082",
+              "start": 3,
+              "url": "https://t.co/9YPZpkwU16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021946211473961006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993751983493403082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "故而 https://t.co/9YPZpkwU16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993751975658422272"
+          ]
+        },
+        "author_id": "1816148552764252169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993751983493403082",
+        "created_at": "2025-11-26T18:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993751983493403082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1993956472338923520/RFTP1mU_?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993956472338923520/RFTP1mU_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/JkKgBzz2kc"
+            },
+            {
+              "display_url": "pic.x.com/CcEAnJ98mR",
+              "end": 64,
+              "expanded_url": "https://x.com/w0sh1Asak1/status/1993751983493403082/photo/1",
+              "media_key": "3_1993751975658422272",
+              "start": 41,
+              "url": "https://t.co/CcEAnJ98mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993751983493403082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/JkKgBzz2kc https://t.co/CcEAnJ98mR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1521,
+          "like_count": 33155,
+          "listed_count": 7,
+          "media_count": 1341,
+          "tweet_count": 10072
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格恶劣 oder Love @winterfruit_1/ 可可@Truffaut897456/ 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/ 小K @akinoyo_desu/江别@cy79p/渡川@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "abt514514"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "vanofthess"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "akinoyo_desu"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "username": "cy79p"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winiter420love.com",
+                "end": 23,
+                "expanded_url": "http://www.winiter420love.com",
+                "start": 0,
+                "url": "https://t.co/SmL8HfGjCw"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "我愛你！",
+        "name": "天才美少女Asak11111",
+        "pinned_tweet_id": "2012782792518627830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012602006511161344/AK7fOLhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 766,
+          "like_count": 27219,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 12379
+        },
+        "url": "https://t.co/SmL8HfGjCw",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066870260897292288"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2066708075923284209",
+    "created_at": "2026-06-16T13:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066870272079388767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050600094161137664",
+          "start": 0,
+          "username": "FrontlineMode"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtoVXFT8rr",
+          "end": 46,
+          "expanded_url": "https://x.com/winterfruit_1/status/2066870272079388767/photo/1",
+          "media_key": "3_2066870260897292288",
+          "start": 23,
+          "url": "https://t.co/YtoVXFT8rr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066870272079388767",
+    "in_reply_to_user_id": "2050600094161137664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066708075923284209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrontlineMode 我不是地域歧视 https://t.co/YtoVXFT8rr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2066870260897292288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_jTGaIAAmnlO.jpg",
+        "width": 180
+      },
+      {
+        "duration_ms": 11096,
+        "height": 1024,
+        "media_key": "7_2066708025713270784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066708025713270784/pu/img/AkH_PkWCUfLegZQn.jpg",
+        "public_metrics": {
+          "view_count": 1430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066708025713270784/pu/vid/avc1/320x568/LieYTDnAtyVYKTuK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066708025713270784/pu/vid/avc1/480x852/2hW6D1-SBk8lSQEK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066708025713270784/pu/vid/avc1/576x1024/CRUZr7RCgiU_mu5B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066708025713270784/pu/pl/OqAlBbtgJ1GlFKXt.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066870260897292288"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2066708075923284209",
+        "created_at": "2026-06-16T13:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066870272079388767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050600094161137664",
+              "start": 0,
+              "username": "FrontlineMode"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtoVXFT8rr",
+              "end": 46,
+              "expanded_url": "https://x.com/winterfruit_1/status/2066870272079388767/photo/1",
+              "media_key": "3_2066870260897292288",
+              "start": 23,
+              "url": "https://t.co/YtoVXFT8rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066870272079388767",
+        "in_reply_to_user_id": "2050600094161137664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066708075923284209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrontlineMode 我不是地域歧视 https://t.co/YtoVXFT8rr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066708025713270784"
+          ]
+        },
+        "author_id": "2050600094161137664",
+        "conversation_id": "2066708075923284209",
+        "created_at": "2026-06-16T02:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066708075923284209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXzN2UnmDZ",
+              "end": 91,
+              "expanded_url": "https://x.com/FrontlineMode/status/2066708075923284209/video/1",
+              "media_key": "7_2066708025713270784",
+              "start": 68,
+              "url": "https://t.co/aXzN2UnmDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066708075923284209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4437,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Chinees are really ahead of world 🤢👍\nThey are living in 2150BCE🤦‍♂️ https://t.co/aXzN2UnmDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 1473,
+          "like_count": 42910,
+          "listed_count": 6,
+          "media_count": 1861,
+          "tweet_count": 12766
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T15:35:52.000Z",
+        "description": "unemployed 🙂",
+        "id": "2050600094161137664",
+        "location": "Ayodhya",
+        "name": "FrontlineMode",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050620783987441665/D7Hx9nWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "FrontlineMode",
+        "verified": false
+      }
+    ]
+  }
+}

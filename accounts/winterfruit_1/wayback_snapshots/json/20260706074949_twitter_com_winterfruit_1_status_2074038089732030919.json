@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073910619602812928"
+      ],
+      "media_source_tweet_id": [
+        "2073910677471650265"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074038089732030919",
+    "created_at": "2026-07-06T07:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074038089732030919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1547604957708267520",
+          "start": 3,
+          "username": "mechafartzilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1LbYxXYSvu",
+          "end": 64,
+          "expanded_url": "https://x.com/mechafartzilla/status/2073910677471650265/video/1",
+          "media_key": "13_2073910619602812928",
+          "start": 41,
+          "url": "https://t.co/1LbYxXYSvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074038089732030919",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1493
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073910677471650265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mechafartzilla: criatura  deploravel https://t.co/1LbYxXYSvu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9878,
+        "height": 818,
+        "media_key": "13_2073910619602812928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073910619602812928/img/Q9mZ0IMlN7snHAkf.jpg",
+        "public_metrics": {
+          "view_count": 59843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073910619602812928/vid/avc1/320x362/0A1p4tyGfEUXx7BY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073910619602812928/vid/avc1/480x544/kFtNbq3SNHLAT6fN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073910619602812928/vid/avc1/720x818/u2i-YneaNSDYd0pf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073910619602812928/pl/ues3w_VhwoVMoBJv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073910619602812928"
+          ],
+          "media_source_tweet_id": [
+            "2073910677471650265"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074038089732030919",
+        "created_at": "2026-07-06T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074038089732030919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1547604957708267520",
+              "start": 3,
+              "username": "mechafartzilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LbYxXYSvu",
+              "end": 64,
+              "expanded_url": "https://x.com/mechafartzilla/status/2073910677471650265/video/1",
+              "media_key": "13_2073910619602812928",
+              "start": 41,
+              "url": "https://t.co/1LbYxXYSvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074038089732030919",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073910677471650265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mechafartzilla: criatura  deploravel https://t.co/1LbYxXYSvu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073910619602812928"
+          ]
+        },
+        "author_id": "1547604957708267520",
+        "conversation_id": "2073910677471650265",
+        "created_at": "2026-07-05T23:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073910677471650265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LbYxXYSvu",
+              "end": 44,
+              "expanded_url": "https://x.com/mechafartzilla/status/2073910677471650265/video/1",
+              "media_key": "13_2073910619602812928",
+              "start": 21,
+              "url": "https://t.co/1LbYxXYSvu"
+            },
+            {
+              "display_url": "x.com/RRaffaelrocha/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/RRaffaelrocha/status/2073887710398357799",
+              "start": 45,
+              "url": "https://t.co/DlUyoZLX3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073910677471650265",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1445,
+          "impression_count": 179204,
+          "like_count": 14715,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 1493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073887710398357799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "criatura  deploravel https://t.co/1LbYxXYSvu https://t.co/DlUyoZLX3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 1480,
+          "like_count": 43524,
+          "listed_count": 6,
+          "media_count": 1879,
+          "tweet_count": 13000
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T15:32:41.000Z",
+        "description": "artista visual ☆ tatuadora (SP) ★ fã número 1 do garfield ☆ esposa do vegeta ★ shadow o ouriço até a morte ☆ entusiasta de chiikawa ★ fnaf nas veias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mechafartzilla.straw.page",
+                "end": 23,
+                "expanded_url": "https://mechafartzilla.straw.page",
+                "start": 0,
+                "url": "https://t.co/4jgjdt5dY1"
+              }
+            ]
+          }
+        },
+        "id": "1547604957708267520",
+        "location": "21 🇧🇷",
+        "name": "becca",
+        "pinned_tweet_id": "2054248380600074489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073608079753564160/A9HyIu_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6323,
+          "following_count": 2857,
+          "like_count": 163682,
+          "listed_count": 8,
+          "media_count": 7659,
+          "tweet_count": 37654
+        },
+        "url": "https://t.co/4jgjdt5dY1",
+        "username": "mechafartzilla",
+        "verified": false
+      }
+    ]
+  }
+}

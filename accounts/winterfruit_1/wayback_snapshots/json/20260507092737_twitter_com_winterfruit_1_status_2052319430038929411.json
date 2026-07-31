@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2052312326108561665",
+    "created_at": "2026-05-07T09:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052319430038929411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934662030663012359",
+          "start": 0,
+          "username": "didisupyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052319430038929411",
+    "in_reply_to_user_id": "1934662030663012359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052317416538194253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didisupyou 痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2052312326108561665",
+        "created_at": "2026-05-07T09:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052319430038929411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934662030663012359",
+              "start": 0,
+              "username": "didisupyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052319430038929411",
+        "in_reply_to_user_id": "1934662030663012359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052317416538194253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didisupyou 痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934662030663012359",
+        "conversation_id": "2052312326108561665",
+        "created_at": "2026-05-07T09:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052317416538194253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052317416538194253",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052312326108561665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 那很幸運了，我第一次鼻血是被別人頭撞到...痛歪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1485,
+          "like_count": 41221,
+          "listed_count": 7,
+          "media_count": 1778,
+          "tweet_count": 12059
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T17:19:33.000Z",
+        "description": "君，不語，不笑，不忿；\n日麻初心(雀魂、雀姬、一番街、天月👌皆可)\nhttps://t.co/G3TUNYSdQr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/didisupyou",
+                "end": 57,
+                "expanded_url": "https://ngl.link/didisupyou",
+                "start": 34,
+                "url": "https://t.co/G3TUNYSdQr"
+              }
+            ]
+          }
+        },
+        "id": "1934662030663012359",
+        "location": "台灣",
+        "name": "君常笑",
+        "pinned_tweet_id": "2042092138150998121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026358918562430976/IxF4vt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 89,
+          "like_count": 3087,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1246
+        },
+        "username": "didisupyou",
+        "verified": false
+      }
+    ]
+  }
+}

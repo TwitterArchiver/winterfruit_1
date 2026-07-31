@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250911882732421120",
+          "name": "Sports Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250911882732421120",
+          "name": "Sports Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "2062115460825727186",
+    "created_at": "2026-06-03T10:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062115460825727186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizutanisubaru…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mizutanisubaru_/status/2062004887219482979",
+          "start": 13,
+          "url": "https://t.co/ulLXm26U1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062115460825727186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062004887219482979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的高中生活果然有问题！ https://t.co/ulLXm26U1z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2062115460825727186",
+        "created_at": "2026-06-03T10:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062115460825727186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizutanisubaru…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mizutanisubaru_/status/2062004887219482979",
+              "start": 13,
+              "url": "https://t.co/ulLXm26U1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062115460825727186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062004887219482979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的高中生活果然有问题！ https://t.co/ulLXm26U1z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2062004887219482979",
+        "created_at": "2026-06-03T02:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062004887219482979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062004887219482979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢？\n我的海边旅行呢？\n随时能看的演唱会呢？\n会给我每天带便当的可爱女朋友呢？\n我的第一次梅雨天的相合伞呢？\n我的情人节本命巧克力呢？\n我的圣诞约会呢？\n我的樱花树下的告白呢？\n我的新年参拜呢？\n为什么我的高中生活不是这样的啊？可以告诉我吗？🥺🥺🥺😭😭😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2187,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢？\n我的海边旅行呢？\n随时能看的演唱会呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 1470,
+          "like_count": 42574,
+          "listed_count": 6,
+          "media_count": 1844,
+          "tweet_count": 12646
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 493,
+          "like_count": 4537,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 955
+        },
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

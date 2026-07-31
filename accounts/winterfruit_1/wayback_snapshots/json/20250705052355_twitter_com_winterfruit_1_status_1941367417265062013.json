@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1941140235150332213",
+    "created_at": "2025-07-05T05:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T06:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941367417265062013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1295019581480681477",
+          "start": 0,
+          "username": "03linen"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941367417265062013",
+    "in_reply_to_user_id": "1295019581480681477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941299427014213797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@03linen @hsn8086 细节没木"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1941140235150332213",
+        "created_at": "2025-07-05T05:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941367417265062013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1295019581480681477",
+              "start": 0,
+              "username": "03linen"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941367417265062013",
+        "in_reply_to_user_id": "1295019581480681477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941299427014213797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@03linen @hsn8086 细节没木"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295019581480681477",
+        "conversation_id": "1941140235150332213",
+        "created_at": "2025-07-05T00:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941299427014213797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941299427014213797",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9361,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941140235150332213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 李辛豪是个人物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 355,
+          "like_count": 7339,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2054
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T15:28:31.000Z",
+        "description": ":D",
+        "id": "1295019581480681477",
+        "name": "City the WOLF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704839965769916416/NpzVF1Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 452,
+          "like_count": 4975,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 735
+        },
+        "username": "03linen",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82542,
+          "following_count": 971,
+          "like_count": 41356,
+          "listed_count": 186,
+          "media_count": 13116,
+          "tweet_count": 19660
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

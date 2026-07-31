@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1936031270146056506",
+    "created_at": "2025-06-21T07:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T08:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936324310479860222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        },
+        {
+          "end": 17,
+          "id": "1868205822511288320",
+          "start": 9,
+          "username": "VicoOci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936324310479860222",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936036625798004984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist @VicoOci 看看三角洲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1936031270146056506",
+        "created_at": "2025-06-21T07:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936324310479860222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            },
+            {
+              "end": 17,
+              "id": "1868205822511288320",
+              "start": 9,
+              "username": "VicoOci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936324310479860222",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936036625798004984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist @VicoOci 看看三角洲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1936031270146056506",
+        "created_at": "2025-06-20T12:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936036625798004984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "VicoOci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936036625798004984",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936031270146056506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VicoOci 别乱说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 337,
+          "like_count": 6624,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1854
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "赛博妓女，爱国爱党 🚪64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNBI2K"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 1609,
+          "like_count": 33709,
+          "listed_count": 12,
+          "media_count": 227,
+          "tweet_count": 6776
+        },
+        "url": "https://t.co/gOK4bNBI2K",
+        "username": "5mRtist",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "大号@fuckpregabalin｜大狗叫@Lmao_Quien 妹妹@HyotoChandesuyo 闺蜜@freequan2025 魔乐宝宝@MOLeren198964萌豚@niceball_wuwaa 厚米@kikyo4000 @muska56368 @svaghglm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "freequan2025"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "MOLeren198964"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "niceball_wuwaa"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "muska56368"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "svaghglm"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "距离2.50km",
+        "name": "放下胃口 立地呕呲",
+        "pinned_tweet_id": "1934513195034780131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924857681665523715/uRGVu7Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 256,
+          "like_count": 13441,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 4921
+        },
+        "username": "VicoOci",
+        "verified": false
+      }
+    ]
+  }
+}

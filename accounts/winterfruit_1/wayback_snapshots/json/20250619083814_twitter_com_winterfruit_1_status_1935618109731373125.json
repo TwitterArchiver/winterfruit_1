@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935563569807966209"
+      ],
+      "media_source_tweet_id": [
+        "1935563879121056020"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1935618109731373125",
+    "created_at": "2025-06-19T08:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T09:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935618109731373125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/03JCJmU3le",
+          "end": 40,
+          "expanded_url": "https://x.com/SalviaSWC/status/1935563879121056020/photo/1",
+          "media_key": "3_1935563569807966209",
+          "start": 17,
+          "url": "https://t.co/03JCJmU3le"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935618109731373125",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935563879121056020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 🤤 https://t.co/03JCJmU3le"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_1935563569807966209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyAz8qXQAEDpCc.png",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935563569807966209"
+          ],
+          "media_source_tweet_id": [
+            "1935563879121056020"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1935618109731373125",
+        "created_at": "2025-06-19T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935618109731373125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03JCJmU3le",
+              "end": 40,
+              "expanded_url": "https://x.com/SalviaSWC/status/1935563879121056020/photo/1",
+              "media_key": "3_1935563569807966209",
+              "start": 17,
+              "url": "https://t.co/03JCJmU3le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935618109731373125",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935563879121056020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 🤤 https://t.co/03JCJmU3le"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935563569807966209"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1935563879121056020",
+        "created_at": "2025-06-19T05:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T06:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935563879121056020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03JCJmU3le",
+              "end": 25,
+              "expanded_url": "https://x.com/SalviaSWC/status/1935563879121056020/photo/1",
+              "media_key": "3_1935563569807966209",
+              "start": 2,
+              "url": "https://t.co/03JCJmU3le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935563879121056020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 173,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/03JCJmU3le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 335,
+          "like_count": 6539,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1820
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 148,
+          "like_count": 2990,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1152
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

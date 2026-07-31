@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1989662462124462221",
+    "created_at": "2025-11-15T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989662462124462221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811690667720212480",
+          "start": 3,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 72,
+          "id": "1963867793776070656",
+          "start": 59,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989662462124462221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989660991517491553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y0zarashi: 其实沐雨假死是因为我买了包他的模拟冰策划药然后收货地点是隔壁省国内一个缉毒警的父母户籍地@drug_artist1   我用一张手机卡给这个警察打电话冒充黑帮威胁他说自己是沐雨要跟他警匪勾结，先让他父母尝一尝自己做的模拟冰，绝对是好货。能垄断中国的…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [drug_artist1].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "drug_artist1",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "drug_artist1"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2143,
+        "media_key": "3_1989660989005205513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yyILkbkAkYkxN.jpg",
+        "width": 610
+      },
+      {
+        "height": 715,
+        "media_key": "3_1989660987583336451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yyIGRbkAMpCyK.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1989662462124462221",
+        "created_at": "2025-11-15T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989662462124462221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811690667720212480",
+              "start": 3,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 72,
+              "id": "1963867793776070656",
+              "start": 59,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989662462124462221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989660991517491553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y0zarashi: 其实沐雨假死是因为我买了包他的模拟冰策划药然后收货地点是隔壁省国内一个缉毒警的父母户籍地@drug_artist1   我用一张手机卡给这个警察打电话冒充黑帮威胁他说自己是沐雨要跟他警匪勾结，先让他父母尝一尝自己做的模拟冰，绝对是好货。能垄断中国的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989660989005205513",
+            "3_1989660987583336451"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1989660991517491553",
+        "created_at": "2025-11-15T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989660991517491553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1963867793776070656",
+              "start": 44,
+              "username": "drug_artist1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPBRio5bPA",
+              "end": 171,
+              "expanded_url": "https://x.com/y0zarashi/status/1989660991517491553/photo/1",
+              "media_key": "3_1989660989005205513",
+              "start": 148,
+              "url": "https://t.co/ZPBRio5bPA"
+            },
+            {
+              "display_url": "pic.x.com/ZPBRio5bPA",
+              "end": 171,
+              "expanded_url": "https://x.com/y0zarashi/status/1989660991517491553/photo/1",
+              "media_key": "3_1989660987583336451",
+              "start": 148,
+              "url": "https://t.co/ZPBRio5bPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989660991517491553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实沐雨假死是因为我买了包他的模拟冰策划药然后收货地点是隔壁省国内一个缉毒警的父母户籍地@drug_artist1   我用一张手机卡给这个警察打电话冒充黑帮威胁他说自己是沐雨要跟他警匪勾结，先让他父母尝一尝自己做的模拟冰，绝对是好货。能垄断中国的软毒品行业沐雨被警哥拷打的只能注销自己的账号了 https://t.co/ZPBRio5bPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 1281,
+          "like_count": 22048,
+          "listed_count": 5,
+          "media_count": 775,
+          "tweet_count": 7130
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mtf  不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。不知道为什么吴思嫣把我当做仇人看待了。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1988859428183892376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 116,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 554,
+          "tweet_count": 3146
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

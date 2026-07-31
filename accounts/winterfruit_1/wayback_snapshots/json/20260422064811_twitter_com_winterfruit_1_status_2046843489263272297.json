@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046843474176253952"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2046843489263272297",
+    "created_at": "2026-04-22T06:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046843489263272297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUlOZ1mVLr",
+          "end": 31,
+          "expanded_url": "https://x.com/winterfruit_1/status/2046843489263272297/video/1",
+          "media_key": "13_2046843474176253952",
+          "start": 8,
+          "url": "https://t.co/EUlOZ1mVLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046843489263272297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屏幕在闪怎么办 https://t.co/EUlOZ1mVLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9233,
+        "height": 480,
+        "media_key": "13_2046843474176253952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046843474176253952/img/_aR_3XfOtIQ8odM_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046843474176253952/vid/avc1/480x270/WkV-qekKgVdD7Iyg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046843474176253952/vid/avc1/640x360/kgtn1qOGxMz74nNW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046843474176253952/vid/avc1/854x480/CsLcrHTjJYyE9pXC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046843474176253952/pl/WeuMO6cAaPL-I9Id.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046843474176253952"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2046843489263272297",
+        "created_at": "2026-04-22T06:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046843489263272297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUlOZ1mVLr",
+              "end": 31,
+              "expanded_url": "https://x.com/winterfruit_1/status/2046843489263272297/video/1",
+              "media_key": "13_2046843474176253952",
+              "start": 8,
+              "url": "https://t.co/EUlOZ1mVLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046843489263272297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屏幕在闪怎么办 https://t.co/EUlOZ1mVLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ。\nAsaki @w0sh1Asak1\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 1465,
+          "like_count": 40486,
+          "listed_count": 7,
+          "media_count": 1735,
+          "tweet_count": 11829
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

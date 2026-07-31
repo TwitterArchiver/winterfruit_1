@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1933404867399463190",
+    "created_at": "2025-07-13T13:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944383256713220190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1556918341205659648",
+          "start": 0,
+          "username": "PDDBJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944383256713220190",
+    "in_reply_to_user_id": "1556918341205659648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933404867399463190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PDDBJS hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1933404867399463190",
+        "created_at": "2025-07-13T13:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944383256713220190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1556918341205659648",
+              "start": 0,
+              "username": "PDDBJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944383256713220190",
+        "in_reply_to_user_id": "1556918341205659648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933404867399463190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PDDBJS hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556918341205659648",
+        "conversation_id": "1933404867399463190",
+        "created_at": "2025-06-13T06:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T07:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933404867399463190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933404867399463190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 96735,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 394,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小号需要互关的这条下留言 活人号有趣的我都会互关的嘿嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 378,
+          "like_count": 7637,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2130
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T08:20:40.000Z",
+        "description": "随便玩玩",
+        "id": "1556918341205659648",
+        "location": "沙发上",
+        "name": "跑调的毕加索2",
+        "pinned_tweet_id": "1933404867399463190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807024004328488961/fJyPToC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6474,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 28
+        },
+        "username": "PDDBJS",
+        "verified": false
+      }
+    ]
+  }
+}

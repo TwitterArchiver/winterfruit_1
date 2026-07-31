@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1967934620604960956",
+    "created_at": "2025-09-16T18:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T19:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968025927532810425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968025927532810425",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967934620604960956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1967934616087695361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-CG1UaEAEkbxq.jpg",
+        "width": 842
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1967934616586817540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-CG3LaEAQJ-Ib.jpg",
+        "width": 835
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1967934616746201093",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-CG3xaEAUJ2ki.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1967934620604960956",
+        "created_at": "2025-09-16T18:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968025927532810425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968025927532810425",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967934620604960956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967934616087695361",
+            "3_1967934616586817540",
+            "3_1967934616746201093"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1967934620604960956",
+        "created_at": "2025-09-16T12:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967934620604960956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6EKYrMlz0",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/1967934620604960956/photo/1",
+              "media_key": "3_1967934616087695361",
+              "start": 12,
+              "url": "https://t.co/U6EKYrMlz0"
+            },
+            {
+              "display_url": "pic.x.com/U6EKYrMlz0",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/1967934620604960956/photo/1",
+              "media_key": "3_1967934616586817540",
+              "start": 12,
+              "url": "https://t.co/U6EKYrMlz0"
+            },
+            {
+              "display_url": "pic.x.com/U6EKYrMlz0",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/1967934620604960956/photo/1",
+              "media_key": "3_1967934616746201093",
+              "start": 12,
+              "url": "https://t.co/U6EKYrMlz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967934620604960956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7148,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评价一下长相 不玻璃心 https://t.co/U6EKYrMlz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 476,
+          "like_count": 11875,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 3706
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1967885445448208696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7367,
+          "following_count": 967,
+          "like_count": 40674,
+          "listed_count": 26,
+          "media_count": 1503,
+          "tweet_count": 3646
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

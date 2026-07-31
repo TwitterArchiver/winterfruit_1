@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1975351275446542770",
+    "created_at": "2025-10-08T01:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T02:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975734428464005186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774931829853782016",
+          "start": 0,
+          "username": "cap_violet"
+        },
+        {
+          "end": 27,
+          "id": "1865419581206208512",
+          "start": 12,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975734428464005186",
+    "in_reply_to_user_id": "774931829853782016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975351275446542770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cap_violet @DDzhanshou5150 赛博花柳😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1975351275446542770",
+        "created_at": "2025-10-08T01:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975734428464005186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774931829853782016",
+              "start": 0,
+              "username": "cap_violet"
+            },
+            {
+              "end": 27,
+              "id": "1865419581206208512",
+              "start": 12,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975734428464005186",
+        "in_reply_to_user_id": "774931829853782016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975351275446542770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cap_violet @DDzhanshou5150 赛博花柳😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "774931829853782016",
+        "conversation_id": "1975351275446542770",
+        "created_at": "2025-10-07T00:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975351275446542770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975351275446542770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 84828,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "学术账号不小心点了几个中推的赞，然后就废了，现在一半内容是中推，看不了学术了🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 737,
+          "like_count": 15806,
+          "listed_count": 3,
+          "media_count": 507,
+          "tweet_count": 4880
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-11T11:25:20.000Z",
+        "description": "伊芙加登號夢想航機，飛向星辰大海 |\n'Evergarden' B78X, 🍥T-EVGN |\nex-OIer, math, aviation, cs theory grad student | not yet phd but grinding过程中产出的胡言乱语",
+        "id": "774931829853782016",
+        "location": "FL400",
+        "name": "captain Violet",
+        "pinned_tweet_id": "1922953832339747311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574438134720233472/opIwO9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 4547,
+          "like_count": 24856,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 932
+        },
+        "username": "cap_violet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7511,
+          "following_count": 6935,
+          "like_count": 24680,
+          "listed_count": 15,
+          "media_count": 5331,
+          "tweet_count": 36059
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

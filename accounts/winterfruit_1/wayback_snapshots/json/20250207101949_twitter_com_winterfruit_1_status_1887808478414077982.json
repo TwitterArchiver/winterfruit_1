@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887607542874054660",
+        "3_1887607589363695616",
+        "16_1887607658917863424",
+        "3_1887607735052902400"
+      ],
+      "media_source_tweet_id": [
+        "1887608203913126272",
+        "1887608203913126272",
+        "1887608203913126272",
+        "1887608203913126272"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1887808478414077982",
+    "created_at": "2025-02-07T10:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T11:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887808478414077982"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 35,
+          "tag": "heartheartart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1125105720188329989",
+          "start": 3,
+          "username": "birdude6000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2t2ufGLU8k",
+          "end": 73,
+          "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+          "media_key": "3_1887607542874054660",
+          "start": 50,
+          "url": "https://t.co/2t2ufGLU8k"
+        },
+        {
+          "display_url": "pic.x.com/2t2ufGLU8k",
+          "end": 73,
+          "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+          "media_key": "3_1887607589363695616",
+          "start": 50,
+          "url": "https://t.co/2t2ufGLU8k"
+        },
+        {
+          "display_url": "pic.x.com/2t2ufGLU8k",
+          "end": 73,
+          "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+          "media_key": "16_1887607658917863424",
+          "start": 50,
+          "url": "https://t.co/2t2ufGLU8k"
+        },
+        {
+          "display_url": "pic.x.com/2t2ufGLU8k",
+          "end": 73,
+          "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+          "media_key": "3_1887607735052902400",
+          "start": 50,
+          "url": "https://t.co/2t2ufGLU8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887808478414077982",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887608203913126272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdude6000: Some newero stuff\n#heartheartart https://t.co/2t2ufGLU8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1887607542874054660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjIhDyxbIAQFaFa.png",
+        "width": 480
+      },
+      {
+        "height": 480,
+        "media_key": "3_1887607589363695616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjIhGf9awAABHue.png",
+        "width": 480
+      },
+      {
+        "height": 240,
+        "media_key": "16_1887607658917863424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GjIhKjEbIAAd0SD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GjIhKjEbIAAd0SD.mp4"
+          }
+        ],
+        "width": 240
+      },
+      {
+        "height": 240,
+        "media_key": "3_1887607735052902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjIhO-sboAAaoB0.png",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887607542874054660",
+            "3_1887607589363695616",
+            "16_1887607658917863424",
+            "3_1887607735052902400"
+          ],
+          "media_source_tweet_id": [
+            "1887608203913126272",
+            "1887608203913126272",
+            "1887608203913126272",
+            "1887608203913126272"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1887808478414077982",
+        "created_at": "2025-02-07T10:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T11:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887808478414077982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 35,
+              "tag": "heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1125105720188329989",
+              "start": 3,
+              "username": "birdude6000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 73,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607542874054660",
+              "start": 50,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 73,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607589363695616",
+              "start": 50,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 73,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "16_1887607658917863424",
+              "start": 50,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 73,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607735052902400",
+              "start": 50,
+              "url": "https://t.co/2t2ufGLU8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887808478414077982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887608203913126272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdude6000: Some newero stuff\n#heartheartart https://t.co/2t2ufGLU8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887607542874054660",
+            "3_1887607589363695616",
+            "16_1887607658917863424",
+            "3_1887607735052902400"
+          ]
+        },
+        "author_id": "1125105720188329989",
+        "conversation_id": "1887608203913126272",
+        "created_at": "2025-02-06T21:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T22:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887608203913126272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "heartheartart",
+              "probability": 0.4821,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 18,
+              "tag": "heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 56,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607542874054660",
+              "start": 33,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 56,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607589363695616",
+              "start": 33,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 56,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "16_1887607658917863424",
+              "start": 33,
+              "url": "https://t.co/2t2ufGLU8k"
+            },
+            {
+              "display_url": "pic.x.com/2t2ufGLU8k",
+              "end": 56,
+              "expanded_url": "https://x.com/birdude6000/status/1887608203913126272/photo/1",
+              "media_key": "3_1887607735052902400",
+              "start": 33,
+              "url": "https://t.co/2t2ufGLU8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887608203913126272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1600,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Some newero stuff\n#heartheartart https://t.co/2t2ufGLU8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 242,
+          "like_count": 4670,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1130
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T18:31:21.000Z",
+        "description": "No",
+        "id": "1125105720188329989",
+        "location": "Dirt",
+        "name": "Ultimage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613270480714334208/tNn_Ip4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 72,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 89
+        },
+        "username": "birdude6000",
+        "verified": false
+      }
+    ]
+  }
+}

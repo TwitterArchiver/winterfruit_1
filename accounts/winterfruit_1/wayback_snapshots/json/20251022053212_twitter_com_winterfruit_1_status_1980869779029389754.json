@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1980594878678724833",
+    "created_at": "2025-10-22T05:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980869779029389754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1151458774445486080",
+          "start": 0,
+          "username": "yunwei37"
+        },
+        {
+          "end": 20,
+          "id": "800153130977542146",
+          "start": 10,
+          "username": "anqirocks"
+        },
+        {
+          "end": 26,
+          "id": "1720665183188922368",
+          "start": 21,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980869779029389754",
+    "in_reply_to_user_id": "1151458774445486080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980710222332076200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunwei37 @anqirocks @grok 所以grok脑损伤了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1980594878678724833",
+        "created_at": "2025-10-22T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980869779029389754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1151458774445486080",
+              "start": 0,
+              "username": "yunwei37"
+            },
+            {
+              "end": 20,
+              "id": "800153130977542146",
+              "start": 10,
+              "username": "anqirocks"
+            },
+            {
+              "end": 26,
+              "id": "1720665183188922368",
+              "start": 21,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980869779029389754",
+        "in_reply_to_user_id": "1151458774445486080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980710222332076200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunwei37 @anqirocks @grok 所以grok脑损伤了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151458774445486080",
+        "conversation_id": "1980594878678724833",
+        "created_at": "2025-10-21T18:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980710222332076200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "800153130977542146",
+              "start": 0,
+              "username": "anqirocks"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980710222332076200",
+        "in_reply_to_user_id": "800153130977542146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1363,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980594878678724833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anqirocks 很好奇 @grok 是怎么解决这个问题的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1003,
+          "like_count": 18831,
+          "listed_count": 4,
+          "media_count": 640,
+          "tweet_count": 6020
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-17T11:48:59.000Z",
+        "description": "Stupid, but try to keep Learning, curiosity and Courage | Creator https://t.co/UWe3rFdsqC |  eBPF & AI | Bring new orders and chaos! | 🐟好吃",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eunomia.dev",
+                "end": 89,
+                "expanded_url": "http://eunomia.dev",
+                "start": 66,
+                "url": "https://t.co/UWe3rFdsqC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yunwei37",
+                "end": 23,
+                "expanded_url": "http://github.com/yunwei37",
+                "start": 0,
+                "url": "https://t.co/2sKczvcVAV"
+              }
+            ]
+          }
+        },
+        "id": "1151458774445486080",
+        "location": "SF",
+        "name": "云微",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623013407808184320/1BzUPPxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 2071,
+          "like_count": 41474,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/2sKczvcVAV",
+        "username": "yunwei37",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-20T01:45:47.000Z",
+        "description": "💻 Gen AI product @BytedanceTalk @capcutapp 📍Beijing/ Shenzhen 🦾 May we have guts and patience to create 小马过河",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "capcutapp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anqi.rocks",
+                "end": 23,
+                "expanded_url": "https://anqi.rocks",
+                "start": 0,
+                "url": "https://t.co/iMrlSZBkQq"
+              }
+            ]
+          }
+        },
+        "id": "800153130977542146",
+        "name": "AnqiRocks 安琪",
+        "pinned_tweet_id": "1738844930204913917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149162437431590914/uPJXAs0B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9105,
+          "following_count": 982,
+          "like_count": 17091,
+          "listed_count": 85,
+          "media_count": 1970,
+          "tweet_count": 13420
+        },
+        "url": "https://t.co/iMrlSZBkQq",
+        "username": "anqirocks",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6486286,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5108,
+          "media_count": 2701994,
+          "tweet_count": 59003451
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

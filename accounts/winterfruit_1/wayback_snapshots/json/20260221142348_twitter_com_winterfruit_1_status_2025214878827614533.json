@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025214873341493253"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2025208816850403452",
+    "created_at": "2026-02-21T14:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025214878827614533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838634075638083584",
+          "start": 0,
+          "username": "Rikki2012love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7S0phffhoR",
+          "end": 38,
+          "expanded_url": "https://x.com/winterfruit_1/status/2025214878827614533/photo/1",
+          "media_key": "3_2025214873341493253",
+          "start": 15,
+          "url": "https://t.co/7S0phffhoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025214878827614533",
+    "in_reply_to_user_id": "1838634075638083584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025209299430228117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikki2012love https://t.co/7S0phffhoR"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025209299430228117].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025209299430228117",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025209299430228117"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2025214873341493253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsCMn9bgAUSKiD.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025214873341493253"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2025208816850403452",
+        "created_at": "2026-02-21T14:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025214878827614533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838634075638083584",
+              "start": 0,
+              "username": "Rikki2012love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S0phffhoR",
+              "end": 38,
+              "expanded_url": "https://x.com/winterfruit_1/status/2025214878827614533/photo/1",
+              "media_key": "3_2025214873341493253",
+              "start": 15,
+              "url": "https://t.co/7S0phffhoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025214878827614533",
+        "in_reply_to_user_id": "1838634075638083584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025209299430228117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikki2012love https://t.co/7S0phffhoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1401,
+          "like_count": 34083,
+          "listed_count": 7,
+          "media_count": 1384,
+          "tweet_count": 10236
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T17:38:29.000Z",
+        "description": "南方见✍️",
+        "id": "1838634075638083584",
+        "location": "从古田再出发",
+        "name": "椎名立希头号粉丝",
+        "pinned_tweet_id": "2025111865823502435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006095023415386115/6KGW2nLc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "Rikki2012love",
+        "verified": false
+      }
+    ]
+  }
+}

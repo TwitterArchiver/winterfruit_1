@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2050112194608787786",
+    "created_at": "2026-05-01T07:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050115139576397885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910629733785870336",
+          "start": 0,
+          "username": "ji_chu25601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050115139576397885",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050112194608787786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_chu25601 好哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2050112178917949440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHN2Ki4bQAAzCZQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2050112194608787786",
+        "created_at": "2026-05-01T07:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050115139576397885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050115139576397885",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050112194608787786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050112178917949440"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2050112194608787786",
+        "created_at": "2026-05-01T07:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050112194608787786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JecR8In5QR",
+              "end": 34,
+              "expanded_url": "https://x.com/ji_chu25601/status/2050112194608787786/photo/1",
+              "media_key": "3_2050112178917949440",
+              "start": 11,
+              "url": "https://t.co/JecR8In5QR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050112194608787786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州药房直接买就行了 https://t.co/JecR8In5QR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 1489,
+          "like_count": 40866,
+          "listed_count": 7,
+          "media_count": 1752,
+          "tweet_count": 11945
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "",
+        "id": "1910629733785870336",
+        "name": "命苦到有点懵逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045605767651454976/6Wiei8EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 37,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 164
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

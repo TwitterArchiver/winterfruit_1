@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1856412973910372684",
+    "created_at": "2024-11-12T19:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T20:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856412973910372684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "215939847",
+          "start": 3,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856412973910372684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856065975533351352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bboczeng: 回国了\n\n被抓就算了\n\n大不了判一年\n\n重新做人\n\n美股也没啥意思\n\n😅😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1856412973910372684",
+        "created_at": "2024-11-12T19:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T20:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856412973910372684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "215939847",
+              "start": 3,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856412973910372684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856065975533351352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bboczeng: 回国了\n\n被抓就算了\n\n大不了判一年\n\n重新做人\n\n美股也没啥意思\n\n😅😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "215939847",
+        "conversation_id": "1856065975533351352",
+        "created_at": "2024-11-11T20:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T21:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856065975533351352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856065975533351352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 96398,
+          "like_count": 368,
+          "quote_count": 7,
+          "reply_count": 93,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "回国了\n\n被抓就算了\n\n大不了判一年\n\n重新做人\n\n美股也没啥意思\n\n😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "我是我",
+        "id": "1837114188046684161",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 229,
+          "like_count": 3551,
+          "listed_count": 0,
+          "tweet_count": 899
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1855528461432922193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149462,
+          "following_count": 614,
+          "like_count": 64122,
+          "listed_count": 749,
+          "tweet_count": 61972
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

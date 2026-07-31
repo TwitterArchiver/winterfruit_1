@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1960065901665104003",
+    "created_at": "2025-08-26T04:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T05:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960201271278817486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1768807546717175808",
+          "start": 0,
+          "username": "cha062809"
+        },
+        {
+          "end": 23,
+          "id": "1747931023277502465",
+          "start": 11,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960201271278817486",
+    "in_reply_to_user_id": "1768807546717175808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960066803364954397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha062809 @damatte8964 这种出门摔一跤就是生死劫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1960065901665104003",
+        "created_at": "2025-08-26T04:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960201271278817486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768807546717175808",
+              "start": 0,
+              "username": "cha062809"
+            },
+            {
+              "end": 23,
+              "id": "1747931023277502465",
+              "start": 11,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960201271278817486",
+        "in_reply_to_user_id": "1768807546717175808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960066803364954397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha062809 @damatte8964 这种出门摔一跤就是生死劫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768807546717175808",
+        "conversation_id": "1960065901665104003",
+        "created_at": "2025-08-25T19:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960066803364954397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960066803364954397",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960065901665104003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 对啊对啊我170/110班上还是会有男同学说我胖 说我肯定120了看着和另一个男生差不多壮 还说自己才100出头 他比我高 我当时想的是为什么细狗还能这么骄傲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 456,
+          "like_count": 10041,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3265
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T01:12:49.000Z",
+        "description": "互联网阴沟 素质低下 没有道德 骂我先打钱 不摄政不约炮 纯口嗨",
+        "id": "1768807546717175808",
+        "name": "kuouki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958495930979913728/SS85HIU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 146
+        },
+        "username": "cha062809",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*目前的身份是日本小瘤/オタク/精神障害者/无耻的门槛鸡，我需要钱所以🚪99/198/520谢谢你 我可以给你唱歌画画。 也在东京接纯绿线下，我有艾滋和梅毒所以不要想和我做爱的事情。",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34496,
+          "following_count": 772,
+          "like_count": 7136,
+          "listed_count": 43,
+          "media_count": 229,
+          "tweet_count": 2520
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

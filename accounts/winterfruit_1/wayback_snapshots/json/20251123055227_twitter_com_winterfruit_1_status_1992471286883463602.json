@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1991796816850161691",
+    "created_at": "2025-11-23T05:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992471286883463602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1871734832528809984",
+          "start": 0,
+          "username": "DarkOvNight"
+        },
+        {
+          "end": 25,
+          "id": "2786701",
+          "start": 13,
+          "username": "williamlong"
+        },
+        {
+          "end": 31,
+          "id": "1720665183188922368",
+          "start": 26,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992471286883463602",
+    "in_reply_to_user_id": "1871734832528809984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992060829735473564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkOvNight @williamlong @grok is it true"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1991796816850161691",
+        "created_at": "2025-11-23T05:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992471286883463602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1871734832528809984",
+              "start": 0,
+              "username": "DarkOvNight"
+            },
+            {
+              "end": 25,
+              "id": "2786701",
+              "start": 13,
+              "username": "williamlong"
+            },
+            {
+              "end": 31,
+              "id": "1720665183188922368",
+              "start": 26,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992471286883463602",
+        "in_reply_to_user_id": "1871734832528809984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992060829735473564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkOvNight @williamlong @grok is it true"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871734832528809984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1991796816850161691",
+        "created_at": "2025-11-22T02:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992060829735473564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992060829735473564",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4000,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991796816850161691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 还有一个特点 就是第一时间艾特grok的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1309,
+          "like_count": 23056,
+          "listed_count": 5,
+          "media_count": 811,
+          "tweet_count": 7407
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T01:49:12.000Z",
+        "description": "",
+        "id": "1871734832528809984",
+        "name": "歪比巴布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974818318080237568/EtcuxVwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "username": "DarkOvNight",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376857,
+          "following_count": 338,
+          "like_count": 0,
+          "listed_count": 2720,
+          "media_count": 3416,
+          "tweet_count": 30414
+        },
+        "username": "williamlong",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6676764,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5363,
+          "media_count": 2742312,
+          "tweet_count": 68561469
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

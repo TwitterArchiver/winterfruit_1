@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978301652089356288"
+      ],
+      "media_source_tweet_id": [
+        "1978301659747922390"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1978337740216242669",
+    "created_at": "2025-10-15T05:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978337740216242669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545898408858161154",
+          "start": 3,
+          "username": "getout_ofmymind"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z2svErwODo",
+          "end": 80,
+          "expanded_url": "https://x.com/getout_ofmymind/status/1978301659747922390/photo/1",
+          "media_key": "3_1978301652089356288",
+          "start": 57,
+          "url": "https://t.co/Z2svErwODo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978337740216242669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978301659747922390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @getout_ofmymind: 苯海拉明（？？版）\n打个预警因为用到的贴图比较猎奇\n眼睛是扣图我自己的 https://t.co/Z2svErwODo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978337740216242669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978337740216242669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978337740216242669"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_1978301652089356288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RW3v9awAAhX9s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978301652089356288"
+          ]
+        },
+        "author_id": "1545898408858161154",
+        "conversation_id": "1978301659747922390",
+        "created_at": "2025-10-15T03:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978301659747922390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2svErwODo",
+              "end": 59,
+              "expanded_url": "https://x.com/getout_ofmymind/status/1978301659747922390/photo/1",
+              "media_key": "3_1978301652089356288",
+              "start": 36,
+              "url": "https://t.co/Z2svErwODo"
+            },
+            {
+              "display_url": "x.com/getout_ofmymin…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/getout_ofmymind/status/1966180511333888290",
+              "start": 60,
+              "url": "https://t.co/nIgobYzbno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978301659747922390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966180511333888290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苯海拉明（？？版）\n打个预警因为用到的贴图比较猎奇\n眼睛是扣图我自己的 https://t.co/Z2svErwODo https://t.co/nIgobYzbno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 855,
+          "like_count": 17327,
+          "listed_count": 3,
+          "media_count": 584,
+          "tweet_count": 5523
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "你的互联网邻居猫｜2007.2.8 #od #drugtwt #ftx 🏳️‍🌈🏳️‍⚧️｜纯记录嗑药精神病相关,自言自语,转推｜不擅长社交果咩 但是欢迎互关!!收不到陌生人私信｜发画的搞oc大号:@StrawberryC208 这边算看中文推用的号",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "od"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "ftx"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/喵💛🤍💜🖤",
+        "name": "🐱",
+        "pinned_tweet_id": "1964308533614150014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976974709318467588/KdHdz36H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 554,
+          "like_count": 606,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 733
+        },
+        "username": "getout_ofmymind",
+        "verified": false
+      }
+    ]
+  }
+}

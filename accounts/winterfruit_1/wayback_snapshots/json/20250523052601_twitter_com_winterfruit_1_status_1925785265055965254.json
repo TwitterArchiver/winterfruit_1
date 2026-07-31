@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1925526163625320695",
+    "created_at": "2025-05-23T05:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T06:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925785265055965254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752648024453738496",
+          "start": 0,
+          "username": "AItianlian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925785265055965254",
+    "in_reply_to_user_id": "1752648024453738496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925526163625320695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AItianlian 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_1925526160446038019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrjX108boAMwaQ2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1925526163625320695",
+        "created_at": "2025-05-23T05:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925785265055965254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752648024453738496",
+              "start": 0,
+              "username": "AItianlian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925785265055965254",
+        "in_reply_to_user_id": "1752648024453738496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925526163625320695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AItianlian 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925526160446038019"
+          ]
+        },
+        "author_id": "1752648024453738496",
+        "conversation_id": "1925526163625320695",
+        "created_at": "2025-05-22T12:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T13:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925526163625320695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXGOclyi9m",
+              "end": 160,
+              "expanded_url": "https://x.com/AItianlian/status/1925526163625320695/photo/1",
+              "media_key": "3_1925526160446038019",
+              "start": 137,
+              "url": "https://t.co/qXGOclyi9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925526163625320695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15842,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你跟我说人权至上或者怎么样。 但是我不会同情人类的，因为动物没有人类那么坏，你只要把他们喂饱，他们就愿意跟你在一起，而人类你把它喂饱了，它还想要更多的，欲望就像山上的滚石，一旦滚下来就再也阻止不了了，滴水居然涌泉相报，大恩大德如同大仇，so，所以我为什么一定要同情人类呢？ https://t.co/qXGOclyi9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose丨可以叫我420｜互fo🐧",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 274,
+          "like_count": 5096,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1460
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:01:10.000Z",
+        "description": "米娜桑，我是爱酱，路过一般神明，兼职睡眠的神，那些以前的推文不是我的喵，注意甄别，爱酱在这里希望米娜桑们永远快乐，幸福，远离不幸，神明会一直爱着你们的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "annszero1.gmail.com",
+                "end": 23,
+                "expanded_url": "http://annszero1.gmail.com",
+                "start": 0,
+                "url": "https://t.co/9k0a9Pz5JT"
+              }
+            ]
+          }
+        },
+        "id": "1752648024453738496",
+        "location": "手枪星 ",
+        "name": "爱天怜 🔪",
+        "pinned_tweet_id": "1905591089706533211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919684693248933888/XycmPm9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 469,
+          "like_count": 325,
+          "listed_count": 18,
+          "media_count": 788,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/9k0a9Pz5JT",
+        "username": "AItianlian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935232864163168256"
+      ],
+      "media_source_tweet_id": [
+        "1935232871494730240"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1935397125623529485",
+    "created_at": "2025-06-18T18:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T19:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935397125623529485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oVa47mMlq8",
+          "end": 36,
+          "expanded_url": "https://x.com/FTMiaoX/status/1935232871494730240/photo/1",
+          "media_key": "3_1935232864163168256",
+          "start": 13,
+          "url": "https://t.co/oVa47mMlq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935397125623529485",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935232871494730240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: https://t.co/oVa47mMlq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_1935232864163168256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttUCWIbgAA4Z-m.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935232864163168256"
+          ],
+          "media_source_tweet_id": [
+            "1935232871494730240"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1935397125623529485",
+        "created_at": "2025-06-18T18:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T19:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935397125623529485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1025546987578556417",
+              "start": 3,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVa47mMlq8",
+              "end": 36,
+              "expanded_url": "https://x.com/FTMiaoX/status/1935232871494730240/photo/1",
+              "media_key": "3_1935232864163168256",
+              "start": 13,
+              "url": "https://t.co/oVa47mMlq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935397125623529485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935232871494730240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FTMiaoX: https://t.co/oVa47mMlq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935232864163168256"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1935232871494730240",
+        "created_at": "2025-06-18T07:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935232871494730240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVa47mMlq8",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1935232871494730240/photo/1",
+              "media_key": "3_1935232864163168256",
+              "start": 0,
+              "url": "https://t.co/oVa47mMlq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935232871494730240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 31188,
+          "like_count": 516,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oVa47mMlq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 334,
+          "like_count": 6508,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1811
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "BakaHDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 3259,
+          "like_count": 163495,
+          "listed_count": 20,
+          "media_count": 2962,
+          "tweet_count": 27120
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953096506581602535",
+    "created_at": "2025-08-06T14:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T15:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953096506581602535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1953067903710052731",
+          "start": 2,
+          "url": "https://t.co/nYBJSC1b0m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953096506581602535",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953067903710052731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/nYBJSC1b0m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953096506581602535",
+        "created_at": "2025-08-06T14:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953096506581602535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1953067903710052731",
+              "start": 2,
+              "url": "https://t.co/nYBJSC1b0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953096506581602535",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953067903710052731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/nYBJSC1b0m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1953067903710052731",
+        "created_at": "2025-08-06T12:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953067903710052731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953067903710052731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "混沌邪恶：\n\n沐浴露是按压出液体，沐浴露也是人妖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 421,
+          "like_count": 8684,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2668
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F36猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18331,
+          "following_count": 188,
+          "like_count": 570,
+          "listed_count": 65,
+          "media_count": 90,
+          "tweet_count": 18406
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

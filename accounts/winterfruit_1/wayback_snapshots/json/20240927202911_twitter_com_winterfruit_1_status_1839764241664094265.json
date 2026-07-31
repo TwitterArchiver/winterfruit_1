@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1839325729039020142",
+    "created_at": "2024-09-27T20:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T21:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839764241664094265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "Lizitou02"
+        },
+        {
+          "end": 24,
+          "id": "1828975646665781251",
+          "start": 11,
+          "username": "MIZUKI__8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839764241664094265",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839738608250695934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizitou02 @MIZUKI__8964 🧐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839738608250695934].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839738608250695934",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839738608250695934"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1839325729039020142",
+        "created_at": "2024-09-27T20:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T21:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839764241664094265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "Lizitou02"
+            },
+            {
+              "end": 24,
+              "id": "1828975646665781251",
+              "start": 11,
+              "username": "MIZUKI__8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839764241664094265",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839738608250695934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizitou02 @MIZUKI__8964 🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w ini t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839314430838059012/GZ1LzjsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 19,
+          "like_count": 179,
+          "listed_count": 0,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "社会自由主义，问就是政治经济文化全都中立",
+        "id": "1833054299183878144",
+        "location": "吉吉国",
+        "name": "栗子头（二号机）",
+        "pinned_tweet_id": "1838683817290182969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836784123232309249/yZhK5BbB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 65,
+          "like_count": 1488,
+          "listed_count": 0,
+          "tweet_count": 770
+        },
+        "username": "Lizitou02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T01:59:19.000Z",
+        "description": "欢迎互fo大号@Mizuki_8964｜神聖大未來帝國第一任內閣總理兼帝國蒼藍軍總司令｜神聖大未來帝國開國元勳｜我們信仰初音未來｜我家暁山瑞希才是心地善良溫柔可愛貌美如花出道即巔峰的世界第一可愛粉毛 ！不服來戰！世界上最好的曉山瑞希！！！！！！！！！大號@Mizuki_8964逃生@Fibortr8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "Fibortr8964"
+              }
+            ]
+          }
+        },
+        "id": "1828975646665781251",
+        "location": "神聖大未來帝國——戰時陪都 瑞希梵寺",
+        "name": "北流叙輪奈🇨🇳",
+        "pinned_tweet_id": "1839689288591823249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838602415849009152/quPSJx5i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 152,
+          "like_count": 551,
+          "listed_count": 0,
+          "tweet_count": 283
+        },
+        "username": "MIZUKI__8964",
+        "verified": false
+      }
+    ]
+  }
+}

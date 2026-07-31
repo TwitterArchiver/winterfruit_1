@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1985246422900576708",
+    "created_at": "2025-11-03T10:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985287112703557702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985287112703557702",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985246422900576708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 芝麻没有五谷的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985246422900576708].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985246422900576708",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985246422900576708"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1985246422900576708",
+        "created_at": "2025-11-03T10:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985287112703557702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985287112703557702",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985246422900576708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 芝麻没有五谷的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 1219,
+          "like_count": 21051,
+          "listed_count": 5,
+          "media_count": 707,
+          "tweet_count": 6584
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "ddl的小账/小小小帐@ddlrsgt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "ddlrsgt"
+              }
+            ]
+          }
+        },
+        "id": "1850053428711718912",
+        "name": "玲朵朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053736913305600/7Gk6zFr1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 238,
+          "like_count": 5611,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1675
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067088269368799232"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2066761640889266337",
+    "created_at": "2026-06-17T03:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067088277119852676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1580491635548307457",
+          "start": 0,
+          "username": "xDevG19"
+        },
+        {
+          "end": 25,
+          "id": "178794303",
+          "start": 9,
+          "username": "internation0501"
+        },
+        {
+          "end": 38,
+          "id": "1626440016208723968",
+          "start": 26,
+          "username": "roaster_042"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4syU5SFpzi",
+          "end": 62,
+          "expanded_url": "https://x.com/winterfruit_1/status/2067088277119852676/photo/1",
+          "media_key": "3_2067088269368799232",
+          "start": 39,
+          "url": "https://t.co/4syU5SFpzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067088277119852676",
+    "in_reply_to_user_id": "1580491635548307457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066959636348223550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xDevG19 @internation0501 @roaster_042 https://t.co/4syU5SFpzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2067088269368799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_F1D8asAANP-K.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067088269368799232"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2066761640889266337",
+        "created_at": "2026-06-17T03:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067088277119852676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1580491635548307457",
+              "start": 0,
+              "username": "xDevG19"
+            },
+            {
+              "end": 25,
+              "id": "178794303",
+              "start": 9,
+              "username": "internation0501"
+            },
+            {
+              "end": 38,
+              "id": "1626440016208723968",
+              "start": 26,
+              "username": "roaster_042"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4syU5SFpzi",
+              "end": 62,
+              "expanded_url": "https://x.com/winterfruit_1/status/2067088277119852676/photo/1",
+              "media_key": "3_2067088269368799232",
+              "start": 39,
+              "url": "https://t.co/4syU5SFpzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067088277119852676",
+        "in_reply_to_user_id": "1580491635548307457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066959636348223550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xDevG19 @internation0501 @roaster_042 https://t.co/4syU5SFpzi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580491635548307457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2066761640889266337",
+        "created_at": "2026-06-16T19:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066959636348223550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "178794303",
+              "start": 0,
+              "username": "internation0501"
+            },
+            {
+              "end": 29,
+              "id": "1626440016208723968",
+              "start": 17,
+              "username": "roaster_042"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xaanxxaanx/sta…",
+              "end": 53,
+              "expanded_url": "https://x.com/xaanxxaanx/status/2066915605308145665?s=20",
+              "start": 30,
+              "url": "https://t.co/k7FIZikGQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066959636348223550",
+        "in_reply_to_user_id": "178794303",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066915605308145665",
+            "type": "quoted"
+          },
+          {
+            "id": "2066825907487293903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@internation0501 @roaster_042 https://t.co/k7FIZikGQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1475,
+          "like_count": 42930,
+          "listed_count": 6,
+          "media_count": 1863,
+          "tweet_count": 12773
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T09:33:29.000Z",
+        "description": "Ok",
+        "id": "1580491635548307457",
+        "location": "Usa",
+        "name": "Dev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870856272712806400/vb6zo7d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 170,
+          "like_count": 230633,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 144060
+        },
+        "url": "",
+        "username": "xDevG19",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "上海市",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 587,
+          "like_count": 38778,
+          "listed_count": 29,
+          "media_count": 5237,
+          "tweet_count": 31697
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T04:35:36.000Z",
+        "description": "",
+        "id": "1626440016208723968",
+        "name": "justice_for_nong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626440201181736960/adpcAFyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 391,
+          "like_count": 12658,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "roaster_042",
+        "verified": false
+      }
+    ]
+  }
+}

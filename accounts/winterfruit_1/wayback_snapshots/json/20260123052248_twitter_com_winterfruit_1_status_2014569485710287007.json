@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2014569485710287007",
+    "created_at": "2026-01-23T05:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014569485710287007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1126890452471373824",
+          "start": 3,
+          "username": "DeanYang116"
+        },
+        {
+          "end": 28,
+          "id": "1762937231655026688",
+          "start": 17,
+          "username": "sasuke_orz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014569485710287007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014472553960767966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeanYang116: @sasuke_orz 这就好像什么呢 好像问习近平说“最近薄熙来跑出来了 还在去了云南准备起义 习主席你怎么看” 一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014569485710287007",
+        "created_at": "2026-01-23T05:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014569485710287007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1126890452471373824",
+              "start": 3,
+              "username": "DeanYang116"
+            },
+            {
+              "end": 28,
+              "id": "1762937231655026688",
+              "start": 17,
+              "username": "sasuke_orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014569485710287007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014472553960767966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeanYang116: @sasuke_orz 这就好像什么呢 好像问习近平说“最近薄熙来跑出来了 还在去了云南准备起义 习主席你怎么看” 一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126890452471373824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014381381691048049",
+        "created_at": "2026-01-22T22:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T23:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014472553960767966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762937231655026688",
+              "start": 0,
+              "username": "sasuke_orz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014472553960767966",
+        "in_reply_to_user_id": "1762937231655026688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6260,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014381381691048049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasuke_orz 这就好像什么呢 好像问习近平说“最近薄熙来跑出来了 还在去了云南准备起义 习主席你怎么看” 一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 1463,
+          "like_count": 30243,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 9665
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T16:43:15.000Z",
+        "description": "",
+        "id": "1126890452471373824",
+        "location": "Vancouver, British Columbia",
+        "name": "Dean Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916295713295896577/FSrT9qxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 119,
+          "like_count": 556,
+          "listed_count": 4,
+          "media_count": 973,
+          "tweet_count": 5937
+        },
+        "username": "DeanYang116",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-28T20:26:17.000Z",
+        "description": "のび太です。逃生舱：@nobita_Stark 以防走失，欢迎大家加入社群或订阅个人博客，友好交流，相互学习： https://t.co/9X564kerX0 （博客链接在下方）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "nobita_Stark"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/dp3dpJWv7T",
+                "end": 79,
+                "expanded_url": "https://discord.gg/dp3dpJWv7T",
+                "start": 56,
+                "url": "https://t.co/9X564kerX0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nobitaorz.com",
+                "end": 23,
+                "expanded_url": "https://nobitaorz.com/",
+                "start": 0,
+                "url": "https://t.co/OyBCA2IU3O"
+              }
+            ]
+          }
+        },
+        "id": "1762937231655026688",
+        "name": "のび太",
+        "pinned_tweet_id": "2014173501129953639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014342407459082240/Sr9mi3Ap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 251,
+          "like_count": 2382,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/OyBCA2IU3O",
+        "username": "sasuke_orz",
+        "verified": true
+      }
+    ]
+  }
+}

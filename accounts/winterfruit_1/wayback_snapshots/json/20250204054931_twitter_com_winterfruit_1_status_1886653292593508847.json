@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886351682847784960"
+      ],
+      "media_source_tweet_id": [
+        "1886351689764229488"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "1886653292593508847",
+    "created_at": "2025-02-04T05:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T06:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886653292593508847"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "madeinabyss"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "メイドインアビス"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "レグ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679771240716967936",
+          "start": 3,
+          "username": "miyachi384"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ccz6CEufnA",
+          "end": 67,
+          "expanded_url": "https://x.com/miyachi384/status/1886351689764229488/photo/1",
+          "media_key": "3_1886351682847784960",
+          "start": 44,
+          "url": "https://t.co/ccz6CEufnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886653292593508847",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886351689764229488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyachi384: #madeinabyss  #メイドインアビス #レグ https://t.co/ccz6CEufnA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886351682847784960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi2q3HmaQAAW6hQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886351682847784960"
+          ],
+          "media_source_tweet_id": [
+            "1886351689764229488"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1886653292593508847",
+        "created_at": "2025-02-04T05:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T06:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886653292593508847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "madeinabyss"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "レグ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679771240716967936",
+              "start": 3,
+              "username": "miyachi384"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccz6CEufnA",
+              "end": 67,
+              "expanded_url": "https://x.com/miyachi384/status/1886351689764229488/photo/1",
+              "media_key": "3_1886351682847784960",
+              "start": 44,
+              "url": "https://t.co/ccz6CEufnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886653292593508847",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886351689764229488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyachi384: #madeinabyss  #メイドインアビス #レグ https://t.co/ccz6CEufnA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886351682847784960"
+          ]
+        },
+        "author_id": "1679771240716967936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1886351689764229488",
+        "created_at": "2025-02-03T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886351689764229488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "madeinabyss"
+            },
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "レグ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccz6CEufnA",
+              "end": 51,
+              "expanded_url": "https://x.com/miyachi384/status/1886351689764229488/photo/1",
+              "media_key": "3_1886351682847784960",
+              "start": 28,
+              "url": "https://t.co/ccz6CEufnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886351689764229488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 12660,
+          "like_count": 902,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "#madeinabyss  #メイドインアビス #レグ https://t.co/ccz6CEufnA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4646,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1121
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T08:37:56.000Z",
+        "description": "あこがれと妄想が止められない限界レグ廃！レグ×リコ(順不同)がすきです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/76321280",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/76321280",
+                "start": 0,
+                "url": "https://t.co/TAXQdTYrqd"
+              }
+            ]
+          }
+        },
+        "id": "1679771240716967936",
+        "location": "リコさん隊に溢れんばかりの呪いと祝福を～！！(クソデカ感情)",
+        "name": "宮地",
+        "pinned_tweet_id": "1700162212285780145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796850842093641728/ldKd4Rg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 81,
+          "like_count": 5365,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/TAXQdTYrqd",
+        "username": "miyachi384",
+        "verified": false
+      }
+    ]
+  }
+}

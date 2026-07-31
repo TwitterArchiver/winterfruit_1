@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1966088006911275497",
+    "created_at": "2025-09-12T18:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966572747670130877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891848716023422976",
+          "start": 0,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966572747670130877",
+    "in_reply_to_user_id": "1891848716023422976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966088006911275497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AORINGO_nemuru 大大方方买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1966088006911275497",
+        "created_at": "2025-09-12T18:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966572747670130877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891848716023422976",
+              "start": 0,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966572747670130877",
+        "in_reply_to_user_id": "1891848716023422976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966088006911275497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AORINGO_nemuru 大大方方买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891848716023422976",
+        "conversation_id": "1966088006911275497",
+        "created_at": "2025-09-11T10:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966088006911275497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966088006911275497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7028,
+          "like_count": 93,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直在拿吉他张的身份证买药🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 466,
+          "like_count": 11433,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 3605
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "非人的怪异｜精神病*｜血图*｜od*｜喜欢直fo｜音游人，主攻phigros，推分狂；世界计划和arc淡坑ing｜神聖かまってちゃん♡",
+        "id": "1891848716023422976",
+        "location": "🚪20/150/1200",
+        "name": "青林檎",
+        "pinned_tweet_id": "1964981666444890573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928267489252888580/VtwzaeP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 142,
+          "like_count": 5512,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 448
+        },
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

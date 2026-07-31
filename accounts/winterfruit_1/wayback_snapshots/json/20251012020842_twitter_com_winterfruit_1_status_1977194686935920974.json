@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Meditation",
+          "id": "918221163284676608",
+          "name": "Meditation"
+        }
+      }
+    ],
+    "conversation_id": "1977194686935920974",
+    "created_at": "2025-10-12T02:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T03:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977194686935920974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seroglumax/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/seroglumax/status/1977022289435848769",
+          "start": 5,
+          "url": "https://t.co/tk6rTlA3Wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977194686935920974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977022289435848769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何行为。 https://t.co/tk6rTlA3Wv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1977022289435848769].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977022289435848769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977022289435848769"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Meditation",
+              "id": "918221163284676608",
+              "name": "Meditation"
+            }
+          }
+        ],
+        "conversation_id": "1977194686935920974",
+        "created_at": "2025-10-12T02:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T03:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977194686935920974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seroglumax/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/seroglumax/status/1977022289435848769",
+              "start": 5,
+              "url": "https://t.co/tk6rTlA3Wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977194686935920974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977022289435848769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何行为。 https://t.co/tk6rTlA3Wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 769,
+          "like_count": 16501,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 5214
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

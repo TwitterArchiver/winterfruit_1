@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1957052591910621363",
+    "created_at": "2025-08-17T19:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T20:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957168510364533072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957168510364533072",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957052591910621363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 手心手背都是刺。户晨风和粉红想表达的含义呢，就是你喜欢我我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1957052528358486016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjY59eWcAAqwlw.jpg",
+        "width": 955
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1957052528824119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjY5_NXcAAFunI.jpg",
+        "width": 1035
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1957052528828325888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjY5_OXoAAZ3um.jpg",
+        "width": 721
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1957052529004417024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjY5_4WkAAQV5L.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1957052591910621363",
+        "created_at": "2025-08-17T19:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T20:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957168510364533072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957168510364533072",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957052591910621363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 手心手背都是刺。户晨风和粉红想表达的含义呢，就是你喜欢我我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957052528358486016",
+            "3_1957052528824119296",
+            "3_1957052528828325888",
+            "3_1957052529004417024"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1957052591910621363",
+        "created_at": "2025-08-17T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957052591910621363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtAkFTSZQm",
+              "end": 125,
+              "expanded_url": "https://x.com/FurinaDF/status/1957052591910621363/photo/1",
+              "media_key": "3_1957052528358486016",
+              "start": 102,
+              "url": "https://t.co/PtAkFTSZQm"
+            },
+            {
+              "display_url": "pic.x.com/PtAkFTSZQm",
+              "end": 125,
+              "expanded_url": "https://x.com/FurinaDF/status/1957052591910621363/photo/1",
+              "media_key": "3_1957052528824119296",
+              "start": 102,
+              "url": "https://t.co/PtAkFTSZQm"
+            },
+            {
+              "display_url": "pic.x.com/PtAkFTSZQm",
+              "end": 125,
+              "expanded_url": "https://x.com/FurinaDF/status/1957052591910621363/photo/1",
+              "media_key": "3_1957052528828325888",
+              "start": 102,
+              "url": "https://t.co/PtAkFTSZQm"
+            },
+            {
+              "display_url": "pic.x.com/PtAkFTSZQm",
+              "end": 125,
+              "expanded_url": "https://x.com/FurinaDF/status/1957052591910621363/photo/1",
+              "media_key": "3_1957052529004417024",
+              "start": 102,
+              "url": "https://t.co/PtAkFTSZQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957052591910621363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8864,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么，凭什么？凭什么你户晨风能赚那么多钱，凭什么你这种支持乌克兰、反对俄罗斯、支持私有化、反对公有制、支持苹果、反对华为、支持特斯拉、反对比亚迪的人能一天赚那么多，而我那么爱国，我那么爱国。。。😭😭😭 https://t.co/PtAkFTSZQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420  / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 435,
+          "like_count": 9657,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 3120
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你知道“古德莉莉安”是谁吗？你知道“神奈川冲浪里”怎么读吗？@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41886,
+          "following_count": 2296,
+          "like_count": 28029,
+          "listed_count": 110,
+          "media_count": 6196,
+          "tweet_count": 10563
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

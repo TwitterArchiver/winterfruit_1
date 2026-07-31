@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1940764702537404890",
+    "created_at": "2025-07-03T15:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T16:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940797276806696990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940797276806696990",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940764702537404890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 化作尊尼更获加"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940764691074027520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu77NDQWkAAx0N8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1940764702537404890",
+        "created_at": "2025-07-03T15:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940797276806696990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940797276806696990",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940764702537404890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 化作尊尼更获加"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940764691074027520"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1940764702537404890",
+        "created_at": "2025-07-03T13:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940764702537404890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3Zxk8xCnu",
+              "end": 66,
+              "expanded_url": "https://x.com/pyke2076/status/1940764702537404890/photo/1",
+              "media_key": "3_1940764691074027520",
+              "start": 43,
+              "url": "https://t.co/O3Zxk8xCnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940764702537404890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奖励自己一小杯不加冰的威士忌，这个是尊尼获加的黑牌，我很喜欢这个烟熏味，不加冰好好喝 https://t.co/O3Zxk8xCnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 355,
+          "like_count": 7291,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 2041
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5570,
+          "following_count": 1151,
+          "like_count": 57339,
+          "listed_count": 7,
+          "media_count": 2626,
+          "tweet_count": 15098
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

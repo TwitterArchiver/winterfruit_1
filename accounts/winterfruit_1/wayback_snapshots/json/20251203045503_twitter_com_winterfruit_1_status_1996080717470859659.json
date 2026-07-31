@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1995866552311447742",
+    "created_at": "2025-12-03T04:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996080717470859659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996080717470859659",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995866552311447742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist 年年考年年错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1995866552311447742",
+        "created_at": "2025-12-03T04:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996080717470859659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996080717470859659",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995866552311447742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist 年年考年年错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1995866552311447742",
+        "created_at": "2025-12-02T14:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995866552311447742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu4n9j1/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hu4n9j1/status/1994838544138080552",
+              "start": 7,
+              "url": "https://t.co/DOeFepiCGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995866552311447742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23317,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994838544138080552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年年考年年错 https://t.co/DOeFepiCGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙🐙■■■：@■ / 江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1995495062290231407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 1348,
+          "like_count": 24850,
+          "listed_count": 6,
+          "media_count": 896,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "俺是皮下支",
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4639,
+          "following_count": 1642,
+          "like_count": 32952,
+          "listed_count": 10,
+          "media_count": 231,
+          "tweet_count": 6971
+        },
+        "username": "5mRtist",
+        "verified": false
+      }
+    ]
+  }
+}

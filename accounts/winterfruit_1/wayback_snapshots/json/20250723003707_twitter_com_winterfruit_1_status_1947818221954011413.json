@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1947818221954011413",
+    "created_at": "2025-07-23T00:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T01:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947818221954011413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 3,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947818221954011413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947818134968406406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyke2076: 我现在是：杀人不会有罪恶感，死了就是死了，什么感觉都没有，但是没有救到一个人才会让我感到内疚之类的情绪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1947818221954011413",
+        "created_at": "2025-07-23T00:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947818221954011413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 3,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947818221954011413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947818134968406406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyke2076: 我现在是：杀人不会有罪恶感，死了就是死了，什么感觉都没有，但是没有救到一个人才会让我感到内疚之类的情绪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "1947818134968406406",
+        "created_at": "2025-07-23T00:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947818134968406406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947818134968406406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我现在是：杀人不会有罪恶感，死了就是死了，什么感觉都没有，但是没有救到一个人才会让我感到内疚之类的情绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 393,
+          "like_count": 7921,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2292
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "id": "1481172876589821952",
+        "name": "bunny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 1183,
+          "like_count": 59116,
+          "listed_count": 7,
+          "media_count": 2694,
+          "tweet_count": 15679
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

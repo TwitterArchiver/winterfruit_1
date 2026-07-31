@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1942276033459413037",
+    "created_at": "2025-07-07T21:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T22:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942339670412779611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592189823892295680",
+          "start": 0,
+          "username": "MaplesyrupMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942339670412779611",
+    "in_reply_to_user_id": "1592189823892295680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942276033459413037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaplesyrupMagic 最全能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1942276033459413037",
+        "created_at": "2025-07-07T21:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942339670412779611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592189823892295680",
+              "start": 0,
+              "username": "MaplesyrupMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942339670412779611",
+        "in_reply_to_user_id": "1592189823892295680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942276033459413037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaplesyrupMagic 最全能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592189823892295680",
+        "conversation_id": "1942276033459413037",
+        "created_at": "2025-07-07T17:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T18:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942276033459413037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaplesyrupMagi…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/MaplesyrupMagic/status/1942271876337918414",
+              "start": 30,
+              "url": "https://t.co/PYVPhjmnmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942276033459413037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942271876337918414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不对啊？还是不对，我鼓手怎么又会键盘又会吉他又会bass的 https://t.co/PYVPhjmnmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 363,
+          "like_count": 7399,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2075
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "抽烟 喝酒 overdose\n完全中立",
+        "id": "1592189823892295680",
+        "location": "上海 浦东新区",
+        "name": "Magic枫糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937444677961285634/oZLqCZ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 559,
+          "like_count": 4096,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 840
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      }
+    ]
+  }
+}

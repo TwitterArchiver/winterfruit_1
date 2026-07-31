@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010196443374682112",
+        "3_2010196465231245313",
+        "3_2010196484248252416",
+        "3_2010196502757683204"
+      ],
+      "media_source_tweet_id": [
+        "2010197031684583739",
+        "2010197031684583739",
+        "2010197031684583739",
+        "2010197031684583739"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2010374990684938399",
+    "created_at": "2026-01-11T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010374990684938399"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "巴マミ",
+          "probability": 0.591,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "frieren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18596714",
+          "start": 3,
+          "username": "proto_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PRvOK0tnSX",
+          "end": 83,
+          "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+          "media_key": "3_2010196443374682112",
+          "start": 60,
+          "url": "https://t.co/PRvOK0tnSX"
+        },
+        {
+          "display_url": "pic.x.com/PRvOK0tnSX",
+          "end": 83,
+          "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+          "media_key": "3_2010196465231245313",
+          "start": 60,
+          "url": "https://t.co/PRvOK0tnSX"
+        },
+        {
+          "display_url": "pic.x.com/PRvOK0tnSX",
+          "end": 83,
+          "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+          "media_key": "3_2010196484248252416",
+          "start": 60,
+          "url": "https://t.co/PRvOK0tnSX"
+        },
+        {
+          "display_url": "pic.x.com/PRvOK0tnSX",
+          "end": 83,
+          "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+          "media_key": "3_2010196502757683204",
+          "start": 60,
+          "url": "https://t.co/PRvOK0tnSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010374990684938399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1727
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010197031684583739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @proto_jp: アウラ ＆ 巴マミ「「タップすると入れ替わるじゃない！！」」\n\n#frieren まどマギ https://t.co/PRvOK0tnSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2010196443374682112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WnA8gaAAApQaB.jpg",
+        "width": 1920
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010196465231245313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WnCN7asAEWJpN.jpg",
+        "width": 1920
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010196484248252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WnDUxbMAAZIr8.jpg",
+        "width": 1920
+      },
+      {
+        "height": 960,
+        "media_key": "3_2010196502757683204",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WnEZuasAQVipW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010196443374682112",
+            "3_2010196465231245313",
+            "3_2010196484248252416",
+            "3_2010196502757683204"
+          ],
+          "media_source_tweet_id": [
+            "2010197031684583739",
+            "2010197031684583739",
+            "2010197031684583739",
+            "2010197031684583739"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2010374990684938399",
+        "created_at": "2026-01-11T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010374990684938399"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "巴マミ",
+              "probability": 0.591,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "frieren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18596714",
+              "start": 3,
+              "username": "proto_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 83,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196443374682112",
+              "start": 60,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 83,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196465231245313",
+              "start": 60,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 83,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196484248252416",
+              "start": 60,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 83,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196502757683204",
+              "start": 60,
+              "url": "https://t.co/PRvOK0tnSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010374990684938399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1727
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010197031684583739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @proto_jp: アウラ ＆ 巴マミ「「タップすると入れ替わるじゃない！！」」\n\n#frieren まどマギ https://t.co/PRvOK0tnSX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010196443374682112",
+            "3_2010196465231245313",
+            "3_2010196484248252416",
+            "3_2010196502757683204"
+          ]
+        },
+        "author_id": "18596714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2010197031684583739",
+        "created_at": "2026-01-11T03:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010197031684583739"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "巴マミ",
+              "probability": 0.6118,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 69,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196443374682112",
+              "start": 46,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 69,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196465231245313",
+              "start": 46,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 69,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196484248252416",
+              "start": 46,
+              "url": "https://t.co/PRvOK0tnSX"
+            },
+            {
+              "display_url": "pic.x.com/PRvOK0tnSX",
+              "end": 69,
+              "expanded_url": "https://x.com/proto_jp/status/2010197031684583739/photo/1",
+              "media_key": "3_2010196502757683204",
+              "start": 46,
+              "url": "https://t.co/PRvOK0tnSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010197031684583739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "frieren"
+              }
+            ]
+          },
+          "text": "アウラ ＆ 巴マミ「「タップすると入れ替わるじゃない！！」」\n\n#frieren まどマギ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3697,
+          "impression_count": 8385330,
+          "like_count": 28697,
+          "quote_count": 173,
+          "reply_count": 248,
+          "retweet_count": 1727
+        },
+        "reply_settings": "everyone",
+        "text": "アウラ ＆ 巴マミ「「タップすると入れ替わるじゃない！！」」\n\n#frieren まどマギ https://t.co/PRvOK0tnSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2009175082200125660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009536229600378880/TfAbt1bT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 1420,
+          "like_count": 28503,
+          "listed_count": 6,
+          "media_count": 1169,
+          "tweet_count": 9209
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-04T05:46:40.000Z",
+        "description": "Post cute girls🤗\n\nMore🔞🖼️👉️https://t.co/mHVsCh3ZMM\n\n💬VTuber,アニメ,ゲーム,生成AI,Coding $BTC,新NISA,投資系\n🧠ローカルAI勢：RTX5090x2,DDR5 192GB,NVIDIA DGX Spark 4TB\n🤔Nihilist",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "BTC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/zmkGGFgcWh",
+                "end": 50,
+                "expanded_url": "http://discord.gg/zmkGGFgcWh",
+                "start": 27,
+                "url": "https://t.co/mHVsCh3ZMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/zmkGGFgcWh",
+                "end": 23,
+                "expanded_url": "http://discord.gg/zmkGGFgcWh",
+                "start": 0,
+                "url": "https://t.co/mHVsCh3ZMM"
+              }
+            ]
+          }
+        },
+        "id": "18596714",
+        "location": "🗼🔥Director/Engineer/Designer",
+        "name": "PROTO@AiArt",
+        "pinned_tweet_id": "1768210495168012436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821753021480706048/WjO_Fc3-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108824,
+          "following_count": 98,
+          "like_count": 37434,
+          "listed_count": 583,
+          "media_count": 4640,
+          "tweet_count": 22505
+        },
+        "url": "https://t.co/mHVsCh3ZMM",
+        "username": "proto_jp",
+        "verified": true
+      }
+    ]
+  }
+}

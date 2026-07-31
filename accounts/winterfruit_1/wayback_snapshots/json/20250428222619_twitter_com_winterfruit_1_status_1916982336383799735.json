@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1916832429744026111",
+    "created_at": "2025-04-28T22:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T23:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916982336383799735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1083438237006188551",
+          "start": 0,
+          "username": "hezuruy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916982336383799735",
+    "in_reply_to_user_id": "1083438237006188551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916832429744026111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hezuruy 你推文里老中出现的频率有点高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1916832429744026111",
+        "created_at": "2025-04-28T22:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T23:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916982336383799735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1083438237006188551",
+              "start": 0,
+              "username": "hezuruy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916982336383799735",
+        "in_reply_to_user_id": "1083438237006188551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916832429744026111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezuruy 你推文里老中出现的频率有点高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1083438237006188551",
+        "conversation_id": "1916832429744026111",
+        "created_at": "2025-04-28T12:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T13:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916832429744026111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916832429744026111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 130986,
+          "like_count": 8008,
+          "quote_count": 19,
+          "reply_count": 113,
+          "retweet_count": 985
+        },
+        "reply_settings": "everyone",
+        "text": "鹿さんに暴力を振るう人に肖像権の侵害もクソもないです。\nあなたの大切な人が中国人に暴力を振るわれたらどうしますか？\n自分は黙っていられないので本気で止めに入るし証拠を確実に押さえます。\nなぜ鹿さんの為にパトロールをするのか？\nそれは家族ぐらい大切で好きだからです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose丨可以叫我420",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 269,
+          "like_count": 4811,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1374
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-10T18:59:39.000Z",
+        "description": "山口県出身の元迷惑系YouTuberです。今は更生して日本を明るくする活動をしています。フォロー拡散よろしくお願いします。",
+        "id": "1083438237006188551",
+        "name": "へずまりゅう",
+        "pinned_tweet_id": "1909766886856032445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431164928304447488/TMRWCsD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413096,
+          "following_count": 115,
+          "like_count": 7525,
+          "listed_count": 659,
+          "media_count": 2423,
+          "tweet_count": 19669
+        },
+        "username": "hezuruy",
+        "verified": true
+      }
+    ]
+  }
+}

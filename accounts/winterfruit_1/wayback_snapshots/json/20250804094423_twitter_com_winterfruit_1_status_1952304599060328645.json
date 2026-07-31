@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951990671881146368"
+      ],
+      "media_source_tweet_id": [
+        "1951990895257305382"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1952304599060328645",
+    "created_at": "2025-08-04T09:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952304599060328645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966742288",
+          "start": 3,
+          "username": "kamepan44231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RHe1qNfTBe",
+          "end": 44,
+          "expanded_url": "https://x.com/kamepan44231/status/1951990895257305382/photo/1",
+          "media_key": "3_1951990671881146368",
+          "start": 21,
+          "url": "https://t.co/RHe1qNfTBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952304599060328645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951990895257305382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamepan44231: ふ～ https://t.co/RHe1qNfTBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2834,
+        "media_key": "3_1951990671881146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbdLIpaEAAgPRV.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951990671881146368"
+          ],
+          "media_source_tweet_id": [
+            "1951990895257305382"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1952304599060328645",
+        "created_at": "2025-08-04T09:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952304599060328645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966742288",
+              "start": 3,
+              "username": "kamepan44231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHe1qNfTBe",
+              "end": 44,
+              "expanded_url": "https://x.com/kamepan44231/status/1951990895257305382/photo/1",
+              "media_key": "3_1951990671881146368",
+              "start": 21,
+              "url": "https://t.co/RHe1qNfTBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952304599060328645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951990895257305382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamepan44231: ふ～ https://t.co/RHe1qNfTBe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951990671881146368"
+          ]
+        },
+        "author_id": "1966742288",
+        "conversation_id": "1951990895257305382",
+        "created_at": "2025-08-03T12:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951990895257305382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHe1qNfTBe",
+              "end": 26,
+              "expanded_url": "https://x.com/kamepan44231/status/1951990895257305382/photo/1",
+              "media_key": "3_1951990671881146368",
+              "start": 3,
+              "url": "https://t.co/RHe1qNfTBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951990895257305382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 22280,
+          "like_count": 2914,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "ふ～ https://t.co/RHe1qNfTBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 409,
+          "like_count": 8510,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2555
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-17T12:29:21.000Z",
+        "description": "絵を描いたりしています。-同人誌https://t.co/GR8LsfZW13 -Pixiv https://t.co/DDOvhMVTEh -Skeb https://t.co/M7cipVCIBs skeb停止中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 39,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125674",
+                "start": 16,
+                "url": "https://t.co/GR8LsfZW13"
+              },
+              {
+                "display_url": "pixiv.net/users/49675420",
+                "end": 70,
+                "expanded_url": "http://pixiv.net/users/49675420",
+                "start": 47,
+                "url": "https://t.co/DDOvhMVTEh"
+              },
+              {
+                "display_url": "skeb.jp/@kamepan44231",
+                "end": 100,
+                "expanded_url": "http://skeb.jp/@kamepan44231",
+                "start": 77,
+                "url": "https://t.co/M7cipVCIBs"
+              }
+            ]
+          }
+        },
+        "id": "1966742288",
+        "name": "かめぱすた🍝",
+        "pinned_tweet_id": "1788911213449290075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847285478632099840/13N-mR29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92023,
+          "following_count": 242,
+          "like_count": 9597,
+          "listed_count": 535,
+          "media_count": 1771,
+          "tweet_count": 3205
+        },
+        "username": "kamepan44231",
+        "verified": true
+      }
+    ]
+  }
+}

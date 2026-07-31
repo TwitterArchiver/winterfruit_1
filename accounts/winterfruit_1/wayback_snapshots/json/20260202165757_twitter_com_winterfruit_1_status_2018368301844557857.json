@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2018368301844557857",
+    "created_at": "2026-02-02T16:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018368301844557857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gu_niu666/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/gu_niu666/status/2018368203894976579",
+          "start": 2,
+          "url": "https://t.co/1gl22VReip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018368301844557857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018368203894976579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/1gl22VReip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2018368301844557857",
+        "created_at": "2026-02-02T16:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018368301844557857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gu_niu666/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/gu_niu666/status/2018368203894976579",
+              "start": 2,
+              "url": "https://t.co/1gl22VReip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018368301844557857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018368203894976579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/1gl22VReip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996563547007176704",
+        "conversation_id": "2018359796488081812",
+        "created_at": "2026-02-02T16:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018368203894976579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018368203894976579",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018359796488081812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 其实我告诉你真实的真相是镜音讨厌爱德华，所以故意自导自演的这一场杀人骗局。借助亲密关系和信任关系故意使用药剂骗其服下以满足自己杀人的癖好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2018205960339386616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 1500,
+          "like_count": 31910,
+          "listed_count": 6,
+          "media_count": 1310,
+          "tweet_count": 9919
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n人格在立希和头模零之间来回切换\n 🚫禁止未工作者🈚稳定资金来源者购买任何🍥🍬💉\n 反lgbt/跨人乐子/重开药桶饭\n 理想是世界没有跨\n 安卓跨人 安卓救人 安卓共情力",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡💯互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014966996622843904/eyxBC3b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 200,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1487
+        },
+        "username": "gu_niu666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952376405838430208"
+      ],
+      "media_source_tweet_id": [
+        "1952376410531848247"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1952620148416024674",
+    "created_at": "2025-08-05T06:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T07:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952620148416024674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571750728603176960",
+          "start": 3,
+          "username": "Y75Zei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/woNS2ALmpc",
+          "end": 35,
+          "expanded_url": "https://x.com/Y75Zei/status/1952376410531848247/photo/1",
+          "media_key": "3_1952376405838430208",
+          "start": 12,
+          "url": "https://t.co/woNS2ALmpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952620148416024674",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952376410531848247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y75Zei: https://t.co/woNS2ALmpc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1952376405838430208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxg7_znagAAGB0P.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952376405838430208"
+          ],
+          "media_source_tweet_id": [
+            "1952376410531848247"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1952620148416024674",
+        "created_at": "2025-08-05T06:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T07:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952620148416024674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571750728603176960",
+              "start": 3,
+              "username": "Y75Zei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/woNS2ALmpc",
+              "end": 35,
+              "expanded_url": "https://x.com/Y75Zei/status/1952376410531848247/photo/1",
+              "media_key": "3_1952376405838430208",
+              "start": 12,
+              "url": "https://t.co/woNS2ALmpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952620148416024674",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952376410531848247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y75Zei: https://t.co/woNS2ALmpc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952376405838430208"
+          ]
+        },
+        "author_id": "1571750728603176960",
+        "conversation_id": "1952376410531848247",
+        "created_at": "2025-08-04T14:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952376410531848247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woNS2ALmpc",
+              "end": 23,
+              "expanded_url": "https://x.com/Y75Zei/status/1952376410531848247/photo/1",
+              "media_key": "3_1952376405838430208",
+              "start": 0,
+              "url": "https://t.co/woNS2ALmpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952376410531848247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 27161,
+          "like_count": 4040,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/woNS2ALmpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 418,
+          "like_count": 8615,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2587
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T06:39:30.000Z",
+        "description": "伸びしろしかない人 イラストを描く片手間で作った動画をYouTubeで投稿してますhttps://t.co/yefiMkpfda",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@suyasuya514aq",
+                "end": 64,
+                "expanded_url": "http://www.youtube.com/@suyasuya514aq",
+                "start": 41,
+                "url": "https://t.co/yefiMkpfda"
+              }
+            ]
+          }
+        },
+        "id": "1571750728603176960",
+        "location": "AI学習・無断転載利用の禁止",
+        "name": "あきゅー",
+        "pinned_tweet_id": "1885326167953334771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798275375988121600/xNOplC57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26978,
+          "following_count": 422,
+          "like_count": 115721,
+          "listed_count": 105,
+          "media_count": 1011,
+          "tweet_count": 14878
+        },
+        "username": "Y75Zei",
+        "verified": false
+      }
+    ]
+  }
+}

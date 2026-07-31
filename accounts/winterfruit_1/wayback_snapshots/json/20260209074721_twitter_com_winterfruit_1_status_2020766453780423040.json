@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2020766452807323648"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2020766453780423040",
+    "created_at": "2026-02-09T07:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020766453780423040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020766453780423040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天该不该出门"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 180,
+        "end_datetime": "2026-02-09T10:47:21.000Z",
+        "id": "2020766452807323648",
+        "options": [
+          {
+            "label": "该",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不该",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2020766452807323648"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2020766453780423040",
+        "created_at": "2026-02-09T07:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020766453780423040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020766453780423040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天该不该出门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2019769914744082728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 1519,
+          "like_count": 32719,
+          "listed_count": 7,
+          "media_count": 1329,
+          "tweet_count": 10003
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

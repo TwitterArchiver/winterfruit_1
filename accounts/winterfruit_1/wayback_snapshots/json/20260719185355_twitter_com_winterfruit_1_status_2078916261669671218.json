@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2078840782849818930",
+    "created_at": "2026-07-19T18:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078916261669671218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2067782550987366400",
+          "start": 0,
+          "username": "y2zym"
+        },
+        {
+          "end": 15,
+          "id": "2061773740195921920",
+          "start": 7,
+          "username": "guoxmvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078916261669671218",
+    "in_reply_to_user_id": "2067782550987366400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078875572894416955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2zym @guoxmvs 在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2078840782849818930",
+        "created_at": "2026-07-19T18:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078916261669671218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2067782550987366400",
+              "start": 0,
+              "username": "y2zym"
+            },
+            {
+              "end": 15,
+              "id": "2061773740195921920",
+              "start": 7,
+              "username": "guoxmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078916261669671218",
+        "in_reply_to_user_id": "2067782550987366400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078875572894416955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2zym @guoxmvs 在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067782550987366400",
+        "conversation_id": "2078840782849818930",
+        "created_at": "2026-07-19T16:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078875572894416955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061773740195921920",
+              "start": 0,
+              "username": "guoxmvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078875572894416955",
+        "in_reply_to_user_id": "2061773740195921920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078840782849818930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guoxmvs 在推特你甚至能看到自杀教程😰😰😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 1485,
+          "like_count": 43588,
+          "listed_count": 6,
+          "media_count": 1900,
+          "tweet_count": 13161
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T01:34:33.000Z",
+        "description": "",
+        "id": "2067782550987366400",
+        "name": "靛枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076566808359063552/t8iU0qk6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 230,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "y2zym",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "11.08.30出厂/自杀未遂两次（烧炭，氦气＋碳酸钡）/休学中/mtf/已炸柜/家暴党\n\n毅然决然，奔赴死亡",
+        "id": "2061773740195921920",
+        "location": "时间的尽头",
+        "name": "噪声🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062093862416617472/R6as1JuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 123,
+          "like_count": 861,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "guoxmvs",
+        "verified": false
+      }
+    ]
+  }
+}

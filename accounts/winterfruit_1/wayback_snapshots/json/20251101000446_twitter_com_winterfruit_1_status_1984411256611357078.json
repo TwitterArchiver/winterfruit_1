@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1984098723404902790",
+    "created_at": "2025-11-01T00:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T01:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984411256611357078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        },
+        {
+          "end": 18,
+          "id": "1768968527103602688",
+          "start": 8,
+          "username": "Yabai_Nue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984411256611357078",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984219605385269478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 @Yabai_Nue 万圣节小活动而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1984098723404902790",
+        "created_at": "2025-11-01T00:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T01:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984411256611357078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            },
+            {
+              "end": 18,
+              "id": "1768968527103602688",
+              "start": 8,
+              "username": "Yabai_Nue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984411256611357078",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984219605385269478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 @Yabai_Nue 万圣节小活动而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1984098723404902790",
+        "created_at": "2025-10-31T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984219605385269478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768968527103602688",
+              "start": 0,
+              "username": "Yabai_Nue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984219605385269478",
+        "in_reply_to_user_id": "1768968527103602688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984212371985096994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yabai_Nue 化学药圈好像发生什么事了，具体我也不太清楚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984382461560963072/3zxGCxvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1186,
+          "like_count": 20517,
+          "listed_count": 5,
+          "media_count": 690,
+          "tweet_count": 6430
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226,
+          "following_count": 4656,
+          "like_count": 32076,
+          "listed_count": 11,
+          "media_count": 2300,
+          "tweet_count": 31602
+        },
+        "username": "IXXA00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T11:52:28.000Z",
+        "description": "这是专门拿来放不怎么健全的内容的号～这边专门放点不是固化的～，请自重。可以接一点单子…但是质量大概就是和发出来的差不多样子，有意向请咨询电报群～欢迎约稿～♠️电报群https://t.co/5e6UUcipMq～ \n频道\nhttps://t.co/ftGnkcq92E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+rSv7CHGn0jc1Z…",
+                "end": 105,
+                "expanded_url": "https://t.me/+rSv7CHGn0jc1ZDE1",
+                "start": 82,
+                "url": "https://t.co/5e6UUcipMq"
+              },
+              {
+                "display_url": "t.me/Yakumo_nue",
+                "end": 134,
+                "expanded_url": "https://t.me/Yakumo_nue",
+                "start": 111,
+                "url": "https://t.co/ftGnkcq92E"
+              }
+            ]
+          }
+        },
+        "id": "1768968527103602688",
+        "name": "鵺之巢♠️不健全特供",
+        "pinned_tweet_id": "1806637091453088038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952290973255663616/cxIi3oYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 234,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 1069
+        },
+        "username": "Yabai_Nue",
+        "verified": false
+      }
+    ]
+  }
+}

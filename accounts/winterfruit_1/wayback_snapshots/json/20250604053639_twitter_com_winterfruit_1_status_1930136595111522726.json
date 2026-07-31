@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930136587901579264"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1930136595111522726",
+    "created_at": "2025-06-04T05:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T06:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930136595111522726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EefTBz3Rss",
+          "end": 32,
+          "expanded_url": "https://x.com/winterfruit_1/status/1930136595111522726/photo/1",
+          "media_key": "3_1930136587901579264",
+          "start": 9,
+          "url": "https://t.co/EefTBz3Rss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930136595111522726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "化学化学化学化学 https://t.co/EefTBz3Rss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_1930136587901579264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsk5ABnbsAAs9Xs.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930136587901579264"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1930136595111522726",
+        "created_at": "2025-06-04T05:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930136595111522726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EefTBz3Rss",
+              "end": 32,
+              "expanded_url": "https://x.com/winterfruit_1/status/1930136595111522726/photo/1",
+              "media_key": "3_1930136587901579264",
+              "start": 9,
+              "url": "https://t.co/EefTBz3Rss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930136595111522726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化学化学化学化学 https://t.co/EefTBz3Rss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 289,
+          "like_count": 5642,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1595
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1942854509614751752",
+    "created_at": "2025-07-09T11:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T12:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942902242757300724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800047166003826688",
+          "start": 0,
+          "username": "Pomb0ring"
+        },
+        {
+          "end": 21,
+          "id": "1703762928",
+          "start": 11,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942902242757300724",
+    "in_reply_to_user_id": "1800047166003826688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942895189099766170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pomb0ring @1965chich 猫在雷好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1942854509614751752",
+        "created_at": "2025-07-09T11:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T12:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942902242757300724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800047166003826688",
+              "start": 0,
+              "username": "Pomb0ring"
+            },
+            {
+              "end": 21,
+              "id": "1703762928",
+              "start": 11,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942902242757300724",
+        "in_reply_to_user_id": "1800047166003826688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942895189099766170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pomb0ring @1965chich 猫在雷好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800047166003826688",
+        "conversation_id": "1942854509614751752",
+        "created_at": "2025-07-09T10:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942895189099766170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942895189099766170",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942854509614751752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 可爱的小宝宝们。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 367,
+          "like_count": 7486,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2095
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T06:07:52.000Z",
+        "description": "浮游生物猫在雷",
+        "id": "1800047166003826688",
+        "location": "河流，湖泊，和海洋",
+        "name": "猫在雷",
+        "pinned_tweet_id": "1839169950440964257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810050983441158144/ffDk_Lqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 222,
+          "like_count": 28256,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 5030
+        },
+        "username": "Pomb0ring",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/我的🐶@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "akui1121"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1878440851308994947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932716380283154432/s3qRERUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6960,
+          "following_count": 1070,
+          "like_count": 18113,
+          "listed_count": 7,
+          "media_count": 248,
+          "tweet_count": 5881
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037037734385377283"
+      ],
+      "media_source_tweet_id": [
+        "2037037739988967655"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2037426126776316277",
+    "created_at": "2026-03-27T07:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037426126776316277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1710674482065743872",
+          "start": 3,
+          "username": "hibiku_bot_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6RoYIpPJn",
+          "end": 61,
+          "expanded_url": "https://x.com/hibiku_bot_/status/2037037739988967655/photo/1",
+          "media_key": "3_2037037734385377283",
+          "start": 38,
+          "url": "https://t.co/b6RoYIpPJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037426126776316277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 689
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037037739988967655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hibiku_bot_: 個人的なアニメ内の女の子同士の関係の分類 https://t.co/b6RoYIpPJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2037037734385377283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUDBtgbYAMyxPc.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037037734385377283"
+          ],
+          "media_source_tweet_id": [
+            "2037037739988967655"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2037426126776316277",
+        "created_at": "2026-03-27T07:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037426126776316277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1710674482065743872",
+              "start": 3,
+              "username": "hibiku_bot_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6RoYIpPJn",
+              "end": 61,
+              "expanded_url": "https://x.com/hibiku_bot_/status/2037037739988967655/photo/1",
+              "media_key": "3_2037037734385377283",
+              "start": 38,
+              "url": "https://t.co/b6RoYIpPJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037426126776316277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 689
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037037739988967655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hibiku_bot_: 個人的なアニメ内の女の子同士の関係の分類 https://t.co/b6RoYIpPJn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037037734385377283"
+          ]
+        },
+        "author_id": "1710674482065743872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2037037739988967655",
+        "created_at": "2026-03-26T05:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037037739988967655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6RoYIpPJn",
+              "end": 44,
+              "expanded_url": "https://x.com/hibiku_bot_/status/2037037739988967655/photo/1",
+              "media_key": "3_2037037734385377283",
+              "start": 21,
+              "url": "https://t.co/b6RoYIpPJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037037739988967655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1885,
+          "impression_count": 1161703,
+          "like_count": 12680,
+          "quote_count": 243,
+          "reply_count": 82,
+          "retweet_count": 689
+        },
+        "reply_settings": "everyone",
+        "text": "個人的なアニメ内の女の子同士の関係の分類 https://t.co/b6RoYIpPJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit / 💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "一群人，一辈子，做好传播药是本文化这件事",
+        "pinned_tweet_id": "2037054451719299101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 1464,
+          "like_count": 37906,
+          "listed_count": 7,
+          "media_count": 1583,
+          "tweet_count": 11181
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T15:12:43.000Z",
+        "description": "情報提供はDM📩までお願いします。ツイート内 容はDMでご提供いただいたものになります。",
+        "id": "1710674482065743872",
+        "location": "アフィリエイト🔗は貼らないので安心してください",
+        "name": "ずっと見ていたい動画",
+        "pinned_tweet_id": "2037052908408365198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905593452118810624/OgdkmUhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169108,
+          "following_count": 11,
+          "like_count": 2815,
+          "listed_count": 176,
+          "media_count": 11003,
+          "tweet_count": 22582
+        },
+        "username": "hibiku_bot_",
+        "verified": true
+      }
+    ]
+  }
+}

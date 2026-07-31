@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1984241299592290560",
+    "created_at": "2025-11-02T03:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T04:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984826321357455598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850075259120369664",
+          "start": 0,
+          "username": "wumeilv_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984826321357455598",
+    "in_reply_to_user_id": "1850075259120369664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984241299592290560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumeilv_ai 煞笔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1984241299592290560",
+        "created_at": "2025-11-02T03:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984826321357455598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850075259120369664",
+              "start": 0,
+              "username": "wumeilv_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984826321357455598",
+        "in_reply_to_user_id": "1850075259120369664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984241299592290560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumeilv_ai 煞笔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850075259120369664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1984241299592290560",
+        "created_at": "2025-10-31T12:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984241299592290560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wumeilv_ai/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/wumeilv_ai/status/1981253491021795462",
+              "start": 152,
+              "url": "https://t.co/ZzxjOSBTZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984241299592290560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "血泪教训！收回我之前的话，买MacBook非常重要！一定要买！不要用Windows系统！\n\n真的是啪啪打脸啊，从线下课开始，跑代码就一直报错，一开始都没意识到发生啥了，跟AI聊也聊不出啥，一会说pnpm没安装好，一会说node版本不对，但之前也没出现过这类问题啊，后来才知道是环境配置有问题，依赖冲突；\n\n然后！今天我才知道，Mac系统是不会出现这类问题的，只有Windows系统会！win就不适合拿来开发！\n\n真的浪费我好多时间，而且打击我自信心，因为我一直以为是我需求说得不明确，AI工具用得不对，没有编程基础等等等等我的原因才导致报错；\n\n生产力工具一定要上你能接受的顶配，这块没有差生文具多一说！我为之前的言论道歉！\n\n顺便说下我买的是MacBook air m4，16G+512G，其实也不算顶配，如果能用24G和32G的、上1T的更好，但是这款可以招商银行掌上生活36期免息，我觉得没有决策压力，很香~~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 350291,
+          "like_count": 186,
+          "quote_count": 42,
+          "reply_count": 244,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981253491021795462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "血泪教训！收回我之前的话，买MacBook非常重要！一定要买！不要用Windows系统！\n\n真的是啪啪打脸啊，从线下课开始，跑代码就一直报错，一开始都没意识到发生啥了，跟AI聊也聊不出啥，一会说pnpm没安装好，一会说node版本不对，但之前也没出现过这类问题啊，后来才知道是环境配置有问题，依赖冲突； https://t.co/ZzxjOSBTZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1199,
+          "like_count": 20749,
+          "listed_count": 5,
+          "media_count": 698,
+          "tweet_count": 6495
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:21:38.000Z",
+        "description": "🎯AI编程入门与提效📌出海实战与案例分享❤️自媒体与流量增长🏃‍♀️正在尝试通过AI编程搭建第一个出海网站 知识星球：吴美律AI实战营",
+        "id": "1850075259120369664",
+        "name": "吴美律AI日记",
+        "pinned_tweet_id": "1983196489376772512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963855479287037952/va2PFwKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 446,
+          "like_count": 1595,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 760
+        },
+        "username": "wumeilv_ai",
+        "verified": true
+      }
+    ]
+  }
+}

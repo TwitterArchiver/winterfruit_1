@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969761287266762752"
+      ],
+      "media_source_tweet_id": [
+        "1969761298268528967"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1969762425915531550",
+    "created_at": "2025-09-21T13:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969762425915531550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFYACtBnGi",
+          "end": 68,
+          "expanded_url": "https://x.com/Edward_8964/status/1969761298268528967/photo/1",
+          "media_key": "3_1969761287266762752",
+          "start": 45,
+          "url": "https://t.co/AFYACtBnGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969762425915531550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969761298268528967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 我现在怀疑wiki主都嗑药磕傻了\n自癫泄之后的最大笑料 https://t.co/AFYACtBnGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969761287266762752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1X_dFvaAAAFw2j.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969761287266762752"
+          ],
+          "media_source_tweet_id": [
+            "1969761298268528967"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1969762425915531550",
+        "created_at": "2025-09-21T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969762425915531550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFYACtBnGi",
+              "end": 68,
+              "expanded_url": "https://x.com/Edward_8964/status/1969761298268528967/photo/1",
+              "media_key": "3_1969761287266762752",
+              "start": 45,
+              "url": "https://t.co/AFYACtBnGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969762425915531550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969761298268528967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 我现在怀疑wiki主都嗑药磕傻了\n自癫泄之后的最大笑料 https://t.co/AFYACtBnGi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969761287266762752"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1969761298268528967",
+        "created_at": "2025-09-21T13:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969761298268528967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFYACtBnGi",
+              "end": 51,
+              "expanded_url": "https://x.com/Edward_8964/status/1969761298268528967/photo/1",
+              "media_key": "3_1969761287266762752",
+              "start": 28,
+              "url": "https://t.co/AFYACtBnGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969761298268528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我现在怀疑wiki主都嗑药磕傻了\n自癫泄之后的最大笑料 https://t.co/AFYACtBnGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 489,
+          "like_count": 12322,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 3781
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1966808800771371204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 438,
+          "like_count": 4040,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949127931650871297"
+      ],
+      "media_source_tweet_id": [
+        "1949128603863560225"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1951364409252573344",
+    "created_at": "2025-08-01T19:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T20:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951364409252573344"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "The Meetup",
+          "probability": 0.7945,
+          "start": 15,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "camilart",
+          "probability": 0.5069,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "cerberart",
+          "probability": 0.4679,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 28,
+          "tag": "heartheartart"
+        },
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "camilart"
+        },
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "cerberart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881339621994348545",
+          "start": 3,
+          "username": "NythlinVT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xpwU150np",
+          "end": 87,
+          "expanded_url": "https://x.com/NythlinVT/status/1949128603863560225/photo/1",
+          "media_key": "3_1949127931650871297",
+          "start": 64,
+          "url": "https://t.co/3xpwU150np"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951364409252573344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949128603863560225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NythlinVT: The Meetup~\n\n#heartheartart #camilart #cerberart https://t.co/3xpwU150np"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_1949127931650871297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwyxhuPXkAE9n_v.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949127931650871297"
+          ],
+          "media_source_tweet_id": [
+            "1949128603863560225"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1951364409252573344",
+        "created_at": "2025-08-01T19:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951364409252573344"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "The Meetup",
+              "probability": 0.7945,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "camilart",
+              "probability": 0.5069,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "cerberart",
+              "probability": 0.4679,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "camilart"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "cerberart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881339621994348545",
+              "start": 3,
+              "username": "NythlinVT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xpwU150np",
+              "end": 87,
+              "expanded_url": "https://x.com/NythlinVT/status/1949128603863560225/photo/1",
+              "media_key": "3_1949127931650871297",
+              "start": 64,
+              "url": "https://t.co/3xpwU150np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951364409252573344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949128603863560225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NythlinVT: The Meetup~\n\n#heartheartart #camilart #cerberart https://t.co/3xpwU150np"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949127931650871297"
+          ]
+        },
+        "author_id": "1881339621994348545",
+        "conversation_id": "1949128603863560225",
+        "created_at": "2025-07-26T15:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949128603863560225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "camilart",
+              "probability": 0.4635,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "cerberart",
+              "probability": 0.4691,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 13,
+              "tag": "heartheartart"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "camilart"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "cerberart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xpwU150np",
+              "end": 72,
+              "expanded_url": "https://x.com/NythlinVT/status/1949128603863560225/photo/1",
+              "media_key": "3_1949127931650871297",
+              "start": 49,
+              "url": "https://t.co/3xpwU150np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949128603863560225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 27309,
+          "like_count": 2192,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "The Meetup~\n\n#heartheartart #camilart #cerberart https://t.co/3xpwU150np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 409,
+          "like_count": 8418,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2494
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T13:55:14.000Z",
+        "description": "Nyaa~ A silly british cozy farmer kitty Vtuber (TBA)\n#bwaarts\n\nComms: https://t.co/YMkdd1tigV\nSupport me: https://t.co/ZtCOb0Il5J",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "bwaarts"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/NythlinVT",
+                "end": 93,
+                "expanded_url": "https://vgen.co/NythlinVT",
+                "start": 70,
+                "url": "https://t.co/YMkdd1tigV"
+              },
+              {
+                "display_url": "ko-fi.com/nythlinvt",
+                "end": 129,
+                "expanded_url": "https://ko-fi.com/nythlinvt",
+                "start": 106,
+                "url": "https://t.co/ZtCOb0Il5J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/nythlinvt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/nythlinvt",
+                "start": 0,
+                "url": "https://t.co/Bbs5ttiifV"
+              }
+            ]
+          }
+        },
+        "id": "1881339621994348545",
+        "location": "UK",
+        "name": "Nythlin 🌱🗡(COMMS OPEN)",
+        "pinned_tweet_id": "1919915534545564134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901011543296466945/WL7Ze6Tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 716,
+          "like_count": 8801,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/Bbs5ttiifV",
+        "username": "NythlinVT",
+        "verified": true
+      }
+    ]
+  }
+}

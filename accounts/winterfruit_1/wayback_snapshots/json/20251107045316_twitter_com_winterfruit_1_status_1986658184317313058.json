@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1986658184317313058",
+    "created_at": "2025-11-07T04:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T05:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986658184317313058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 112,
+          "id": "752290187091152896",
+          "start": 108,
+          "username": "xxx"
+        },
+        {
+          "end": 125,
+          "id": "752290187091152896",
+          "start": 121,
+          "username": "xxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986658184317313058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986497514137366655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 今天00:00推：\n网友a：立冬快乐。\n网友b：冬天的约定我和你\n网友c：冬天和XX.\n网友d：和XX的第二个冬天。\n网友e：立冬与xxx携手\n网友f ：下个冬天也陪在我身边吧@XXX\n网友g: 立冬和@xxx\n网友h：[转账记录截图]…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xxx].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xxx",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xxx"
+    },
+    {
+      "detail": "User has been suspended: [xxx].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xxx",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xxx"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1986658184317313058",
+        "created_at": "2025-11-07T04:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986658184317313058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 112,
+              "id": "752290187091152896",
+              "start": 108,
+              "username": "xxx"
+            },
+            {
+              "end": 125,
+              "id": "752290187091152896",
+              "start": 121,
+              "username": "xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986658184317313058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986497514137366655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 今天00:00推：\n网友a：立冬快乐。\n网友b：冬天的约定我和你\n网友c：冬天和XX.\n网友d：和XX的第二个冬天。\n网友e：立冬与xxx携手\n网友f ：下个冬天也陪在我身边吧@XXX\n网友g: 立冬和@xxx\n网友h：[转账记录截图]…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1986497514137366655",
+        "created_at": "2025-11-06T18:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986497514137366655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "752290187091152896",
+              "start": 88,
+              "username": "xxx"
+            },
+            {
+              "end": 105,
+              "id": "752290187091152896",
+              "start": 101,
+              "username": "xxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986497514137366655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 787,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天00:00推：\n网友a：立冬快乐。\n网友b：冬天的约定我和你\n网友c：冬天和XX.\n网友d：和XX的第二个冬天。\n网友e：立冬与xxx携手\n网友f ：下个冬天也陪在我身边吧@XXX\n网友g: 立冬和@xxx\n网友h：[转账记录截图]\n网友j：卧槽你们他妈啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 1239,
+          "like_count": 21694,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 6770
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9052,
+          "following_count": 7551,
+          "like_count": 26491,
+          "listed_count": 19,
+          "media_count": 6085,
+          "tweet_count": 39669
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

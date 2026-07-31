@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1909223033505743339",
+    "created_at": "2025-04-08T07:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T08:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909511042159591931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1899519373729300481",
+          "start": 0,
+          "username": "ra2b1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909511042159591931",
+    "in_reply_to_user_id": "1899519373729300481",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909223033505743339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ra2b1t 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1909223033505743339",
+        "created_at": "2025-04-08T07:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T08:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909511042159591931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1899519373729300481",
+              "start": 0,
+              "username": "ra2b1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909511042159591931",
+        "in_reply_to_user_id": "1899519373729300481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909223033505743339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ra2b1t 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899519373729300481",
+        "conversation_id": "1909223033505743339",
+        "created_at": "2025-04-07T12:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909223033505743339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909223033505743339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲一亲会好吗 还是吃好多药就会好 被体温环绕的时候就不会想死了吗 我不知道 跟精神病谈恋爱是不是特别累🥲我好像怎么也好不起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 257,
+          "like_count": 4609,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1280
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T17:55:42.000Z",
+        "description": "*幽灵一般的出没 但多汁",
+        "id": "1899519373729300481",
+        "name": "苹果兔",
+        "pinned_tweet_id": "1900136696869761528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899519755910062080/6SsrG67w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 78,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 133
+        },
+        "username": "ra2b1t",
+        "verified": false
+      }
+    ]
+  }
+}

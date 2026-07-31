@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988725244698173440"
+      ],
+      "media_source_tweet_id": [
+        "1988725282090504329"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988895558539321575",
+    "created_at": "2025-11-13T09:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T10:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988895558539321575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906552226086268928",
+          "start": 3,
+          "username": "AIslop_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RfPoLy53AV",
+          "end": 36,
+          "expanded_url": "https://x.com/AIslop_/status/1988725282090504329/video/1",
+          "media_key": "7_1988725244698173440",
+          "start": 13,
+          "url": "https://t.co/RfPoLy53AV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988895558539321575",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988725282090504329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AIslop_: https://t.co/RfPoLy53AV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51433,
+        "height": 1280,
+        "media_key": "7_1988725244698173440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988725244698173440/pu/img/JmfjvtEaKSgpXzgE.jpg",
+        "public_metrics": {
+          "view_count": 67514
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988725244698173440/pu/vid/avc1/320x568/A_ixgUNi6W6XAh_6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988725244698173440/pu/vid/avc1/480x852/HAxqp5qoUg5KNusI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988725244698173440/pu/vid/avc1/720x1280/UI-dyoSPEJDCaglr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988725244698173440/pu/pl/uyp3zSmx0cz9dTZ0.m3u8?tag=12&v=063"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988725244698173440"
+          ],
+          "media_source_tweet_id": [
+            "1988725282090504329"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988895558539321575",
+        "created_at": "2025-11-13T09:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988895558539321575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906552226086268928",
+              "start": 3,
+              "username": "AIslop_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfPoLy53AV",
+              "end": 36,
+              "expanded_url": "https://x.com/AIslop_/status/1988725282090504329/video/1",
+              "media_key": "7_1988725244698173440",
+              "start": 13,
+              "url": "https://t.co/RfPoLy53AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988895558539321575",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988725282090504329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AIslop_: https://t.co/RfPoLy53AV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988725244698173440"
+          ]
+        },
+        "author_id": "1906552226086268928",
+        "conversation_id": "1988725282090504329",
+        "created_at": "2025-11-12T21:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T22:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988725282090504329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfPoLy53AV",
+              "end": 23,
+              "expanded_url": "https://x.com/AIslop_/status/1988725282090504329/video/1",
+              "media_key": "7_1988725244698173440",
+              "start": 0,
+              "url": "https://t.co/RfPoLy53AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988725282090504329",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2195,
+          "impression_count": 137860,
+          "like_count": 6750,
+          "quote_count": 90,
+          "reply_count": 47,
+          "retweet_count": 1114
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RfPoLy53AV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1271,
+          "like_count": 21846,
+          "listed_count": 5,
+          "media_count": 766,
+          "tweet_count": 7069
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T03:40:59.000Z",
+        "description": "$AiSlop CA: 2wzVMXhLypmP92mXNCq4fuFcd9TCC972AbMfuiH3pump",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "AiSlop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aislop.app",
+                "end": 23,
+                "expanded_url": "https://aislop.app/",
+                "start": 0,
+                "url": "https://t.co/1F2Vi45Khg"
+              }
+            ]
+          }
+        },
+        "id": "1906552226086268928",
+        "location": "$aislop",
+        "name": "AI Slop",
+        "pinned_tweet_id": "1977854372815245683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977542665529901056/zdyHzSHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53440,
+          "following_count": 2,
+          "like_count": 501,
+          "listed_count": 81,
+          "media_count": 1019,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/1F2Vi45Khg",
+        "username": "AIslop_",
+        "verified": true
+      }
+    ]
+  }
+}

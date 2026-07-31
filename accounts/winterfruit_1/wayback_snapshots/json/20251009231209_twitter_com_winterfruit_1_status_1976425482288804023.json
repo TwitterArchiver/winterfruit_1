@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1975917214089027686",
+    "created_at": "2025-10-09T23:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T00:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976425482288804023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1567798023585153024",
+          "start": 0,
+          "username": "Kh3kJ"
+        },
+        {
+          "end": 19,
+          "id": "1176535991454064640",
+          "start": 7,
+          "username": "NekoMakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976425482288804023",
+    "in_reply_to_user_id": "1567798023585153024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976425370682524131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kh3kJ @NekoMakiQAQ 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1975917214089027686",
+        "created_at": "2025-10-09T23:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976425482288804023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1567798023585153024",
+              "start": 0,
+              "username": "Kh3kJ"
+            },
+            {
+              "end": 19,
+              "id": "1176535991454064640",
+              "start": 7,
+              "username": "NekoMakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976425482288804023",
+        "in_reply_to_user_id": "1567798023585153024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976425370682524131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kh3kJ @NekoMakiQAQ 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567798023585153024",
+        "conversation_id": "1975917214089027686",
+        "created_at": "2025-10-09T23:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976425370682524131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 27,
+              "id": "1176535991454064640",
+              "start": 15,
+              "username": "NekoMakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976425370682524131",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976425019858387372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 @NekoMakiQAQ 你在侮辱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 746,
+          "like_count": 16022,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 4973
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T08:52:45.000Z",
+        "description": "",
+        "id": "1567798023585153024",
+        "name": "黒猫の呪い",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567804730289823745/s1tXCRO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1036,
+          "like_count": 128245,
+          "listed_count": 1,
+          "media_count": 1192,
+          "tweet_count": 35656
+        },
+        "username": "Kh3kJ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "激进跨权 | 💌@HobartR6🐟@Chiyuyu520🐱@_FurryFur_🪼@m1zukiqaqaqaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "m1zukiqaqaqaq"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi猫卷(日雌380包邮",
+        "pinned_tweet_id": "1973460670713831937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976298159757557760/q7zmtc5S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 1007,
+          "like_count": 28186,
+          "listed_count": 16,
+          "media_count": 1267,
+          "tweet_count": 15546
+        },
+        "username": "NekoMakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

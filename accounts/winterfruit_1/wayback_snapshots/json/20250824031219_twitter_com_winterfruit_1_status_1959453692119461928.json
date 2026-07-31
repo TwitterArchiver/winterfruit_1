@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1959453692119461928",
+    "created_at": "2025-08-24T03:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T04:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959453692119461928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959453692119461928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头好痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1959453692119461928",
+        "created_at": "2025-08-24T03:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959453692119461928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959453692119461928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_ / qa：https://t.co/NrASw1BnIM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 71,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 48,
+                "url": "https://t.co/NrASw1BnIM"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 452,
+          "like_count": 9976,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 3245
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

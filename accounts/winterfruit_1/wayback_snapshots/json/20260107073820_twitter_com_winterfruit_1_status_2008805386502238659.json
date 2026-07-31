@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2008804659973288111",
+    "created_at": "2026-01-07T07:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T08:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008805386502238659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "204695689",
+          "start": 0,
+          "username": "capital_market"
+        },
+        {
+          "end": 31,
+          "id": "1871473910082084864",
+          "start": 16,
+          "username": "kinghillbenluc"
+        },
+        {
+          "end": 47,
+          "id": "771557359940276224",
+          "start": 32,
+          "username": "AnikiyOdintsov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008805386502238659",
+    "in_reply_to_user_id": "204695689",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008804659973288111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@capital_market @kinghillbenluc @AnikiyOdintsov ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2008804659973288111",
+        "created_at": "2026-01-07T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008805386502238659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "204695689",
+              "start": 0,
+              "username": "capital_market"
+            },
+            {
+              "end": 31,
+              "id": "1871473910082084864",
+              "start": 16,
+              "username": "kinghillbenluc"
+            },
+            {
+              "end": 47,
+              "id": "771557359940276224",
+              "start": 32,
+              "username": "AnikiyOdintsov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008805386502238659",
+        "in_reply_to_user_id": "204695689",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008804659973288111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@capital_market @kinghillbenluc @AnikiyOdintsov ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "204695689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2008804659973288111",
+        "created_at": "2026-01-07T07:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008804659973288111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ElonMusk",
+              "probability": 0.7998,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "ElonMusk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1871473910082084864",
+              "start": 58,
+              "username": "kinghillbenluc"
+            },
+            {
+              "end": 88,
+              "id": "1837114188046684161",
+              "start": 74,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 104,
+              "id": "771557359940276224",
+              "start": 89,
+              "username": "AnikiyOdintsov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/communities/…",
+              "end": 128,
+              "expanded_url": "https://x.com/i/communities/2008553733056073985?c0576e66-303e-4c04-9855-7bfef6cdc936",
+              "start": 105,
+              "status": 404,
+              "unwound_url": "https://x.com/i/communities/2008553733056073985?c0576e66-303e-4c04-9855-7bfef6cdc936",
+              "url": "https://t.co/u8ZEvPy3la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008804659973288111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 Big Nеws!\n#ElonMusk has offiсially launched X Token 🎉\n\n @kinghillbenluc @winterfruit_1 @AnikiyOdintsov https://t.co/u8ZEvPy3la"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008582729525272576/tymMLkAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1411,
+          "like_count": 27565,
+          "listed_count": 6,
+          "media_count": 1129,
+          "tweet_count": 8980
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-19T08:15:26.000Z",
+        "description": "Official notification X bot 🤖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/lbyS2n79LI"
+              }
+            ]
+          }
+        },
+        "id": "204695689",
+        "location": "X (Twitter)",
+        "name": "X Notification ⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008610932327370752/edLGPXq__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/lbyS2n79LI",
+        "username": "capital_market",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:32:16.000Z",
+        "description": "Name: King Hill Residence\nĐịa chỉ: Cao tốc Trung Lương, Xã Thanh Phú, Huyện Bến Lức, Tỉnh Long An\nSĐT: 0819096096\nWebsite: https://t.co/wgUaDh2Eig",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kinghillresidence.com.vn",
+                "end": 146,
+                "expanded_url": "https://kinghillresidence.com.vn/",
+                "start": 123,
+                "url": "https://t.co/wgUaDh2Eig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/kinghillreside…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/kinghillresidencebenluc/",
+                "start": 0,
+                "url": "https://t.co/QakwhIiO6X"
+              }
+            ]
+          }
+        },
+        "id": "1871473910082084864",
+        "location": "Thanh Phú, Bến Lức, Long An",
+        "name": "King Hill Residences",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871474757583196160/_1UMLRWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/QakwhIiO6X",
+        "username": "kinghillbenluc",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-02T03:56:24.000Z",
+        "description": "Homeschooler/Unschooler. Serial Dog Rescuer. Whittler. Austrian Econ. Farm Boy. Raised to Hate the State. I Own Myself. Voluntaryist. Who owns you?",
+        "id": "771557359940276224",
+        "name": "Lane Mcbride",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/776791186753323008/aAZrkYkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 37,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "AnikiyOdintsov",
+        "verified": false
+      }
+    ]
+  }
+}

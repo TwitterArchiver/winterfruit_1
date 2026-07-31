@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1951352794478420330",
+    "created_at": "2025-08-01T19:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T20:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951362878247936221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1356880410",
+          "start": 0,
+          "username": "annytf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951362878247936221",
+    "in_reply_to_user_id": "1356880410",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951352794478420330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annytf wow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2152,
+        "media_key": "3_1951352761284698115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxSY_2faIAMeAek.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1951352794478420330",
+        "created_at": "2025-08-01T19:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951362878247936221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1356880410",
+              "start": 0,
+              "username": "annytf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951362878247936221",
+        "in_reply_to_user_id": "1356880410",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951352794478420330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annytf wow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951352761284698115"
+          ]
+        },
+        "author_id": "1356880410",
+        "conversation_id": "1951352794478420330",
+        "created_at": "2025-08-01T18:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T19:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951352794478420330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJ1wxM9cvV",
+              "end": 26,
+              "expanded_url": "https://x.com/annytf/status/1951352794478420330/photo/1",
+              "media_key": "3_1951352761284698115",
+              "start": 3,
+              "url": "https://t.co/SJ1wxM9cvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951352794478420330",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 24634,
+          "like_count": 2542,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "🚬💕 https://t.co/SJ1wxM9cvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 409,
+          "like_count": 8418,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2490
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T13:35:47.000Z",
+        "description": "🔞 artist/fox VTuber https://t.co/5W0wgy19DC  \nfanart #annytfart\nmodel art by me and live2d by @suiika___\n✉️ anny@mythictalent.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 53,
+                "tag": "annytfart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 94,
+                "username": "suiika___"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/anny",
+                "end": 43,
+                "expanded_url": "http://twitch.tv/anny",
+                "start": 20,
+                "url": "https://t.co/5W0wgy19DC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anny.live",
+                "end": 23,
+                "expanded_url": "http://anny.live",
+                "start": 0,
+                "url": "https://t.co/TE730YUx7o"
+              }
+            ]
+          }
+        },
+        "id": "1356880410",
+        "location": "東京都",
+        "name": "anny 🌟 (indefinite hiatus)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892556761552543745/W9O7cpGI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262583,
+          "following_count": 650,
+          "like_count": 30141,
+          "listed_count": 634,
+          "media_count": 884,
+          "tweet_count": 12628
+        },
+        "url": "https://t.co/TE730YUx7o",
+        "username": "annytf",
+        "verified": false
+      }
+    ]
+  }
+}

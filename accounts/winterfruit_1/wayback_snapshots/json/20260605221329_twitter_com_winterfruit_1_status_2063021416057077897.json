@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2062946645638295952",
+    "created_at": "2026-06-05T22:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T23:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063021416057077897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030546379089887234",
+          "start": 0,
+          "username": "SleepZzzNtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063021416057077897",
+    "in_reply_to_user_id": "2030546379089887234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062946645638295952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SleepZzzNtr 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2062946214707126272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOpv5a4AAUfSU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2062946645638295952",
+        "created_at": "2026-06-05T22:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063021416057077897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030546379089887234",
+              "start": 0,
+              "username": "SleepZzzNtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063021416057077897",
+        "in_reply_to_user_id": "2030546379089887234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062946645638295952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SleepZzzNtr 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062946214707126272"
+          ]
+        },
+        "author_id": "2030546379089887234",
+        "conversation_id": "2062946645638295952",
+        "created_at": "2026-06-05T17:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062946645638295952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLVnhg0TT3",
+              "end": 58,
+              "expanded_url": "https://x.com/SleepZzzNtr/status/2062946645638295952/photo/1",
+              "media_key": "3_2062946214707126272",
+              "start": 35,
+              "url": "https://t.co/YLVnhg0TT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062946645638295952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉今天世界完蛋了一样\n哪里都炸了\n既然都这样了 那为什么不来一杯呢 https://t.co/YLVnhg0TT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 1475,
+          "like_count": 42755,
+          "listed_count": 6,
+          "media_count": 1853,
+          "tweet_count": 12709
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T07:34:53.000Z",
+        "description": "人总是犯同样的错误/所以我选择萝莉妈妈/大概不磕药/想要成為動漫高手！",
+        "id": "2030546379089887234",
+        "location": "妈妈的子宫",
+        "name": "zzz💤愛睡覺",
+        "pinned_tweet_id": "2043557154767179790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031363681263742976/L6xZ2zr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 525,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 477
+        },
+        "username": "SleepZzzNtr",
+        "verified": true
+      }
+    ]
+  }
+}

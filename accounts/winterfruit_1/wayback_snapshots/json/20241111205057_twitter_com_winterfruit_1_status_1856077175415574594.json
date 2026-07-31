@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1856077175415574594",
+    "created_at": "2024-11-11T20:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T21:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856077175415574594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beiyangnoda/st…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/beiyangnoda/status/1855856318139240845",
+          "start": 122,
+          "url": "https://t.co/QeYU6Rpj5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856077175415574594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855856318139240845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出生地:成都\n性别：我是企鹅\n核心天赋:连玩40小时原神\n家庭成分:？\n家庭经济情况:还好\n营养状况:缺的营养这一块的谁给我补啊\n父母态度:尚可\n亲戚态度:尚可\n生活状态:死人\n社交条件:上不去下不来卡在这里了\n教育质量:\n最高学历:小学博士 https://t.co/QeYU6Rpj5t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1856077175415574594",
+        "created_at": "2024-11-11T20:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T21:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856077175415574594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beiyangnoda/st…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/beiyangnoda/status/1855856318139240845",
+              "start": 122,
+              "url": "https://t.co/QeYU6Rpj5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856077175415574594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855856318139240845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出生地:成都\n性别：我是企鹅\n核心天赋:连玩40小时原神\n家庭成分:？\n家庭经济情况:还好\n营养状况:缺的营养这一块的谁给我补啊\n父母态度:尚可\n亲戚态度:尚可\n生活状态:死人\n社交条件:上不去下不来卡在这里了\n教育质量:\n最高学历:小学博士 https://t.co/QeYU6Rpj5t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759226017384722432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1855856318139240845",
+        "created_at": "2024-11-11T06:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T07:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855856318139240845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsrxingqiri/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/hsrxingqiri/status/1855707809180266734",
+              "start": 143,
+              "url": "https://t.co/UxZbKYBwZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855856318139240845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855707809180266734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出生地:粤国深圳\n性别:对空击铳\n核心天赋:超稳定脾气\n家庭成分:中产\n家庭经济情况:还行\n营养状况:懒得吃饭\n父母态度:开明小保\n亲戚态度:不到啊\n生活状态:一摊烂泥\n社交条件:内向不社恐懒得和别人交流，对没帮助陌生人脾气不好熟人脾气好\n教育质量:极端文科偏科生\n最高学历:小学博士 https://t.co/UxZbKYBwZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "我是我",
+        "id": "1837114188046684161",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 228,
+          "like_count": 3476,
+          "listed_count": 0,
+          "tweet_count": 887
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T14:39:20.000Z",
+        "description": "查成分回fo，福建人，祖籍琉球，脾气很好基本上没吵过架，性别认同mcd，喜欢女装cosplay喜欢研究料理，现在在广州，音游人，不玩政键确信，喜欢搞抽象，安那其君主主義者（太平天国），太平天国基督改良会主席兼太平天国皇帝，要扩列私信我就行，小号@beiyangnoda02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "beiyangnoda02"
+              }
+            ]
+          }
+        },
+        "id": "1759226017384722432",
+        "location": "初音未来脑科医院",
+        "name": "天国俊达萌のだ（太平天国皇帝）",
+        "pinned_tweet_id": "1853736354561323327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853500016926801921/trUlnUdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 351,
+          "like_count": 6824,
+          "listed_count": 1,
+          "tweet_count": 7562
+        },
+        "username": "beiyangnoda",
+        "verified": false
+      }
+    ]
+  }
+}

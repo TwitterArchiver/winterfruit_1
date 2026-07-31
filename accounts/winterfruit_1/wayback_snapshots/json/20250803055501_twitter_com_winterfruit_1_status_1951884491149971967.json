@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1951741998987432338",
+    "created_at": "2025-08-03T05:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951884491149971967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883762257089503232",
+          "start": 0,
+          "username": "yuanoxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951884491149971967",
+    "in_reply_to_user_id": "1883762257089503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951753442806190577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanoxxxxx 燃尽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1951741998987432338",
+        "created_at": "2025-08-03T05:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951884491149971967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883762257089503232",
+              "start": 0,
+              "username": "yuanoxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951884491149971967",
+        "in_reply_to_user_id": "1883762257089503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951753442806190577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanoxxxxx 燃尽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883762257089503232",
+        "conversation_id": "1951741998987432338",
+        "created_at": "2025-08-02T21:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T22:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951753442806190577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951753442806190577",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951741998987432338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 建议你拉上我和信息流然后把遗产送给我们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 406,
+          "like_count": 8454,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2515
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:22:14.000Z",
+        "description": "天灵灵地灵灵",
+        "id": "1883762257089503232",
+        "name": "大师给你算一卦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945742062076170242/y3rsEh4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "yuanoxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

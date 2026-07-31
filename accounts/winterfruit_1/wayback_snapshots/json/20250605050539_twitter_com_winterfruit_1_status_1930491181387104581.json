@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1930429386466918836",
+    "created_at": "2025-06-05T05:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T06:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930491181387104581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2786849255",
+          "start": 0,
+          "username": "Vedal987"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930491181387104581",
+    "in_reply_to_user_id": "2786849255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930429386466918836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vedal987 @grok 翻译一下图中文字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1930428108127014912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspCIvFXEAAKXY9.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1930429386466918836",
+        "created_at": "2025-06-05T05:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930491181387104581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2786849255",
+              "start": 0,
+              "username": "Vedal987"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930491181387104581",
+        "in_reply_to_user_id": "2786849255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930429386466918836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vedal987 @grok 翻译一下图中文字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930428108127014912"
+          ]
+        },
+        "author_id": "2786849255",
+        "conversation_id": "1930429386466918836",
+        "created_at": "2025-06-05T01:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T02:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930429386466918836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnVOhLn1bj",
+              "end": 36,
+              "expanded_url": "https://x.com/Vedal987/status/1930429386466918836/photo/1",
+              "media_key": "3_1930428108127014912",
+              "start": 13,
+              "url": "https://t.co/BnVOhLn1bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930429386466918836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 701,
+          "impression_count": 147918,
+          "like_count": 14620,
+          "quote_count": 44,
+          "reply_count": 340,
+          "retweet_count": 780
+        },
+        "reply_settings": "everyone",
+        "text": "please read. https://t.co/BnVOhLn1bj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 293,
+          "like_count": 5681,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1603
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T07:52:47.000Z",
+        "description": "professional turtle | developer | level 5 certified hacker | creator of @NeurosamaAI, AI VTuber on Twitch | will make @AbandonArchive |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "NeurosamaAI"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "AbandonArchive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/vedal987",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/vedal987",
+                "start": 0,
+                "url": "https://t.co/7Gen6kCzfO"
+              }
+            ]
+          }
+        },
+        "id": "2786849255",
+        "name": "Vedal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006985730340610049/HI5T71LB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187762,
+          "following_count": 716,
+          "like_count": 16625,
+          "listed_count": 206,
+          "media_count": 80,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/7Gen6kCzfO",
+        "username": "Vedal987",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180435,
+          "following_count": 3,
+          "like_count": 72,
+          "listed_count": 3801,
+          "media_count": 2061204,
+          "tweet_count": 11106434
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

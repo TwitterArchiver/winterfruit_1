@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1960464850339160321",
+    "created_at": "2025-08-26T22:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T23:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960471136493560006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960471136493560006",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960464850339160321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 等一会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1960464850339160321",
+        "created_at": "2025-08-26T22:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T23:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960471136493560006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960471136493560006",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960464850339160321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 等一会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "1960464850339160321",
+        "created_at": "2025-08-26T22:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T23:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960464850339160321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "レイ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mnxe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mnxeNMvopQKX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1960464851920412704/j73MmqNs?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1960464851920412704/j73MmqNs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 导",
+              "unwound_url": "https://twitter.com/i/spaces/1mnxeNMvopQKX/peek",
+              "url": "https://t.co/YiLCTG859E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960464850339160321",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YiLCTG859E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 455,
+          "like_count": 10080,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3270
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜MHA🍰推し｜OD&自傷｜焦虑抑郁障碍合并强迫｜直fo选回｜非互fo私信不回 推广请私信联系｜⚠️DO NOT re-upload or use my photos｜📪 https://t.co/tAHbDDr0m1 ｜GF @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 134,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 111,
+                "url": "https://t.co/tAHbDDr0m1"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "1959130773644353998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 264,
+          "like_count": 2065,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 4459
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

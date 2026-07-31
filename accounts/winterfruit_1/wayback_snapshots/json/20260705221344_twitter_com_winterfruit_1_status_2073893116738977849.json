@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073348811850969088"
+      ],
+      "media_source_tweet_id": [
+        "2073348843660554605"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2073893116738977849",
+    "created_at": "2026-07-05T22:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T23:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073893116738977849"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "尼古喵喵"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2062275830479462400",
+          "start": 3,
+          "username": "huibailanqiqiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UETNUq5adg",
+          "end": 55,
+          "expanded_url": "https://x.com/huibailanqiqiu/status/2073348843660554605/photo/1",
+          "media_key": "3_2073348811850969088",
+          "start": 32,
+          "url": "https://t.co/UETNUq5adg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073893116738977849",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073348843660554605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huibailanqiqiu: #ヤニねこ #尼古喵喵 https://t.co/UETNUq5adg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2073348811850969088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYDwmHa8AAbKTy.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073348811850969088"
+          ],
+          "media_source_tweet_id": [
+            "2073348843660554605"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2073893116738977849",
+        "created_at": "2026-07-05T22:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073893116738977849"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "尼古喵喵"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2062275830479462400",
+              "start": 3,
+              "username": "huibailanqiqiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UETNUq5adg",
+              "end": 55,
+              "expanded_url": "https://x.com/huibailanqiqiu/status/2073348843660554605/photo/1",
+              "media_key": "3_2073348811850969088",
+              "start": 32,
+              "url": "https://t.co/UETNUq5adg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073893116738977849",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073348843660554605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huibailanqiqiu: #ヤニねこ #尼古喵喵 https://t.co/UETNUq5adg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073348811850969088"
+          ]
+        },
+        "author_id": "2062275830479462400",
+        "conversation_id": "2073348843660554605",
+        "created_at": "2026-07-04T10:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073348843660554605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "尼古喵喵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UETNUq5adg",
+              "end": 35,
+              "expanded_url": "https://x.com/huibailanqiqiu/status/2073348843660554605/photo/1",
+              "media_key": "3_2073348811850969088",
+              "start": 12,
+              "url": "https://t.co/UETNUq5adg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073348843660554605",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2854,
+          "impression_count": 554102,
+          "like_count": 45025,
+          "quote_count": 42,
+          "reply_count": 29,
+          "retweet_count": 4111
+        },
+        "reply_settings": "everyone",
+        "text": "#ヤニねこ #尼古喵喵 https://t.co/UETNUq5adg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 1481,
+          "like_count": 43510,
+          "listed_count": 6,
+          "media_count": 1878,
+          "tweet_count": 12992
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T20:55:31.000Z",
+        "description": "七草 (Nanakusa)\n｜中文＆英語OK\n日本語 ゆっくり勉強中  ꒦ິ^꒦ິ\nAI学習・画像編集禁止\nあなたに私の絵を好きになってもらえたら嬉しいです\n📩 仕事のご連絡はDMへ | 3534376512@qq.com",
+        "id": "2062275830479462400",
+        "name": "ななくさ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073569453305135104/pT7BjloG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 64,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "huibailanqiqiu",
+        "verified": false
+      }
+    ]
+  }
+}

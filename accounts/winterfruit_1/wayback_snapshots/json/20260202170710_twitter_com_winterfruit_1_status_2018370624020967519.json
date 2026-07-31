@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2018370624020967519",
+    "created_at": "2026-02-02T17:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018370624020967519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2018366441918185580",
+          "start": 27,
+          "url": "https://t.co/hITIluoCe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018370624020967519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018366441918185580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来没分手，那爱德华更咝吗了，爱德华镜音千万要殉情啊 https://t.co/hITIluoCe1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2018370624020967519",
+        "created_at": "2026-02-02T17:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018370624020967519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2018366441918185580",
+              "start": 27,
+              "url": "https://t.co/hITIluoCe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018370624020967519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018366441918185580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来没分手，那爱德华更咝吗了，爱德华镜音千万要殉情啊 https://t.co/hITIluoCe1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2018366441918185580",
+        "created_at": "2026-02-02T16:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018366441918185580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018366441918185580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 145,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有人不知道爱德华之前和自己女朋友谈着的时候和镜音卡泡搞暧昧然后和自己女朋友分手和镜音在一起这个故事吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2018205960339386616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 1500,
+          "like_count": 31920,
+          "listed_count": 6,
+          "media_count": 1310,
+          "tweet_count": 9920
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1949156263889342565",
+    "created_at": "2025-07-26T19:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T20:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949192186961997929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783819937045237760",
+          "start": 0,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949192186961997929",
+    "in_reply_to_user_id": "1783819937045237760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949156263889342565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihatehuman 救我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1949156263889342565",
+        "created_at": "2025-07-26T19:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T20:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949192186961997929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783819937045237760",
+              "start": 0,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949192186961997929",
+        "in_reply_to_user_id": "1783819937045237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949156263889342565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihatehuman 救我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1949156263889342565",
+        "created_at": "2025-07-26T17:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949156263889342565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "不都媽生的’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OwxW…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OwxWXNjMBkKQ",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 拜託啦 神明大人",
+              "unwound_url": "https://twitter.com/i/spaces/1OwxWXNjMBkKQ/peek",
+              "url": "https://t.co/GIGYZhcfS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949156263889342565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GIGYZhcfS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 401,
+          "like_count": 8155,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2364
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎",
+        "id": "1783819937045237760",
+        "location": "天國",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 370,
+          "like_count": 2084,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1758
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

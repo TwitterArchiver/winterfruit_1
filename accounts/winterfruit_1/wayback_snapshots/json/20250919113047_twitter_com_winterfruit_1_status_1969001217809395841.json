@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1968999740789362908",
+    "created_at": "2025-09-19T11:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T12:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969001217809395841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969001217809395841",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968999740789362908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi Faker，原名李君豪，后面忘了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54625,
+        "height": 1280,
+        "media_key": "7_1968999680878260224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968999680878260224/pu/img/ifkyOL6P29oVXhvh.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968999680878260224/pu/vid/avc1/320x710/82JFWkCP0epOnJqz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968999680878260224/pu/vid/avc1/480x1066/8aHKGFmlewqnZ8Sn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968999680878260224/pu/vid/avc1/576x1280/gomeKgv8K_Nm9lDW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968999680878260224/pu/pl/2bdIYjeNISefmGWP.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1968999740789362908",
+        "created_at": "2025-09-19T11:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969001217809395841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969001217809395841",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968999740789362908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi Faker，原名李君豪，后面忘了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968999680878260224"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1968999740789362908",
+        "created_at": "2025-09-19T11:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968999740789362908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGf6kxkK1P",
+              "end": 59,
+              "expanded_url": "https://x.com/y0zarashi/status/1968999740789362908/video/1",
+              "media_key": "7_1968999680878260224",
+              "start": 36,
+              "url": "https://t.co/TGf6kxkK1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968999740789362908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再重申一遍，这件事情已经发生了，没有后续了，我也不知道你们在说什么。 https://t.co/TGf6kxkK1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 484,
+          "like_count": 12181,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 3746
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1963471902980157641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 249,
+          "like_count": 15,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1904
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

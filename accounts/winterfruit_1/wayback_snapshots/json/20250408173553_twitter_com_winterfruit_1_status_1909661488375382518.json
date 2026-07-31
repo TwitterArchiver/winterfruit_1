@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1909519817876685215",
+    "created_at": "2025-04-08T17:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T18:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909661488375382518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850053428711718912",
+          "start": 0,
+          "username": "duoduolin0"
+        },
+        {
+          "end": 21,
+          "id": "1632943664497324034",
+          "start": 12,
+          "username": "WDAFZ001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909661488375382518",
+    "in_reply_to_user_id": "1850053428711718912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909541937801224490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin0 @WDAFZ001 odwiki那位？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909541937801224490].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909541937801224490",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909541937801224490"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1909519817876685215",
+        "created_at": "2025-04-08T17:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T18:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909661488375382518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850053428711718912",
+              "start": 0,
+              "username": "duoduolin0"
+            },
+            {
+              "end": 21,
+              "id": "1632943664497324034",
+              "start": 12,
+              "username": "WDAFZ001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909661488375382518",
+        "in_reply_to_user_id": "1850053428711718912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909541937801224490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin0 @WDAFZ001 odwiki那位？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 257,
+          "like_count": 4617,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1283
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "ddl的小账",
+        "id": "1850053428711718912",
+        "name": "玲朵朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053736913305600/7Gk6zFr1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 230,
+          "like_count": 4067,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1123
+        },
+        "username": "duoduolin0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:18:28.000Z",
+        "description": "心脏应为幸福跳动！            \n\n me(눈‸눈)@IseriNina1\n@Andechs_\nAono🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "IseriNina1"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "Andechs_"
+              }
+            ]
+          }
+        },
+        "id": "1632943664497324034",
+        "location": "WDAFZ-CH",
+        "name": "ℬ𝒶𝓉𝑒𝓁 𝓋𝑜𝓃 𝒜𝓃𝒹𝒶𝓍",
+        "pinned_tweet_id": "1832726267528958415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904212651208802305/rV1XVi49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 909,
+          "like_count": 8397,
+          "listed_count": 5,
+          "media_count": 2410,
+          "tweet_count": 6970
+        },
+        "username": "WDAFZ001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1914539138453545091",
+    "created_at": "2025-04-22T23:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T00:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914828691496161729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1567798023585153024",
+          "start": 0,
+          "username": "Kh3kJ"
+        },
+        {
+          "end": 15,
+          "id": "1433678976564662273",
+          "start": 7,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914828691496161729",
+    "in_reply_to_user_id": "1567798023585153024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914592607948189747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kh3kJ @hsn8086 难绷，你永远是中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1914539138453545091",
+        "created_at": "2025-04-22T23:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T00:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914828691496161729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1567798023585153024",
+              "start": 0,
+              "username": "Kh3kJ"
+            },
+            {
+              "end": 15,
+              "id": "1433678976564662273",
+              "start": 7,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914828691496161729",
+        "in_reply_to_user_id": "1567798023585153024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914592607948189747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kh3kJ @hsn8086 难绷，你永远是中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567798023585153024",
+        "conversation_id": "1914539138453545091",
+        "created_at": "2025-04-22T08:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914592607948189747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914592607948189747",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13900,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914539138453545091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 中國人只知道用下半身來繁殖，不懂的用大腦來思考，所以孕育不了中國牛頓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 267,
+          "like_count": 4711,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1345
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T08:52:45.000Z",
+        "description": "",
+        "id": "1567798023585153024",
+        "name": "黒猫の呪い",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567804730289823745/s1tXCRO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 965,
+          "like_count": 113930,
+          "listed_count": 1,
+          "media_count": 1016,
+          "tweet_count": 31893
+        },
+        "username": "Kh3kJ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60109,
+          "following_count": 952,
+          "like_count": 39402,
+          "listed_count": 141,
+          "media_count": 9622,
+          "tweet_count": 15729
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

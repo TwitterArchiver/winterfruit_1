@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2067312231961038873",
+    "created_at": "2026-06-19T02:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067794179145736577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067794179145736577",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067652991277281732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 都是恩人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2067312231961038873",
+        "created_at": "2026-06-19T02:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067794179145736577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067794179145736577",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067652991277281732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 都是恩人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395031782014205953",
+        "conversation_id": "2067312231961038873",
+        "created_at": "2026-06-18T16:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067652991277281732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067652991277281732",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067312231961038873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 好像关系都不太好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 1476,
+          "like_count": 43034,
+          "listed_count": 6,
+          "media_count": 1867,
+          "tweet_count": 12814
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /懦弱是无形的怪物 @MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2062786263774855222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 754,
+          "like_count": 15235,
+          "listed_count": 10,
+          "media_count": 1673,
+          "tweet_count": 7580
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

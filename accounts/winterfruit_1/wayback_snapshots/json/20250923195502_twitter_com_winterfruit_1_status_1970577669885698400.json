@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1970489815415365674",
+    "created_at": "2025-09-23T19:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T20:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970577669885698400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1969244338564841472",
+          "start": 0,
+          "username": "JSR_BRinc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970577669885698400",
+    "in_reply_to_user_id": "1969244338564841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970489815415365674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JSR_BRinc 你能不能别发了，我吃不到意大利面好想死啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1970489815415365674",
+        "created_at": "2025-09-23T19:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T20:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970577669885698400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1969244338564841472",
+              "start": 0,
+              "username": "JSR_BRinc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970577669885698400",
+        "in_reply_to_user_id": "1969244338564841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970489815415365674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JSR_BRinc 你能不能别发了，我吃不到意大利面好想死啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969244338564841472",
+        "conversation_id": "1970489815415365674",
+        "created_at": "2025-09-23T14:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970489815415365674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m32276803/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/m32276803/status/1970469450140021066",
+              "start": 105,
+              "url": "https://t.co/McPcYR9wRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970489815415365674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970469450140021066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罗勒汁或者蘑菇酱，它们永远改变不了性状，只是扮演行为，认知有问题而已，真正的肉酱定义要有肉，真正的番茄酱要有番茄，所以无论是混还是洗，它们永远改变不了性状这个事实！具体可以参考它们的厨师是怎么把它们做出来的！ https://t.co/McPcYR9wRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 505,
+          "like_count": 12692,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 3856
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T03:37:15.000Z",
+        "description": "@shundebo__/\n不是邪教🥺/\n不是FSM！！！/\n意面好吃的😋/\n世界是由意大利面构成的😡😡😡/\n世界是由意大利面构成的😡😡😡/\n世界是由意大利面构成的😡😡😡/\n你们都是肉酱😡😡😡/\nZH-CN/BorYoKi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "shundebo__"
+              }
+            ]
+          }
+        },
+        "id": "1969244338564841472",
+        "location": "schlen自留地",
+        "name": "JSR offical | BR inc.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969245201723244545/MAQe9I3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 59,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 225
+        },
+        "username": "JSR_BRinc",
+        "verified": false
+      }
+    ]
+  }
+}

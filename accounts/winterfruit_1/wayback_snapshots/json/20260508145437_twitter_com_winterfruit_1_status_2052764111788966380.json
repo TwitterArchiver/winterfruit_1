@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2052447714487787815",
+    "created_at": "2026-05-08T14:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052764111788966380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052764111788966380",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052447714487787815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 沟槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2052447705956491264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvCUHGaIAA9Eq6.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2052447714487787815",
+        "created_at": "2026-05-08T14:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052764111788966380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052764111788966380",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052447714487787815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 沟槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052447705956491264"
+          ]
+        },
+        "author_id": "1491568506898649088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2052447714487787815",
+        "created_at": "2026-05-07T17:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052447714487787815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PdpNgX4rm",
+              "end": 143,
+              "expanded_url": "https://x.com/a2013bc/status/2052447714487787815/photo/1",
+              "media_key": "3_2052447705956491264",
+              "start": 120,
+              "url": "https://t.co/8PdpNgX4rm"
+            },
+            {
+              "display_url": "x.com/WhiteHouse/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/WhiteHouse/status/2052409800781083042",
+              "start": 144,
+              "url": "https://t.co/owBWBK2J1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052447714487787815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22398,
+          "like_count": 303,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052409800781083042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\nEpstein\n想我了吗? https://t.co/8PdpNgX4rm https://t.co/owBWBK2J1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 1484,
+          "like_count": 41276,
+          "listed_count": 6,
+          "media_count": 1780,
+          "tweet_count": 12079
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "“以物配主的人群及其崇拜的偶像，都是火狱的燃料，他们将永居其中。”（21:98-99）\n“惟有……拜偶像的……他们的份就在烧着硫磺的火湖里。”启示录 21:8",
+        "id": "1491568506898649088",
+        "location": "😋",
+        "name": "波斯沙阿卢比奥🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020410978526187520/2Ih7mxPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1568,
+          "like_count": 21377,
+          "listed_count": 6,
+          "media_count": 1989,
+          "tweet_count": 28481
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

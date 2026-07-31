@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1960993660704804998",
+    "created_at": "2025-08-29T06:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961313760393793708"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "祥子",
+          "probability": 0.5292,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1368129365859471365",
+          "start": 0,
+          "username": "HoshinoDebian"
+        },
+        {
+          "end": 29,
+          "id": "2835005616",
+          "start": 15,
+          "username": "GEtrius114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961313760393793708",
+    "in_reply_to_user_id": "1368129365859471365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961283740581183518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoDebian @GEtrius114514 波奇，祥子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1960993660704804998",
+        "created_at": "2025-08-29T06:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961313760393793708"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "祥子",
+              "probability": 0.5292,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368129365859471365",
+              "start": 0,
+              "username": "HoshinoDebian"
+            },
+            {
+              "end": 29,
+              "id": "2835005616",
+              "start": 15,
+              "username": "GEtrius114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961313760393793708",
+        "in_reply_to_user_id": "1368129365859471365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961283740581183518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoDebian @GEtrius114514 波奇，祥子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368129365859471365",
+        "conversation_id": "1960993660704804998",
+        "created_at": "2025-08-29T04:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T05:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961283740581183518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2835005616",
+              "start": 0,
+              "username": "GEtrius114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961283740581183518",
+        "in_reply_to_user_id": "2835005616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960993660704804998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEtrius114514 有没有薄熙来呀🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 444,
+          "like_count": 10132,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3287
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T09:20:53.000Z",
+        "description": "鲨笔二刺螈，\n专业bug制造机，\n精通stm32/51单片机花式点灯，\n高级网络串联架构师（",
+        "id": "1368129365859471365",
+        "name": "QAQneko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516828856157573120/qCV1a_2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 185,
+          "like_count": 4345,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 571
+        },
+        "username": "HoshinoDebian",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-28T12:36:08.000Z",
+        "description": "✝️/從一個「碾」字領悟對付反動派的理念/還有什麼能阻擋中華民族的偉大復興嗎？絕對沒有！輕易沒有呀！",
+        "id": "2835005616",
+        "location": "大漢駐下北沢都護府114樓514號辦公室",
+        "name": "下北沢一般會員制餐廳✝️🇨🇳🇭🇰",
+        "pinned_tweet_id": "1311334994216996870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757349314744197120/6zhgNVE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 1941,
+          "like_count": 176691,
+          "listed_count": 28,
+          "media_count": 5241,
+          "tweet_count": 31177
+        },
+        "username": "GEtrius114514",
+        "verified": false
+      }
+    ]
+  }
+}

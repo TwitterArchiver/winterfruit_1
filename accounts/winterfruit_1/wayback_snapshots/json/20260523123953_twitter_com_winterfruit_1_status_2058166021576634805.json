@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2058165166173487425",
+    "created_at": "2026-05-23T12:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058166021576634805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999415746997420036",
+          "start": 0,
+          "username": "Xuzawanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058166021576634805",
+    "in_reply_to_user_id": "1999415746997420036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058165166173487425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuzawanoda 哦哦哦哦哦哦哦哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2058165166173487425",
+        "created_at": "2026-05-23T12:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058166021576634805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999415746997420036",
+              "start": 0,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058166021576634805",
+        "in_reply_to_user_id": "1999415746997420036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058165166173487425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawanoda 哦哦哦哦哦哦哦哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999415746997420036",
+        "conversation_id": "2058165166173487425",
+        "created_at": "2026-05-23T12:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058165166173487425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058165166173487425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上伊那普瑞，欧迪身姿似百合花般"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 1481,
+          "like_count": 41866,
+          "listed_count": 7,
+          "media_count": 1823,
+          "tweet_count": 12406
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T09:47:30.000Z",
+        "description": "这都是什么啊喏哒！\n无言势，点赞势",
+        "id": "1999415746997420036",
+        "location": "🔴in a private world",
+        "name": "苦呀西EX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044304101362868224/2_HCv6c-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 266,
+          "like_count": 8853,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 528
+        },
+        "username": "Xuzawanoda",
+        "verified": false
+      }
+    ]
+  }
+}

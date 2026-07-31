@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981587760814194688"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1981503569359749267",
+    "created_at": "2025-10-24T05:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981587768615776493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681362222461734912",
+          "start": 0,
+          "username": "PWFFFFFF_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LrxhG9TnCW",
+          "end": 34,
+          "expanded_url": "https://x.com/winterfruit_1/status/1981587768615776493/photo/1",
+          "media_key": "3_1981587760814194688",
+          "start": 11,
+          "url": "https://t.co/LrxhG9TnCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981587768615776493",
+    "in_reply_to_user_id": "1681362222461734912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981503569359749267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWFFFFFF_ https://t.co/LrxhG9TnCW"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981503569359749267].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981503569359749267",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981503569359749267"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_1981587760814194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ADkc6XgAAwZFX.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981587760814194688"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1981503569359749267",
+        "created_at": "2025-10-24T05:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981587768615776493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681362222461734912",
+              "start": 0,
+              "username": "PWFFFFFF_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrxhG9TnCW",
+              "end": 34,
+              "expanded_url": "https://x.com/winterfruit_1/status/1981587768615776493/photo/1",
+              "media_key": "3_1981587760814194688",
+              "start": 11,
+              "url": "https://t.co/LrxhG9TnCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981587768615776493",
+        "in_reply_to_user_id": "1681362222461734912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981503569359749267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWFFFFFF_ https://t.co/LrxhG9TnCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1047,
+          "like_count": 19175,
+          "listed_count": 5,
+          "media_count": 654,
+          "tweet_count": 6120
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T17:56:31.000Z",
+        "description": "birth:2009/現於日本/日本語を勉強しています/中（繁/简）、EN(really poor)/on the edge/如果您認為我令您產生了不快，請block我，我不想與任何人產生爭執，謝謝您。/如果您在現實中認識我並在未被我推薦的情況下找到了此帳號，請離開吧，我很害怕您，我很抱歉。/私:@PWFFFFFF_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "PWFFFFFF_"
+              }
+            ]
+          }
+        },
+        "id": "1681362222461734912",
+        "location": "{幻覚,夢} = {φ ∈ mind : 私/彼}",
+        "name": "PureWhiteFFFFFF",
+        "pinned_tweet_id": "1965037052057231609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758404075077636096/qVOw-Mcq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 583,
+          "like_count": 11335,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 767
+        },
+        "username": "PWFFFFFF_",
+        "verified": false
+      }
+    ]
+  }
+}

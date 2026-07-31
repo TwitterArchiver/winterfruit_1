@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1857754242787979503",
+    "created_at": "2024-11-16T13:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T14:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857773395406139399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826070707748712448",
+          "start": 0,
+          "username": "KRKRDKDK2024"
+        },
+        {
+          "end": 25,
+          "id": "1686948940321857536",
+          "start": 14,
+          "username": "mizuki_bot"
+        },
+        {
+          "end": 34,
+          "id": "1731670068189114368",
+          "start": 26,
+          "username": "Oori_TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857773395406139399",
+    "in_reply_to_user_id": "1826070707748712448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857769595958079759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KRKRDKDK2024 @mizuki_bot @Oori_TW 支持"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1857769595958079759].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857769595958079759",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1857769595958079759"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1857754242787979503",
+        "created_at": "2024-11-16T13:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857773395406139399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826070707748712448",
+              "start": 0,
+              "username": "KRKRDKDK2024"
+            },
+            {
+              "end": 25,
+              "id": "1686948940321857536",
+              "start": 14,
+              "username": "mizuki_bot"
+            },
+            {
+              "end": 34,
+              "id": "1731670068189114368",
+              "start": 26,
+              "username": "Oori_TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857773395406139399",
+        "in_reply_to_user_id": "1826070707748712448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857769595958079759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KRKRDKDK2024 @mizuki_bot @Oori_TW 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "我是我",
+        "id": "1837114188046684161",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 228,
+          "like_count": 3781,
+          "listed_count": 0,
+          "tweet_count": 935
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T01:36:04.000Z",
+        "description": "#扫货标志 without a master/#猜你喜欢 #黑皮母狗 @mingckwkb @mzd1968 @Mizuki_8964 用来看奶龙色图的号@lovenailong",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "扫货标志"
+              },
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "猜你喜欢"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "黑皮母狗"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "mingckwkb"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "mzd1968"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Mizuki_8964"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "lovenailong"
+              }
+            ]
+          }
+        },
+        "id": "1826070707748712448",
+        "name": "🍋‍🟩KRKRDKDK",
+        "pinned_tweet_id": "1851213076697399380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851887057607757824/VWt5i9t8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 316,
+          "like_count": 28557,
+          "listed_count": 2,
+          "tweet_count": 1891
+        },
+        "username": "KRKRDKDK2024",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T03:57:58.000Z",
+        "description": "欢迎投稿｜互fo私信｜みずえな｜神聖大未來帝國第二任皇帝｜我們信仰初音未來&暁山瑞希｜暁山瑞希溫柔可愛世界第一粉毛！不服來戰！世界上最好的曉山瑞希！！！！瑞希第一瑞希最棒！！！戰時陪都 @8964mizuki 超可爱的@2ENANA5 @bushi_233 @fengye129 军部@mizuki_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "8964mizuki"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "2ENANA5"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "bushi_233"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "fengye129"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "mizuki_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/character/unit…",
+                "end": 23,
+                "expanded_url": "https://pjsekai.sega.jp/character/unite05/mizuki/index.html?year=now",
+                "start": 0,
+                "url": "https://t.co/ybzhggtFaQ"
+              }
+            ]
+          }
+        },
+        "id": "1686948940321857536",
+        "location": "神聖大未來帝國/初音未來神國  ——  首都 米庫梵寺",
+        "name": "北流叙輪奈NNNNNN ♡瑞希bot",
+        "pinned_tweet_id": "1853094828525109727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851991798778056704/7zoRK874_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1000,
+          "like_count": 14054,
+          "listed_count": 2,
+          "tweet_count": 7985
+        },
+        "url": "https://t.co/ybzhggtFaQ",
+        "username": "mizuki_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN ｜互fo大歡迎！｜尖酸刻薄抽象ㄅ｜不鍵政｜TYVAディヴァ｜リトルライター｜ペンギンやで｜DM無視｜ENTP-T｜低智商人類｜喧嘩が好き",
+        "id": "1731670068189114368",
+        "location": "My mom",
+        "name": "オオリ_ディヴァ",
+        "pinned_tweet_id": "1857524505624592596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857751123353911296/CMNhz7jV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 346,
+          "like_count": 17687,
+          "listed_count": 0,
+          "tweet_count": 2158
+        },
+        "username": "Oori_TW",
+        "verified": false
+      }
+    ]
+  }
+}

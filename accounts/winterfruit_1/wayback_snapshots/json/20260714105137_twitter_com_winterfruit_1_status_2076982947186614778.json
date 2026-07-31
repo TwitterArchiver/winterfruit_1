@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2076897151213506769",
+    "created_at": "2026-07-14T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076982947186614778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055010868174143488",
+          "start": 0,
+          "username": "Tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982947186614778",
+    "in_reply_to_user_id": "2055010868174143488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076897151213506769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiegang114514 是给自己贴标签的基因发作"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076897151213506769].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076897151213506769",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076897151213506769"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2076897151213506769",
+        "created_at": "2026-07-14T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982947186614778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982947186614778",
+        "in_reply_to_user_id": "2055010868174143488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076897151213506769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 是给自己贴标签的基因发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 1483,
+          "like_count": 43682,
+          "listed_count": 6,
+          "media_count": 1895,
+          "tweet_count": 13107
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T19:43:08.000Z",
+        "description": "永锁号，就这么样吧\n大号@NMD_China喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "NMD_China"
+              }
+            ]
+          }
+        },
+        "id": "2055010868174143488",
+        "location": "小樽",
+        "name": "社恐的鱼睡大觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058375320877559808/nFWGLM_N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 97,
+          "like_count": 3732,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Tiegang114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2052644962026840348",
+    "created_at": "2026-05-08T07:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052644962026840348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zjgLhtJ",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/zjgLhtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052644962026840348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052626366584209605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052644962026840348].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052644962026840348",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052644962026840348"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2052626357113544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxky-hbYAAxXnh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052626357113544704"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2052626366584209605",
+        "created_at": "2026-05-08T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052626366584209605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjgLhtJq9j",
+              "end": 127,
+              "expanded_url": "https://x.com/Retepa555/status/2052626366584209605/photo/1",
+              "media_key": "3_2052626357113544704",
+              "start": 104,
+              "url": "https://t.co/zjgLhtJq9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052626366584209605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJq9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 1484,
+          "like_count": 41258,
+          "listed_count": 6,
+          "media_count": 1780,
+          "tweet_count": 12073
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 727,
+          "like_count": 20747,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

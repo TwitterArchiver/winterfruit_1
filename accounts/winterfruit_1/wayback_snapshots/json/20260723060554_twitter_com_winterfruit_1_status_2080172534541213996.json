@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "id": "871535126710059008",
+          "name": "T1"
+        }
+      }
+    ],
+    "conversation_id": "2080172534541213996",
+    "created_at": "2026-07-23T06:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080172534541213996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dexerto/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/dexerto/status/2079906831749488758",
+          "start": 15,
+          "url": "https://t.co/mldhAdeoNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080172534541213996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079906831749488758",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次t1比赛可以刷对面袭警了 https://t.co/mldhAdeoNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2079906825806168064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1QPP4WQAAMN5P.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1700,
+        "media_key": "3_2079906829035814912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1QPb6WwAAl3hZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "id": "871535126710059008",
+              "name": "T1"
+            }
+          }
+        ],
+        "conversation_id": "2080172534541213996",
+        "created_at": "2026-07-23T06:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080172534541213996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexerto/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/dexerto/status/2079906831749488758",
+              "start": 15,
+              "url": "https://t.co/mldhAdeoNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080172534541213996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079906831749488758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次t1比赛可以刷对面袭警了 https://t.co/mldhAdeoNU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079906825806168064",
+            "3_2079906829035814912"
+          ]
+        },
+        "author_id": "76766018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "2079906831749488758",
+        "created_at": "2026-07-22T12:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079906831749488758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgZHODGXVb",
+              "end": 106,
+              "expanded_url": "https://x.com/Dexerto/status/2079906831749488758/photo/1",
+              "media_key": "3_2079906825806168064",
+              "start": 83,
+              "url": "https://t.co/VgZHODGXVb"
+            },
+            {
+              "display_url": "pic.x.com/VgZHODGXVb",
+              "end": 106,
+              "expanded_url": "https://x.com/Dexerto/status/2079906831749488758/photo/1",
+              "media_key": "3_2079906829035814912",
+              "start": 83,
+              "url": "https://t.co/VgZHODGXVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079906831749488758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4115,
+          "impression_count": 3694674,
+          "like_count": 97342,
+          "quote_count": 1071,
+          "reply_count": 379,
+          "retweet_count": 2369
+        },
+        "reply_settings": "everyone",
+        "text": "Esports star Faker has been appointed as an honorary police officer in South Korea https://t.co/VgZHODGXVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1484,
+          "like_count": 43613,
+          "listed_count": 6,
+          "media_count": 1902,
+          "tweet_count": 13205
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-23T21:44:53.000Z",
+        "description": "The leading source for influencer, streamer, gaming, and viral content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dexerto.com",
+                "end": 23,
+                "expanded_url": "https://www.dexerto.com/",
+                "start": 0,
+                "url": "https://t.co/2So9UX8reR"
+              }
+            ]
+          }
+        },
+        "id": "76766018",
+        "location": "press[at]dexerto.com",
+        "name": "Dexerto",
+        "pinned_tweet_id": "2079582179810476382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714301666445402112/5U5myYFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396453,
+          "following_count": 961,
+          "like_count": 6879,
+          "listed_count": 3789,
+          "media_count": 62293,
+          "tweet_count": 140945
+        },
+        "url": "https://t.co/2So9UX8reR",
+        "username": "Dexerto",
+        "verified": true
+      }
+    ]
+  }
+}

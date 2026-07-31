@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1977736574780473363",
+    "created_at": "2025-10-13T18:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T19:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977810591134962089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826281483675299840",
+          "start": 0,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977810591134962089",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977736574780473363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_shang85157 不早说，都打完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1977736574780473363",
+        "created_at": "2025-10-13T18:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T19:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977810591134962089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977810591134962089",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977736574780473363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 不早说，都打完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "1977736574780473363",
+        "created_at": "2025-10-13T14:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977736574780473363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ci_shang85157/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ci_shang85157/status/1977402682282516934",
+              "start": 22,
+              "url": "https://t.co/eANVvj3QaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977736574780473363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1422,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977402682282516934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起大家 我只是搞个抽象。这个是网图 。 https://t.co/eANVvj3QaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 795,
+          "like_count": 16885,
+          "listed_count": 3,
+          "media_count": 566,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 小男友@pertx114514  结义兄弟@wuyan_sleeeepy还有穹璃 互fo可以私信我交朋友什么的 反正我还挺闲 然后就是没有然后了 一切都是最好的安排https://t.co/ILEWFdOQz0。 ngl匿名问答",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "pertx114514"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "wuyan_sleeeepy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 104,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "1970427616353296660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977423285974675457/bW8DNFIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 658,
+          "like_count": 17040,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 6587
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

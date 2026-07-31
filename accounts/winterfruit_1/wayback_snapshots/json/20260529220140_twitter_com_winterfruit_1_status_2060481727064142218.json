@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2060409971527880749",
+    "created_at": "2026-05-29T22:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060481727064142218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1717080511435153408",
+          "start": 0,
+          "username": "Your1828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060481727064142218",
+    "in_reply_to_user_id": "1717080511435153408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060432631255138811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your1828 你是谁来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060409971527880749",
+        "created_at": "2026-05-29T22:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060481727064142218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1717080511435153408",
+              "start": 0,
+              "username": "Your1828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060481727064142218",
+        "in_reply_to_user_id": "1717080511435153408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060432631255138811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your1828 你是谁来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080511435153408",
+        "conversation_id": "2060409971527880749",
+        "created_at": "2026-05-29T18:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060432631255138811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060432631255138811",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060409971527880749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 就是一群窝囊废嘴里含着要死要活，实际上就是聚在一起搞乱伦的，天天说是什么活着难想着别人安慰你？真的很可怜。结果就是第二年头像变黑心理问题，只能自救没人会关心你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 1473,
+          "like_count": 42258,
+          "listed_count": 6,
+          "media_count": 1835,
+          "tweet_count": 12533
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:28:02.000Z",
+        "description": "不要骂人",
+        "id": "1717080511435153408",
+        "name": "江郎才尽",
+        "pinned_tweet_id": "1912790342580985913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825245469339254784/t_F0Pziy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 165,
+          "like_count": 232,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 884
+        },
+        "username": "Your1828",
+        "verified": false
+      }
+    ]
+  }
+}

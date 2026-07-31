@@ -1,0 +1,792 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1577343729815662592",
+    "created_at": "2026-05-15T10:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055227440340078810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1374317368361447434",
+          "start": 0,
+          "username": "songpinganq"
+        },
+        {
+          "end": 22,
+          "id": "44196397",
+          "start": 13,
+          "username": "elonmusk"
+        },
+        {
+          "end": 38,
+          "id": "1398697461040828417",
+          "start": 23,
+          "username": "TragedyInChina"
+        },
+        {
+          "end": 50,
+          "id": "2775998016",
+          "start": 39,
+          "username": "HuXijin_GT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055227440340078810",
+    "in_reply_to_user_id": "1374317368361447434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1578109343404359681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songpinganq @elonmusk @TragedyInChina @HuXijin_GT 温馨提醒：元旦假期即将来临，请按照“两限制两倡导”原则加强人员出行管理。\n1、限制前往中高风险区，非必要不前往中高风险区\n所在地市。\n2、中高风险区所在县（市、区）人员限制出行，确需出行的须持48小时内两次核酸检测（每次间隔24小时）阴性证明和健康码“绿码”。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15022,
+        "height": 1280,
+        "media_key": "7_1578109292145778688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1578109292145778688/pu/img/wCSlZtY1xzb3Ukbq.jpg",
+        "public_metrics": {
+          "view_count": 38803
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1578109292145778688/pu/vid/320x568/ZX3jkuJev5LJBx9F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1578109292145778688/pu/vid/480x852/7B6ArBgBbFnPj22S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1578109292145778688/pu/vid/720x1280/zwgjKulySYZtGuAf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1578109292145778688/pu/pl/SWtdkOHFDEQed-7o.m3u8?tag=12&v=950"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1577343729815662592",
+        "created_at": "2026-05-15T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055227440340078810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374317368361447434",
+              "start": 0,
+              "username": "songpinganq"
+            },
+            {
+              "end": 22,
+              "id": "44196397",
+              "start": 13,
+              "username": "elonmusk"
+            },
+            {
+              "end": 38,
+              "id": "1398697461040828417",
+              "start": 23,
+              "username": "TragedyInChina"
+            },
+            {
+              "end": 50,
+              "id": "2775998016",
+              "start": 39,
+              "username": "HuXijin_GT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055227440340078810",
+        "in_reply_to_user_id": "1374317368361447434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1578109343404359681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songpinganq @elonmusk @TragedyInChina @HuXijin_GT 温馨提醒：元旦假期即将来临，请按照“两限制两倡导”原则加强人员出行管理。\n1、限制前往中高风险区，非必要不前往中高风险区\n所在地市。\n2、中高风险区所在县（市、区）人员限制出行，确需出行的须持48小时内两次核酸检测（每次间隔24小时）阴性证明和健康码“绿码”。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1578109292145778688"
+          ]
+        },
+        "author_id": "1374317368361447434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This page is a timeline of Tweets with the latest information and updates on COVID-19 from experts, journalists, health authorities and other trusted sources from around the world. For more on COVID-19, visit: twitter.com/explore/tabs/covid-19",
+              "id": "1219057585707315201",
+              "name": "COVID-19: Latest news updates from around the world"
+            }
+          }
+        ],
+        "conversation_id": "1577343729815662592",
+        "created_at": "2022-10-06T19:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2022-10-06T20:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1578109343404359681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "44196397",
+              "start": 0,
+              "username": "elonmusk"
+            },
+            {
+              "end": 25,
+              "id": "1398697461040828417",
+              "start": 10,
+              "username": "TragedyInChina"
+            },
+            {
+              "end": 37,
+              "id": "2775998016",
+              "start": 26,
+              "username": "HuXijin_GT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2l8lrnk5h2",
+              "end": 208,
+              "expanded_url": "https://x.com/songpinganq/status/1578109343404359681/video/1",
+              "media_key": "7_1578109292145778688",
+              "start": 185,
+              "url": "https://t.co/2l8lrnk5h2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1578109343404359681",
+        "in_reply_to_user_id": "44196397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 0,
+          "like_count": 494,
+          "quote_count": 21,
+          "reply_count": 55,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1578049022102851584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmusk @TragedyInChina @HuXijin_GT 请救救中国人! 数以百万计的人被关在新冠集中营!\n\nHelp Chinese people, Please! Millions of people are being lockd up in COVID quarantine camps now, at their own expenses! https://t.co/2l8lrnk5h2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 1484,
+          "like_count": 41415,
+          "listed_count": 6,
+          "media_count": 1796,
+          "tweet_count": 12218
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T11:09:50.000Z",
+        "description": "China imprisoned 30 million people in quarantine camps \n\nFocus on exposing Social Credit Scoring System, China's Surveillance State.",
+        "id": "1374317368361447434",
+        "name": "Songpinganq",
+        "pinned_tweet_id": "2055009065278070811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586271201604866048/_YTGws5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125602,
+          "following_count": 15614,
+          "like_count": 114779,
+          "listed_count": 818,
+          "media_count": 22519,
+          "tweet_count": 84959
+        },
+        "username": "songpinganq",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/dDtDyVssfm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.ai",
+                "end": 23,
+                "expanded_url": "http://Terafab.ai",
+                "start": 0,
+                "url": "https://t.co/dDtDyVssfm"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2055008501722943750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239811035,
+          "following_count": 1330,
+          "like_count": 227401,
+          "listed_count": 168947,
+          "media_count": 4489,
+          "tweet_count": 102514
+        },
+        "username": "elonmusk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T17:47:38.000Z",
+        "description": "新号 @newszg_official ！个人号👉 @newszg_run ！记录追踪中国发生的各种悲剧及最热点前沿新闻和事件！ #中国 #大陆 #中国新闻 #中國 #大陸 #中國新聞 #CCP #China ❗️❗️Telegram电报群👉👉 https://t.co/9TzwHTPg4f",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 65,
+                "tag": "中国"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "大陆"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "中国新闻"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "中國"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "大陸"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "中國新聞"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "CCP"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "China"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "newszg_official"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "newszg_run"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/newszg_official",
+                "end": 146,
+                "expanded_url": "https://t.me/newszg_official",
+                "start": 123,
+                "url": "https://t.co/9TzwHTPg4f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/newszg_official",
+                "end": 23,
+                "expanded_url": "https://t.me/newszg_official",
+                "start": 0,
+                "url": "https://t.co/9TzwHTPg4f"
+              }
+            ]
+          }
+        },
+        "id": "1398697461040828417",
+        "location": "Telegram电报群➡️",
+        "name": "中国悲剧档案【老号】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1398697682022006784/P8ML_wV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72351,
+          "following_count": 115,
+          "like_count": 241,
+          "listed_count": 318,
+          "media_count": 13266,
+          "tweet_count": 20332
+        },
+        "url": "https://t.co/9TzwHTPg4f",
+        "username": "TragedyInChina",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-28T08:38:33.000Z",
+        "description": "Media professional | 媒体人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "globaltimes.cn",
+                "end": 23,
+                "expanded_url": "http://www.globaltimes.cn",
+                "start": 0,
+                "url": "https://t.co/dXa8Gpj653"
+              }
+            ]
+          }
+        },
+        "id": "2775998016",
+        "location": "China",
+        "name": "Hu Xijin 胡锡进",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/504912656256352256/swrUCKHO_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579569,
+          "following_count": 837,
+          "like_count": 94,
+          "listed_count": 3778,
+          "media_count": 2072,
+          "tweet_count": 4688
+        },
+        "url": "https://t.co/dXa8Gpj653",
+        "username": "HuXijin_GT",
+        "verified": true
+      }
+    ]
+  }
+}

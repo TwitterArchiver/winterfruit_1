@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037717687045070848"
+      ],
+      "media_source_tweet_id": [
+        "2037717753696817228"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037794103417819492",
+    "created_at": "2026-03-28T07:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037794103417819492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594011092270780416",
+          "start": 3,
+          "username": "1_0xll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSnsEjmVLz",
+          "end": 35,
+          "expanded_url": "https://x.com/1_0xll/status/2037717753696817228/video/1",
+          "media_key": "13_2037717687045070848",
+          "start": 12,
+          "url": "https://t.co/cSnsEjmVLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037794103417819492",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037717753696817228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1_0xll: https://t.co/cSnsEjmVLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9880,
+        "height": 960,
+        "media_key": "13_2037717687045070848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037717687045070848/img/TRQUiOshUak-AEO6.jpg",
+        "public_metrics": {
+          "view_count": 7115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037717687045070848/vid/avc1/320x426/yZpuXTg8MmCRhF8X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037717687045070848/vid/avc1/480x640/DzhdLbRD-R1cfkWF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037717687045070848/vid/avc1/720x960/r4zPHYtyoKIo2fu8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037717687045070848/pl/-ojkKFnNSNri0oMS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037717687045070848"
+          ],
+          "media_source_tweet_id": [
+            "2037717753696817228"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037794103417819492",
+        "created_at": "2026-03-28T07:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037794103417819492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594011092270780416",
+              "start": 3,
+              "username": "1_0xll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSnsEjmVLz",
+              "end": 35,
+              "expanded_url": "https://x.com/1_0xll/status/2037717753696817228/video/1",
+              "media_key": "13_2037717687045070848",
+              "start": 12,
+              "url": "https://t.co/cSnsEjmVLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037794103417819492",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037717753696817228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1_0xll: https://t.co/cSnsEjmVLz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037717687045070848"
+          ]
+        },
+        "author_id": "1594011092270780416",
+        "conversation_id": "2037717753696817228",
+        "created_at": "2026-03-28T02:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037717753696817228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSnsEjmVLz",
+              "end": 23,
+              "expanded_url": "https://x.com/1_0xll/status/2037717753696817228/video/1",
+              "media_key": "13_2037717687045070848",
+              "start": 0,
+              "url": "https://t.co/cSnsEjmVLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037717753696817228",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 18290,
+          "like_count": 1299,
+          "quote_count": 27,
+          "reply_count": 4,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cSnsEjmVLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit / 💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "一群人，一辈子，做好传播药是本文化这件事",
+        "pinned_tweet_id": "2037054451719299101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 1466,
+          "like_count": 38146,
+          "listed_count": 7,
+          "media_count": 1594,
+          "tweet_count": 11220
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T16:54:08.000Z",
+        "description": "05 ｜摂食",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10796777…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107967779/illustrations",
+                "start": 0,
+                "url": "https://t.co/a4r3lrBnzd"
+              }
+            ]
+          }
+        },
+        "id": "1594011092270780416",
+        "name": "吐瀉",
+        "pinned_tweet_id": "2012551536799347017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991946249956896768/CtRHgqp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 61,
+          "like_count": 6685,
+          "listed_count": 10,
+          "media_count": 454,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/a4r3lrBnzd",
+        "username": "1_0xll",
+        "verified": false
+      }
+    ]
+  }
+}

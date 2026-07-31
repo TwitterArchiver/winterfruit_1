@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953547431859167232"
+      ],
+      "media_source_tweet_id": [
+        "1953547435365789899"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "1953770551178080565",
+    "created_at": "2025-08-08T10:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953770551178080565"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "miabyss",
+          "probability": 0.5902,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "Madeinabyss",
+          "probability": 0.691,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "miabyss"
+        },
+        {
+          "end": 65,
+          "start": 53,
+          "tag": "Madeinabyss"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1865157778593189890",
+          "start": 3,
+          "username": "CesarCuevas7310"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8nN68GVuB",
+          "end": 89,
+          "expanded_url": "https://x.com/CesarCuevas7310/status/1953547435365789899/photo/1",
+          "media_key": "3_1953547431859167232",
+          "start": 66,
+          "url": "https://t.co/a8nN68GVuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953770551178080565",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953547435365789899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CesarCuevas7310: she is so beautiful 😊\n#miabyss  #Madeinabyss https://t.co/a8nN68GVuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_1953547431859167232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxlCffXoAAqflf.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953547431859167232"
+          ],
+          "media_source_tweet_id": [
+            "1953547435365789899"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1953770551178080565",
+        "created_at": "2025-08-08T10:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953770551178080565"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "miabyss",
+              "probability": 0.5902,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Madeinabyss",
+              "probability": 0.691,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "miabyss"
+            },
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "Madeinabyss"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1865157778593189890",
+              "start": 3,
+              "username": "CesarCuevas7310"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8nN68GVuB",
+              "end": 89,
+              "expanded_url": "https://x.com/CesarCuevas7310/status/1953547435365789899/photo/1",
+              "media_key": "3_1953547431859167232",
+              "start": 66,
+              "url": "https://t.co/a8nN68GVuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953770551178080565",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953547435365789899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CesarCuevas7310: she is so beautiful 😊\n#miabyss  #Madeinabyss https://t.co/a8nN68GVuB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953547431859167232"
+          ]
+        },
+        "author_id": "1865157778593189890",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1953547435365789899",
+        "created_at": "2025-08-07T20:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T21:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953547435365789899"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "miabyss",
+              "probability": 0.5605,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Madeinabyss",
+              "probability": 0.6646,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "miabyss"
+            },
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "Madeinabyss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8nN68GVuB",
+              "end": 68,
+              "expanded_url": "https://x.com/CesarCuevas7310/status/1953547435365789899/photo/1",
+              "media_key": "3_1953547431859167232",
+              "start": 45,
+              "url": "https://t.co/a8nN68GVuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953547435365789899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 8926,
+          "like_count": 512,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "she is so beautiful 😊\n#miabyss  #Madeinabyss https://t.co/a8nN68GVuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 433,
+          "like_count": 8858,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2777
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T22:15:06.000Z",
+        "description": "I like Made in abyss and Touhou project 😎 follow me if you like it as much as I do 🙃 I share things that I like. | age 24 |.\n💎I respond to everything",
+        "id": "1865157778593189890",
+        "location": "The Internet",
+        "name": "Cèsar Alejandro💫🩵🪐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948818798485614592/eu89pXEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 212,
+          "like_count": 13288,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1027
+        },
+        "username": "CesarCuevas7310",
+        "verified": false
+      }
+    ]
+  }
+}

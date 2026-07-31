@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1925359675975041308",
+    "created_at": "2025-08-06T05:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952969302799466648"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "LAIN",
+          "probability": 0.625,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "858888851040870401",
+          "start": 0,
+          "username": "RayLee0628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952969302799466648",
+    "in_reply_to_user_id": "858888851040870401",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925359675975041308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RayLee0628 LET‘S ALL LOVE LAIN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2196,
+        "media_key": "3_1925359672405762049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrhAa8qboAEUntr.jpg",
+        "width": 1648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1925359675975041308",
+        "created_at": "2025-08-06T05:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952969302799466648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "LAIN",
+              "probability": 0.625,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "858888851040870401",
+              "start": 0,
+              "username": "RayLee0628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952969302799466648",
+        "in_reply_to_user_id": "858888851040870401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925359675975041308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RayLee0628 LET‘S ALL LOVE LAIN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925359672405762049"
+          ]
+        },
+        "author_id": "858888851040870401",
+        "conversation_id": "1925359675975041308",
+        "created_at": "2025-05-22T01:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T02:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925359675975041308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "lain"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "玲音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAEpBMIWgU",
+              "end": 33,
+              "expanded_url": "https://x.com/RayLee0628/status/1925359675975041308/photo/1",
+              "media_key": "3_1925359672405762049",
+              "start": 10,
+              "url": "https://t.co/PAEpBMIWgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925359675975041308",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#lain #玲音 https://t.co/PAEpBMIWgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / @_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1952442075259240824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 420,
+          "like_count": 8620,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2631
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T03:40:34.000Z",
+        "description": "",
+        "id": "858888851040870401",
+        "name": "超级岩仓小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913647121921916929/vf69bfoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 95,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 90
+        },
+        "username": "RayLee0628",
+        "verified": false
+      }
+    ]
+  }
+}

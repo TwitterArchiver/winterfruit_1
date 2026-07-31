@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1979942251234214155",
+    "created_at": "2025-10-19T16:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979942251234214155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pear14525902/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/pear14525902/status/1605238908719337473",
+          "start": 14,
+          "url": "https://t.co/cg0Dv8aBlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979942251234214155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1605238908719337473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🍐老师在春风的帖子下的锐评 https://t.co/cg0Dv8aBlr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1979942251234214155",
+        "created_at": "2025-10-19T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979942251234214155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pear14525902/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pear14525902/status/1605238908719337473",
+              "start": 14,
+              "url": "https://t.co/cg0Dv8aBlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979942251234214155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1605238908719337473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🍐老师在春风的帖子下的锐评 https://t.co/cg0Dv8aBlr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381523094087507974",
+        "conversation_id": "1604802534345883650",
+        "created_at": "2022-12-20T16:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2022-12-20T16:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1605238908719337473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1533024617811812352",
+              "start": 0,
+              "username": "Spr1ngW1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1605238908719337473",
+        "in_reply_to_user_id": "1533024617811812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7728,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1604802534345883650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngW1nd 为了逃避私有制的迫害而迫害自己的脑子，我不认可。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 936,
+          "like_count": 18249,
+          "listed_count": 3,
+          "media_count": 613,
+          "tweet_count": 5830
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "location": "Florida, USA",
+        "name": "🍐老师🔮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44863,
+          "following_count": 1403,
+          "like_count": 134158,
+          "listed_count": 191,
+          "media_count": 2615,
+          "tweet_count": 120656
+        },
+        "username": "pear14525902",
+        "verified": false
+      }
+    ]
+  }
+}

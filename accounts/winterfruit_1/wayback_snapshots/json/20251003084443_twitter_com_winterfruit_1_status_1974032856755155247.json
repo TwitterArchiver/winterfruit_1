@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1974032856755155247",
+    "created_at": "2025-10-03T08:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T09:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974032856755155247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n_n_dpt/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/n_n_dpt/status/1974007642864439451",
+          "start": 26,
+          "url": "https://t.co/lbNa5ozIcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974032856755155247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974007642864439451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伟大的Sakura急需120元，你们没有收到通知吗 https://t.co/lbNa5ozIcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1974007639639212032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UVfVCaQAA5FlC.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1974032856755155247",
+        "created_at": "2025-10-03T08:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974032856755155247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n_n_dpt/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/n_n_dpt/status/1974007642864439451",
+              "start": 26,
+              "url": "https://t.co/lbNa5ozIcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974032856755155247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974007642864439451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伟大的Sakura急需120元，你们没有收到通知吗 https://t.co/lbNa5ozIcK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974007639639212032"
+          ]
+        },
+        "author_id": "522147771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1974007642864439451",
+        "created_at": "2025-10-03T07:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974007642864439451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otlO3YnQTO",
+              "end": 49,
+              "expanded_url": "https://x.com/N_N_DPT/status/1974007642864439451/photo/1",
+              "media_key": "3_1974007639639212032",
+              "start": 26,
+              "url": "https://t.co/otlO3YnQTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974007642864439451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想换5G手机了，急需120元求好心人赞助，借款也行 https://t.co/otlO3YnQTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 621,
+          "like_count": 14725,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 4421
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "化学极乐百科:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "https://www.overdose.day",
+                "start": 7,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 57,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 34,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 92,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 69,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1981,
+          "like_count": 712,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

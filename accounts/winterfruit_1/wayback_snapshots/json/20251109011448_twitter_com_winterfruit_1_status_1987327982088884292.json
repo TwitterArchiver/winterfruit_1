@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1987091075564249403",
+    "created_at": "2025-11-09T01:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T02:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987327982088884292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657704267443232770",
+          "start": 0,
+          "username": "kaede_shigeru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987327982088884292",
+    "in_reply_to_user_id": "1657704267443232770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987293349343003099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaede_shigeru 不如澳大利亚大逃杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1987091075564249403",
+        "created_at": "2025-11-09T01:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T02:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987327982088884292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657704267443232770",
+              "start": 0,
+              "username": "kaede_shigeru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987327982088884292",
+        "in_reply_to_user_id": "1657704267443232770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987293349343003099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaede_shigeru 不如澳大利亚大逃杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657704267443232770",
+        "conversation_id": "1987091075564249403",
+        "created_at": "2025-11-08T22:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987293349343003099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987293349343003099",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987091075564249403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 全人類苦行東南山"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 1249,
+          "like_count": 21303,
+          "listed_count": 5,
+          "media_count": 734,
+          "tweet_count": 6860
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T11:08:05.000Z",
+        "description": "安寧하십니까\n                            來日의 나는 幸福하길            來日의 너도 幸福하길",
+        "id": "1657704267443232770",
+        "location": "大觀園",
+        "name": "清全청전",
+        "pinned_tweet_id": "1977411206865686530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986562781336788992/0erw57hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 600,
+          "like_count": 17907,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 5080
+        },
+        "username": "kaede_shigeru",
+        "verified": false
+      }
+    ]
+  }
+}

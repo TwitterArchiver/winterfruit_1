@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974080798799306752"
+      ],
+      "media_source_tweet_id": [
+        "1974080847285531055"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974554100252717540",
+    "created_at": "2025-10-04T19:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974554100252717540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928710897989730304",
+          "start": 3,
+          "username": "wang101jack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o346eALJ5s",
+          "end": 40,
+          "expanded_url": "https://x.com/wang101jack/status/1974080847285531055/video/1",
+          "media_key": "13_1974080798799306752",
+          "start": 17,
+          "url": "https://t.co/o346eALJ5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974554100252717540",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974080847285531055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wang101jack: https://t.co/o346eALJ5s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974554100252717540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974554100252717540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974554100252717540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33254,
+        "height": 1280,
+        "media_key": "13_1974080798799306752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974080798799306752/img/2S8DPUzCgNMi-iWB.jpg",
+        "public_metrics": {
+          "view_count": 241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974080798799306752/vid/avc1/320x568/3eK85ur1GXHdm32h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974080798799306752/vid/avc1/480x852/bMdM9eDgIDcS4QxZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974080798799306752/vid/avc1/720x1280/NuFTWRCx_PfTtfiJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974080798799306752/pl/Tkn0a97RyUhWVIbI.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974080798799306752"
+          ]
+        },
+        "author_id": "1928710897989730304",
+        "conversation_id": "1974080847285531055",
+        "created_at": "2025-10-03T11:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974080847285531055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o346eALJ5s",
+              "end": 23,
+              "expanded_url": "https://x.com/wang101jack/status/1974080847285531055/video/1",
+              "media_key": "13_1974080798799306752",
+              "start": 0,
+              "url": "https://t.co/o346eALJ5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974080847285531055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 404,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o346eALJ5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 648,
+          "like_count": 15137,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 4575
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T07:11:38.000Z",
+        "description": "平等、自由、科学\n不想做男生或女生，只想做自己。",
+        "id": "1928710897989730304",
+        "location": "哥布林洞窟最深处",
+        "name": "墨逸🪿🪿🪿",
+        "pinned_tweet_id": "1973409229160792262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959900398686535680/-Mr-Ebw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 486,
+          "like_count": 4575,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1067
+        },
+        "username": "wang101jack",
+        "verified": false
+      }
+    ]
+  }
+}

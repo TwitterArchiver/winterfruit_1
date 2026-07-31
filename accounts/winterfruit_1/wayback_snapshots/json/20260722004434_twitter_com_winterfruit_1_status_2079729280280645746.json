@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2079729280280645746",
+    "created_at": "2026-07-22T00:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079729280280645746"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "ドキドキ文芸部"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "東京タワー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1377932520885383168",
+          "start": 3,
+          "username": "colab_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079729280280645746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1435
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079476478673408133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @colab_tokyo: 【お知らせ📢】\n#ドキドキ文芸部 × #東京タワー\n『キミとの夏休みデート in TOKYO TOWER』\n \n⋱.コラボイベント開催決定❣️ ⋰\n\nミニゲームつきのコラボチケットセットやオリジナルコラボグッズが登場！✨\n\n夏休みは東京タワーで…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079441667975946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNupLf7aIAA5Jco.jpg",
+        "width": 2893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2079729280280645746",
+        "created_at": "2026-07-22T00:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079729280280645746"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "ドキドキ文芸部"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "東京タワー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1377932520885383168",
+              "start": 3,
+              "username": "colab_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079729280280645746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1435
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079476478673408133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @colab_tokyo: 【お知らせ📢】\n#ドキドキ文芸部 × #東京タワー\n『キミとの夏休みデート in TOKYO TOWER』\n \n⋱.コラボイベント開催決定❣️ ⋰\n\nミニゲームつきのコラボチケットセットやオリジナルコラボグッズが登場！✨\n\n夏休みは東京タワーで…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079441667975946240"
+          ]
+        },
+        "author_id": "1377932520885383168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2079476478673408133",
+        "created_at": "2026-07-21T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079476478673408133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "ドキドキ文芸部"
+            },
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "東京タワー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LCZkUmnTU",
+              "end": 175,
+              "expanded_url": "https://x.com/colab_tokyo/status/2079476478673408133/photo/1",
+              "media_key": "3_2079441667975946240",
+              "start": 152,
+              "url": "https://t.co/9LCZkUmnTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079476478673408133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 8,
+                "tag": "ドキドキ文芸部"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "東京タワー"
+              },
+              {
+                "end": 249,
+                "start": 233,
+                "tag": "ドキドキ文芸部東京タワーコラボ"
+              },
+              {
+                "end": 255,
+                "start": 250,
+                "tag": "DDLC"
+              }
+            ]
+          },
+          "text": "【お知らせ📢】\n#ドキドキ文芸部 × #東京タワー\n『キミとの夏休みデート in TOKYO TOWER』\n \n⋱.コラボイベント開催決定❣️ ⋰\n\nミニゲームつきのコラボチケットセットやオリジナルコラボグッズが登場！✨\n\n夏休みは東京タワーで楽しもう🗼⚡️\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n🗓期間：2026年8月13日(木)～9月2日(水)\n📍場所：東京タワー フットタウン2階 Co・Lab-TOKYO-\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n#ドキドキ文芸部東京タワーコラボ #DDLC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 194222,
+          "like_count": 4538,
+          "quote_count": 616,
+          "reply_count": 7,
+          "retweet_count": 1435
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ📢】\n#ドキドキ文芸部 × #東京タワー\n『キミとの夏休みデート in TOKYO TOWER』\n \n⋱.コラボイベント開催決定❣️ ⋰\n\nミニゲームつきのコラボチケットセットやオリジナルコラボグッズが登場！✨\n\n夏休みは東京タワーで楽しもう🗼⚡️\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ https://t.co/9LCZkUmnTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1485,
+          "like_count": 43563,
+          "listed_count": 6,
+          "media_count": 1900,
+          "tweet_count": 13189
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T10:35:29.000Z",
+        "description": "アニメ・ゲーム・タレント・動画クリエイターとのコラボショップ 「Co・Lab-TOKYO-」の公式アカウントです。 ポップアップショップ情報、商品情報等を更新していきます！ 発信専用です。EC SHOP→https://t.co/zyrvm9gxnh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "colabtokyo001.stores.jp",
+                "end": 125,
+                "expanded_url": "http://colabtokyo001.stores.jp",
+                "start": 102,
+                "url": "https://t.co/zyrvm9gxnh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "colabtokyo.hp.peraichi.com",
+                "end": 23,
+                "expanded_url": "https://colabtokyo.hp.peraichi.com/",
+                "start": 0,
+                "url": "https://t.co/BMn4wyz7TB"
+              }
+            ]
+          }
+        },
+        "id": "1377932520885383168",
+        "location": "東京タワー内フットタウン2階にて営業中！",
+        "name": "Co・Lab-TOKYO-🗼",
+        "pinned_tweet_id": "2072866604166345053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379007942205206532/zb2avLV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33275,
+          "following_count": 109,
+          "like_count": 3690,
+          "listed_count": 60,
+          "media_count": 5871,
+          "tweet_count": 6982
+        },
+        "url": "https://t.co/BMn4wyz7TB",
+        "username": "colab_tokyo",
+        "verified": true
+      }
+    ]
+  }
+}

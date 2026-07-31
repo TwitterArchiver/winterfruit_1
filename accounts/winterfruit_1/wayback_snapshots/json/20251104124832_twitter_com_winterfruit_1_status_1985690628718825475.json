@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984920278523342848"
+      ],
+      "media_source_tweet_id": [
+        "1984920313487069394"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1985690628718825475",
+    "created_at": "2025-11-04T12:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985690628718825475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKD7aVluha",
+          "end": 48,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1984920313487069394/photo/1",
+          "media_key": "3_1984920278523342848",
+          "start": 25,
+          "url": "https://t.co/kKD7aVluha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985690628718825475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984920313487069394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 是这样的 https://t.co/kKD7aVluha"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_1984920278523342848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vaegzacAAd1Rt.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984920278523342848"
+          ],
+          "media_source_tweet_id": [
+            "1984920313487069394"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1985690628718825475",
+        "created_at": "2025-11-04T12:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985690628718825475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKD7aVluha",
+              "end": 48,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1984920313487069394/photo/1",
+              "media_key": "3_1984920278523342848",
+              "start": 25,
+              "url": "https://t.co/kKD7aVluha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985690628718825475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984920313487069394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 是这样的 https://t.co/kKD7aVluha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984920278523342848"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1984920313487069394",
+        "created_at": "2025-11-02T09:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984920313487069394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKD7aVluha",
+              "end": 28,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1984920313487069394/photo/1",
+              "media_key": "3_1984920278523342848",
+              "start": 5,
+              "url": "https://t.co/kKD7aVluha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984920313487069394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 19097,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "是这样的 https://t.co/kKD7aVluha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1224,
+          "like_count": 21221,
+          "listed_count": 5,
+          "media_count": 713,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8908,
+          "following_count": 7532,
+          "like_count": 26401,
+          "listed_count": 19,
+          "media_count": 6016,
+          "tweet_count": 39450
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

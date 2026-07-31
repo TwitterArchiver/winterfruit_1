@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976874804960804866"
+      ],
+      "media_source_tweet_id": [
+        "1976874808471437402"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1977008436127904131",
+    "created_at": "2025-10-11T13:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977008436127904131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1088847069610033153",
+          "start": 3,
+          "username": "pinkpink939"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZDM2p3jUcp",
+          "end": 43,
+          "expanded_url": "https://x.com/pinkpink939/status/1976874808471437402/photo/1",
+          "media_key": "3_1976874804960804866",
+          "start": 20,
+          "url": "https://t.co/ZDM2p3jUcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977008436127904131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976874808471437402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkpink939: 对对 https://t.co/ZDM2p3jUcp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1976874804960804866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29FKUMbwAIuDDR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976874804960804866"
+          ],
+          "media_source_tweet_id": [
+            "1976874808471437402"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1977008436127904131",
+        "created_at": "2025-10-11T13:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977008436127904131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1088847069610033153",
+              "start": 3,
+              "username": "pinkpink939"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDM2p3jUcp",
+              "end": 43,
+              "expanded_url": "https://x.com/pinkpink939/status/1976874808471437402/photo/1",
+              "media_key": "3_1976874804960804866",
+              "start": 20,
+              "url": "https://t.co/ZDM2p3jUcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977008436127904131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976874808471437402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkpink939: 对对 https://t.co/ZDM2p3jUcp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976874804960804866"
+          ]
+        },
+        "author_id": "1088847069610033153",
+        "conversation_id": "1976874808471437402",
+        "created_at": "2025-10-11T04:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976874808471437402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDM2p3jUcp",
+              "end": 26,
+              "expanded_url": "https://x.com/pinkpink939/status/1976874808471437402/photo/1",
+              "media_key": "3_1976874804960804866",
+              "start": 3,
+              "url": "https://t.co/ZDM2p3jUcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976874808471437402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 7693,
+          "like_count": 1554,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "对对 https://t.co/ZDM2p3jUcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 766,
+          "like_count": 16463,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 5189
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-25T17:12:25.000Z",
+        "description": "粉粉｜破画画的｜👿重度依赖｜commissions:https://t.co/3jbiM5nzMm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/pinkpink939",
+                "end": 49,
+                "expanded_url": "https://vgen.co/pinkpink939",
+                "start": 26,
+                "url": "https://t.co/3jbiM5nzMm"
+              }
+            ]
+          }
+        },
+        "id": "1088847069610033153",
+        "name": "pchan🃏🍥",
+        "pinned_tweet_id": "1947279352867246209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964396679026921480/w84-uMUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18292,
+          "following_count": 796,
+          "like_count": 7645,
+          "listed_count": 46,
+          "media_count": 127,
+          "tweet_count": 1998
+        },
+        "username": "pinkpink939",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2027767824836620533",
+    "created_at": "2026-03-01T05:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027977654390186321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321270556717584384",
+          "start": 0,
+          "username": "TianCi_Club"
+        },
+        {
+          "end": 23,
+          "id": "1863439189909618688",
+          "start": 13,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027977654390186321",
+    "in_reply_to_user_id": "1321270556717584384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027935851783881036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianCi_Club @hsn8086xe ai牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2027767824836620533",
+        "created_at": "2026-03-01T05:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027977654390186321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321270556717584384",
+              "start": 0,
+              "username": "TianCi_Club"
+            },
+            {
+              "end": 23,
+              "id": "1863439189909618688",
+              "start": 13,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027977654390186321",
+        "in_reply_to_user_id": "1321270556717584384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027935851783881036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianCi_Club @hsn8086xe ai牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321270556717584384",
+        "conversation_id": "2027767824836620533",
+        "created_at": "2026-03-01T02:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027935851783881036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027935851783881036",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11523,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027767824836620533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 这篇推文链接内容主要是中文，所以用中文回复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 1425,
+          "like_count": 35193,
+          "listed_count": 7,
+          "media_count": 1438,
+          "tweet_count": 10416
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-28T02:00:31.000Z",
+        "description": "🔥 /   @JoinSapien 大使 ｜Weex全球大使:6zgg/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "JoinSapien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sunaixing521",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sunaixing521",
+                "start": 0,
+                "url": "https://t.co/VBufmwxwt9"
+              }
+            ]
+          }
+        },
+        "id": "1321270556717584384",
+        "location": "Cooperation in 👉 ",
+        "name": "天赐🌊",
+        "pinned_tweet_id": "2027648034759471507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659376648536588288/JlVhP1Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36015,
+          "following_count": 5703,
+          "like_count": 70014,
+          "listed_count": 56,
+          "media_count": 824,
+          "tweet_count": 51126
+        },
+        "url": "https://t.co/VBufmwxwt9",
+        "username": "TianCi_Club",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34674,
+          "following_count": 349,
+          "like_count": 114,
+          "listed_count": 98,
+          "media_count": 11426,
+          "tweet_count": 11472
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

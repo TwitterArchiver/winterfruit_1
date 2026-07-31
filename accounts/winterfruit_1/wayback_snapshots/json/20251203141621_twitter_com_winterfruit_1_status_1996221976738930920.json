@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996221968774033408"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1996217380251242527",
+    "created_at": "2025-12-03T14:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996221976738930920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941411522691072006",
+          "start": 0,
+          "username": "justyanwu14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LB7gdTA03a",
+          "end": 44,
+          "expanded_url": "https://x.com/winterfruit_1/status/1996221976738930920/photo/1",
+          "media_key": "3_1996221968774033408",
+          "start": 21,
+          "url": "https://t.co/LB7gdTA03a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996221976738930920",
+    "in_reply_to_user_id": "1941411522691072006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996218469537521946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justyanwu14 我想要一点点钱 https://t.co/LB7gdTA03a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_1996221968774033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QBTd2bcAAIWdT.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996221968774033408"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1996217380251242527",
+        "created_at": "2025-12-03T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996221976738930920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "justyanwu14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LB7gdTA03a",
+              "end": 44,
+              "expanded_url": "https://x.com/winterfruit_1/status/1996221976738930920/photo/1",
+              "media_key": "3_1996221968774033408",
+              "start": 21,
+              "url": "https://t.co/LB7gdTA03a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996221976738930920",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996218469537521946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justyanwu14 我想要一点点钱 https://t.co/LB7gdTA03a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "1996217380251242527",
+        "created_at": "2025-12-03T14:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996218469537521946"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "part4",
+              "probability": 0.486,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996218469537521946",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996217380251242527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 part4 2？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙🐙■■■：@■ / 江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1995495062290231407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 1355,
+          "like_count": 24951,
+          "listed_count": 7,
+          "media_count": 900,
+          "tweet_count": 7887
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "「或许你能从只言片语中拼出完整的我。」💧💧💧💧｜涘：@winterfruit_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "winterfruit_1"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "何名义？",
+        "pinned_tweet_id": "1991884240057925960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991487437667987464/ocx01ncC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 68,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 312
+        },
+        "username": "justyanwu14",
+        "verified": false
+      }
+    ]
+  }
+}

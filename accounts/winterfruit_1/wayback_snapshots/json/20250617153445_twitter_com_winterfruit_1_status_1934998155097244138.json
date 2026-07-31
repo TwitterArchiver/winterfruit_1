@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1934801523126751377",
+    "created_at": "2025-06-17T15:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934998155097244138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        },
+        {
+          "end": 18,
+          "id": "1589809419822329857",
+          "start": 9,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934998155097244138",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934966314411479256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist @jianlvup 想吃5mr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1934801523126751377",
+        "created_at": "2025-06-17T15:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934998155097244138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            },
+            {
+              "end": 18,
+              "id": "1589809419822329857",
+              "start": 9,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934998155097244138",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934966314411479256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist @jianlvup 想吃5mr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1934801523126751377",
+        "created_at": "2025-06-17T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934966314411479256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934966314411479256",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934801523126751377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 要我说啊，那些都不好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 335,
+          "like_count": 6421,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1778
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "赛博妓女，爱国爱党 🚪64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNBI2K"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4946,
+          "following_count": 1608,
+          "like_count": 33637,
+          "listed_count": 12,
+          "media_count": 226,
+          "tweet_count": 6753
+        },
+        "url": "https://t.co/gOK4bNBI2K",
+        "username": "5mRtist",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1934417023372784044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 735,
+          "like_count": 13209,
+          "listed_count": 9,
+          "media_count": 634,
+          "tweet_count": 1475
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883729137703202816"
+      ],
+      "media_source_tweet_id": [
+        "1883729140941218076"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1884185465739436329",
+    "created_at": "2025-01-28T10:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884185465739436329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1094108741618659335",
+          "start": 3,
+          "username": "Oldmoney_1987"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j2IuG62f1J",
+          "end": 128,
+          "expanded_url": "https://x.com/Oldmoney_1987/status/1883729140941218076/photo/1",
+          "media_key": "3_1883729137703202816",
+          "start": 105,
+          "url": "https://t.co/j2IuG62f1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884185465739436329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883729140941218076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oldmoney_1987: 我也是服了，看到中国出了deepseek，非得去上边问什么“习近平”如何如何，什么“8964”如何如何。\n\n你们这种2b爱好取向，不要用AI了，“大纪元”对你们就够用了。 https://t.co/j2IuG62f1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_1883729137703202816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiRZq5naMAAeMXx.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883729137703202816"
+          ],
+          "media_source_tweet_id": [
+            "1883729140941218076"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1884185465739436329",
+        "created_at": "2025-01-28T10:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884185465739436329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1094108741618659335",
+              "start": 3,
+              "username": "Oldmoney_1987"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2IuG62f1J",
+              "end": 128,
+              "expanded_url": "https://x.com/Oldmoney_1987/status/1883729140941218076/photo/1",
+              "media_key": "3_1883729137703202816",
+              "start": 105,
+              "url": "https://t.co/j2IuG62f1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884185465739436329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883729140941218076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oldmoney_1987: 我也是服了，看到中国出了deepseek，非得去上边问什么“习近平”如何如何，什么“8964”如何如何。\n\n你们这种2b爱好取向，不要用AI了，“大纪元”对你们就够用了。 https://t.co/j2IuG62f1J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883729137703202816"
+          ]
+        },
+        "author_id": "1094108741618659335",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1883729140941218076",
+        "created_at": "2025-01-27T04:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883729140941218076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2IuG62f1J",
+              "end": 109,
+              "expanded_url": "https://x.com/Oldmoney_1987/status/1883729140941218076/photo/1",
+              "media_key": "3_1883729137703202816",
+              "start": 86,
+              "url": "https://t.co/j2IuG62f1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883729140941218076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 831693,
+          "like_count": 3519,
+          "quote_count": 28,
+          "reply_count": 550,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "我也是服了，看到中国出了deepseek，非得去上边问什么“习近平”如何如何，什么“8964”如何如何。\n\n你们这种2b爱好取向，不要用AI了，“大纪元”对你们就够用了。 https://t.co/j2IuG62f1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 238,
+          "like_count": 4607,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1112
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-09T05:40:26.000Z",
+        "description": "津门哏儿都自干五。",
+        "id": "1094108741618659335",
+        "location": "China",
+        "name": "哏儿都老钱",
+        "pinned_tweet_id": "1468458560434499588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614137040970584064/CN5KnK6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58249,
+          "following_count": 1653,
+          "like_count": 38064,
+          "listed_count": 170,
+          "media_count": 6899,
+          "tweet_count": 35637
+        },
+        "username": "Oldmoney_1987",
+        "verified": true
+      }
+    ]
+  }
+}

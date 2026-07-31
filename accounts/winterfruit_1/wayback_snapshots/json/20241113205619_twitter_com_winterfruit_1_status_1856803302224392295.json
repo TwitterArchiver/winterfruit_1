@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1856803302224392295",
+    "created_at": "2024-11-13T20:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T21:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856803302224392295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1833048468535054336",
+          "start": 25,
+          "username": "Lizitou01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856803302224392295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "栗子头，土里又冷又脏，我想和光鲜亮丽的你葬在一起 @Lizitou01"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1856803302224392295",
+        "created_at": "2024-11-13T20:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T21:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856803302224392295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1833048468535054336",
+              "start": 25,
+              "username": "Lizitou01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856803302224392295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "栗子头，土里又冷又脏，我想和光鲜亮丽的你葬在一起 @Lizitou01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "我是我",
+        "id": "1837114188046684161",
+        "name": "winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 233,
+          "like_count": 3584,
+          "listed_count": 0,
+          "tweet_count": 909
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T07:43:33.000Z",
+        "description": "孩子们我必将归来",
+        "id": "1833048468535054336",
+        "location": "吉吉国",
+        "name": "栗子头（B is for burger）",
+        "pinned_tweet_id": "1855361700729340261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855361468356845568/-Pki1bz0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 126,
+          "like_count": 1255,
+          "listed_count": 0,
+          "tweet_count": 499
+        },
+        "username": "Lizitou01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2034665664737431924",
+    "created_at": "2026-03-19T17:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034679489897349577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "ecstasy_myslee"
+        },
+        {
+          "end": 28,
+          "id": "1701555310006308864",
+          "start": 16,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034679489897349577",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034679364697432090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ecstasy_myslee @Eternal1uv9 ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034679364697432090].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034679364697432090",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034679364697432090"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2034665664737431924",
+        "created_at": "2026-03-19T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034679489897349577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "ecstasy_myslee"
+            },
+            {
+              "end": 28,
+              "id": "1701555310006308864",
+              "start": 16,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034679489897349577",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034679364697432090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecstasy_myslee @Eternal1uv9 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit /  💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2033561989923103038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1461,
+          "like_count": 37000,
+          "listed_count": 7,
+          "media_count": 1531,
+          "tweet_count": 10910
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️  喜欢的人🩵@Eternal1uv9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Eternal1uv9"
+              }
+            ]
+          }
+        },
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 159,
+          "like_count": 4584,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 354
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "哥哥🤍@ecstasy_myslee//渡川 🛸@noth1nghere14//K🥛@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "ecstasy_myslee"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2033962540116619638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026678441152753671/9a5vO9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 247,
+          "like_count": 1114,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 2322
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

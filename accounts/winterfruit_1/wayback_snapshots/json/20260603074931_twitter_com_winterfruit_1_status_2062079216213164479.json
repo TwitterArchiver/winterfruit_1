@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2062079216213164479",
+    "created_at": "2026-06-03T07:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062079216213164479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17556811",
+          "start": 3,
+          "username": "RDNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062079216213164479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061778508700156081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RDNY: よく分からんが勝手に商標登録出願されているのか どうしたものか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2062079216213164479",
+        "created_at": "2026-06-03T07:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062079216213164479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17556811",
+              "start": 3,
+              "username": "RDNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062079216213164479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061778508700156081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RDNY: よく分からんが勝手に商標登録出願されているのか どうしたものか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17556811",
+        "conversation_id": "2061778508700156081",
+        "created_at": "2026-06-02T11:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061778508700156081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061778508700156081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 37845,
+          "like_count": 271,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "よく分からんが勝手に商標登録出願されているのか どうしたものか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 1470,
+          "like_count": 42548,
+          "listed_count": 6,
+          "media_count": 1844,
+          "tweet_count": 12640
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-22T13:00:44.000Z",
+        "description": "絵描き\n東方Projectの二次創作\nIDOLM@STER CGやFate等の漫画 (一迅社) \nVtuber「マリーさん @VirtualNekochan」イラスト\nweb漫画「ポプねこさん」他\nI'm not able to reply or respond right now.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "VirtualNekochan"
+              }
+            ]
+          }
+        },
+        "id": "17556811",
+        "location": "Japan",
+        "name": "ロドニィ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1158353304474144769/xu_YW8-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17911,
+          "following_count": 11337,
+          "like_count": 380,
+          "listed_count": 389,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "RDNY",
+        "verified": false
+      }
+    ]
+  }
+}

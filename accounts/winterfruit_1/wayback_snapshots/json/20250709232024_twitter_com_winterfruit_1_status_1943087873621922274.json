@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1942977765306986597",
+    "created_at": "2025-07-09T23:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T00:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943087873621922274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943087873621922274",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942977765306986597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 一个月800我真想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_1942977756712550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbX-bNWQAARpTW.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1942977765306986597",
+        "created_at": "2025-07-09T23:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T00:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943087873621922274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943087873621922274",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942977765306986597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 一个月800我真想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942977756712550400"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1942977765306986597",
+        "created_at": "2025-07-09T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942977765306986597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbQkYpxkbV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1942977765306986597/photo/1",
+              "media_key": "3_1942977756712550400",
+              "start": 0,
+              "url": "https://t.co/gbQkYpxkbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942977765306986597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 33386,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gbQkYpxkbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 372,
+          "like_count": 7494,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2101
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83309,
+          "following_count": 971,
+          "like_count": 41789,
+          "listed_count": 188,
+          "media_count": 13287,
+          "tweet_count": 19934
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

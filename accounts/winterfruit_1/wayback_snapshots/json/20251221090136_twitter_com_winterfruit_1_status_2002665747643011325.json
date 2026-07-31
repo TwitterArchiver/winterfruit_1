@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002665741980696576"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1829733689674383836",
+    "created_at": "2025-12-21T09:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002665747643011325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 25,
+          "id": "1922573287533801472",
+          "start": 14,
+          "username": "AiYin16898"
+        },
+        {
+          "end": 34,
+          "id": "1779921577213337601",
+          "start": 26,
+          "username": "TROWGGG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXsNk5xVzX",
+          "end": 63,
+          "expanded_url": "https://x.com/winterfruit_1/status/2002665747643011325/photo/1",
+          "media_key": "3_2002665741980696576",
+          "start": 40,
+          "url": "https://t.co/YXsNk5xVzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002665747643011325",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002665445661561061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @AiYin16898 @TROWGGG 我喜欢你 https://t.co/YXsNk5xVzX"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2002665445661561061].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2002665445661561061",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2002665445661561061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2002665741980696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rl4bqagAAJEjO.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002665741980696576"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1829733689674383836",
+        "created_at": "2025-12-21T09:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002665747643011325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 25,
+              "id": "1922573287533801472",
+              "start": 14,
+              "username": "AiYin16898"
+            },
+            {
+              "end": 34,
+              "id": "1779921577213337601",
+              "start": 26,
+              "username": "TROWGGG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXsNk5xVzX",
+              "end": 63,
+              "expanded_url": "https://x.com/winterfruit_1/status/2002665747643011325/photo/1",
+              "media_key": "3_2002665741980696576",
+              "start": 40,
+              "url": "https://t.co/YXsNk5xVzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002665747643011325",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002665445661561061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @AiYin16898 @TROWGGG 我喜欢你 https://t.co/YXsNk5xVzX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "username": "cy79p"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "justyanwu14"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1382,
+          "like_count": 26457,
+          "listed_count": 6,
+          "media_count": 1014,
+          "tweet_count": 8420
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤 #药物二",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4256,
+          "following_count": 59,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 585,
+          "tweet_count": 6372
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:43:05.000Z",
+        "description": "即使这是施加于我的诅咒，我也会将它当成祝福一样热爱！  已有对象\n\n     睦转生，大号已死；@ai_yin16898\n朋友小然  @owO123qwe       鼠尾草教✝️：@SalviaSWC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "ai_yin16898"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "owO123qwe"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "SalviaSWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mutsumi_never_…",
+                "end": 23,
+                "expanded_url": "http://t.me/Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/Ou4N5NdAnP"
+              }
+            ]
+          }
+        },
+        "id": "1922573287533801472",
+        "name": "机巧睦头不会受伤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922574248272654336/NDqlOESB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 755,
+          "like_count": 4050,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/Ou4N5NdAnP",
+        "username": "AiYin16898",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:16:12.000Z",
+        "description": "我无处不在✟                                                                     \n✟不要攻击只是一个不存在的实体                                     只对药物科研有兴趣",
+        "id": "1779921577213337601",
+        "location": "三东京市",
+        "name": "我叫某小花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779922488182583296/kIMH2qk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 94,
+          "like_count": 6365,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 357
+        },
+        "username": "TROWGGG",
+        "verified": false
+      }
+    ]
+  }
+}

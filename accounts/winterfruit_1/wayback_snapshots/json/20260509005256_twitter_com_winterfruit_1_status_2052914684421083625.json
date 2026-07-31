@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052914676544212992"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2052914684421083625",
+    "created_at": "2026-05-09T00:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052914684421083625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hqSzKxO7BQ",
+          "end": 44,
+          "expanded_url": "https://x.com/winterfruit_1/status/2052914684421083625/photo/1",
+          "media_key": "3_2052914676544212992",
+          "start": 21,
+          "url": "https://t.co/hqSzKxO7BQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052914684421083625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的截图，我是老资历吗\n我现在号被封了 https://t.co/hqSzKxO7BQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2052914676544212992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1rBYGakAA19l1.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052914676544212992"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2052914684421083625",
+        "created_at": "2026-05-09T00:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052914684421083625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqSzKxO7BQ",
+              "end": 44,
+              "expanded_url": "https://x.com/winterfruit_1/status/2052914684421083625/photo/1",
+              "media_key": "3_2052914676544212992",
+              "start": 21,
+              "url": "https://t.co/hqSzKxO7BQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052914684421083625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的截图，我是老资历吗\n我现在号被封了 https://t.co/hqSzKxO7BQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 1484,
+          "like_count": 41306,
+          "listed_count": 6,
+          "media_count": 1782,
+          "tweet_count": 12087
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

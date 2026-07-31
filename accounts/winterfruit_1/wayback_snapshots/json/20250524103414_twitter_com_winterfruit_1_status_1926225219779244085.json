@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1925834010002858113",
+    "created_at": "2025-05-24T10:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T11:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926225219779244085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926225219779244085",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925834010002858113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 西格玛高原😶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1925833999059922944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grnv0ZJWMAA4w-J.jpg",
+        "width": 892
+      },
+      {
+        "height": 1734,
+        "media_key": "3_1925833999059955712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grnv0ZJWsAALD9v.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1925834010002858113",
+        "created_at": "2025-05-24T10:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T11:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926225219779244085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926225219779244085",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925834010002858113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 西格玛高原😶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925833999059922944",
+            "3_1925833999059955712"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1925834010002858113",
+        "created_at": "2025-05-23T08:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T09:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925834010002858113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YS7iHzT4vB",
+              "end": 44,
+              "expanded_url": "https://x.com/cuichuna7/status/1925834010002858113/photo/1",
+              "media_key": "3_1925833999059922944",
+              "start": 21,
+              "url": "https://t.co/YS7iHzT4vB"
+            },
+            {
+              "display_url": "pic.x.com/YS7iHzT4vB",
+              "end": 44,
+              "expanded_url": "https://x.com/cuichuna7/status/1925834010002858113/photo/1",
+              "media_key": "3_1925833999059955712",
+              "start": 21,
+              "url": "https://t.co/YS7iHzT4vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925834010002858113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7046,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "90片愈美。第五高原我来力，第五人格启动 https://t.co/YS7iHzT4vB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose丨可以叫我420｜互fo🐧",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 274,
+          "like_count": 5125,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1471
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3872,
+          "like_count": 7831,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2775
+        },
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

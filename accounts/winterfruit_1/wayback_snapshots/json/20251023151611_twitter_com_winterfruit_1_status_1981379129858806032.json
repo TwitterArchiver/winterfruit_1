@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1981193472809038007",
+    "created_at": "2025-10-23T15:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981379129858806032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981379129858806032",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981193472809038007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 我是FTZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1981193472809038007",
+        "created_at": "2025-10-23T15:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981379129858806032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981379129858806032",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981193472809038007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 我是FTZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1981193472809038007",
+        "created_at": "2025-10-23T02:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981193472809038007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981193472809038007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14212,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 90,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我：你是什么跨性别\n\n跨妹：我是MTF\n\n跨男：我是FTM\n\n群友：我是NTFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1029,
+          "like_count": 19094,
+          "listed_count": 4,
+          "media_count": 652,
+          "tweet_count": 6099
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "A boy",
+        "id": "1903701047589343232",
+        "name": "小方二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980176433822502912/KnM85Kuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 1709,
+          "like_count": 8905,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 2198
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

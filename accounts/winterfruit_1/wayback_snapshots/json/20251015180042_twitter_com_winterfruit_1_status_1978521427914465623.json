@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1978511454404849691",
+    "created_at": "2025-10-15T18:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T19:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978521427914465623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613066923801202689",
+          "start": 0,
+          "username": "tingDavid6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978521427914465623",
+    "in_reply_to_user_id": "1613066923801202689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978518625834209330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingDavid6 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1978511454404849691",
+        "created_at": "2025-10-15T18:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T19:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978521427914465623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613066923801202689",
+              "start": 0,
+              "username": "tingDavid6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978521427914465623",
+        "in_reply_to_user_id": "1613066923801202689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978518625834209330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingDavid6 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613066923801202689",
+        "conversation_id": "1978511454404849691",
+        "created_at": "2025-10-15T17:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978518625834209330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978518625834209330",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978511454404849691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 里面大部分游戏我都玩过，只不过为什么会有迷你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 882,
+          "like_count": 17409,
+          "listed_count": 3,
+          "media_count": 585,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T06:55:12.000Z",
+        "description": "用骄傲对待骄傲的前额，\n用善良对待善良的心肠：\n这是我一生永恒的规律，\n只有采摘玫瑰才弯下脊梁。",
+        "id": "1613066923801202689",
+        "location": "Sapporo City Atsubetsu Ward",
+        "name": "ting David",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966948242643660800/kVOAWdFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 855,
+          "like_count": 4465,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 836
+        },
+        "username": "tingDavid6",
+        "verified": false
+      }
+    ]
+  }
+}

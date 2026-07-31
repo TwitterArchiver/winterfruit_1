@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2025445781629796526",
+    "created_at": "2026-02-22T05:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025445781629796526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953428497",
+          "start": 3,
+          "username": "canger333"
+        },
+        {
+          "end": 24,
+          "id": "340107534",
+          "start": 15,
+          "username": "duanhjlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025445781629796526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024856201188573474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @canger333: @duanhjlt 有时候我觉得人类的情绪是个负担，有时候又觉得人类的情绪才是人类存在的意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2025445781629796526",
+        "created_at": "2026-02-22T05:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025445781629796526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953428497",
+              "start": 3,
+              "username": "canger333"
+            },
+            {
+              "end": 24,
+              "id": "340107534",
+              "start": 15,
+              "username": "duanhjlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025445781629796526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024856201188573474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @canger333: @duanhjlt 有时候我觉得人类的情绪是个负担，有时候又觉得人类的情绪才是人类存在的意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953428497",
+        "conversation_id": "2024831990839804203",
+        "created_at": "2026-02-20T14:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024856201188573474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "340107534",
+              "start": 0,
+              "username": "duanhjlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024856201188573474",
+        "in_reply_to_user_id": "340107534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 66517,
+          "like_count": 1542,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024831990839804203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duanhjlt 有时候我觉得人类的情绪是个负担，有时候又觉得人类的情绪才是人类存在的意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙 生涯、貴方を思い続けます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 1402,
+          "like_count": 34182,
+          "listed_count": 7,
+          "media_count": 1385,
+          "tweet_count": 10247
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-11T05:48:06.000Z",
+        "description": "毒鸡汤厨子，解构所有假大空不可描述不可分割概念的无文化喷子，没有修养的段子手和流氓思想传承者，唠叨絮叨逼逼叨叨的唐僧徒弟",
+        "id": "1953428497",
+        "location": "仙女座",
+        "name": "canger",
+        "pinned_tweet_id": "1702494676241244244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704199340074618882/g5kbk1Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 747,
+          "like_count": 27153,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 18188
+        },
+        "username": "canger333",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "让好奇心永远在线",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "domer.io",
+                "end": 23,
+                "expanded_url": "https://domer.io",
+                "start": 0,
+                "url": "https://t.co/4pSyFxbP36"
+              }
+            ]
+          }
+        },
+        "id": "340107534",
+        "location": "Beijing👉",
+        "name": "Alexander",
+        "pinned_tweet_id": "2023973905539441080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21549,
+          "following_count": 832,
+          "like_count": 561,
+          "listed_count": 79,
+          "media_count": 4262,
+          "tweet_count": 7584
+        },
+        "url": "https://t.co/4pSyFxbP36",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

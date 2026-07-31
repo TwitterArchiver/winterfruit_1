@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2057039915393966411",
+    "created_at": "2026-05-20T12:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057070909702406165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728798875593654272",
+          "start": 0,
+          "username": "whydoyouwantlsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057070909702406165",
+    "in_reply_to_user_id": "1728798875593654272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057043554455712022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoyouwantlsd 对咯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057043554455712022].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057043554455712022",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057043554455712022"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2057039915393966411",
+        "created_at": "2026-05-20T12:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057070909702406165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728798875593654272",
+              "start": 0,
+              "username": "whydoyouwantlsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057070909702406165",
+        "in_reply_to_user_id": "1728798875593654272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057043554455712022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoyouwantlsd 对咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1488,
+          "like_count": 41738,
+          "listed_count": 6,
+          "media_count": 1816,
+          "tweet_count": 12346
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，■TX，退役oder，碎碎念博主，诗歌，文学，精神医学，ASD。永冇正反之分，水中月中月無月。",
+        "id": "1728798875593654272",
+        "name": "眼球已死",
+        "pinned_tweet_id": "2006847733030858899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014427806932074496/1KDfhoun_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 260,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 938
+        },
+        "username": "whydoyouwantlsd",
+        "verified": false
+      }
+    ]
+  }
+}

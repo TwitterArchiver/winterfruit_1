@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967273289434144768"
+      ],
+      "media_source_tweet_id": [
+        "1967273302147424766"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1967286467237147002",
+    "created_at": "2025-09-14T17:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T18:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967286467237147002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1562858237657231361",
+          "start": 3,
+          "username": "yanyelove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tHvILuaoe",
+          "end": 47,
+          "expanded_url": "https://x.com/yanyelove/status/1967273302147424766/photo/1",
+          "media_key": "3_1967273289434144768",
+          "start": 24,
+          "url": "https://t.co/4tHvILuaoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967286467237147002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967273302147424766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanyelove: bro斷網即死亡 https://t.co/4tHvILuaoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_1967273289434144768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00oojjWIAAOz0p.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967273289434144768"
+          ],
+          "media_source_tweet_id": [
+            "1967273302147424766"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1967286467237147002",
+        "created_at": "2025-09-14T17:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T18:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967286467237147002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562858237657231361",
+              "start": 3,
+              "username": "yanyelove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tHvILuaoe",
+              "end": 47,
+              "expanded_url": "https://x.com/yanyelove/status/1967273302147424766/photo/1",
+              "media_key": "3_1967273289434144768",
+              "start": 24,
+              "url": "https://t.co/4tHvILuaoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967286467237147002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967273302147424766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanyelove: bro斷網即死亡 https://t.co/4tHvILuaoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967273289434144768"
+          ]
+        },
+        "author_id": "1562858237657231361",
+        "conversation_id": "1967273302147424766",
+        "created_at": "2025-09-14T17:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T18:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967273302147424766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tHvILuaoe",
+              "end": 32,
+              "expanded_url": "https://x.com/yanyelove/status/1967273302147424766/photo/1",
+              "media_key": "3_1967273289434144768",
+              "start": 9,
+              "url": "https://t.co/4tHvILuaoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967273302147424766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "bro斷網即死亡 https://t.co/4tHvILuaoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 471,
+          "like_count": 11621,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 3644
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqnud"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有你我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 85,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/IhqVPtqnud",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

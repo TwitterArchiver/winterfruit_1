@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1848410813536608257"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1848410849762812212",
+    "created_at": "2024-10-21T17:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T18:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1848410849762812212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYXuQFqINm",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/1848410849762812212/video/1",
+          "media_key": "7_1848410813536608257",
+          "start": 0,
+          "url": "https://t.co/YYXuQFqINm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848410849762812212",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YYXuQFqINm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17515,
+        "height": 1280,
+        "media_key": "7_1848410813536608257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1848410813536608257/pu/img/6FBfgxbMGpoBwpv-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1848410813536608257/pu/vid/avc1/320x568/sBpl7mp2-fzVxmyb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1848410813536608257/pu/vid/avc1/480x852/OZGXGTIlIipEqY-u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1848410813536608257/pu/vid/avc1/720x1280/komE0imFtc19qpPb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1848410813536608257/pu/pl/gug5SI9ef3YObo3e.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1848410813536608257"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1848410849762812212",
+        "created_at": "2024-10-21T17:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T18:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848410849762812212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYXuQFqINm",
+              "end": 23,
+              "expanded_url": "https://x.com/winterfruit_1/status/1848410849762812212/video/1",
+              "media_key": "7_1848410813536608257",
+              "start": 0,
+              "url": "https://t.co/YYXuQFqINm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848410849762812212",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YYXuQFqINm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "Free｜朋友 @Lizitou01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Lizitou01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w i n i t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845133619536461824/iQG72O2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 180,
+          "like_count": 2160,
+          "listed_count": 0,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2062836703304495547",
+    "created_at": "2026-06-05T10:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062838473535672801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910629733785870336",
+          "start": 0,
+          "username": "ji_chu25601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062838473535672801",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062836703304495547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_chu25601 嗯对，这样好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2062836703304495547",
+        "created_at": "2026-06-05T10:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062838473535672801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062838473535672801",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062836703304495547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 嗯对，这样好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2062836703304495547",
+        "created_at": "2026-06-05T09:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062836703304495547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062836703304495547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的是自由可以依靠的恋人不被管但是大概率是成年人可是成年人𣎴会喜欢15岁的吧(大概率"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 1473,
+          "like_count": 42727,
+          "listed_count": 6,
+          "media_count": 1853,
+          "tweet_count": 12701
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "命苦的有懵逼(欢迎互fo有点卡成分())",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2059748091952341245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 75,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 327
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

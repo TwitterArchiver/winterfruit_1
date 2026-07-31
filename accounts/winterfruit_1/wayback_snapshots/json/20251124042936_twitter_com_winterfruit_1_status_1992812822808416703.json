@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992812813371269120"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1992812822808416703",
+    "created_at": "2025-11-24T04:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992812822808416703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTKrbYSHhN",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/1992812822808416703/photo/1",
+          "media_key": "3_1992812813371269120",
+          "start": 0,
+          "url": "https://t.co/hTKrbYSHhN"
+        },
+        {
+          "display_url": "x.com/hazelappleyard…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hazelappleyard/status/1968387021065568522",
+          "start": 24,
+          "url": "https://t.co/dbzLkGXKb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992812822808416703",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968387021065568522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/hTKrbYSHhN https://t.co/dbzLkGXKb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_1992812813371269120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fksgTXYAAYliI.jpg",
+        "width": 1100
+      },
+      {
+        "duration_ms": 69400,
+        "height": 1020,
+        "media_key": "13_1968386945546862592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968386945546862592/img/sGV-_TnpNga-IZVK.jpg",
+        "public_metrics": {
+          "view_count": 2026503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968386945546862592/vid/avc1/320x566/wQfwjWtr9j1Esch1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968386945546862592/vid/avc1/480x850/-6Bw6xLstENP78X3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968386945546862592/vid/avc1/576x1020/mpJj1mMLEVMBxTDT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968386945546862592/pl/PF3XZs6zOEccHb2K.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992812813371269120"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1992812822808416703",
+        "created_at": "2025-11-24T04:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992812822808416703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTKrbYSHhN",
+              "end": 23,
+              "expanded_url": "https://x.com/winterfruit_1/status/1992812822808416703/photo/1",
+              "media_key": "3_1992812813371269120",
+              "start": 0,
+              "url": "https://t.co/hTKrbYSHhN"
+            },
+            {
+              "display_url": "x.com/hazelappleyard…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hazelappleyard/status/1968387021065568522",
+              "start": 24,
+              "url": "https://t.co/dbzLkGXKb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992812822808416703",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968387021065568522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/hTKrbYSHhN https://t.co/dbzLkGXKb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968386945546862592"
+          ]
+        },
+        "author_id": "1284239778888781824",
+        "conversation_id": "1968387021065568522",
+        "created_at": "2025-09-17T18:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968387021065568522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "TWIST",
+              "probability": 0.4818,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27upiP4gbR",
+              "end": 44,
+              "expanded_url": "https://x.com/HazelAppleyard_/status/1968387021065568522/video/1",
+              "media_key": "13_1968386945546862592",
+              "start": 21,
+              "url": "https://t.co/27upiP4gbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968387021065568522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6869,
+          "impression_count": 2061874,
+          "like_count": 23188,
+          "quote_count": 1981,
+          "reply_count": 457,
+          "retweet_count": 3146
+        },
+        "reply_settings": "everyone",
+        "text": "MAJOR PLOT TWIST WTF https://t.co/27upiP4gbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1310,
+          "like_count": 23196,
+          "listed_count": 5,
+          "media_count": 818,
+          "tweet_count": 7440
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-17T21:33:40.000Z",
+        "description": "Just another angry Brit 🇬🇧 Urinalcakegender | https://t.co/iZO7GIoJH6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/hazelappleyard",
+                "end": 69,
+                "expanded_url": "http://buymeacoffee.com/hazelappleyard",
+                "start": 46,
+                "url": "https://t.co/iZO7GIoJH6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hazelappleyard.co.uk",
+                "end": 23,
+                "expanded_url": "http://hazelappleyard.co.uk",
+                "start": 0,
+                "url": "https://t.co/NpDharZf55"
+              }
+            ]
+          }
+        },
+        "id": "1284239778888781824",
+        "location": "Terminally Online",
+        "name": "Hazel Appleyard",
+        "pinned_tweet_id": "1992459316314677519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884384232711041025/XLesaeJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156802,
+          "following_count": 981,
+          "like_count": 154268,
+          "listed_count": 415,
+          "media_count": 28537,
+          "tweet_count": 86201
+        },
+        "url": "https://t.co/NpDharZf55",
+        "username": "HazelAppleyard",
+        "verified": true
+      }
+    ]
+  }
+}

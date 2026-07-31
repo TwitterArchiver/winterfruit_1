@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1969447818029834311",
+    "created_at": "2025-09-21T16:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969808020441039141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "48897816",
+          "start": 0,
+          "username": "caiziboshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969808020441039141",
+    "in_reply_to_user_id": "48897816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969447818029834311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caiziboshi 谁家小ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 111138,
+        "height": 1280,
+        "media_key": "13_1969447753496313856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969447753496313856/img/gDGbfqE1UMII34J3.jpg",
+        "public_metrics": {
+          "view_count": 156277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969447753496313856/vid/avc1/320x568/7cmAUov2udKRmdkU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969447753496313856/vid/avc1/480x852/oMsL4-lm-qJprynh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969447753496313856/vid/avc1/720x1280/Vs0feHs4G3MAHJYx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969447753496313856/pl/XRNas5pEraDikhke.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1969447818029834311",
+        "created_at": "2025-09-21T16:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969808020441039141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "48897816",
+              "start": 0,
+              "username": "caiziboshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969808020441039141",
+        "in_reply_to_user_id": "48897816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969447818029834311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caiziboshi 谁家小ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969447753496313856"
+          ]
+        },
+        "author_id": "48897816",
+        "conversation_id": "1969447818029834311",
+        "created_at": "2025-09-20T17:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969447818029834311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWxZC15DYU",
+              "end": 34,
+              "expanded_url": "https://x.com/caiziboshi/status/1969447818029834311/video/1",
+              "media_key": "13_1969447753496313856",
+              "start": 11,
+              "url": "https://t.co/uWxZC15DYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969447818029834311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 372909,
+          "like_count": 1775,
+          "quote_count": 20,
+          "reply_count": 224,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "户子最后的告别时刻！ https://t.co/uWxZC15DYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 490,
+          "like_count": 12325,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 3781
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-20T02:05:51.000Z",
+        "description": "土木工程博士；国内自媒体全网粉丝超百万；主要讲美国文化教育新闻和政治！#蔡子说美国",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "蔡子说美国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC1dMe…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC1dMeKA8tryhB-YhVTTAy4Q",
+                "start": 0,
+                "url": "https://t.co/T8dIF9tjRO"
+              }
+            ]
+          }
+        },
+        "id": "48897816",
+        "location": "Dallas, TX",
+        "name": "蔡子博士Chris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1276378987888029696/991V7_Ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73034,
+          "following_count": 1163,
+          "like_count": 5761,
+          "listed_count": 374,
+          "media_count": 11025,
+          "tweet_count": 13946
+        },
+        "url": "https://t.co/T8dIF9tjRO",
+        "username": "caiziboshi",
+        "verified": true
+      }
+    ]
+  }
+}

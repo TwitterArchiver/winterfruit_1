@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951571467076005888"
+      ],
+      "media_source_tweet_id": [
+        "1951571712010858925"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953907532734579087",
+    "created_at": "2025-08-08T19:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T20:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953907532734579087"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "The Trick Shot",
+          "probability": 0.8814,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 59,
+          "tag": "studiowrong"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851602270414405632",
+          "start": 3,
+          "username": "studiowrong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFUK9bzNkF",
+          "end": 95,
+          "expanded_url": "https://x.com/studiowrong/status/1951571712010858925/video/1",
+          "media_key": "13_1951571467076005888",
+          "start": 72,
+          "url": "https://t.co/nFUK9bzNkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953907532734579087",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3477
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951571712010858925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @studiowrong: The Trick Shot - Original Short Animation\n#studiowrong https://t.co/nFUK9bzNkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9875,
+        "height": 1920,
+        "media_key": "13_1951571467076005888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951571467076005888/img/F9bSeqSf13F_fh7h.jpg",
+        "public_metrics": {
+          "view_count": 173953
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951571467076005888/vid/avc1/720x1280/5IBfOar2HVCqTvPt.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951571467076005888/vid/avc1/320x568/47yKQCMASz59tjj5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951571467076005888/pl/j9D7hHVnMIajUtnh.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951571467076005888/vid/avc1/480x852/nWYVZxZlQS5e5qd0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951571467076005888/vid/avc1/1080x1920/EvH0eXK66W_syYfW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951571467076005888"
+          ],
+          "media_source_tweet_id": [
+            "1951571712010858925"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953907532734579087",
+        "created_at": "2025-08-08T19:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T20:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953907532734579087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "The Trick Shot",
+              "probability": 0.8814,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "studiowrong"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851602270414405632",
+              "start": 3,
+              "username": "studiowrong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFUK9bzNkF",
+              "end": 95,
+              "expanded_url": "https://x.com/studiowrong/status/1951571712010858925/video/1",
+              "media_key": "13_1951571467076005888",
+              "start": 72,
+              "url": "https://t.co/nFUK9bzNkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953907532734579087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3477
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951571712010858925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @studiowrong: The Trick Shot - Original Short Animation\n#studiowrong https://t.co/nFUK9bzNkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951571467076005888"
+          ]
+        },
+        "author_id": "1851602270414405632",
+        "conversation_id": "1951571712010858925",
+        "created_at": "2025-08-02T09:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951571712010858925"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "The Trick Shot",
+              "probability": 0.7093,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "studiowrong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFUK9bzNkF",
+              "end": 78,
+              "expanded_url": "https://x.com/studiowrong/status/1951571712010858925/video/1",
+              "media_key": "13_1951571467076005888",
+              "start": 55,
+              "url": "https://t.co/nFUK9bzNkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951571712010858925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2820,
+          "impression_count": 398548,
+          "like_count": 26546,
+          "quote_count": 23,
+          "reply_count": 60,
+          "retweet_count": 3477
+        },
+        "reply_settings": "everyone",
+        "text": "The Trick Shot - Original Short Animation\n#studiowrong https://t.co/nFUK9bzNkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 434,
+          "like_count": 8899,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2791
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T12:29:28.000Z",
+        "description": "Indie Animation Studio🇯🇵\nおもしろかわいいアニメーションを世界へ🌎️\n毎週土曜日に新作を投稿📍\n長尺作品もYouTubeで公開中🎥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@studiowrong",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@studiowrong",
+                "start": 0,
+                "url": "https://t.co/f7szfrmRhh"
+              }
+            ]
+          }
+        },
+        "id": "1851602270414405632",
+        "name": "Studio Wrong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871078164388319232/UetH_3aK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79144,
+          "following_count": 0,
+          "like_count": 156,
+          "listed_count": 223,
+          "media_count": 61,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/f7szfrmRhh",
+        "username": "studiowrong",
+        "verified": true
+      }
+    ]
+  }
+}

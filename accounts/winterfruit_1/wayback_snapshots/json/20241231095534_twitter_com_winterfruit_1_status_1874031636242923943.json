@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1873640692368728323",
+    "created_at": "2024-12-31T09:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T10:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874031636242923943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1718745049213849600",
+          "start": 0,
+          "username": "7eaFwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874031636242923943",
+    "in_reply_to_user_id": "1718745049213849600",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873640692368728323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7eaFwi ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1873640692368728323",
+        "created_at": "2024-12-31T09:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T10:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874031636242923943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1718745049213849600",
+              "start": 0,
+              "username": "7eaFwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874031636242923943",
+        "in_reply_to_user_id": "1718745049213849600",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873640692368728323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7eaFwi ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873640076913340416"
+          ]
+        },
+        "author_id": "1718745049213849600",
+        "conversation_id": "1873640692368728323",
+        "created_at": "2024-12-30T08:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T09:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873640692368728323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bXNAfWr68",
+              "end": 37,
+              "expanded_url": "https://x.com/7eaFwi/status/1873640692368728323/photo/1",
+              "media_key": "3_1873640076913340416",
+              "start": 14,
+              "url": "https://t.co/3bXNAfWr68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873640692368728323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 108906,
+          "like_count": 2588,
+          "quote_count": 8,
+          "reply_count": 150,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "bilibili動画今これ https://t.co/3bXNAfWr68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐧",
+        "id": "1837114188046684161",
+        "name": "太平天国 - winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 235,
+          "like_count": 4465,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1064
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀, 3D写真  (NOT V/TUBER, NOT V/RChat), 音楽関連NG⚠, 雑多・BMSなど,\nメインアカウント：@7eaF\n一般用タグ：#leafbms\nE：#leafbme \n自撮り用： #leafbga\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "leafbms"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "leafbme"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 67,
+                "username": "7eaF"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "1871839862850298303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20192,
+          "following_count": 467,
+          "like_count": 11974,
+          "listed_count": 26,
+          "media_count": 743,
+          "tweet_count": 14730
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true
+      }
+    ]
+  }
+}

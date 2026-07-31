@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1991837217870975035",
+    "created_at": "2025-11-21T12:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991839881094643845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1838562226694701056",
+          "start": 0,
+          "username": "knimaisey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991839881094643845",
+    "in_reply_to_user_id": "1838562226694701056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991837217870975035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knimaisey 我也是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1991837217870975035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1991837217870975035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1991837217870975035"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1991837217870975035",
+        "created_at": "2025-11-21T12:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991839881094643845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1838562226694701056",
+              "start": 0,
+              "username": "knimaisey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991839881094643845",
+        "in_reply_to_user_id": "1838562226694701056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991837217870975035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knimaisey 我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1312,
+          "like_count": 22860,
+          "listed_count": 5,
+          "media_count": 803,
+          "tweet_count": 7342
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T12:53:25.000Z",
+        "description": "❗️中英文双母语\ndont judge🤚i aint able to speak straight\n\n有血图，以及不讲道理地骂人\npossibly contains blood (image), swearing/cursing, extreme hatred, illed opinions…",
+        "id": "1838562226694701056",
+        "location": "⚠️负能量⚠️‼️venting❗️",
+        "name": "承载着一切梦想与希望的二十二月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981660496810962944/nhB6u4jA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 97,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2371
+        },
+        "username": "knimaisey",
+        "verified": false
+      }
+    ]
+  }
+}

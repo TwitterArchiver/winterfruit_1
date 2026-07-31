@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2081269514713567613",
+    "created_at": "2026-07-26T06:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081269514713567613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081269514713567613",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080484493006434440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: Help me neuro-sama"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2081269514713567613",
+        "created_at": "2026-07-26T06:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081269514713567613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081269514713567613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080484493006434440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: Help me neuro-sama"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "2080484493006434440",
+        "created_at": "2026-07-24T02:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080484493006434440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080484493006434440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 23483,
+          "like_count": 1045,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "Help me neuro-sama"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1486,
+          "like_count": 43708,
+          "listed_count": 6,
+          "media_count": 1904,
+          "tweet_count": 13247
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166250,
+          "following_count": 666,
+          "like_count": 395906,
+          "listed_count": 1106,
+          "media_count": 4309,
+          "tweet_count": 44229
+        },
+        "url": "",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

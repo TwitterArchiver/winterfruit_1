@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888903832165642240"
+      ],
+      "media_source_tweet_id": [
+        "1888903837450469495"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1889234892531343516",
+    "created_at": "2025-02-11T08:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T09:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889234892531343516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654013096757952512",
+          "start": 3,
+          "username": "latte__rr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BX60M5Ra5",
+          "end": 44,
+          "expanded_url": "https://x.com/latte__rr/status/1888903837450469495/photo/1",
+          "media_key": "3_1888903832165642240",
+          "start": 21,
+          "url": "https://t.co/3BX60M5Ra5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889234892531343516",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 579
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888903837450469495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @latte__rr: #MyGO https://t.co/3BX60M5Ra5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2554,
+        "media_key": "3_1888903832165642240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gja8BwsbcAAON1W.jpg",
+        "width": 1858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888903832165642240"
+          ],
+          "media_source_tweet_id": [
+            "1888903837450469495"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1889234892531343516",
+        "created_at": "2025-02-11T08:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T09:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889234892531343516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654013096757952512",
+              "start": 3,
+              "username": "latte__rr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BX60M5Ra5",
+              "end": 44,
+              "expanded_url": "https://x.com/latte__rr/status/1888903837450469495/photo/1",
+              "media_key": "3_1888903832165642240",
+              "start": 21,
+              "url": "https://t.co/3BX60M5Ra5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889234892531343516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 579
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888903837450469495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @latte__rr: #MyGO https://t.co/3BX60M5Ra5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888903832165642240"
+          ]
+        },
+        "author_id": "1654013096757952512",
+        "conversation_id": "1888903837450469495",
+        "created_at": "2025-02-10T10:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T11:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888903837450469495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BX60M5Ra5",
+              "end": 29,
+              "expanded_url": "https://x.com/latte__rr/status/1888903837450469495/photo/1",
+              "media_key": "3_1888903832165642240",
+              "start": 6,
+              "url": "https://t.co/3BX60M5Ra5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888903837450469495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 53100,
+          "like_count": 3527,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 579
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO https://t.co/3BX60M5Ra5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 244,
+          "like_count": 4227,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1140
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:40:34.000Z",
+        "description": "絵描きます　バンドリが好き  https://t.co/mrwh7upxoS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6tfddaw2c1jx9ta",
+                "end": 38,
+                "expanded_url": "https://marshmallow-qa.com/6tfddaw2c1jx9ta",
+                "start": 15,
+                "url": "https://t.co/mrwh7upxoS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@latte__rr",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@latte__rr",
+                "start": 0,
+                "url": "https://t.co/NoohbWc0Mg"
+              }
+            ]
+          }
+        },
+        "id": "1654013096757952512",
+        "name": "らて",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886715764352409601/xhc0hwOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 47,
+          "like_count": 315,
+          "listed_count": 9,
+          "media_count": 52,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/NoohbWc0Mg",
+        "username": "latte__rr",
+        "verified": false
+      }
+    ]
+  }
+}

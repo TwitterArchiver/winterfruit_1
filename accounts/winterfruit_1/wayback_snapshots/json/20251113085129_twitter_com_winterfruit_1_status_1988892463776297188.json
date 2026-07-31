@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988354833360056320"
+      ],
+      "media_source_tweet_id": [
+        "1988354947432452230"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988892463776297188",
+    "created_at": "2025-11-13T08:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988892463776297188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "150264240",
+          "start": 3,
+          "username": "tatuya01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ir7KVOaWOB",
+          "end": 37,
+          "expanded_url": "https://x.com/tatuya01/status/1988354947432452230/video/1",
+          "media_key": "13_1988354833360056320",
+          "start": 14,
+          "url": "https://t.co/Ir7KVOaWOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988892463776297188",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18972
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988354947432452230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatuya01: https://t.co/Ir7KVOaWOB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89748,
+        "height": 1048,
+        "media_key": "13_1988354833360056320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988354833360056320/img/8U41r7wpjkuPAXXe.jpg",
+        "public_metrics": {
+          "view_count": 1338752
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988354833360056320/vid/avc1/320x582/XodRBx-CWCVcg2z0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988354833360056320/vid/avc1/480x872/N69BDaSU7mjQAW-p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988354833360056320/vid/avc1/576x1048/lMaDnW7-32KfDgq7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988354833360056320/pl/s6ZvB8O6BClvoPCe.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988354833360056320"
+          ],
+          "media_source_tweet_id": [
+            "1988354947432452230"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988892463776297188",
+        "created_at": "2025-11-13T08:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988892463776297188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "150264240",
+              "start": 3,
+              "username": "tatuya01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir7KVOaWOB",
+              "end": 37,
+              "expanded_url": "https://x.com/tatuya01/status/1988354947432452230/video/1",
+              "media_key": "13_1988354833360056320",
+              "start": 14,
+              "url": "https://t.co/Ir7KVOaWOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988892463776297188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18972
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988354947432452230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatuya01: https://t.co/Ir7KVOaWOB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988354833360056320"
+          ]
+        },
+        "author_id": "150264240",
+        "conversation_id": "1988354947432452230",
+        "created_at": "2025-11-11T21:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988354947432452230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir7KVOaWOB",
+              "end": 23,
+              "expanded_url": "https://x.com/tatuya01/status/1988354947432452230/video/1",
+              "media_key": "13_1988354833360056320",
+              "start": 0,
+              "url": "https://t.co/Ir7KVOaWOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988354947432452230",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30590,
+          "impression_count": 3250751,
+          "like_count": 101689,
+          "quote_count": 2730,
+          "reply_count": 997,
+          "retweet_count": 18972
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ir7KVOaWOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1271,
+          "like_count": 21846,
+          "listed_count": 5,
+          "media_count": 766,
+          "tweet_count": 7068
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-31T14:03:36.000Z",
+        "description": "Cats and COCONA, anti-discrimination, anti-war",
+        "id": "150264240",
+        "location": "🌏",
+        "name": "ねこやん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840727013696716800/StdtTXEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83543,
+          "following_count": 39,
+          "like_count": 88,
+          "listed_count": 892,
+          "media_count": 9982,
+          "tweet_count": 12638
+        },
+        "username": "tatuya01",
+        "verified": false
+      }
+    ]
+  }
+}

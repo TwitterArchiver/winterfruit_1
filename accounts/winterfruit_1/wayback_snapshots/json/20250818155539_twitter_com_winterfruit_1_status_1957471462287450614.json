@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1957348131378757977",
+    "created_at": "2025-08-18T15:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957471462287450614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957471462287450614",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957348131378757977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 唉癔症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1957348131378757977",
+        "created_at": "2025-08-18T15:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957471462287450614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957471462287450614",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957348131378757977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 唉癔症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1957348131378757977",
+        "created_at": "2025-08-18T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957348131378757977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1956834044521468048",
+              "start": 15,
+              "url": "https://t.co/7dVEDba0Av"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957348131378757977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 448,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956834044521468048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我做梦都没梦过这么离谱的东西 https://t.co/7dVEDba0Av"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit涘er澪",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 437,
+          "like_count": 9714,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 3154
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "漓莫莫",
+        "pinned_tweet_id": "1941489600012448048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1411,
+          "like_count": 16133,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 6584
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

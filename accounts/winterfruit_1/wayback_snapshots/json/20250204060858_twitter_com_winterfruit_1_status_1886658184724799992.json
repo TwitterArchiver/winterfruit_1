@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886517176112439297"
+      ],
+      "media_source_tweet_id": [
+        "1886517178888868102"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1886658184724799992",
+    "created_at": "2025-02-04T06:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886658184724799992"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "mcdonalds",
+          "probability": 0.4633,
+          "start": 12,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 40,
+          "tag": "heartheartart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1688884028542537728",
+          "start": 3,
+          "username": "qwaunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJDS3AeQAA",
+          "end": 78,
+          "expanded_url": "https://x.com/qwaunk/status/1886517178888868102/photo/1",
+          "media_key": "3_1886517176112439297",
+          "start": 55,
+          "url": "https://t.co/jJDS3AeQAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886658184724799992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886517178888868102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwaunk: mcdonalds run with the kids\n#heartheartart https://t.co/jJDS3AeQAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_1886517176112439297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi5BYGDa4AEw2Sv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886517176112439297"
+          ],
+          "media_source_tweet_id": [
+            "1886517178888868102"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1886658184724799992",
+        "created_at": "2025-02-04T06:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886658184724799992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "mcdonalds",
+              "probability": 0.4633,
+              "start": 12,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1688884028542537728",
+              "start": 3,
+              "username": "qwaunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJDS3AeQAA",
+              "end": 78,
+              "expanded_url": "https://x.com/qwaunk/status/1886517178888868102/photo/1",
+              "media_key": "3_1886517176112439297",
+              "start": 55,
+              "url": "https://t.co/jJDS3AeQAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886658184724799992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886517178888868102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwaunk: mcdonalds run with the kids\n#heartheartart https://t.co/jJDS3AeQAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886517176112439297"
+          ]
+        },
+        "author_id": "1688884028542537728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1886517178888868102",
+        "created_at": "2025-02-03T20:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T21:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886517178888868102"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "mcdonalds",
+              "probability": 0.5729,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJDS3AeQAA",
+              "end": 66,
+              "expanded_url": "https://x.com/qwaunk/status/1886517178888868102/photo/1",
+              "media_key": "3_1886517176112439297",
+              "start": 43,
+              "url": "https://t.co/jJDS3AeQAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886517178888868102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 13075,
+          "like_count": 2952,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "mcdonalds run with the kids\n#heartheartart https://t.co/jJDS3AeQAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4647,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1124
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:05:34.000Z",
+        "description": "sometimes does art | \nminer :) 17 |\nreinstalled twitter (get out of my head)",
+        "id": "1688884028542537728",
+        "location": "balls",
+        "name": "qwaunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879109438885568512/iIbhqgpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 82,
+          "like_count": 651,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 142
+        },
+        "username": "qwaunk",
+        "verified": false
+      }
+    ]
+  }
+}

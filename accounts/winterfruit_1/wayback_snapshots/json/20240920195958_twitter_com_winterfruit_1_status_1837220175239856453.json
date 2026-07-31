@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1837211934489227453",
+    "created_at": "2024-09-20T19:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T20:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837220175239856453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833054299183878144",
+          "start": 0,
+          "username": "Lizitou02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837220175239856453",
+    "in_reply_to_user_id": "1833054299183878144",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837211934489227453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizitou02 别似😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837211934489227453].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837211934489227453",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837211934489227453"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1837211934489227453",
+        "created_at": "2024-09-20T19:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T20:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837220175239856453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833054299183878144",
+              "start": 0,
+              "username": "Lizitou02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837220175239856453",
+        "in_reply_to_user_id": "1833054299183878144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837211934489227453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizitou02 别似😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w ini t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837150396378402818/SaVyvbsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 13,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:06:26.000Z",
+        "description": "马一龙你🐴④了\n小号@Lizitou03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Lizitou03"
+              }
+            ]
+          }
+        },
+        "id": "1833054299183878144",
+        "location": "吉吉国",
+        "name": "栗子头（二号机）",
+        "pinned_tweet_id": "1837138065552248936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836784123232309249/yZhK5BbB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 46,
+          "like_count": 344,
+          "listed_count": 0,
+          "tweet_count": 267
+        },
+        "username": "Lizitou02",
+        "verified": false
+      }
+    ]
+  }
+}

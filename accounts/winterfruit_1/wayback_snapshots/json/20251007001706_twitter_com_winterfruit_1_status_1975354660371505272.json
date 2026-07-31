@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1975354660371505272",
+    "created_at": "2025-10-07T00:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T01:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975354660371505272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1967266587737780558",
+          "start": 7,
+          "url": "https://t.co/hgEhSgvaBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975354660371505272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967266587737780558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吾日三省吾身 https://t.co/hgEhSgvaBx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1975354660371505272",
+        "created_at": "2025-10-07T00:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975354660371505272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1967266587737780558",
+              "start": 7,
+              "url": "https://t.co/hgEhSgvaBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975354660371505272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967266587737780558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吾日三省吾身 https://t.co/hgEhSgvaBx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1966543832394432735",
+        "created_at": "2025-09-14T16:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967266587737780558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 31,
+              "id": "1922473225436725248",
+              "start": 15,
+              "username": "_Yakumo_Yuyuko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967266587737780558",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966543832394432735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 @_Yakumo_Yuyuko_ 人在年轻时特别容易陷入一种幻觉，认为自己所认可、追求的生活方式就是正确答案，执着于让他人按自己的标准而活……其实人家怎么活跟你半毛钱关系都没有，生活也没有所谓的正确答案。保持开放和敬畏的心态，专注于自己脚下的路，少对别人的人生指指点点，于人于己都是好事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / winterfruit / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 712,
+          "like_count": 15566,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 4765
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1968999740789362908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 286,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 2389
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

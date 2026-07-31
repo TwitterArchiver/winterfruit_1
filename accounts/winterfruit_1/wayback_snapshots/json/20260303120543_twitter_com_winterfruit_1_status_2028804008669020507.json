@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      }
+    ],
+    "conversation_id": "2028774079281746365",
+    "created_at": "2026-03-03T12:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028804008669020507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "191830183",
+          "start": 0,
+          "username": "neru_sleep"
+        },
+        {
+          "end": 28,
+          "id": "2003990629135929345",
+          "start": 12,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028804008669020507",
+    "in_reply_to_user_id": "191830183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028774079281746365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neru_sleep @zzethldOfficial 我是寿司"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2028774079281746365",
+        "created_at": "2026-03-03T12:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028804008669020507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "191830183",
+              "start": 0,
+              "username": "neru_sleep"
+            },
+            {
+              "end": 28,
+              "id": "2003990629135929345",
+              "start": 12,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028804008669020507",
+        "in_reply_to_user_id": "191830183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028774079281746365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neru_sleep @zzethldOfficial 我是寿司"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2028774078593818624"
+          ]
+        },
+        "author_id": "191830183",
+        "conversation_id": "2028774079281746365",
+        "created_at": "2026-03-03T10:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028774079281746365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028774079281746365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 110820,
+          "like_count": 1199,
+          "quote_count": 79,
+          "reply_count": 30,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "【統計調査】あなたの年齢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2026135162090914003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 1434,
+          "like_count": 35617,
+          "listed_count": 7,
+          "media_count": 1456,
+          "tweet_count": 10501
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neruworks.blog.fc2.com",
+                "end": 23,
+                "expanded_url": "http://neruworks.blog.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/Kg1gIzH8TU"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは下記URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "1424295941893279745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598662,
+          "following_count": 272,
+          "like_count": 1087,
+          "listed_count": 3080,
+          "media_count": 172,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/Kg1gIzH8TU",
+        "username": "neru_sleep",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "カウント・ゼトッド | 音ゲー | プロセカ創作譜面 | 病弱系男子",
+        "id": "2003990629135929345",
+        "location": "(411, 892)",
+        "name": "Comte Zzethld 🍥⚡🎵🕹️🔮⛓️🗡️",
+        "pinned_tweet_id": "2027430319620866407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 889,
+          "like_count": 5825,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1554
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

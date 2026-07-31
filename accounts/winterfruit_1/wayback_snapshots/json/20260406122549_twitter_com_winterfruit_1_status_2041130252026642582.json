@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2041130252026642582",
+    "created_at": "2026-04-06T12:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041130252026642582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567203042872926208",
+          "start": 3,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041130252026642582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041129988146258339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akinoyo_desu: 我随口freestyle的歌词他们发了疯的记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2041130252026642582",
+        "created_at": "2026-04-06T12:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130252026642582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567203042872926208",
+              "start": 3,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130252026642582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041129988146258339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akinoyo_desu: 我随口freestyle的歌词他们发了疯的记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2041129988146258339",
+        "created_at": "2026-04-06T12:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041129988146258339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asanagiyori486…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/asanagiyori486/status/2041045732027965621",
+              "start": 23,
+              "url": "https://t.co/Yk1Lr8g041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041129988146258339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041045732027965621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我随口freestyle的歌词他们发了疯的记 https://t.co/Yk1Lr8g041"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 1468,
+          "like_count": 39063,
+          "listed_count": 8,
+          "media_count": 1643,
+          "tweet_count": 11448
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ \n旧名义：仿生喹硫平/\n梨❤️@Eternal1uv9/\n涘🧊@winterfruit_1 /\n渡 🚣‍♂️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /\n聖 🍜@shungleemain /\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "shungleemain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 143,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 120,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 870,
+          "like_count": 3838,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

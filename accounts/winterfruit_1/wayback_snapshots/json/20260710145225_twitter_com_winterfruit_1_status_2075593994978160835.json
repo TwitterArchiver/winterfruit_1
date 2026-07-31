@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2075549399636447639",
+    "created_at": "2026-07-10T14:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075593994978160835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999415746997420036",
+          "start": 0,
+          "username": "Xuzawanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075593994978160835",
+    "in_reply_to_user_id": "1999415746997420036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075549399636447639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuzawanoda 鳗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2075549399636447639",
+        "created_at": "2026-07-10T14:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075593994978160835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999415746997420036",
+              "start": 0,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075593994978160835",
+        "in_reply_to_user_id": "1999415746997420036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075549399636447639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawanoda 鳗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999415746997420036",
+        "conversation_id": "2075549399636447639",
+        "created_at": "2026-07-10T11:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075549399636447639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075549399636447639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要学鳗鱼解剖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 1480,
+          "like_count": 43621,
+          "listed_count": 6,
+          "media_count": 1888,
+          "tweet_count": 13053
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T09:47:30.000Z",
+        "description": "这都是什么啊喏哒！\n无言势，点赞势",
+        "id": "1999415746997420036",
+        "location": "🔴in a private world",
+        "name": "苦呀西EX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044304101362868224/2_HCv6c-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 286,
+          "like_count": 10408,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Xuzawanoda",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1976987769709998449",
+    "created_at": "2025-10-11T21:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T22:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977119920132702615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4834866862",
+          "start": 0,
+          "username": "Zhiminist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977119920132702615",
+    "in_reply_to_user_id": "4834866862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976987769709998449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhiminist 有点恐怖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2264,
+        "media_key": "3_1976987760033775622",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-r5KobwAY4xAj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1976987769709998449",
+        "created_at": "2025-10-11T21:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977119920132702615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4834866862",
+              "start": 0,
+              "username": "Zhiminist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977119920132702615",
+        "in_reply_to_user_id": "4834866862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976987769709998449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhiminist 有点恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976987760033775622"
+          ]
+        },
+        "author_id": "4834866862",
+        "conversation_id": "1976987769709998449",
+        "created_at": "2025-10-11T12:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976987769709998449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fx7FmQNTgg",
+              "end": 30,
+              "expanded_url": "https://x.com/Zhiminist/status/1976987769709998449/photo/1",
+              "media_key": "3_1976987760033775622",
+              "start": 7,
+              "url": "https://t.co/fx7FmQNTgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976987769709998449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 28185,
+          "like_count": 391,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "黑神话：胖虎 https://t.co/fx7FmQNTgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 769,
+          "like_count": 16476,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-22T10:24:08.000Z",
+        "description": "为有拴人多壮志，敢用锁链换新天。",
+        "id": "4834866862",
+        "location": "徐州丰县董集村",
+        "name": "董卫兵Zhiminist⛓️",
+        "pinned_tweet_id": "1715207332911779969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771705049074614272/765FFqWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 218,
+          "like_count": 24668,
+          "listed_count": 11,
+          "media_count": 677,
+          "tweet_count": 4231
+        },
+        "username": "Zhiminist",
+        "verified": false
+      }
+    ]
+  }
+}

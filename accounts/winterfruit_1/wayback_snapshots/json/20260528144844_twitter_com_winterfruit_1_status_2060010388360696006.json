@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060005576877260801"
+      ],
+      "media_source_tweet_id": [
+        "2060005604127576550"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2060010388360696006",
+    "created_at": "2026-05-28T14:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060010388360696006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632832954421633029",
+          "start": 3,
+          "username": "482xxnay"
+        },
+        {
+          "end": 35,
+          "id": "1452123941686976519",
+          "start": 25,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MViVITEXdo",
+          "end": 88,
+          "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+          "media_key": "3_2060005576877260801",
+          "start": 65,
+          "url": "https://t.co/MViVITEXdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060010388360696006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060005604127576550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @482xxnay: 帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [C21Koy_7c].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "C21Koy_7c",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "C21Koy_7c"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060005576877260801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJacKGUXwAE6Ohq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060005576877260801"
+          ],
+          "media_source_tweet_id": [
+            "2060005604127576550"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060010388360696006",
+        "created_at": "2026-05-28T14:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060010388360696006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632832954421633029",
+              "start": 3,
+              "username": "482xxnay"
+            },
+            {
+              "end": 35,
+              "id": "1452123941686976519",
+              "start": 25,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MViVITEXdo",
+              "end": 88,
+              "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+              "media_key": "3_2060005576877260801",
+              "start": 65,
+              "url": "https://t.co/MViVITEXdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060010388360696006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060005604127576550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @482xxnay: 帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060005576877260801"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060005604127576550",
+        "created_at": "2026-05-28T14:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060005604127576550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1452123941686976519",
+              "start": 11,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MViVITEXdo",
+              "end": 74,
+              "expanded_url": "https://x.com/482xxnay/status/2060005604127576550/photo/1",
+              "media_key": "3_2060005576877260801",
+              "start": 51,
+              "url": "https://t.co/MViVITEXdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060005604127576550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "帮我转转 我被冻了宝们@C21Koy_7c \n可以帮我申诉吗 我已经提交了很难过 21年就用起来的了 https://t.co/MViVITEXdo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1473,
+          "like_count": 42144,
+          "listed_count": 6,
+          "media_count": 1831,
+          "tweet_count": 12501
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 不接急单 不接急单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 530,
+          "like_count": 3976,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 4250
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

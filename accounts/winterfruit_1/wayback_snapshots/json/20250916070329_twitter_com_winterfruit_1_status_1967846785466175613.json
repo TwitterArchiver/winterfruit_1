@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1967846785466175613",
+    "created_at": "2025-09-16T07:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967846785466175613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811690667720212480",
+          "start": 3,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 29,
+          "id": "1355178308460187653",
+          "start": 15,
+          "username": "CoilofFaraday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967846785466175613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967842749044101585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y0zarashi: @CoilofFaraday 这个你放心哈。我们国内的那些自称毒贩的化学极乐专家，他们再怎么用自己家的天然气加热也分泌不出什么东西的。导致昏迷，也不需要洗胃什么，那纯粹是沙子堵住嗓子了，需要的是海姆立克法而不是你说的那些专业的医疗器材"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1967846785466175613",
+        "created_at": "2025-09-16T07:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967846785466175613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811690667720212480",
+              "start": 3,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 29,
+              "id": "1355178308460187653",
+              "start": 15,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967846785466175613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967842749044101585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y0zarashi: @CoilofFaraday 这个你放心哈。我们国内的那些自称毒贩的化学极乐专家，他们再怎么用自己家的天然气加热也分泌不出什么东西的。导致昏迷，也不需要洗胃什么，那纯粹是沙子堵住嗓子了，需要的是海姆立克法而不是你说的那些专业的医疗器材"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1967841674941567438",
+        "created_at": "2025-09-16T06:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967842749044101585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355178308460187653",
+              "start": 0,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967842749044101585",
+        "in_reply_to_user_id": "1355178308460187653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967841674941567438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoilofFaraday 这个你放心哈。我们国内的那些自称毒贩的化学极乐专家，他们再怎么用自己家的天然气加热也分泌不出什么东西的。导致昏迷，也不需要洗胃什么，那纯粹是沙子堵住嗓子了，需要的是海姆立克法而不是你说的那些专业的医疗器材"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 473,
+          "like_count": 11798,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 3689
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1963471902980157641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 256,
+          "like_count": 15,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1806
+        },
+        "username": "y0zarashi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 🦁@yoselindead",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU6pkE"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1957155056010289461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701293293311762432/aTu-krXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 460,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/dtOyzU6pkE",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

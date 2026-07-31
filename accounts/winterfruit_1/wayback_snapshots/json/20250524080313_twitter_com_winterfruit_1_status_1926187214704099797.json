@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1925899601254457398",
+    "created_at": "2025-05-24T08:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T09:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926187214704099797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926187214704099797",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925899601254457398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 何意味啊😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1925899601254457398",
+        "created_at": "2025-05-24T08:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926187214704099797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926187214704099797",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925899601254457398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 何意味啊😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1925899601254457398",
+        "created_at": "2025-05-23T13:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925899601254457398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/damatte8964/status/1914264398144717227",
+              "start": 27,
+              "url": "https://t.co/9DV1vobOab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925899601254457398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7821,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914264398144717227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续又来了，十五岁地雷女520给此男转了13140。 https://t.co/9DV1vobOab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose丨可以叫我420｜互fo🐧",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 274,
+          "like_count": 5115,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1469
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*",
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1924407631873266035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31887,
+          "following_count": 706,
+          "like_count": 6143,
+          "listed_count": 41,
+          "media_count": 125,
+          "tweet_count": 1928
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

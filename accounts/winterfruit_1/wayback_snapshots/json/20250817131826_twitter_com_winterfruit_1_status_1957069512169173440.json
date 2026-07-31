@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956563197374173184"
+      ],
+      "media_source_tweet_id": [
+        "1956695688730849645"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265664739276763136",
+          "name": "Beach life"
+        }
+      }
+    ],
+    "conversation_id": "1957069512169173440",
+    "created_at": "2025-08-17T13:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957069512169173440"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Neuro",
+          "probability": 0.8018,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Evil",
+          "probability": 0.4528,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 83,
+          "tag": "heartheartart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837612444501381120",
+          "start": 3,
+          "username": "Hikaru_Itachi"
+        },
+        {
+          "end": 81,
+          "id": "795290212029132800",
+          "start": 71,
+          "username": "Serafhin1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JVc5vdEmDO",
+          "end": 121,
+          "expanded_url": "https://x.com/Hikaru_Itachi/status/1956695688730849645/photo/1",
+          "media_key": "3_1956563197374173184",
+          "start": 98,
+          "url": "https://t.co/JVc5vdEmDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957069512169173440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956695688730849645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikaru_Itachi: Neuro and Evil after going to the beach   \n🎨CM from @Serafhin1 \n#heartheartart https://t.co/JVc5vdEmDO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1956563197374173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gycb3JgXEAAL18l.jpg",
+        "width": 2749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956563197374173184"
+          ],
+          "media_source_tweet_id": [
+            "1956695688730849645"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1957069512169173440",
+        "created_at": "2025-08-17T13:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957069512169173440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Neuro",
+              "probability": 0.8018,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Evil",
+              "probability": 0.4528,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 83,
+              "tag": "heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837612444501381120",
+              "start": 3,
+              "username": "Hikaru_Itachi"
+            },
+            {
+              "end": 81,
+              "id": "795290212029132800",
+              "start": 71,
+              "username": "Serafhin1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVc5vdEmDO",
+              "end": 121,
+              "expanded_url": "https://x.com/Hikaru_Itachi/status/1956695688730849645/photo/1",
+              "media_key": "3_1956563197374173184",
+              "start": 98,
+              "url": "https://t.co/JVc5vdEmDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957069512169173440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956695688730849645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikaru_Itachi: Neuro and Evil after going to the beach   \n🎨CM from @Serafhin1 \n#heartheartart https://t.co/JVc5vdEmDO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956563197374173184"
+          ]
+        },
+        "author_id": "1837612444501381120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1956695688730849645",
+        "created_at": "2025-08-16T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956695688730849645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Neuro and Evil",
+              "probability": 0.6765,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 64,
+              "tag": "heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "795290212029132800",
+              "start": 52,
+              "username": "Serafhin1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVc5vdEmDO",
+              "end": 102,
+              "expanded_url": "https://x.com/Hikaru_Itachi/status/1956695688730849645/photo/1",
+              "media_key": "3_1956563197374173184",
+              "start": 79,
+              "url": "https://t.co/JVc5vdEmDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956695688730849645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 19485,
+          "like_count": 2270,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "Neuro and Evil after going to the beach   \n🎨CM from @Serafhin1 \n#heartheartart https://t.co/JVc5vdEmDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420  / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 433,
+          "like_count": 9591,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3113
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T21:58:47.000Z",
+        "description": "pfp gifted by liquain\nBanner by pchan",
+        "id": "1837612444501381120",
+        "name": "Soul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932974757596557312/UDTZENoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 327,
+          "like_count": 768,
+          "listed_count": 8,
+          "media_count": 74,
+          "tweet_count": 135
+        },
+        "username": "Hikaru_Itachi",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-06T15:42:17.000Z",
+        "description": "Trying to draw cute anime girls ✏️\n★ N°1 March and Vivian fan ★\n\nContact ➔【serafhin.art@gmail.com】\nComms ➔ 【https://t.co/4vNBoFmeMQ】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Serafhin1",
+                "end": 131,
+                "expanded_url": "https://vgen.co/Serafhin1",
+                "start": 108,
+                "url": "https://t.co/4vNBoFmeMQ"
+              }
+            ]
+          }
+        },
+        "id": "795290212029132800",
+        "location": "NO AI ❌",
+        "name": "Serafhin",
+        "pinned_tweet_id": "1944763627434598626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944762341058351105/Hk9R3qZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 849,
+          "like_count": 28258,
+          "listed_count": 26,
+          "media_count": 103,
+          "tweet_count": 985
+        },
+        "username": "Serafhin1",
+        "verified": true
+      }
+    ]
+  }
+}

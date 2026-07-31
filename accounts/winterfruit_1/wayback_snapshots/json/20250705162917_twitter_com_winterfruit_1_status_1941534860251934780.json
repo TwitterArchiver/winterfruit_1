@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1941534860251934780",
+    "created_at": "2025-07-05T16:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941534860251934780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1941511689306001639",
+          "start": 9,
+          "url": "https://t.co/7VvhiubeYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941534860251934780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941511689306001639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OIer潜力无限 https://t.co/7VvhiubeYU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1941534860251934780",
+        "created_at": "2025-07-05T16:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941534860251934780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1941511689306001639",
+              "start": 9,
+              "url": "https://t.co/7VvhiubeYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941534860251934780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941511689306001639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OIer潜力无限 https://t.co/7VvhiubeYU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1941511689306001639",
+        "created_at": "2025-07-05T14:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941511689306001639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941511689306001639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3301,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你亲眼看到一个群从：\n“膜”\n“orz”\n“羡慕数理基础”\n“太强了”\n\n变成：\n“打了日雌发情了”\n“小腹好烫”\n“主人qwq”\n\n你的世界观会丰富不少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 355,
+          "like_count": 7344,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2057
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17157,
+          "following_count": 188,
+          "like_count": 562,
+          "listed_count": 64,
+          "media_count": 86,
+          "tweet_count": 17151
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

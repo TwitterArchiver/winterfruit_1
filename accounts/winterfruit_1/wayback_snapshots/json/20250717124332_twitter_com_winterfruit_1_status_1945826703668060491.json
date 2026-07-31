@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1945809932974219337",
+    "created_at": "2025-07-17T12:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T13:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945826703668060491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "878230708606468098",
+          "start": 0,
+          "username": "McatSpicy"
+        },
+        {
+          "end": 18,
+          "id": "1613079089879076864",
+          "start": 11,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945826703668060491",
+    "in_reply_to_user_id": "878230708606468098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945811757978829126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McatSpicy @Cldeop 我想吃麦当劳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1945809932974219337",
+        "created_at": "2025-07-17T12:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945826703668060491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "878230708606468098",
+              "start": 0,
+              "username": "McatSpicy"
+            },
+            {
+              "end": 18,
+              "id": "1613079089879076864",
+              "start": 11,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945826703668060491",
+        "in_reply_to_user_id": "878230708606468098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945811757978829126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McatSpicy @Cldeop 我想吃麦当劳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878230708606468098",
+        "conversation_id": "1945809932974219337",
+        "created_at": "2025-07-17T11:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945811757978829126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945811757978829126",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945809932974219337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 我要绑架你们换15个麦辣鸡腿堡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 387,
+          "like_count": 7756,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2182
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-23T12:38:12.000Z",
+        "description": "馋嘴猫猫叠加麦辣的独特辣味，辣的口感更有层次。搭配清爽切块生菜和美味沙拉酱，多重滋味享受。",
+        "id": "878230708606468098",
+        "location": "麦門町",
+        "name": "麦辣鸡腿猫 =ω=",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944717712862969856/Uvr3SK2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 1066,
+          "like_count": 36680,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 4290
+        },
+        "username": "McatSpicy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1945474927458689479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70795,
+          "following_count": 599,
+          "like_count": 29777,
+          "listed_count": 236,
+          "media_count": 11112,
+          "tweet_count": 15695
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

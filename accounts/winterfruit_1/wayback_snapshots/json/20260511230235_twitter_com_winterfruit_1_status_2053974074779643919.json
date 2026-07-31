@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053974065426350080"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053974074779643919",
+    "created_at": "2026-05-11T23:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053974074779643919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLEdjxz5io",
+          "end": 23,
+          "expanded_url": "https://x.com/winterfruit_1/status/2053974074779643919/photo/1",
+          "media_key": "3_2053974065426350080",
+          "start": 0,
+          "url": "https://t.co/HLEdjxz5io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053974074779643919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HLEdjxz5io"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2053974065426350080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEuh7OaQAAne0F.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053974065426350080"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053974074779643919",
+        "created_at": "2026-05-11T23:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053974074779643919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLEdjxz5io",
+              "end": 23,
+              "expanded_url": "https://x.com/winterfruit_1/status/2053974074779643919/photo/1",
+              "media_key": "3_2053974065426350080",
+              "start": 0,
+              "url": "https://t.co/HLEdjxz5io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053974074779643919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HLEdjxz5io"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 1477,
+          "like_count": 41184,
+          "listed_count": 6,
+          "media_count": 1785,
+          "tweet_count": 12120
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

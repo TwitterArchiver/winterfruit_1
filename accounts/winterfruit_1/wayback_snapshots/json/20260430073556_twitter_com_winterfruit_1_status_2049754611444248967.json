@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2049549275244413257",
+    "created_at": "2026-04-30T07:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049754611444248967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818327139940540416",
+          "start": 0,
+          "username": "milkey94537"
+        },
+        {
+          "end": 22,
+          "id": "1545277694325116928",
+          "start": 13,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049754611444248967",
+    "in_reply_to_user_id": "1818327139940540416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049748010234749290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milkey94537 @YongQuan 故事，奶绿偷伞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2049549275244413257",
+        "created_at": "2026-04-30T07:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049754611444248967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818327139940540416",
+              "start": 0,
+              "username": "milkey94537"
+            },
+            {
+              "end": 22,
+              "id": "1545277694325116928",
+              "start": 13,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049754611444248967",
+        "in_reply_to_user_id": "1818327139940540416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049748010234749290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milkey94537 @YongQuan 故事，奶绿偷伞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818327139940540416",
+        "conversation_id": "2049549275244413257",
+        "created_at": "2026-04-30T07:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049748010234749290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 15,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049748010234749290",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049567061387694246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 @YongQuan 这个奶绿不是b站的v吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\nAsakiii @w0sh1Asak1 \n香香梨 @Kikunashi30712\n璟江别 @cy79p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "username": "cy79p"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 1490,
+          "like_count": 40807,
+          "listed_count": 7,
+          "media_count": 1751,
+          "tweet_count": 11930
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:45:58.000Z",
+        "description": "",
+        "id": "1818327139940540416",
+        "name": "milkey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994226413935972352/fGiiKe-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 164,
+          "like_count": 3431,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 379
+        },
+        "username": "milkey94537",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@Show5560｜ @XUEQIUxka ｜@Tennoujinyano｜@JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 16,
+                "start": 7,
+                "username": "Show5560"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "JDGaming"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9194,
+          "following_count": 4165,
+          "like_count": 43589,
+          "listed_count": 28,
+          "media_count": 3026,
+          "tweet_count": 11399
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

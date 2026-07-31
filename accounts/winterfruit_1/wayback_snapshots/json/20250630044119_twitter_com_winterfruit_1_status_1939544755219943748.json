@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1939544755219943748",
+    "created_at": "2025-06-30T04:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939544755219943748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1000763746430500865",
+          "start": 3,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939544755219943748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891793132691521786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @manoj901858808: 不想玩了人生的投降键在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1939544755219943748",
+        "created_at": "2025-06-30T04:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939544755219943748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1000763746430500865",
+              "start": 3,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939544755219943748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891793132691521786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @manoj901858808: 不想玩了人生的投降键在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000763746430500865",
+        "conversation_id": "1891793132691521786",
+        "created_at": "2025-02-18T10:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T11:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891793132691521786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891793132691521786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 50974,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "不想玩了人生的投降键在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 352,
+          "like_count": 7183,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2016
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "=世界第一小泪殿下｜泛性恋｜只回复门槛相关",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1891793132691521786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939235471952883712/g0YtmI3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40937,
+          "following_count": 392,
+          "like_count": 2239,
+          "listed_count": 81,
+          "media_count": 210,
+          "tweet_count": 1329
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1949423594456396214",
+    "created_at": "2025-07-27T10:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949424316065440181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783819937045237760",
+          "start": 0,
+          "username": "iiihatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949424316065440181",
+    "in_reply_to_user_id": "1783819937045237760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949424044442566713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiihatehuman 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1949423594456396214",
+        "created_at": "2025-07-27T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949424316065440181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783819937045237760",
+              "start": 0,
+              "username": "iiihatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949424316065440181",
+        "in_reply_to_user_id": "1783819937045237760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949424044442566713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiihatehuman 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783819937045237760",
+        "conversation_id": "1949423594456396214",
+        "created_at": "2025-07-27T10:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949424044442566713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949424044442566713",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949423594456396214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 400,
+          "like_count": 8180,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2377
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎 @sekaiboom 鎖推小號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "sekaiboom"
+              }
+            ]
+          }
+        },
+        "id": "1783819937045237760",
+        "location": "天國",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947881602417365446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 371,
+          "like_count": 2088,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1768
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

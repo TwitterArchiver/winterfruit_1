@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2047601153626829254",
+    "created_at": "2026-04-24T13:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047662189956505732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 27,
+          "id": "1944351426827735040",
+          "start": 15,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047662189956505732",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047601153626829254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @kiss_u_back 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [kiss_u_back].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kiss_u_back",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kiss_u_back"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047601150820823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqKZeRbMAAo3Ls.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047601150963458049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqKZezboAENaEm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2047601153626829254",
+        "created_at": "2026-04-24T13:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047662189956505732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 27,
+              "id": "1944351426827735040",
+              "start": 15,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047662189956505732",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047601153626829254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @kiss_u_back 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047601150820823040",
+            "3_2047601150963458049"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047601153626829254",
+        "created_at": "2026-04-24T08:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047601153626829254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944351426827735040",
+              "start": 2,
+              "username": "kiss_u_back"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jso3GuW8ie",
+              "end": 160,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047601153626829254/photo/1",
+              "media_key": "3_2047601150820823040",
+              "start": 137,
+              "url": "https://t.co/jso3GuW8ie"
+            },
+            {
+              "display_url": "pic.x.com/jso3GuW8ie",
+              "end": 160,
+              "expanded_url": "https://x.com/Idontselldrug/status/2047601153626829254/photo/1",
+              "media_key": "3_2047601150963458049",
+              "start": 137,
+              "url": "https://t.co/jso3GuW8ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047601153626829254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和@kiss_u_back 已在4.20分手，她在知道我生日+考试+自杀意愿很高的情况下，在我当天醒来后直接把我甩了，原因是嫌我焦虑型太烦谈着累。此前她一直消失没给我发消息\n\n这显著提升了我的自杀意愿，影响了我考试发挥。第二天她后悔了，但是后果已经无法挽回了，我们分手了\n\n我让她给我写道歉信发推上，她注销推特了只能我自己发了\n\n我跟她不想撕破脸，就先这样吧，我不想说太多细节指控她，不然显得我在博取同情。这是一个声明，不是一个檄文。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7830,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和@kiss_u_back 已在4.20分手，她在知道我生日+考试+自杀意愿很高的情况下，在我当天醒来后直接把我甩了，原因是嫌我焦虑型太烦谈着累。此前她一直消失没给我发消息\n\n这显著提升了我的自杀意愿，影响了我考试发挥。第二天她后悔了，但是后果已经无法挽回了，我们分手了 https://t.co/jso3GuW8ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ。\nAsaki @w0sh1Asak1\n香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 1468,
+          "like_count": 40542,
+          "listed_count": 7,
+          "media_count": 1737,
+          "tweet_count": 11847
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 263,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

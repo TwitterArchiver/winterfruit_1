@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934114102412193792"
+      ],
+      "media_source_tweet_id": [
+        "1934114111509627075"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1934143675208290612",
+    "created_at": "2025-06-15T06:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T07:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934143675208290612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z35rR2mGtf",
+          "end": 42,
+          "expanded_url": "https://x.com/Cldeop/status/1934114111509627075/photo/1",
+          "media_key": "3_1934114102412193792",
+          "start": 19,
+          "url": "https://t.co/Z35rR2mGtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934143675208290612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934114111509627075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 今天是父亲节 https://t.co/Z35rR2mGtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1198,
+        "media_key": "3_1934114102412193792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtdah11aMAAA-7p.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934114102412193792"
+          ],
+          "media_source_tweet_id": [
+            "1934114111509627075"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1934143675208290612",
+        "created_at": "2025-06-15T06:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T07:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934143675208290612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z35rR2mGtf",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/1934114111509627075/photo/1",
+              "media_key": "3_1934114102412193792",
+              "start": 19,
+              "url": "https://t.co/Z35rR2mGtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934143675208290612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934114111509627075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 今天是父亲节 https://t.co/Z35rR2mGtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934114102412193792"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1934114111509627075",
+        "created_at": "2025-06-15T05:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934114111509627075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z35rR2mGtf",
+              "end": 30,
+              "expanded_url": "https://x.com/Cldeop/status/1934114111509627075/photo/1",
+              "media_key": "3_1934114102412193792",
+              "start": 7,
+              "url": "https://t.co/Z35rR2mGtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934114111509627075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4928,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天是父亲节 https://t.co/Z35rR2mGtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 327,
+          "like_count": 6264,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1726
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1933921051123257449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68272,
+          "following_count": 566,
+          "like_count": 29368,
+          "listed_count": 229,
+          "media_count": 10431,
+          "tweet_count": 14699
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947014550714490880"
+      ],
+      "media_source_tweet_id": [
+        "1947014576308208125"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1947770364840579255",
+    "created_at": "2025-07-22T21:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T22:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947770364840579255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1219243736984473600",
+          "start": 3,
+          "username": "SuanSuan39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPW7bfdOGR",
+          "end": 44,
+          "expanded_url": "https://x.com/SuanSuan39/status/1947014576308208125/photo/1",
+          "media_key": "3_1947014550714490880",
+          "start": 21,
+          "url": "https://t.co/xPW7bfdOGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947770364840579255",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947014576308208125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuanSuan39: 🩸❣️🩸 https://t.co/xPW7bfdOGR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947770364840579255].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947770364840579255",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947770364840579255"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1947014550714490880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUvawvaoAAd0sT.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947014550714490880"
+          ]
+        },
+        "author_id": "1219243736984473600",
+        "conversation_id": "1947014576308208125",
+        "created_at": "2025-07-20T19:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947014576308208125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPW7bfdOGR",
+              "end": 28,
+              "expanded_url": "https://x.com/SuanSuan39/status/1947014576308208125/photo/1",
+              "media_key": "3_1947014550714490880",
+              "start": 5,
+              "url": "https://t.co/xPW7bfdOGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947014576308208125",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3922,
+          "like_count": 179,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "🩸❣️🩸 https://t.co/xPW7bfdOGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo /玩原神的人先享受世界",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 391,
+          "like_count": 7926,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2291
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T13:02:34.000Z",
+        "description": "👁️  👁️",
+        "id": "1219243736984473600",
+        "location": "スバラシヰ世界",
+        "name": "蒜蒜",
+        "pinned_tweet_id": "1934831384889364707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806434822916587520/i4M10QTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 3096,
+          "like_count": 14831,
+          "listed_count": 10,
+          "media_count": 28,
+          "tweet_count": 4801
+        },
+        "username": "SuanSuan39",
+        "verified": false
+      }
+    ]
+  }
+}

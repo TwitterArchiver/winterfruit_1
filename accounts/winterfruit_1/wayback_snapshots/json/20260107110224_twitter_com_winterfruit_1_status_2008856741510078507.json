@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2008791295029113164",
+    "created_at": "2026-01-07T11:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008856741510078507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1746154652981506048",
+          "start": 0,
+          "username": "1984Nineteen"
+        },
+        {
+          "end": 23,
+          "id": "1257910808433922048",
+          "start": 14,
+          "username": "newsNZcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008856741510078507",
+    "in_reply_to_user_id": "1746154652981506048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008855153575932350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1984Nineteen @newsNZcn 为什么要告诉我这个……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008855153575932350].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008855153575932350",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008855153575932350"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2008791295029113164",
+        "created_at": "2026-01-07T11:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008856741510078507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1746154652981506048",
+              "start": 0,
+              "username": "1984Nineteen"
+            },
+            {
+              "end": 23,
+              "id": "1257910808433922048",
+              "start": 14,
+              "username": "newsNZcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008856741510078507",
+        "in_reply_to_user_id": "1746154652981506048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008855153575932350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1984Nineteen @newsNZcn 为什么要告诉我这个……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙🐙 WinterFruit / 💙 / 里账：@_Yuyuko_FTZ 🐙🐙🐙江别 @cy79p｜渡川@justyanwu14｜星 @chenXXX_9｜小a @w0sh1Asak1｜小k @akinoyo_desu ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "cy79p"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "2001234849513005270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008582729525272576/tymMLkAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 1409,
+          "like_count": 27605,
+          "listed_count": 6,
+          "media_count": 1134,
+          "tweet_count": 8994
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:58:29.000Z",
+        "description": "意识流的一些碎碎念",
+        "id": "1746154652981506048",
+        "name": "𝓣𝓱𝓪𝓷𝓪𝓽𝓸𝓼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998512499990421504/_MFXn6eC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "username": "1984Nineteen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T05:51:54.000Z",
+        "description": "天地奇闻，古今趣谈。♨️ \n\n▫️轻度内容创作者。✍️\n\n▫️X 文大多搜集于网络。欢迎发现并纠正错误。🙏\n\n（Stories, Pictures, Videos for Mystery, Novelty, and Fantasy.）\n\n▫️DM for removal or credit. ©️",
+        "id": "1257910808433922048",
+        "location": "NZ",
+        "name": "环球猎奇🏅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269197501799620609/qG1L0Xrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161935,
+          "following_count": 6,
+          "like_count": 42258,
+          "listed_count": 485,
+          "media_count": 11548,
+          "tweet_count": 16810
+        },
+        "username": "newsNZcn",
+        "verified": true
+      }
+    ]
+  }
+}

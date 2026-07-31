@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1980252636038492480",
+    "created_at": "2025-10-20T13:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980262887173263727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "982460989005287424",
+          "start": 0,
+          "username": "entangled_pair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980262887173263727",
+    "in_reply_to_user_id": "982460989005287424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980252636038492480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entangled_pair 暂定人生计划只到二十七"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1980252636038492480",
+        "created_at": "2025-10-20T13:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980262887173263727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982460989005287424",
+              "start": 0,
+              "username": "entangled_pair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980262887173263727",
+        "in_reply_to_user_id": "982460989005287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980252636038492480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entangled_pair 暂定人生计划只到二十七"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982460989005287424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jimi Hendrix",
+              "id": "993590045150883840",
+              "name": "Jimi Hendrix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jimi Hendrix",
+              "id": "993590045150883840",
+              "name": "Jimi Hendrix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jimi Hendrix",
+              "id": "993590045150883840",
+              "name": "Jimi Hendrix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "1980252636038492480",
+        "created_at": "2025-10-20T12:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980252636038492480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1980093700366827689",
+              "start": 171,
+              "url": "https://t.co/bVuLJnxgsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980252636038492480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980093700366827689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "27岁也很有美感，Jimi Hendrix，Kurt Cobain，Jim Morrison\n如果读了phd你还很可能在那时毕业。想象一下，你拿到了华尔街大quant/各路牛校fellow/明星初创offer，你流利的做完答辩，你的导师向你祝贺，大家开了毕业趴一起喝到烂醉如泥\n多美好，你在世界的巅峰！\n如果人生是电影，完结在这一刻就最好了 https://t.co/bVuLJnxgsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 946,
+          "like_count": 18211,
+          "listed_count": 3,
+          "media_count": 619,
+          "tweet_count": 5897
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "即时退出当代生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaykayz.com",
+                "end": 23,
+                "expanded_url": "http://jaykayz.com",
+                "start": 0,
+                "url": "https://t.co/m6o54XZUN8"
+              }
+            ]
+          }
+        },
+        "id": "982460989005287424",
+        "location": "Shenzhen",
+        "name": "𝙅𝙆.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 288,
+          "like_count": 6230,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1670
+        },
+        "url": "https://t.co/m6o54XZUN8",
+        "username": "entangled_pair",
+        "verified": true
+      }
+    ]
+  }
+}

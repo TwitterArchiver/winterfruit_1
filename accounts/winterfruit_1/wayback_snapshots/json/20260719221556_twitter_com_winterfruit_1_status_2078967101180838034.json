@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2078966333656400057",
+    "created_at": "2026-07-19T22:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078967101180838034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529373912764514304",
+          "start": 0,
+          "username": "AigXiApbPKiX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078967101180838034",
+    "in_reply_to_user_id": "1529373912764514304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078966333656400057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AigXiApbPKiX3 操啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2078966333656400057",
+        "created_at": "2026-07-19T22:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078967101180838034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529373912764514304",
+              "start": 0,
+              "username": "AigXiApbPKiX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078967101180838034",
+        "in_reply_to_user_id": "1529373912764514304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078966333656400057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AigXiApbPKiX3 操啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529373912764514304",
+        "conversation_id": "2078966333656400057",
+        "created_at": "2026-07-19T22:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078966333656400057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2078961015602163762",
+              "start": 22,
+              "url": "https://t.co/g2gKlzscm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078966333656400057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078961015602163762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四个字\n不！如！不！看！\n气活了全程蛆着打 https://t.co/g2gKlzscm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 1484,
+          "like_count": 43590,
+          "listed_count": 6,
+          "media_count": 1900,
+          "tweet_count": 13165
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "Relic / レリック",
+        "id": "1529373912764514304",
+        "location": "广州",
+        "name": "レリック",
+        "pinned_tweet_id": "2025559340971864375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 755,
+          "like_count": 30939,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1653
+        },
+        "url": "",
+        "username": "AigXiApbPKiX3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1951942553345081542",
+    "created_at": "2025-08-03T09:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T10:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951942553345081542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nicholaslf1/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nicholaslf1/status/1951820607982854558",
+          "start": 6,
+          "url": "https://t.co/E3gwt7URQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951942553345081542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951820607982854558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超，晶！ https://t.co/E3gwt7URQ5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1951942553345081542",
+        "created_at": "2025-08-03T09:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951942553345081542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nicholaslf1/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nicholaslf1/status/1951820607982854558",
+              "start": 6,
+              "url": "https://t.co/E3gwt7URQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951942553345081542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951820607982854558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超，晶！ https://t.co/E3gwt7URQ5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458457533300211712",
+        "conversation_id": "1946866719542353920",
+        "created_at": "2025-08-03T01:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T02:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951820607982854558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951820607982854558",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946873045890781377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 你好，有没有od，紫砂的电报群，最近重度抑郁，很怀念过去群聊的岁月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "忘掉的事情很多 / overdose / 可以叫我420 / 互fo",
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 407,
+          "like_count": 8463,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2524
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T15:32:59.000Z",
+        "description": "太虚",
+        "id": "1458457533300211712",
+        "location": "Los Angeles, CA",
+        "name": "Nicholas L.F",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458457666993659904/erugd9Yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "NicholasLF1",
+        "verified": false
+      }
+    ]
+  }
+}

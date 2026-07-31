@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1988693432341348448",
+    "created_at": "2025-11-12T19:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T20:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988693432341348448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duohong44622/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/duohong44622/status/1988195749499117853",
+          "start": 24,
+          "url": "https://t.co/5vYu6Lqnd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988693432341348448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988195749499117853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道这个，我在三体3里看到过，澳大利人爱吃的 https://t.co/5vYu6Lqnd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27966,
+        "height": 960,
+        "media_key": "13_1988135403669647363",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988135403669647363/img/Dj10EsKl2No3ilqm.jpg",
+        "public_metrics": {
+          "view_count": 266901
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/320x426/CKxow6JlnVVCYRZf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/480x640/KXTmzvTXvqwfTivO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/vid/avc1/720x960/8oeiLyzGUN3o078M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988135403669647363/pl/0QBt_GvrwMgNIc2t.m3u8?v=b55"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1988693432341348448",
+        "created_at": "2025-11-12T19:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988693432341348448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duohong44622/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/duohong44622/status/1988195749499117853",
+              "start": 24,
+              "url": "https://t.co/5vYu6Lqnd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988693432341348448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988195749499117853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道这个，我在三体3里看到过，澳大利人爱吃的 https://t.co/5vYu6Lqnd0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988135403669647363"
+          ]
+        },
+        "author_id": "1840220702328401922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988195749499117853",
+        "created_at": "2025-11-11T10:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988195749499117853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRV6cWFyRZ",
+              "end": 37,
+              "expanded_url": "https://x.com/DuoHong44622/status/1988195749499117853/video/1",
+              "media_key": "13_1988135403669647363",
+              "start": 14,
+              "url": "https://t.co/FRV6cWFyRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988195749499117853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 461095,
+          "like_count": 698,
+          "quote_count": 58,
+          "reply_count": 1774,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "中共国人日常食用的科技狠活 https://t.co/FRV6cWFyRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1272,
+          "like_count": 21814,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 7053
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T02:43:20.000Z",
+        "description": "莫攀我，攀我太心偏。我是曲江临池柳，者人折了那人攀，恩爱一时间。\n投稿邮箱：duohongfang@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Eyes010",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Eyes010",
+                "start": 0,
+                "url": "https://t.co/N5CORw68N2"
+              }
+            ]
+          }
+        },
+        "id": "1840220702328401922",
+        "name": "所谓伊人 在水一方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892096852637646851/ZFlxxhMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20262,
+          "following_count": 7233,
+          "like_count": 30775,
+          "listed_count": 69,
+          "media_count": 5493,
+          "tweet_count": 21793
+        },
+        "url": "https://t.co/N5CORw68N2",
+        "username": "DuoHong44622",
+        "verified": true
+      }
+    ]
+  }
+}

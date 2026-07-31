@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040755630609489921"
+      ],
+      "media_source_tweet_id": [
+        "2040755634585661671"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2041059778362056792",
+    "created_at": "2026-04-06T07:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041059778362056792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 57,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 34,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/6vMrRVRQN6"
+        },
+        {
+          "display_url": "pic.x.com/3t2HHKyXkY",
+          "end": 81,
+          "expanded_url": "https://x.com/neko0202002/status/2040755634585661671/photo/1",
+          "media_key": "3_2040755630609489921",
+          "start": 58,
+          "url": "https://t.co/3t2HHKyXkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041059778362056792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040755634585661671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 我的Twitter互动圈\n\n➡️ https://t.co/6vMrRVRQN6 https://t.co/3t2HHKyXkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2040755630609489921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI4bwPbYAE6Kxc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040755630609489921"
+          ],
+          "media_source_tweet_id": [
+            "2040755634585661671"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2041059778362056792",
+        "created_at": "2026-04-06T07:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041059778362056792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 57,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/6vMrRVRQN6"
+            },
+            {
+              "display_url": "pic.x.com/3t2HHKyXkY",
+              "end": 81,
+              "expanded_url": "https://x.com/neko0202002/status/2040755634585661671/photo/1",
+              "media_key": "3_2040755630609489921",
+              "start": 58,
+              "url": "https://t.co/3t2HHKyXkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041059778362056792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040755634585661671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 我的Twitter互动圈\n\n➡️ https://t.co/6vMrRVRQN6 https://t.co/3t2HHKyXkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040755630609489921"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040755634585661671",
+        "created_at": "2026-04-05T11:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040755634585661671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/6vMrRVRQN6"
+            },
+            {
+              "display_url": "pic.x.com/3t2HHKyXkY",
+              "end": 64,
+              "expanded_url": "https://x.com/neko0202002/status/2040755634585661671/photo/1",
+              "media_key": "3_2040755630609489921",
+              "start": 41,
+              "url": "https://t.co/3t2HHKyXkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040755634585661671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2372,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/6vMrRVRQN6 https://t.co/3t2HHKyXkY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 1469,
+          "like_count": 39029,
+          "listed_count": 7,
+          "media_count": 1638,
+          "tweet_count": 11435
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 765,
+          "like_count": 1015,
+          "listed_count": 2,
+          "media_count": 843,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}
