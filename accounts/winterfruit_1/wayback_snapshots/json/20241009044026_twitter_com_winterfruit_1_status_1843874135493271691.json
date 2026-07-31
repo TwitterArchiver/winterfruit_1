@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1843828487913947372",
+    "created_at": "2024-10-09T04:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T05:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843874135493271691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759196984051978240",
+          "start": 0,
+          "username": "crowkaka_sensei"
+        },
+        {
+          "end": 29,
+          "id": "1666599054917218305",
+          "start": 17,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843874135493271691",
+    "in_reply_to_user_id": "1759196984051978240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843832245548920978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crowkaka_sensei @kirakira4th 你这堆图到底哪儿来的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1843828487913947372",
+        "created_at": "2024-10-09T04:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T05:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843874135493271691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759196984051978240",
+              "start": 0,
+              "username": "crowkaka_sensei"
+            },
+            {
+              "end": 29,
+              "id": "1666599054917218305",
+              "start": 17,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843874135493271691",
+        "in_reply_to_user_id": "1759196984051978240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843832245548920978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crowkaka_sensei @kirakira4th 你这堆图到底哪儿来的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843832235662946305"
+          ]
+        },
+        "author_id": "1759196984051978240",
+        "conversation_id": "1843828487913947372",
+        "created_at": "2024-10-09T01:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T02:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843832245548920978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFiV02u0uF",
+              "end": 40,
+              "expanded_url": "https://x.com/crowkaka_sensei/status/1843832245548920978/photo/1",
+              "media_key": "3_1843832235662946305",
+              "start": 17,
+              "url": "https://t.co/jFiV02u0uF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843832245548920978",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843828487913947372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 哪个头 https://t.co/jFiV02u0uF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w ini t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839985830280212482/-apuDCIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 38,
+          "like_count": 391,
+          "listed_count": 0,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T12:43:51.000Z",
+        "description": "涉键政推，不喜欢键政的勿fo||找找乐子||签到打卡||欢迎每一个友善的同学，sensei我会好好包容你们的～ᕕ(◠ڼ◠)ᕗ",
+        "id": "1759196984051978240",
+        "location": "鸡窝托斯",
+        "name": "迷人のsensei",
+        "pinned_tweet_id": "1843145708079329362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843816814704504836/IkKSqm-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 73,
+          "like_count": 165,
+          "listed_count": 0,
+          "tweet_count": 278
+        },
+        "username": "crowkaka_sensei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "一切皆为梦｜自用VPN⬇️｜提问箱https://t.co/3hD8J8CJRY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirakira18831",
+                "end": 40,
+                "expanded_url": "https://ngl.link/kirakira18831",
+                "start": 17,
+                "url": "https://t.co/3hD8J8CJRY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.tachvip.com/#/register?code=DzrSYUqh",
+                "start": 0,
+                "url": "https://t.co/Hh3tFDMZsE"
+              }
+            ]
+          }
+        },
+        "id": "1666599054917218305",
+        "name": "猫夏々🍧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838894913326661633/Rw8HtMdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4837,
+          "following_count": 1414,
+          "like_count": 11234,
+          "listed_count": 5,
+          "tweet_count": 2615
+        },
+        "url": "https://t.co/Hh3tFDMZsE",
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

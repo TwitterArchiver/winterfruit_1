@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1841785504431538365",
+    "created_at": "2024-10-03T17:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T18:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841895238803378270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1636956256048140288",
+          "start": 0,
+          "username": "jin_zeawai"
+        },
+        {
+          "end": 27,
+          "id": "1594961815963738114",
+          "start": 12,
+          "username": "Zhao1410544539"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841895238803378270",
+    "in_reply_to_user_id": "1636956256048140288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841801406237360545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jin_zeawai @Zhao1410544539 天才所见略同了😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1841785504431538365",
+        "created_at": "2024-10-03T17:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T18:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841895238803378270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1636956256048140288",
+              "start": 0,
+              "username": "jin_zeawai"
+            },
+            {
+              "end": 27,
+              "id": "1594961815963738114",
+              "start": 12,
+              "username": "Zhao1410544539"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841895238803378270",
+        "in_reply_to_user_id": "1636956256048140288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841801406237360545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jin_zeawai @Zhao1410544539 天才所见略同了😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841801397672804356"
+          ]
+        },
+        "author_id": "1636956256048140288",
+        "conversation_id": "1841785504431538365",
+        "created_at": "2024-10-03T11:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T12:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841801406237360545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1594961815963738114",
+              "start": 0,
+              "username": "Zhao1410544539"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3ZP8fdTXc",
+              "end": 41,
+              "expanded_url": "https://x.com/jin_zeawai/status/1841801406237360545/photo/1",
+              "media_key": "3_1841801397672804356",
+              "start": 18,
+              "url": "https://t.co/o3ZP8fdTXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841801406237360545",
+        "in_reply_to_user_id": "1594961815963738114",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841791997826461763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhao1410544539 😅 https://t.co/o3ZP8fdTXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w ini t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839985830280212482/-apuDCIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 237,
+          "listed_count": 0,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T05:02:56.000Z",
+        "description": "Ciallo～(∠・ω＜)⌒☆哈囉｜重慶高中生｜理科生｜普通話｜學緊粵語｜重慶話｜英文勉強｜繁簡均可｜ENTP｜自由派｜淡鍵政｜藍孩紙｜音遊佬｜新手wmc｜世界計畫(烤P)｜化學｜Minecraft｜交朋友，互fo，如有遗漏私信提醒｜反感的我會拉黑｜擴列見主頁自介（還在製作）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jinzewei08?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jinzewei08?si=oGiwYVSb3nLzl867",
+                "start": 0,
+                "url": "https://t.co/oAZnvDzLOO"
+              }
+            ]
+          }
+        },
+        "id": "1636956256048140288",
+        "location": "中國，重慶",
+        "name": "金擇煒 Zeawai Jin たくい（學習中）",
+        "pinned_tweet_id": "1830541541896757494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820153956938715136/APFkOerw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 135,
+          "like_count": 568,
+          "listed_count": 0,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/oAZnvDzLOO",
+        "username": "jin_zeawai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T07:51:53.000Z",
+        "description": "大陆北方人，在浙江读书｜喜欢看小说｜期待与来自不同地方的你们相识🥰｜讨厌政治魔怔人👊😡👊｜喜欢发梗图",
+        "id": "1594961815963738114",
+        "location": "People's Republic of China",
+        "name": "玖隗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840789346481545216/kT98qDoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 93,
+          "like_count": 6858,
+          "listed_count": 1,
+          "tweet_count": 1552
+        },
+        "username": "Zhao1410544539",
+        "verified": false
+      }
+    ]
+  }
+}
