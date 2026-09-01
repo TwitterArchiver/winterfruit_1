@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2087178998002467004",
+    "created_at": "2026-08-11T14:22:16.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087182816379560225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728798875593654272",
+          "start": 0,
+          "username": "whydoyouwantlsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087182816379560225",
+    "in_reply_to_user_id": "1728798875593654272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087179040507478492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoyouwantlsd 薯条……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087179040507478492].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087179040507478492",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087179040507478492"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2087178998002467004",
+        "created_at": "2026-08-11T14:22:16.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087182816379560225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728798875593654272",
+              "start": 0,
+              "username": "whydoyouwantlsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087182816379560225",
+        "in_reply_to_user_id": "1728798875593654272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087179040507478492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoyouwantlsd 薯条……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2087182816379560225",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 1479,
+          "like_count": 44021,
+          "listed_count": 6,
+          "media_count": 1928,
+          "tweet_count": 13444
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，■TX，退役oder，碎碎念博主，诗歌，文学，精神医学，ASD。永冇正反之分，水中月中月無月。",
+        "id": "1728798875593654272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2045161261013549166",
+        "name": "眼球已死",
+        "pinned_tweet_id": "2076693129374429626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728798875593654272/1769111982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014427806932074496/1KDfhoun_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 253,
+          "like_count": 2476,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "whydoyouwantlsd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883814496927727616"
+      ],
+      "media_source_tweet_id": [
+        "1883814510013911522"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1884068585926222331",
+    "created_at": "2025-01-28T02:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884068585926222331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538160975907500032",
+          "start": 3,
+          "username": "reibouQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHKKmTrJwA",
+          "end": 36,
+          "expanded_url": "https://x.com/reibouQ/status/1883814510013911522/photo/1",
+          "media_key": "3_1883814496927727616",
+          "start": 13,
+          "url": "https://t.co/IHKKmTrJwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884068585926222331",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 991
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883814510013911522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reibouQ: https://t.co/IHKKmTrJwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1883814496927727616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiSnTdgbwAAk2B_.jpg",
+        "width": 1855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883814496927727616"
+          ],
+          "media_source_tweet_id": [
+            "1883814510013911522"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1884068585926222331",
+        "created_at": "2025-01-28T02:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T03:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884068585926222331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538160975907500032",
+              "start": 3,
+              "username": "reibouQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHKKmTrJwA",
+              "end": 36,
+              "expanded_url": "https://x.com/reibouQ/status/1883814510013911522/photo/1",
+              "media_key": "3_1883814496927727616",
+              "start": 13,
+              "url": "https://t.co/IHKKmTrJwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884068585926222331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 991
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883814510013911522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reibouQ: https://t.co/IHKKmTrJwA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883814496927727616"
+          ]
+        },
+        "author_id": "1538160975907500032",
+        "conversation_id": "1883814510013911522",
+        "created_at": "2025-01-27T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883814510013911522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHKKmTrJwA",
+              "end": 23,
+              "expanded_url": "https://x.com/reibouQ/status/1883814510013911522/photo/1",
+              "media_key": "3_1883814496927727616",
+              "start": 0,
+              "url": "https://t.co/IHKKmTrJwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883814510013911522",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 56791,
+          "like_count": 4657,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 991
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IHKKmTrJwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🦒",
+        "id": "1837114188046684161",
+        "name": "太平天国_winit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 239,
+          "like_count": 4597,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1108
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T14:05:43.000Z",
+        "description": "マイペース",
+        "id": "1538160975907500032",
+        "location": "倉庫",
+        "name": "冷房病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793191473091153920/culORdVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5048,
+          "following_count": 44,
+          "like_count": 2418,
+          "listed_count": 31,
+          "media_count": 97,
+          "tweet_count": 156
+        },
+        "username": "reibouQ",
+        "verified": false
+      }
+    ]
+  }
+}

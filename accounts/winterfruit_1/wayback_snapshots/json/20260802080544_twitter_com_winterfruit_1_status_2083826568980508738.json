@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2083778798173208828",
+    "created_at": "2026-08-02T08:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083826568980508738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083826568980508738",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083778798173208828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 有种城市人的傲慢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2083778745366888448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsRuoQaQAAkAA7.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083778798173208828",
+        "created_at": "2026-08-02T08:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083826568980508738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083826568980508738",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083778798173208828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 有种城市人的傲慢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083778745366888448"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2083778798173208828",
+        "created_at": "2026-08-02T04:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083778798173208828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6Ok1iQUDB",
+              "end": 42,
+              "expanded_url": "https://x.com/Poca2381/status/2083778798173208828/photo/1",
+              "media_key": "3_2083778745366888448",
+              "start": 19,
+              "url": "https://t.co/Z6Ok1iQUDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083778798173208828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16991,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友不吃压力并自信展示了祖国的基建 https://t.co/Z6Ok1iQUDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 1484,
+          "like_count": 43847,
+          "listed_count": 6,
+          "media_count": 1918,
+          "tweet_count": 13347
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23311,
+          "following_count": 10264,
+          "like_count": 153907,
+          "listed_count": 51,
+          "media_count": 5826,
+          "tweet_count": 55172
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

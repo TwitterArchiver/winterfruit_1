@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2092903596987994375",
+    "created_at": "2026-08-28T08:11:09.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093250015787618761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705863428571836416",
+          "start": 0,
+          "username": "qunnn13259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093250015787618761",
+    "in_reply_to_user_id": "1705863428571836416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093026745196876263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qunnn13259 我大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2092903596987994375",
+        "created_at": "2026-08-28T08:11:09.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093250015787618761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705863428571836416",
+              "start": 0,
+              "username": "qunnn13259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093250015787618761",
+        "in_reply_to_user_id": "1705863428571836416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093026745196876263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qunnn13259 我大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705863428571836416",
+        "conversation_id": "2092903596987994375",
+        "created_at": "2026-08-27T17:23:57.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093026745196876263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093026745196876263",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092903596987994375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 你大了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2093250015787618761",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 1457,
+          "like_count": 44248,
+          "listed_count": 6,
+          "media_count": 1938,
+          "tweet_count": 13543
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T08:35:15.000Z",
+        "description": "哈姆的哈贝的哈姆",
+        "id": "1705863428571836416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093026745196876263",
+        "name": "哈姆？哈姆！",
+        "pinned_tweet_id": "1764634569977086353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705863428571836416/1703703211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776182730759520256/Vd0giJZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 417,
+          "like_count": 13668,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3241
+        },
+        "url": "",
+        "username": "qunnn13259",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

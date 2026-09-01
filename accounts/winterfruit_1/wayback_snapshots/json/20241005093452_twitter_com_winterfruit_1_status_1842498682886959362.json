@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1842498682886959362",
+    "created_at": "2024-10-05T09:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T10:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842498682886959362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1495378934610857985",
+          "start": 3,
+          "username": "Fiammetta1453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842498682886959362",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842111756724011385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fiammetta1453: 呼吁党中央给上海断电断水断粮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1842498682886959362",
+        "created_at": "2024-10-05T09:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T10:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842498682886959362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1495378934610857985",
+              "start": 3,
+              "username": "Fiammetta1453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842498682886959362",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842111756724011385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fiammetta1453: 呼吁党中央给上海断电断水断粮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495378934610857985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1842111756724011385",
+        "created_at": "2024-10-04T07:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T08:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842111756724011385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XfreemanYoung/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/XfreemanYoung/status/1842033347750436971",
+              "start": 15,
+              "url": "https://t.co/5SPSRq5twx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842111756724011385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5859,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842033347750436971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呼吁党中央给上海断电断水断粮 https://t.co/5SPSRq5twx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "winit.aaa",
+                "end": 23,
+                "expanded_url": "http://winit.aaa",
+                "start": 0,
+                "url": "https://t.co/3ImZkjQ1oQ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "日本",
+        "name": "w ini t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839985830280212482/-apuDCIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 35,
+          "like_count": 278,
+          "listed_count": 0,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/3ImZkjQ1oQ",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T12:45:05.000Z",
+        "description": "仇富但拜金的激进左翼/列宁主义康米/也喜欢社民福利国家/女权人权生态权/明日方舟 崩铁 钢四 文明六/纯音乐爱好者 背景图是都心做的\n对象@duxin12th 中推才女：@Radio_Portales",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "duxin12th"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Radio_Portales"
+              }
+            ]
+          }
+        },
+        "id": "1495378934610857985",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "逃过纽伦堡审判の施佩尔酱 8964天安门事件",
+        "pinned_tweet_id": "1841317123815243804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795007081470410752/uiuUSLux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5385,
+          "following_count": 1476,
+          "like_count": 53546,
+          "listed_count": 26,
+          "tweet_count": 17032
+        },
+        "username": "Fiammetta1453",
+        "verified": false
+      }
+    ]
+  }
+}

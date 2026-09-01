@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086607022611652608",
+        "3_2086607022611632128"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      }
+    ],
+    "conversation_id": "2083598721539805323",
+    "created_at": "2026-08-10T00:14:17.000Z",
+    "display_text_range": [
+      34,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086607029007986955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894995350676766720",
+          "start": 0,
+          "username": "zi_feng67800"
+        },
+        {
+          "end": 20,
+          "id": "894704535037513729",
+          "start": 14,
+          "username": "FURIA"
+        },
+        {
+          "end": 33,
+          "id": "1894472464513568768",
+          "start": 21,
+          "username": "mad_housetv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHENZdmTLH",
+          "end": 73,
+          "expanded_url": "https://x.com/winterfruit_1/status/2086607029007986955/photo/1",
+          "media_key": "3_2086607022611652608",
+          "start": 50,
+          "url": "https://t.co/yHENZdmTLH"
+        },
+        {
+          "display_url": "pic.x.com/yHENZdmTLH",
+          "end": 73,
+          "expanded_url": "https://x.com/winterfruit_1/status/2086607029007986955/photo/1",
+          "media_key": "3_2086607022611632128",
+          "start": 50,
+          "url": "https://t.co/yHENZdmTLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086607029007986955",
+    "in_reply_to_user_id": "1894995350676766720",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086607022611652608"
+      },
+      {
+        "media_key": "3_2086607022611632128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083603658143678769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zi_feng67800 @FURIA @mad_housetv 感觉小夫和峦华就不会带黑豹节奏 https://t.co/yHENZdmTLH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_2086607022611652608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUeCCCaYAAC5gu.jpg",
+        "width": 202
+      },
+      {
+        "height": 512,
+        "media_key": "3_2086607022611632128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUeCCCaEAAwa-1.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086607022611652608",
+            "3_2086607022611632128"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2083598721539805323",
+        "created_at": "2026-08-10T00:14:17.000Z",
+        "display_text_range": [
+          34,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086607029007986955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894995350676766720",
+              "start": 0,
+              "username": "zi_feng67800"
+            },
+            {
+              "end": 20,
+              "id": "894704535037513729",
+              "start": 14,
+              "username": "FURIA"
+            },
+            {
+              "end": 33,
+              "id": "1894472464513568768",
+              "start": 21,
+              "username": "mad_housetv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHENZdmTLH",
+              "end": 73,
+              "expanded_url": "https://x.com/winterfruit_1/status/2086607029007986955/photo/1",
+              "media_key": "3_2086607022611652608",
+              "start": 50,
+              "url": "https://t.co/yHENZdmTLH"
+            },
+            {
+              "display_url": "pic.x.com/yHENZdmTLH",
+              "end": 73,
+              "expanded_url": "https://x.com/winterfruit_1/status/2086607029007986955/photo/1",
+              "media_key": "3_2086607022611632128",
+              "start": 50,
+              "url": "https://t.co/yHENZdmTLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086607029007986955",
+        "in_reply_to_user_id": "1894995350676766720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086607022611652608"
+          },
+          {
+            "media_key": "3_2086607022611632128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083603658143678769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zi_feng67800 @FURIA @mad_housetv 感觉小夫和峦华就不会带黑豹节奏 https://t.co/yHENZdmTLH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894995350676766720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2083598721539805323",
+        "created_at": "2026-08-01T17:19:58.000Z",
+        "display_text_range": [
+          20,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083603658143678769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "894704535037513729",
+              "start": 0,
+              "username": "FURIA"
+            },
+            {
+              "end": 19,
+              "id": "1894472464513568768",
+              "start": 7,
+              "username": "mad_housetv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083603658143678769",
+        "in_reply_to_user_id": "894704535037513729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 115988,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083598721539805323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FURIA @mad_housetv 6657来的，爆哪了你告诉我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2086607029007986955",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1482,
+          "like_count": 43970,
+          "listed_count": 6,
+          "media_count": 1926,
+          "tweet_count": 13427
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T06:18:20.000Z",
+        "description": "",
+        "id": "1894995350676766720",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2083742412086858097",
+        "name": "FengZi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894996307426840576/1cwl4LSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "zi_feng67800",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-07T23:39:18.000Z",
+        "description": "Somos a FURIA do Brasil! 🇧🇷\nFollow the steps 🐾\n\n#DIADEFURIA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 48,
+                "tag": "DIADEFURIA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "FURIA.gg",
+                "end": 23,
+                "expanded_url": "http://FURIA.gg",
+                "start": 0,
+                "url": "https://t.co/DGLhzbJomN"
+              }
+            ]
+          }
+        },
+        "id": "894704535037513729",
+        "is_identity_verified": false,
+        "location": "Uberlândia, Brasil",
+        "most_recent_tweet_id": "2086598933837435282",
+        "name": "FURIA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/894704535037513729/1784833350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075937606731251712/X58YK4kP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623278,
+          "following_count": 639,
+          "like_count": 82823,
+          "listed_count": 759,
+          "media_count": 26735,
+          "tweet_count": 77007
+        },
+        "url": "https://t.co/DGLhzbJomN",
+        "username": "FURIA",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T19:40:22.000Z",
+        "description": "A casa da competição, loucura e do entretenimento interativo.",
+        "id": "1894472464513568768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2061256191573930384",
+        "name": "MADHOUSE TV",
+        "pinned_tweet_id": "2061256191573930384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894472464513568768/1758269418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968949929889423360/--Nx65W6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8217,
+          "following_count": 2,
+          "like_count": 203,
+          "listed_count": 4,
+          "media_count": 306,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "mad_housetv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953857484285976868",
+    "created_at": "2025-08-09T07:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T08:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954082936245911668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954082936245911668",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953857484285976868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 👁️👁️👁️👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1953857478237806592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1_BkQa4AAPGBH.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953857484285976868",
+        "created_at": "2025-08-09T07:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T08:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954082936245911668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954082936245911668",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953857484285976868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 👁️👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953857478237806592"
+          ]
+        },
+        "author_id": "1926313840557355008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1953857484285976868",
+        "created_at": "2025-08-08T16:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953857484285976868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1952936027062194176/fkLAfL17?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952936027062194176/fkLAfL17?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/hy3Vt8eLE5"
+            },
+            {
+              "display_url": "pic.x.com/LXdEJ04IAE",
+              "end": 64,
+              "expanded_url": "https://x.com/yepa41/status/1953857484285976868/photo/1",
+              "media_key": "3_1953857478237806592",
+              "start": 41,
+              "url": "https://t.co/LXdEJ04IAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953857484285976868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/hy3Vt8eLE5 https://t.co/LXdEJ04IAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 434,
+          "like_count": 8900,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2796
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "",
+        "id": "1926313840557355008",
+        "name": "斯德哥尔摩第二吉他手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926626530458841089/XGA2cnHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 134,
+          "like_count": 8721,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 170
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

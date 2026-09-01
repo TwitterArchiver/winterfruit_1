@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      }
+    ],
+    "conversation_id": "2068358145211081024",
+    "created_at": "2026-08-02T04:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083765070606291113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840385602912694272",
+          "start": 0,
+          "username": "seveneo37341248"
+        },
+        {
+          "end": 25,
+          "id": "1519171062264651776",
+          "start": 17,
+          "username": "dstuita"
+        },
+        {
+          "end": 32,
+          "id": "894704535037513729",
+          "start": 26,
+          "username": "FURIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083765070606291113",
+    "in_reply_to_user_id": "1840385602912694272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083690136441659392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seveneo37341248 @dstuita @FURIA 问题是这对于外国人真没攻击力啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083690119840559104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrBH8cWcAAH7aj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2068358145211081024",
+        "created_at": "2026-08-02T04:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083765070606291113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840385602912694272",
+              "start": 0,
+              "username": "seveneo37341248"
+            },
+            {
+              "end": 25,
+              "id": "1519171062264651776",
+              "start": 17,
+              "username": "dstuita"
+            },
+            {
+              "end": 32,
+              "id": "894704535037513729",
+              "start": 26,
+              "username": "FURIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083765070606291113",
+        "in_reply_to_user_id": "1840385602912694272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083690136441659392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seveneo37341248 @dstuita @FURIA 问题是这对于外国人真没攻击力啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083690119840559104"
+          ]
+        },
+        "author_id": "1840385602912694272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2068358145211081024",
+        "created_at": "2026-08-01T23:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083690136441659392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1519171062264651776",
+              "start": 0,
+              "username": "dstuita"
+            },
+            {
+              "end": 15,
+              "id": "894704535037513729",
+              "start": 9,
+              "username": "FURIA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYIlZGX02S",
+              "end": 47,
+              "expanded_url": "https://x.com/seveneo37341248/status/2083690136441659392/photo/1",
+              "media_key": "3_2083690119840559104",
+              "start": 24,
+              "url": "https://t.co/PYIlZGX02S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083690136441659392",
+        "in_reply_to_user_id": "1519171062264651776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10707,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068358471305531612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dstuita @FURIA asshole https://t.co/PYIlZGX02S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 1484,
+          "like_count": 43841,
+          "listed_count": 6,
+          "media_count": 1917,
+          "tweet_count": 13343
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T13:38:39.000Z",
+        "description": "",
+        "id": "1840385602912694272",
+        "location": "State College, PA",
+        "name": "Neonos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916034750130581504/G3I8KI65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "seveneo37341248",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T04:26:39.000Z",
+        "description": "Assessor de Aleatoriedades / Médico por Amor (?)",
+        "id": "1519171062264651776",
+        "name": "D S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076686235762913280/69s8L1An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 489,
+          "like_count": 153566,
+          "listed_count": 5,
+          "media_count": 4153,
+          "tweet_count": 54633
+        },
+        "url": "",
+        "username": "dstuita",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T23:39:18.000Z",
+        "description": "Somos a FURIA do Brasil! 🇧🇷\nFollow the steps 🐾\n\n#DIADEFURIA \nhttps://t.co/DGLhzbJomN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 48,
+                "tag": "DIADEFURIA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "FURIA.gg",
+                "end": 84,
+                "expanded_url": "http://FURIA.gg",
+                "start": 61,
+                "url": "https://t.co/DGLhzbJomN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "FURIA.gg",
+                "end": 23,
+                "expanded_url": "http://FURIA.gg",
+                "start": 0,
+                "url": "https://t.co/DGLhzbJomN"
+              }
+            ]
+          }
+        },
+        "id": "894704535037513729",
+        "location": "Uberlândia, Brasil",
+        "name": "FURIA",
+        "pinned_tweet_id": "2045203336341663761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075937606731251712/X58YK4kP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623685,
+          "following_count": 640,
+          "like_count": 82745,
+          "listed_count": 758,
+          "media_count": 26668,
+          "tweet_count": 76875
+        },
+        "url": "https://t.co/DGLhzbJomN",
+        "username": "FURIA",
+        "verified": true
+      }
+    ]
+  }
+}

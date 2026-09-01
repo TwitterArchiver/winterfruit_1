@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2078884471831666801",
+    "created_at": "2026-07-20T07:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079114003306168827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835256700343095296",
+          "start": 0,
+          "username": "2854986171I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079114003306168827",
+    "in_reply_to_user_id": "1835256700343095296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078884471831666801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2854986171I 许哥是，世界冠军！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2078884471831666801",
+        "created_at": "2026-07-20T07:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079114003306168827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835256700343095296",
+              "start": 0,
+              "username": "2854986171I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079114003306168827",
+        "in_reply_to_user_id": "1835256700343095296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078884471831666801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2854986171I 许哥是，世界冠军！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835256700343095296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1096495799196778496",
+              "name": "KIA 타이거즈 (KIA Tigers)"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Korean Baseball Organization",
+              "id": "1096454806296641536",
+              "name": "KBO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1096495799196778496",
+              "name": "KIA 타이거즈 (KIA Tigers)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667416061861888",
+              "name": "Esports leagues"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports league like Overwatch League",
+              "id": "149",
+              "name": "Esports League"
+            },
+            "entity": {
+              "id": "1219800632996982784",
+              "name": "League of Legends Champions Korea"
+            }
+          }
+        ],
+        "conversation_id": "2078884471831666801",
+        "created_at": "2026-07-19T16:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078884471831666801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dpluskia/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/dpluskia/status/2078869130565005811",
+              "start": 9,
+              "url": "https://t.co/gSIgVsL68e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078884471831666801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078869130565005811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "许哥不是区😭😭😭 https://t.co/gSIgVsL68e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 1485,
+          "like_count": 43590,
+          "listed_count": 6,
+          "media_count": 1901,
+          "tweet_count": 13175
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T09:58:00.000Z",
+        "description": "玩机器粉丝真的没脸没皮，你发弹幕骂他，还复制了一起发，不要脸到极点，真的到哪都人嫌狗厌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5MgGeoE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5MgGeoE",
+                "start": 0,
+                "url": "https://t.co/08E9zmMkXQ"
+              }
+            ]
+          }
+        },
+        "id": "1835256700343095296",
+        "location": "中国石家庄6657号玩机器专用饲养猪圈",
+        "name": "玩机器 machine⬆️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012489598870441984/nf1f6scl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 325,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/08E9zmMkXQ",
+        "username": "2854986171I",
+        "verified": false
+      }
+    ]
+  }
+}

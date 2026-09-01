@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055864708654321664"
+      ],
+      "media_source_tweet_id": [
+        "2055864718129266834"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "2088187057869090881",
+    "created_at": "2026-08-14T08:52:45.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088187057869090881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZW1IxsuEn",
+          "end": 70,
+          "expanded_url": "https://x.com/winterfruit_1/status/2055864718129266834/photo/1",
+          "media_key": "3_2055864708654321664",
+          "start": 47,
+          "url": "https://t.co/FZW1IxsuEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088187057869090881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2055864708654321664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055864718129266834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 显然，此推文的用意为辱骂中国禁毒其宣传方式以及攻击酒精 https://t.co/FZW1IxsuEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_2055864708654321664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfmD2GaUAAwht2.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055864708654321664"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2055864718129266834",
+        "created_at": "2026-05-17T04:15:19.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055864718129266834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZW1IxsuEn",
+              "end": 51,
+              "expanded_url": "https://x.com/winterfruit_1/status/2055864718129266834/photo/1",
+              "media_key": "3_2055864708654321664",
+              "start": 28,
+              "url": "https://t.co/FZW1IxsuEn"
+            },
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2055513049197613538",
+              "start": 52,
+              "url": "https://t.co/MAxnjhO3mZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055864718129266834",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2055864708654321664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 977,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055513049197613538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显然，此推文的用意为辱骂中国禁毒其宣传方式以及攻击酒精 https://t.co/FZW1IxsuEn https://t.co/MAxnjhO3mZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055864708654321664"
+          ],
+          "media_source_tweet_id": [
+            "2055864718129266834"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2088187057869090881",
+        "created_at": "2026-08-14T08:52:45.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088187057869090881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZW1IxsuEn",
+              "end": 70,
+              "expanded_url": "https://x.com/winterfruit_1/status/2055864718129266834/photo/1",
+              "media_key": "3_2055864708654321664",
+              "start": 47,
+              "url": "https://t.co/FZW1IxsuEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088187057869090881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2055864708654321664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055864718129266834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 显然，此推文的用意为辱骂中国禁毒其宣传方式以及攻击酒精 https://t.co/FZW1IxsuEn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2088187057869090881",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 1473,
+          "like_count": 44059,
+          "listed_count": 6,
+          "media_count": 1931,
+          "tweet_count": 13460
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

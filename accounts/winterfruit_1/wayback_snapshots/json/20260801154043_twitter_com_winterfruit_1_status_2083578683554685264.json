@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2083578683554685264",
+    "created_at": "2026-08-01T15:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083578683554685264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2083574348238270906",
+          "start": 20,
+          "url": "https://t.co/jeuA2aTBFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083578683554685264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083574348238270906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去见人这种事不是我磕大了一般干不出来的 https://t.co/jeuA2aTBFG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083578683554685264",
+        "created_at": "2026-08-01T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083578683554685264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2083574348238270906",
+              "start": 20,
+              "url": "https://t.co/jeuA2aTBFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578683554685264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083574348238270906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去见人这种事不是我磕大了一般干不出来的 https://t.co/jeuA2aTBFG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083574348238270906",
+        "created_at": "2026-08-01T15:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083574348238270906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/2083573794783072693",
+              "start": 7,
+              "url": "https://t.co/o1L3CYFdGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083574348238270906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083573794783072693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很有教育意义 https://t.co/o1L3CYFdGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 1483,
+          "like_count": 43836,
+          "listed_count": 6,
+          "media_count": 1916,
+          "tweet_count": 13331
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

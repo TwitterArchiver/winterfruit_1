@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2083933794181300325",
+    "created_at": "2026-08-02T15:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083933794181300325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2083861601380368822",
+          "start": 55,
+          "url": "https://t.co/jQbzbrlc1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083933794181300325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083861601380368822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他说这话的时候脑子里想的肯定是这个六四有关的内容，他天天引导弹幕变忍者变鱼丸的不可能想不到my duty是啥 https://t.co/jQbzbrlc1E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083933794181300325",
+        "created_at": "2026-08-02T15:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083933794181300325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2083861601380368822",
+              "start": 55,
+              "url": "https://t.co/jQbzbrlc1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083933794181300325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083861601380368822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他说这话的时候脑子里想的肯定是这个六四有关的内容，他天天引导弹幕变忍者变鱼丸的不可能想不到my duty是啥 https://t.co/jQbzbrlc1E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083861601380368822",
+        "created_at": "2026-08-02T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083861601380368822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083861601380368822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电棍这逼播的真无敌了，my duty都来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 1485,
+          "like_count": 43851,
+          "listed_count": 6,
+          "media_count": 1918,
+          "tweet_count": 13352
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2090141322808283197",
+    "created_at": "2026-08-20T02:43:06.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090268358927409226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857684678423248896",
+          "start": 0,
+          "username": "approved_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090268358927409226",
+    "in_reply_to_user_id": "1857684678423248896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090261225724870924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@approved_cry 小棍起不来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2090141322808283197",
+        "created_at": "2026-08-20T02:43:06.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090268358927409226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857684678423248896",
+              "start": 0,
+              "username": "approved_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090268358927409226",
+        "in_reply_to_user_id": "1857684678423248896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090261225724870924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@approved_cry 小棍起不来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857684678423248896",
+        "conversation_id": "2090141322808283197",
+        "created_at": "2026-08-20T02:14:46.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090261225724870924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090261225724870924",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090141322808283197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 看看otto dick("
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2090268358927409226",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1456,
+          "like_count": 44159,
+          "listed_count": 6,
+          "media_count": 1933,
+          "tweet_count": 13497
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "愿你不再孤独",
+        "id": "1857684678423248896",
+        "is_identity_verified": false,
+        "location": "劣品酒吧城市",
+        "most_recent_tweet_id": "2090261391588589753",
+        "name": "特许哭泣",
+        "pinned_tweet_id": "2087556431117537785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857684678423248896/1731742110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087864235577798656/bWilP-Cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 937,
+          "like_count": 40878,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 3971
+        },
+        "url": "",
+        "username": "approved_cry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

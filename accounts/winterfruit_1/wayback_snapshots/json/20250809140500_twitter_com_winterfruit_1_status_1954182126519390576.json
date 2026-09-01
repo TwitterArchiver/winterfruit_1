@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953834975239049216"
+      ],
+      "media_source_tweet_id": [
+        "1953835053324108041"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "1954182126519390576",
+    "created_at": "2025-08-09T14:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954182126519390576"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "メイドインアビス"
+        },
+        {
+          "end": 34,
+          "start": 26,
+          "tag": "miabyss"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682661464136630272",
+          "start": 3,
+          "username": "kuzuyano96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0diwbF4O0",
+          "end": 58,
+          "expanded_url": "https://x.com/kuzuyano96/status/1953835053324108041/photo/1",
+          "media_key": "3_1953834975239049216",
+          "start": 35,
+          "url": "https://t.co/j0diwbF4O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954182126519390576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953835053324108041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuzuyano96: #メイドインアビス #miabyss https://t.co/j0diwbF4O0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1953834975239049216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1qjuDbkAAy2r8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953834975239049216"
+          ],
+          "media_source_tweet_id": [
+            "1953835053324108041"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1954182126519390576",
+        "created_at": "2025-08-09T14:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954182126519390576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "miabyss"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682661464136630272",
+              "start": 3,
+              "username": "kuzuyano96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0diwbF4O0",
+              "end": 58,
+              "expanded_url": "https://x.com/kuzuyano96/status/1953835053324108041/photo/1",
+              "media_key": "3_1953834975239049216",
+              "start": 35,
+              "url": "https://t.co/j0diwbF4O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954182126519390576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953835053324108041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuzuyano96: #メイドインアビス #miabyss https://t.co/j0diwbF4O0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953834975239049216"
+          ]
+        },
+        "author_id": "1682661464136630272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1953835053324108041",
+        "created_at": "2025-08-08T15:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953835053324108041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "miabyss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0diwbF4O0",
+              "end": 42,
+              "expanded_url": "https://x.com/kuzuyano96/status/1953835053324108041/photo/1",
+              "media_key": "3_1953834975239049216",
+              "start": 19,
+              "url": "https://t.co/j0diwbF4O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953835053324108041",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 7615,
+          "like_count": 788,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "#メイドインアビス #miabyss https://t.co/j0diwbF4O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1954120613120946634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 434,
+          "like_count": 8938,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2809
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T07:59:24.000Z",
+        "description": "【pixiv】https://t.co/qZXhNMPG6D\nPixivで過去絵を随時更新中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17938675",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/17938675",
+                "start": 7,
+                "url": "https://t.co/qZXhNMPG6D"
+              }
+            ]
+          }
+        },
+        "id": "1682661464136630272",
+        "name": "【RE】屑屋の久六【BOOT】",
+        "pinned_tweet_id": "1741964083019260368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682671900655505408/u_1zwt5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9832,
+          "following_count": 180,
+          "like_count": 16151,
+          "listed_count": 32,
+          "media_count": 1189,
+          "tweet_count": 1811
+        },
+        "username": "kuzuyano96",
+        "verified": false
+      }
+    ]
+  }
+}

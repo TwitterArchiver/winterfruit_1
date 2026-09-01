@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953181148080947200"
+      ],
+      "media_source_tweet_id": [
+        "1953181287730356325"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953426362246582592",
+    "created_at": "2025-08-07T12:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953426362246582592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822654827186528257",
+          "start": 3,
+          "username": "LowResSensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZunYN6mZsn",
+          "end": 82,
+          "expanded_url": "https://x.com/LowResSensei/status/1953181287730356325/video/1",
+          "media_key": "13_1953181148080947200",
+          "start": 59,
+          "url": "https://t.co/ZunYN6mZsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953426362246582592",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953181287730356325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LowResSensei: dig up my old video files and found this https://t.co/ZunYN6mZsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13396,
+        "height": 720,
+        "media_key": "13_1953181148080947200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953181148080947200/img/4P_wNZPxgA6le3M8.jpg",
+        "public_metrics": {
+          "view_count": 320354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953181148080947200/vid/avc1/480x270/HHttQzUDWrm6vqau.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953181148080947200/vid/avc1/640x360/dlftyk1BK6Uhg2jH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953181148080947200/vid/avc1/1280x720/Ep4Nwhhkdq8YjlN4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953181148080947200/pl/cg7hoJOWElgj2kCZ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953181148080947200"
+          ],
+          "media_source_tweet_id": [
+            "1953181287730356325"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953426362246582592",
+        "created_at": "2025-08-07T12:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953426362246582592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822654827186528257",
+              "start": 3,
+              "username": "LowResSensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZunYN6mZsn",
+              "end": 82,
+              "expanded_url": "https://x.com/LowResSensei/status/1953181287730356325/video/1",
+              "media_key": "13_1953181148080947200",
+              "start": 59,
+              "url": "https://t.co/ZunYN6mZsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953426362246582592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953181287730356325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LowResSensei: dig up my old video files and found this https://t.co/ZunYN6mZsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953181148080947200"
+          ]
+        },
+        "author_id": "1822654827186528257",
+        "conversation_id": "1953181287730356325",
+        "created_at": "2025-08-06T19:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T20:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953181287730356325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZunYN6mZsn",
+              "end": 64,
+              "expanded_url": "https://x.com/LowResSensei/status/1953181287730356325/video/1",
+              "media_key": "13_1953181148080947200",
+              "start": 41,
+              "url": "https://t.co/ZunYN6mZsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953181287730356325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7411,
+          "impression_count": 506299,
+          "like_count": 20151,
+          "quote_count": 342,
+          "reply_count": 218,
+          "retweet_count": 1099
+        },
+        "reply_settings": "everyone",
+        "text": "dig up my old video files and found this https://t.co/ZunYN6mZsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 427,
+          "like_count": 8791,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2728
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T15:22:53.000Z",
+        "description": "🇻🇳 Nahida enjoyer | Also loves cute and funny 😭 | Minors DNI | SFW Alt of @Lowres_Sensei_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "Lowres_Sensei_2"
+              }
+            ]
+          }
+        },
+        "id": "1822654827186528257",
+        "name": "LowRes Sensei",
+        "pinned_tweet_id": "1822682914846642317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822655101976371200/HeRTeYGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 289,
+          "like_count": 2266,
+          "listed_count": 4,
+          "media_count": 702,
+          "tweet_count": 2064
+        },
+        "username": "LowResSensei",
+        "verified": false
+      }
+    ]
+  }
+}

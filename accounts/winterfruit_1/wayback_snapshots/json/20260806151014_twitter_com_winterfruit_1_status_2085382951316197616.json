@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2085067912344121816",
+    "created_at": "2026-08-06T15:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085382951316197616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085382951316197616",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085067912344121816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@revive_myne ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2085067912344121816",
+        "created_at": "2026-08-06T15:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085382951316197616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085382951316197616",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085067912344121816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@revive_myne ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "2085067912344121816",
+        "created_at": "2026-08-05T18:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085067912344121816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085067912344121816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几个月没玩twi现在属于就是对着头像名词都换了的互关干瞪眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 1483,
+          "like_count": 43922,
+          "listed_count": 6,
+          "media_count": 1922,
+          "tweet_count": 13404
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "enby, aplatonic\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "knimaisey"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032132026799640576/vkG_DsEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 237,
+          "like_count": 11792,
+          "listed_count": 2,
+          "media_count": 917,
+          "tweet_count": 5562
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false
+      }
+    ]
+  }
+}

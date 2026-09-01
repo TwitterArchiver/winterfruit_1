@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953026199464366080"
+      ],
+      "media_source_tweet_id": [
+        "1953026205365535130"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "conversation_id": "1953411502737666089",
+    "created_at": "2025-08-07T11:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953411502737666089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756117536175996928",
+          "start": 3,
+          "username": "bockimaraj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFy2OuXRZw",
+          "end": 39,
+          "expanded_url": "https://x.com/bockimaraj/status/1953026205365535130/photo/1",
+          "media_key": "3_1953026199464366080",
+          "start": 16,
+          "url": "https://t.co/JFy2OuXRZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953411502737666089",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953026205365535130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bockimaraj: https://t.co/JFy2OuXRZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953026199464366080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqK-xga0AA8swb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953026199464366080"
+          ],
+          "media_source_tweet_id": [
+            "1953026205365535130"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1953411502737666089",
+        "created_at": "2025-08-07T11:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953411502737666089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756117536175996928",
+              "start": 3,
+              "username": "bockimaraj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFy2OuXRZw",
+              "end": 39,
+              "expanded_url": "https://x.com/bockimaraj/status/1953026205365535130/photo/1",
+              "media_key": "3_1953026199464366080",
+              "start": 16,
+              "url": "https://t.co/JFy2OuXRZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953411502737666089",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953026205365535130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bockimaraj: https://t.co/JFy2OuXRZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953026199464366080"
+          ]
+        },
+        "author_id": "1756117536175996928",
+        "conversation_id": "1953026205365535130",
+        "created_at": "2025-08-06T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953026205365535130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFy2OuXRZw",
+              "end": 23,
+              "expanded_url": "https://x.com/bockimaraj/status/1953026205365535130/photo/1",
+              "media_key": "3_1953026199464366080",
+              "start": 0,
+              "url": "https://t.co/JFy2OuXRZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953026205365535130",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JFy2OuXRZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "overdose / 420 / 互fo / 里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "name": "Winit420",
+        "pinned_tweet_id": "1953146190071251257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855366222684270592/rIL17nSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 427,
+          "like_count": 8786,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2726
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T00:47:30.000Z",
+        "description": "複雑性PTSD/05 JD2",
+        "id": "1756117536175996928",
+        "location": "蒲田",
+        "name": "アイス食らいマー",
+        "pinned_tweet_id": "1904860239108988946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898549867691249664/KYHKuNbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 102,
+          "like_count": 4056,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2200
+        },
+        "username": "bockimaraj",
+        "verified": false
+      }
+    ]
+  }
+}

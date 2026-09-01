@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2083862384477966540",
+    "created_at": "2026-08-02T15:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083933078108680260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        },
+        {
+          "end": 27,
+          "id": "1881018113120202752",
+          "start": 12,
+          "username": "ImNotCrosO1878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083933078108680260",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083912229204963676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 @ImNotCrosO1878 哦对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083862384477966540",
+        "created_at": "2026-08-02T15:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083933078108680260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            },
+            {
+              "end": 27,
+              "id": "1881018113120202752",
+              "start": 12,
+              "username": "ImNotCrosO1878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083933078108680260",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083912229204963676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 @ImNotCrosO1878 哦对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2083862384477966540",
+        "created_at": "2026-08-02T13:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083912229204963676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881018113120202752",
+              "start": 0,
+              "username": "ImNotCrosO1878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083912229204963676",
+        "in_reply_to_user_id": "1881018113120202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083911521395167345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImNotCrosO1878 不会复活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 1485,
+          "like_count": 43850,
+          "listed_count": 6,
+          "media_count": 1918,
+          "tweet_count": 13351
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "18y.o. 翎本人\n很喜欢玩kovaak\nKindafar Long Strafes #1543\n可以和我cs apex\n\n非现充 ，语言板块有问题。\n\n头像 @washiya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "washiya0"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "name": "EternalSubconsciencƎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076052589754425344/MgnGKGEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 445,
+          "like_count": 22374,
+          "listed_count": 5,
+          "media_count": 505,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T16:37:29.000Z",
+        "description": "MTX/放式关系男标志",
+        "id": "1881018113120202752",
+        "name": "者氵🍕🍕🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479907813400576/5bK_1kbz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 61,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "ImNotCrosO1878",
+        "verified": false
+      }
+    ]
+  }
+}

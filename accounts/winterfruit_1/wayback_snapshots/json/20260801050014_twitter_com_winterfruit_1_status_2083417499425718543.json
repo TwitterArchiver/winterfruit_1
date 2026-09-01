@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2083245250727022719",
+    "created_at": "2026-08-01T05:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083417499425718543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "doobeetioog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083417499425718543",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083245250727022719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doobeetioog wa"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083245250727022719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083245250727022719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083245250727022719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2083245250727022719",
+        "created_at": "2026-08-01T05:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083417499425718543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "doobeetioog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083417499425718543",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083245250727022719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doobeetioog wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1482,
+          "like_count": 43812,
+          "listed_count": 6,
+          "media_count": 1911,
+          "tweet_count": 13311
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "淡推啦(⁠ ⁠˘⁠ ⁠³⁠˘⁠)⁠",
+        "id": "1799795163843436544",
+        "name": "用户犬9706144444",
+        "pinned_tweet_id": "2078753859598729405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078752213367930880/_vk9e0Pf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 1017,
+          "like_count": 44415,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 6337
+        },
+        "url": "",
+        "username": "doobeetioog",
+        "verified": false
+      }
+    ]
+  }
+}
