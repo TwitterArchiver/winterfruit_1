@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2094657057681191343",
+    "created_at": "2026-09-01T10:30:42.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094734687164158057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "BitPuPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094734687164158057",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094657057681191343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BitPuPu 石敢当"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2094657051788255232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRG3fZobIAAOM3X.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2094657057681191343",
+        "created_at": "2026-09-01T10:30:42.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094734687164158057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "BitPuPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094734687164158057",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094657057681191343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BitPuPu 石敢当"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094657051788255232"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "2094657057681191343",
+        "created_at": "2026-09-01T05:22:14.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094657057681191343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8FB0A6b46",
+              "end": 39,
+              "expanded_url": "https://x.com/BitPuPu/status/2094657057681191343/photo/1",
+              "media_key": "3_2094657051788255232",
+              "start": 16,
+              "url": "https://t.co/D8FB0A6b46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094657057681191343",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094657051788255232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1036,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这取啥名？\n\n石珂琅 怎么样？ https://t.co/D8FB0A6b46"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2094734687164158057",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 1455,
+          "like_count": 44323,
+          "listed_count": 6,
+          "media_count": 1942,
+          "tweet_count": 13589
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "美股玩家｜BTC持有者｜加密投资｜\nAI研究｜金融艺术家｜韭菜预备役｜\n\n   💧结构解释市场，你解释你自己。\nStructure explains the market. You explain yourself. 💧",
+        "id": "1666599054917218305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094689298419466741",
+        "name": "铺二爷BitPuPu",
+        "pinned_tweet_id": "1997115118061342946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666599054917218305/1761408278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982112236437999619/giUcjl95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20219,
+          "following_count": 5254,
+          "like_count": 74966,
+          "listed_count": 30,
+          "media_count": 208,
+          "tweet_count": 13115
+        },
+        "url": "",
+        "username": "BitPuPu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Coverage of the Formula 1 racing action.",
+          "id": "10027483505",
+          "name": "Live: Formula 1 Motor Racing"
+        }
+      }
+    ],
+    "conversation_id": "2097582825377870192",
+    "created_at": "2026-09-09T07:08:11.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097582825377870192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513453656091377671",
+          "start": 3,
+          "username": "PapiBeeper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097582825377870192",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2385
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097279573532500332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PapiBeeper: Me gusta ver Formula1 porque no importa como me vaya en la vida, a Ferrari le va peor"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage of the Formula 1 racing action.",
+              "id": "10027483505",
+              "name": "Live: Formula 1 Motor Racing"
+            }
+          }
+        ],
+        "conversation_id": "2097582825377870192",
+        "created_at": "2026-09-09T07:08:11.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097582825377870192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513453656091377671",
+              "start": 3,
+              "username": "PapiBeeper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097582825377870192",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2385
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097279573532500332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PapiBeeper: Me gusta ver Formula1 porque no importa como me vaya en la vida, a Ferrari le va peor"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513453656091377671",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage of the Formula 1 racing action.",
+              "id": "10027483505",
+              "name": "Live: Formula 1 Motor Racing"
+            }
+          }
+        ],
+        "conversation_id": "2097279573532500332",
+        "created_at": "2026-09-08T11:03:10.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097279573532500332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097279573532500332",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 132406,
+          "like_count": 10081,
+          "quote_count": 169,
+          "reply_count": 22,
+          "retweet_count": 2385
+        },
+        "reply_settings": "everyone",
+        "text": "Me gusta ver Formula1 porque no importa como me vaya en la vida, a Ferrari le va peor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2097582825377870192",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 1460,
+          "like_count": 44524,
+          "listed_count": 6,
+          "media_count": 1947,
+          "tweet_count": 13705
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-11T09:47:46.000Z",
+        "description": "𝙽𝚘 𝚜é 𝚚𝚞𝚎 𝚑𝚊𝚐𝚘 𝚊𝚚𝚞í",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/V1P3R",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/V1P3R",
+                "start": 0,
+                "url": "https://t.co/V6UmrKbkWc"
+              }
+            ]
+          }
+        },
+        "id": "1513453656091377671",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097453863145967850",
+        "name": "𝐕𝟏𝐏𝟑𝐑 🇵🇷",
+        "pinned_tweet_id": "2079397300384739404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513453656091377671/1785775243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059661268361830401/UvfOZRxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6458,
+          "following_count": 83,
+          "like_count": 568,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/V6UmrKbkWc",
+        "username": "PapiBeeper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

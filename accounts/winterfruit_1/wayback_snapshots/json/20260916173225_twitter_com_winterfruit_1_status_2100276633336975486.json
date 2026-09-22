@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "mousesports (eSports)",
+          "id": "861583955241259008",
+          "name": "mousesports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "mousesports (eSports)",
+          "id": "861583955241259008",
+          "name": "mousesports"
+        }
+      }
+    ],
+    "conversation_id": "2100271612155293951",
+    "created_at": "2026-09-16T17:32:25.000Z",
+    "display_text_range": [
+      23,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100276633336975486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1650646646537977856",
+          "start": 0,
+          "username": "dami2qwe"
+        },
+        {
+          "end": 22,
+          "id": "21648994",
+          "start": 10,
+          "username": "mousesports"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100276633336975486",
+    "in_reply_to_user_id": "1650646646537977856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100271612155293951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dami2qwe @mousesports 啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2100271605352218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWp5bjbwAAbqaQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "mousesports (eSports)",
+              "id": "861583955241259008",
+              "name": "mousesports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "mousesports (eSports)",
+              "id": "861583955241259008",
+              "name": "mousesports"
+            }
+          }
+        ],
+        "conversation_id": "2100271612155293951",
+        "created_at": "2026-09-16T17:32:25.000Z",
+        "display_text_range": [
+          23,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100276633336975486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1650646646537977856",
+              "start": 0,
+              "username": "dami2qwe"
+            },
+            {
+              "end": 22,
+              "id": "21648994",
+              "start": 10,
+              "username": "mousesports"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100276633336975486",
+        "in_reply_to_user_id": "1650646646537977856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100271612155293951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dami2qwe @mousesports 啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100271605352218624"
+          ]
+        },
+        "author_id": "1650646646537977856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "mousesports (eSports)",
+              "id": "861583955241259008",
+              "name": "mousesports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "mousesports (eSports)",
+              "id": "861583955241259008",
+              "name": "mousesports"
+            }
+          }
+        ],
+        "conversation_id": "2100271612155293951",
+        "created_at": "2026-09-16T17:12:28.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:09:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100270790759587930",
+          "2100271612155293951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "21648994",
+              "start": 33,
+              "username": "mousesports"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKNotbK6yD",
+              "end": 120,
+              "expanded_url": "https://x.com/dami2qwe/status/2100271612155293951/photo/1",
+              "media_key": "3_2100271605352218624",
+              "start": 97,
+              "url": "https://t.co/yKNotbK6yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100271612155293951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100271605352218624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上这些做聊天记录梗图的真是一个比一个脑残，真的是死人级别的，让@mousesports 运营用AI生成中文文案都比这些梗图里的文案像人一点😓😓😓\n我他吗用脚趾头都能发这种post，文案：🤣 https://t.co/yKNotbK6yD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2100276633336975486",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 1456,
+          "like_count": 44771,
+          "listed_count": 6,
+          "media_count": 1962,
+          "tweet_count": 13829
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-24T23:44:14.000Z",
+        "description": "我是大米/damiiko, He/Him, Creator\nCS社区&游戏内容创作者, 所有内容均为原创\n喜欢我的内容请Fo我, 和我互动和我玩(^з^)-☆",
+        "id": "1650646646537977856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100271612155293951",
+        "name": "damiiko",
+        "pinned_tweet_id": "2098867420664602939",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094504831910301696/WBzDIXCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 35,
+          "like_count": 1778,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "dami2qwe",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-02-23T12:30:58.000Z",
+        "description": "Professional esports team since 2002.\nMade in Germany.\n\n🇩🇪 @mousesportsDE\n👕 https://t.co/zGTCvX3wRW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "mousesportsDE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mouz.gg/shop",
+                "end": 99,
+                "expanded_url": "http://mouz.gg/shop",
+                "start": 76,
+                "url": "https://t.co/zGTCvX3wRW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mousesports.com",
+                "end": 23,
+                "expanded_url": "http://mousesports.com",
+                "start": 0,
+                "url": "https://t.co/XYJwbqtMlx"
+              }
+            ]
+          }
+        },
+        "id": "21648994",
+        "is_identity_verified": false,
+        "location": "Hamburg, Germany",
+        "most_recent_tweet_id": "2100226666966446199",
+        "name": "MOUZ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21648994/1782719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671801038893056/j00S5EAt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173760,
+          "following_count": 281,
+          "like_count": 26769,
+          "listed_count": 981,
+          "media_count": 18999,
+          "tweet_count": 34755
+        },
+        "url": "https://t.co/XYJwbqtMlx",
+        "username": "mousesports",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

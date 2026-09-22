@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2099559145061908744",
+    "created_at": "2026-09-15T08:38:19.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099779833899499904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "113686402",
+          "start": 0,
+          "username": "SomeCharlieBear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099779833899499904",
+    "in_reply_to_user_id": "113686402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099559145061908744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SomeCharlieBear 哪个狗粉丝又要害我八哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17305,
+        "height": 368,
+        "media_key": "13_2099519720022323200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099519720022323200/img/DL-owIBTAnuRh-T0.jpg",
+        "public_metrics": {
+          "view_count": 387087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099519720022323200/vid/avc1/468x270/_d7sJusCDUtf-iJp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099519720022323200/vid/avc1/640x368/kyVXAUWmPriilrxg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099519720022323200/pl/ixee3o-YY_6pQ12A.m3u8?v=195"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099519754260348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL-F7-agAA8_81.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2099559145061908744",
+        "created_at": "2026-09-15T08:38:19.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099779833899499904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "113686402",
+              "start": 0,
+              "username": "SomeCharlieBear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099779833899499904",
+        "in_reply_to_user_id": "113686402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099559145061908744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SomeCharlieBear 哪个狗粉丝又要害我八哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099519720022323200",
+            "3_2099519754260348928"
+          ],
+          "media_source_tweet_id": [
+            "2099519765698277545",
+            "2099519765698277545"
+          ]
+        },
+        "author_id": "113686402",
+        "conversation_id": "2099559145061908744",
+        "created_at": "2026-09-14T18:01:22.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T19:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099559145061908744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmGxMtAg9e",
+              "end": 396,
+              "expanded_url": "https://x.com/VOCChinese/status/2099519765698277545/video/1",
+              "media_key": "13_2099519720022323200",
+              "start": 373,
+              "url": "https://t.co/mmGxMtAg9e"
+            },
+            {
+              "display_url": "pic.x.com/mmGxMtAg9e",
+              "end": 396,
+              "expanded_url": "https://x.com/VOCChinese/status/2099519765698277545/video/1",
+              "media_key": "3_2099519754260348928",
+              "start": 373,
+              "url": "https://t.co/mmGxMtAg9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099559145061908744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099519720022323200"
+          },
+          {
+            "media_key": "3_2099519754260348928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/VOCChinese/sta…",
+                "end": 396,
+                "expanded_url": "https://x.com/VOCChinese/status/2099519765698277545/video/1",
+                "start": 373,
+                "url": "https://t.co/mmGxMtAg9e"
+              }
+            ]
+          },
+          "text": "广州大学城持刀伤人案出现重大身份疑云：警方口中的“35岁李某”，网上正被大量指向一个很多人都认识的名字——李赣，“李老八”。\n\n9月14日下午约5时20分，广州大学城发生持刀伤人事件。警方目前只公布：嫌疑人为35岁的“李某”，已经被抓获。\n\n但事发后，网上开始大量流传一种说法：这名“李某”疑似就是曾经的知名网络主播李赣，也就是“李老八”。\n\n为什么这个说法迅速引发关注？\n\n因为李赣本人今年正好35岁，而且过去多年确实曾多次遭遇直播封禁。\n\n2017年，李赣在斗鱼6324直播时接到一通涉及政治敏感内容的电话，直播间随后被封禁。此后他一度转往海外平台直播，后来又重新回到中文互联网，通过足球节目等继续做内容。\n\n但截至目前，这一身份仍没有被警方或其他可靠独立来源正式确认。\n\n如果最终坐实，这起案子的背景就远比一宗普通的随机伤人案复杂得多。\n\nhttps://t.co/mmGxMtAg9e"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 411537,
+          "like_count": 373,
+          "quote_count": 25,
+          "reply_count": 180,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "广州大学城持刀伤人案出现重大身份疑云：警方口中的“35岁李某”，网上正被大量指向一个很多人都认识的名字——李赣，“李老八”。\n\n9月14日下午约5时20分，广州大学城发生持刀伤人事件。警方目前只公布：嫌疑人为35岁的“李某”，已经被抓获。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2099779833899499904",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 1457,
+          "like_count": 44707,
+          "listed_count": 6,
+          "media_count": 1959,
+          "tweet_count": 13805
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-12T17:35:18.000Z",
+        "description": "I follow the news, tinker with AI\n理工男 | 爱研究\n时事、科技、AI",
+        "id": "113686402",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099702118617612439",
+        "name": "Charlie Bear 小熊風",
+        "pinned_tweet_id": "2098476972859064650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113686402/1773183315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031504176459460609/9ajBueKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5311,
+          "following_count": 3652,
+          "like_count": 3269,
+          "listed_count": 6,
+          "media_count": 914,
+          "tweet_count": 4256
+        },
+        "url": "",
+        "username": "SomeCharlieBear",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2096085067164680463",
+    "created_at": "2026-09-05T06:55:09.000Z",
+    "display_text_range": [
+      12,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096129994112315712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953033893697015808",
+          "start": 0,
+          "username": "Qmsurf_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096129994112315712",
+    "in_reply_to_user_id": "1953033893697015808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096085067164680463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qmsurf_999 我记得日本近代有个串子串太猛被抓了，好像叫那个桐岛聪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2096085067164680463",
+        "created_at": "2026-09-05T06:55:09.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096129994112315712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953033893697015808",
+              "start": 0,
+              "username": "Qmsurf_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096129994112315712",
+        "in_reply_to_user_id": "1953033893697015808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096085067164680463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qmsurf_999 我记得日本近代有个串子串太猛被抓了，好像叫那个桐岛聪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953033893697015808",
+        "conversation_id": "2096085067164680463",
+        "created_at": "2026-09-05T03:56:38.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096085067164680463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096085067164680463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实串子的历史可以一直追溯到2000年前，那时候他们叫纵横家，可以站中间串两边"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2096129994112315712",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1455,
+          "like_count": 44423,
+          "listed_count": 6,
+          "media_count": 1944,
+          "tweet_count": 13648
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-06T10:02:38.000Z",
+        "description": "这是自介条\n老哥：@Olivia_sg552\n遗憾：@rainRainrvhj\n我的群聊：https://t.co/SBsc2yq0yw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Olivia_sg552"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "rainRainrvhj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E2wy5iXmIOExM…",
+                "end": 68,
+                "expanded_url": "https://t.me/+E2wy5iXmIOExMWU9",
+                "start": 45,
+                "url": "https://t.co/SBsc2yq0yw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qmsurf_114514",
+                "end": 23,
+                "expanded_url": "http://t.me/Qmsurf_114514",
+                "start": 0,
+                "url": "https://t.co/AwYdHty1xn"
+              }
+            ]
+          }
+        },
+        "id": "1953033893697015808",
+        "is_identity_verified": false,
+        "location": "0.37km",
+        "most_recent_tweet_id": "2096102665092555185",
+        "name": "清墨QAQ",
+        "pinned_tweet_id": "2094751990173847583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953033893697015808/1787904001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055883112182325248/tI3BpMUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 508,
+          "like_count": 14594,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/AwYdHty1xn",
+        "username": "Qmsurf_999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
