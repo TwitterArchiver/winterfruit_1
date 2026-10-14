@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2105341245816221782",
+    "created_at": "2026-09-30T21:13:31.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T22:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105405704794464403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1650646646537977856",
+          "start": 0,
+          "username": "dami2qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105405704794464403",
+    "in_reply_to_user_id": "1650646646537977856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105341245816221782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dami2qwe 太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5861,
+        "height": 1920,
+        "media_key": "13_2105341208763711488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105341208763711488/img/A4LsVLm3MivSJZWA.jpg",
+        "public_metrics": {
+          "view_count": 421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105341208763711488/vid/avc1/320x568/iVQiblWuHuIr_TQ0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105341208763711488/vid/avc1/720x1280/5I6dFKr-ABMqZKfA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105341208763711488/pl/BZbLX8EcN43W2f38.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105341208763711488/vid/avc1/480x852/IBOOoEQgWZuJZJRV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105341208763711488/vid/avc1/1080x1920/FroBqYgtG1mgQaDl.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105341208742760449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTesrL4akAEOYKg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105341208725966848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTesrL0aUAAdYdz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2105341245816221782",
+        "created_at": "2026-09-30T21:13:31.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T22:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105405704794464403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1650646646537977856",
+              "start": 0,
+              "username": "dami2qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105405704794464403",
+        "in_reply_to_user_id": "1650646646537977856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105341245816221782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dami2qwe 太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105341208763711488",
+            "3_2105341208742760449",
+            "3_2105341208725966848"
+          ]
+        },
+        "author_id": "1650646646537977856",
+        "conversation_id": "2105341245816221782",
+        "created_at": "2026-09-30T16:57:23.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105341245816221782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAqSqpdkQQ",
+              "end": 62,
+              "expanded_url": "https://x.com/dami2qwe/status/2105341245816221782/video/1",
+              "media_key": "13_2105341208763711488",
+              "start": 39,
+              "url": "https://t.co/xAqSqpdkQQ"
+            },
+            {
+              "display_url": "pic.x.com/xAqSqpdkQQ",
+              "end": 62,
+              "expanded_url": "https://x.com/dami2qwe/status/2105341245816221782/video/1",
+              "media_key": "3_2105341208742760449",
+              "start": 39,
+              "url": "https://t.co/xAqSqpdkQQ"
+            },
+            {
+              "display_url": "pic.x.com/xAqSqpdkQQ",
+              "end": 62,
+              "expanded_url": "https://x.com/dami2qwe/status/2105341245816221782/video/1",
+              "media_key": "3_2105341208725966848",
+              "start": 39,
+              "url": "https://t.co/xAqSqpdkQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105341245816221782",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105341208763711488"
+          },
+          {
+            "media_key": "3_2105341208742760449"
+          },
+          {
+            "media_key": "3_2105341208725966848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*更新一则带娃日常* 这就是猪博的直播环境，阿雨上班的时候我就用她的电脑推流 https://t.co/xAqSqpdkQQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2105405704794464403",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 1424,
+          "like_count": 44407,
+          "listed_count": 6,
+          "media_count": 1994,
+          "tweet_count": 14048
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-24T23:44:14.000Z",
+        "description": "大米，he/him，解说练习中",
+        "id": "1650646646537977856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105368091035341277",
+        "name": "damiiko",
+        "pinned_tweet_id": "2104990374565753027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650646646537977856/1790418991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094504831910301696/WBzDIXCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 41,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "dami2qwe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

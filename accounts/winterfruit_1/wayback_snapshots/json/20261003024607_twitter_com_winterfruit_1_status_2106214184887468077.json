@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2105842746158395594",
+    "created_at": "2026-10-03T02:46:07.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106214184887468077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "487312107",
+          "start": 0,
+          "username": "Weixin_WeChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106214184887468077",
+    "in_reply_to_user_id": "487312107",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105842746158395594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weixin_WeChat fk wc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2105842746158395594",
+        "created_at": "2026-10-03T02:46:07.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106214184887468077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "487312107",
+              "start": 0,
+              "username": "Weixin_WeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106214184887468077",
+        "in_reply_to_user_id": "487312107",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105842746158395594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weixin_WeChat fk wc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "487312107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2105842746158395594",
+        "created_at": "2026-10-02T02:10:10.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105842746158395594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105842746158395594",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 415341,
+          "like_count": 904,
+          "quote_count": 35,
+          "reply_count": 378,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "k."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2106214184887468077",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 1430,
+          "like_count": 44534,
+          "listed_count": 6,
+          "media_count": 2003,
+          "tweet_count": 14106
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2106032605410058750",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/487312107/1768910425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277435,
+          "following_count": 7,
+          "like_count": 590,
+          "listed_count": 772,
+          "media_count": 800,
+          "tweet_count": 3425
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

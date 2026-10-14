@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2103109989896458463",
+    "created_at": "2026-09-26T08:46:20.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103768117608620516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883762257089503232",
+          "start": 0,
+          "username": "yuanoxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103768117608620516",
+    "in_reply_to_user_id": "1883762257089503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103767649813750163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanoxxxxx 好像是吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2103109989896458463",
+        "created_at": "2026-09-26T08:46:20.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103768117608620516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883762257089503232",
+              "start": 0,
+              "username": "yuanoxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103768117608620516",
+        "in_reply_to_user_id": "1883762257089503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103767649813750163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanoxxxxx 好像是吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883762257089503232",
+        "conversation_id": "2103109989896458463",
+        "created_at": "2026-09-26T08:44:28.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103767649813750163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103767649813750163",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103765275330089426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 卧槽？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2103768117608620516",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 1453,
+          "like_count": 44259,
+          "listed_count": 6,
+          "media_count": 1979,
+          "tweet_count": 13956
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-27T06:22:14.000Z",
+        "description": "👓🍑 日常和家产碎碎念 神秘的转发账号",
+        "id": "1883762257089503232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103767649813750163",
+        "name": "大师给你算一卦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883762257089503232/1751105763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945742062076170242/y3rsEh4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 27,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "yuanoxxxxx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

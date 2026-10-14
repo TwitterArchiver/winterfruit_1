@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2103512018267582565",
+    "created_at": "2026-10-01T01:48:56.000Z",
+    "display_text_range": [
+      17,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T02:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105475015726743974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2870513395",
+          "start": 0,
+          "username": "DongBeiYuZaiLXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105475015726743974",
+    "in_reply_to_user_id": "2870513395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103512018267582565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongBeiYuZaiLXF 原来不止中国有这种人，那人类的前途真是一片光明啊（赞赏）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83289,
+        "height": 1920,
+        "media_key": "13_2103511766328348672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103511766328348672/img/OYhFN_vLDeG-zBzI.jpg",
+        "public_metrics": {
+          "view_count": 217320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/480x852/8TMYH7FaBI2mbB0o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/320x568/lccbaKQORZzEppnR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/720x1280/N0lNZCSP6VqQfBHm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/vid/avc1/1080x1920/C1OqiIet-L23ctSs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103511766328348672/pl/iaemCAEEOrCeyzWR.m3u8?v=e2f"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2103512018267582565",
+        "created_at": "2026-10-01T01:48:56.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105475015726743974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2870513395",
+              "start": 0,
+              "username": "DongBeiYuZaiLXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105475015726743974",
+        "in_reply_to_user_id": "2870513395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103512018267582565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongBeiYuZaiLXF 原来不止中国有这种人，那人类的前途真是一片光明啊（赞赏）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103511766328348672"
+          ]
+        },
+        "author_id": "2870513395",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "125th Emperor of Japan (reign 1989-2019)",
+              "id": "1109143548853551105",
+              "name": "Akihito (明仁)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2103512018267582565",
+        "created_at": "2026-09-25T15:48:41.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103512018267582565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gfoksbxOD",
+              "end": 167,
+              "expanded_url": "https://x.com/DongBeiYuZaiLXF/status/2103512018267582565/video/1",
+              "media_key": "13_2103511766328348672",
+              "start": 144,
+              "url": "https://t.co/8gfoksbxOD"
+            },
+            {
+              "display_url": "x.com/amatsuuni/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/amatsuuni/status/2103262990019768563",
+              "start": 168,
+              "url": "https://t.co/9pyRGbXXlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103512018267582565",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103511766328348672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 305280,
+          "like_count": 1331,
+          "quote_count": 11,
+          "reply_count": 301,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103262990019768563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【中文字幕】地雷酱对部分中国网友的回复。\n\n感觉这妹子要火啊。\n\n不过她搞错了，中国上X是不违法的，但是通过VPN是违法的。\n\n所以理论上海外的中国人上X也不违法，因为没有翻墙。\n\n中国人也会在X上说政府有问题，这可能会涉嫌违反中国法律，但这部分中国人是没问题的，恰好是正常的那一部分。 https://t.co/8gfoksbxOD https://t.co/9pyRGbXXlR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2105475015726743974",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 1425,
+          "like_count": 44414,
+          "listed_count": 6,
+          "media_count": 1999,
+          "tweet_count": 14062
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-22T08:20:51.000Z",
+        "description": "精日流脱支派：以日本和日本人为参照物，认清反省并清除自身残留的支性，致力达成精神上同步现代文明社会价值观，现实中融入日本社会的自我改造。\n\nAI歌曲、视屏收录频道：\nhttps://t.co/UiQYLAE77S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@dongbeiyuzhai…",
+                "end": 106,
+                "expanded_url": "https://youtube.com/@dongbeiyuzhailxf?si=bQkYvYOG90bZT4yN",
+                "start": 83,
+                "url": "https://t.co/UiQYLAE77S"
+              }
+            ]
+          }
+        },
+        "id": "2870513395",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105469715925868969",
+        "name": "东北御厨💙💛",
+        "pinned_tweet_id": "2083768169253224528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2870513395/1707791690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096227613014642688/a1KMKkPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18885,
+          "following_count": 2594,
+          "like_count": 128867,
+          "listed_count": 111,
+          "media_count": 4512,
+          "tweet_count": 54425
+        },
+        "url": "",
+        "username": "DongBeiYuZaiLXF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

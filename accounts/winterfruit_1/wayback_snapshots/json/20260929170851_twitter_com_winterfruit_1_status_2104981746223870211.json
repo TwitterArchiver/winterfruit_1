@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2104967154915484020",
+    "created_at": "2026-09-29T17:08:51.000Z",
+    "display_text_range": [
+      18,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T18:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104981746223870211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        },
+        {
+          "end": 17,
+          "id": "2090493219801120769",
+          "start": 8,
+          "username": "bo1109bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104981746223870211",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104967154915484020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 @bo1109bo 难绷"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bo1109bo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bo1109bo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "bo1109bo"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2104967125421178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZYcq6awAAfui4.jpg",
+        "width": 1116
+      },
+      {
+        "height": 2480,
+        "media_key": "3_2104967142215143424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZYdpeaUAAQQp2.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2104967154915484020",
+        "created_at": "2026-09-29T17:08:51.000Z",
+        "display_text_range": [
+          18,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104981746223870211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            },
+            {
+              "end": 17,
+              "id": "2090493219801120769",
+              "start": 8,
+              "username": "bo1109bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104981746223870211",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104967154915484020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 @bo1109bo 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104967125421178880",
+            "3_2104967142215143424"
+          ]
+        },
+        "author_id": "2092517131552423936",
+        "conversation_id": "2104967154915484020",
+        "created_at": "2026-09-29T16:10:52.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104967154915484020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2090493219801120769",
+              "start": 13,
+              "username": "bo1109bo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmrFgm2xKF",
+              "end": 46,
+              "expanded_url": "https://x.com/MT7276/status/2104967154915484020/photo/1",
+              "media_key": "3_2104967125421178880",
+              "start": 23,
+              "url": "https://t.co/QmrFgm2xKF"
+            },
+            {
+              "display_url": "pic.x.com/QmrFgm2xKF",
+              "end": 46,
+              "expanded_url": "https://x.com/MT7276/status/2104967154915484020/photo/1",
+              "media_key": "3_2104967142215143424",
+              "start": 23,
+              "url": "https://t.co/QmrFgm2xKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104967154915484020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104967125421178880"
+          },
+          {
+            "media_key": "3_2104967142215143424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "求转\n这个四凤的真跑路了\n@bo1109bo https://t.co/QmrFgm2xKF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2104981746223870211",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1421,
+          "like_count": 44382,
+          "listed_count": 6,
+          "media_count": 1989,
+          "tweet_count": 14025
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104981424390734258",
+        "name": "MT",
+        "pinned_tweet_id": "2103782740579819682",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 117,
+          "like_count": 3396,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

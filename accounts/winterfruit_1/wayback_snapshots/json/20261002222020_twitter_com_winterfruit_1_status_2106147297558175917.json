@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2106147297558175917",
+    "created_at": "2026-10-02T22:20:20.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T23:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106147297558175917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946197448705351680",
+          "start": 3,
+          "username": "MaidenAkai"
+        },
+        {
+          "end": 27,
+          "id": "1342135083252105216",
+          "start": 16,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106147297558175917",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103184265118970345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaidenAkai: @xixikawaii I don't think this is the Chinese lesbian Twitter I've been hearing about"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2106147297558175917",
+        "created_at": "2026-10-02T22:20:20.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106147297558175917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946197448705351680",
+              "start": 3,
+              "username": "MaidenAkai"
+            },
+            {
+              "end": 27,
+              "id": "1342135083252105216",
+              "start": 16,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106147297558175917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103184265118970345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaidenAkai: @xixikawaii I don't think this is the Chinese lesbian Twitter I've been hearing about"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946197448705351680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2103041981270384847",
+        "created_at": "2026-09-24T18:06:18.000Z",
+        "display_text_range": [
+          12,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103184265118970345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103184265118970345",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 87601,
+          "like_count": 3276,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103041981270384847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii I don't think this is the Chinese lesbian Twitter I've been hearing about"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2106147297558175917",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 1429,
+          "like_count": 44528,
+          "listed_count": 6,
+          "media_count": 2003,
+          "tweet_count": 14101
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T13:16:48.000Z",
+        "description": "I will draw a Vtuber.\n\nAlso other stuff gets posted that is cool (to me)",
+        "id": "1946197448705351680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106076219959578735",
+        "name": "R_maiden",
+        "pinned_tweet_id": "2058740848334925921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946197448705351680/1782940033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105374580718153729/H3aS6Xu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 199,
+          "like_count": 20389,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "MaidenAkai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 每天都要去迪士尼版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/?ref=xixi",
+                "end": 23,
+                "expanded_url": "https://gmgn.ai/?ref=xixi",
+                "start": 0,
+                "url": "https://t.co/MKfyClPSiI"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2106062577952604602",
+        "name": "汐",
+        "pinned_tweet_id": "2094613714901016616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103144044511768577/k7UNep_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65291,
+          "following_count": 1248,
+          "like_count": 15994,
+          "listed_count": 504,
+          "media_count": 5743,
+          "tweet_count": 27714
+        },
+        "url": "https://t.co/MKfyClPSiI",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102111767195463681",
+        "3_2102111776389353473"
+      ],
+      "media_source_tweet_id": [
+        "2102111782169104891",
+        "2102111782169104891"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2102114164319961533",
+    "created_at": "2026-09-21T19:14:06.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102114164319961533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "AIGC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083406819964420096",
+          "start": 3,
+          "username": "OukaroMF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "…bot-icon-studio.serio-ai.chatgpt.site",
+          "end": 74,
+          "expanded_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+          "start": 51,
+          "unwound_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+          "url": "https://t.co/KmSTtX0QXh"
+        },
+        {
+          "display_url": "pic.x.com/c1B9Ltvs3b",
+          "end": 98,
+          "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+          "media_key": "3_2102111767195463681",
+          "start": 75,
+          "url": "https://t.co/c1B9Ltvs3b"
+        },
+        {
+          "display_url": "pic.x.com/c1B9Ltvs3b",
+          "end": 98,
+          "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+          "media_key": "3_2102111776389353473",
+          "start": 75,
+          "url": "https://t.co/c1B9Ltvs3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102114164319961533",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2102111767195463681"
+      },
+      {
+        "media_key": "3_2102111776389353473"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102111782169104891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OukaroMF: * #AIGC Warning\nGenerate by ChatGPT \nhttps://t.co/KmSTtX0QXh https://t.co/c1B9Ltvs3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2102111767195463681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwzg8nasAEURez.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2102111776389353473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwzhe3aUAExNvh.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102111767195463681",
+            "3_2102111776389353473"
+          ],
+          "media_source_tweet_id": [
+            "2102111782169104891",
+            "2102111782169104891"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2102114164319961533",
+        "created_at": "2026-09-21T19:14:06.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102114164319961533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "AIGC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083406819964420096",
+              "start": 3,
+              "username": "OukaroMF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "…bot-icon-studio.serio-ai.chatgpt.site",
+              "end": 74,
+              "expanded_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+              "start": 51,
+              "unwound_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+              "url": "https://t.co/KmSTtX0QXh"
+            },
+            {
+              "display_url": "pic.x.com/c1B9Ltvs3b",
+              "end": 98,
+              "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+              "media_key": "3_2102111767195463681",
+              "start": 75,
+              "url": "https://t.co/c1B9Ltvs3b"
+            },
+            {
+              "display_url": "pic.x.com/c1B9Ltvs3b",
+              "end": 98,
+              "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+              "media_key": "3_2102111776389353473",
+              "start": 75,
+              "url": "https://t.co/c1B9Ltvs3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102114164319961533",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102111767195463681"
+          },
+          {
+            "media_key": "3_2102111776389353473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102111782169104891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OukaroMF: * #AIGC Warning\nGenerate by ChatGPT \nhttps://t.co/KmSTtX0QXh https://t.co/c1B9Ltvs3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102111767195463681",
+            "3_2102111776389353473"
+          ]
+        },
+        "author_id": "2083406819964420096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2102111782169104891",
+        "created_at": "2026-09-21T19:04:38.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102111782169104891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "AIGC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "…bot-icon-studio.serio-ai.chatgpt.site",
+              "end": 60,
+              "expanded_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+              "start": 37,
+              "unwound_url": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+              "url": "https://t.co/KmSTtX0QXh"
+            },
+            {
+              "display_url": "pic.x.com/c1B9Ltvs3b",
+              "end": 84,
+              "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+              "media_key": "3_2102111767195463681",
+              "start": 61,
+              "url": "https://t.co/c1B9Ltvs3b"
+            },
+            {
+              "display_url": "pic.x.com/c1B9Ltvs3b",
+              "end": 84,
+              "expanded_url": "https://x.com/OukaroMF/status/2102111782169104891/photo/1",
+              "media_key": "3_2102111776389353473",
+              "start": 61,
+              "url": "https://t.co/c1B9Ltvs3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102111782169104891",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102111767195463681"
+          },
+          {
+            "media_key": "3_2102111776389353473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "* #AIGC Warning\nGenerate by ChatGPT \nhttps://t.co/KmSTtX0QXh https://t.co/c1B9Ltvs3b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2102114164319961533",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1452,
+          "like_count": 44138,
+          "listed_count": 6,
+          "media_count": 1970,
+          "tweet_count": 13879
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:18:41.000Z",
+        "description": "Member/Junior-Designer of https://t.co/3SSh9WcTze\nAuDHD CG/MG 电子高速宏波炉 算是美工 但不是开发者 来自深圳 现居广州 性别已被占用 🍥HRT230609 🌭RLE250326 ❌NeverSRS\n banner by @kangaroo_sande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "kangaroo_sande"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SukiSU.org",
+                "end": 49,
+                "expanded_url": "http://SukiSU.org",
+                "start": 26,
+                "url": "https://t.co/3SSh9WcTze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro/MF",
+                "end": 23,
+                "expanded_url": "http://ouka.ro/MF",
+                "start": 0,
+                "url": "https://t.co/GsQxfQb72s"
+              }
+            ]
+          }
+        },
+        "id": "2083406819964420096",
+        "is_identity_verified": true,
+        "location": "八目鳗穴",
+        "most_recent_tweet_id": "2102111986192679344",
+        "name": "OukaroMF",
+        "pinned_tweet_id": "2088972032776266216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083406819964420096/1785674814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083434459630882816/NZ4BOxV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 1427,
+          "like_count": 11882,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 11374
+        },
+        "url": "https://t.co/GsQxfQb72s",
+        "username": "OukaroMF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

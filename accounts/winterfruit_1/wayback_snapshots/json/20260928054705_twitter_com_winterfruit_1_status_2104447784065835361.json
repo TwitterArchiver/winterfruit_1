@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081702999575965697"
+      ],
+      "media_source_tweet_id": [
+        "2081703019880616398"
+      ]
+    },
+    "author_id": "1837114188046684161",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2104447784065835361",
+    "created_at": "2026-09-28T05:47:05.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104447784065835361"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "kda"
+        },
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "cosplay"
+        },
+        {
+          "end": 63,
+          "start": 47,
+          "tag": "Leagueoflegends"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "LOL"
+        },
+        {
+          "end": 76,
+          "start": 69,
+          "tag": "Evelyn"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1647459436716523520",
+          "start": 3,
+          "username": "Ray056939172369"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2HATYFCJa",
+          "end": 100,
+          "expanded_url": "https://x.com/Ray056939172369/status/2081703019880616398/photo/1",
+          "media_key": "3_2081702999575965697",
+          "start": 77,
+          "url": "https://t.co/D2HATYFCJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104447784065835361",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2081702999575965697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081703019880616398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ray056939172369: 等老娘补完妆就来撕了你\n#kda #cosplay #Leagueoflegends #LOL #Evelyn https://t.co/D2HATYFCJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081702999575965697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOx2UmXMAEcRaM.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081702999575965697"
+          ],
+          "media_source_tweet_id": [
+            "2081703019880616398"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2104447784065835361",
+        "created_at": "2026-09-28T05:47:05.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104447784065835361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "kda"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "cosplay"
+            },
+            {
+              "end": 63,
+              "start": 47,
+              "tag": "Leagueoflegends"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "LOL"
+            },
+            {
+              "end": 76,
+              "start": 69,
+              "tag": "Evelyn"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1647459436716523520",
+              "start": 3,
+              "username": "Ray056939172369"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2HATYFCJa",
+              "end": 100,
+              "expanded_url": "https://x.com/Ray056939172369/status/2081703019880616398/photo/1",
+              "media_key": "3_2081702999575965697",
+              "start": 77,
+              "url": "https://t.co/D2HATYFCJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104447784065835361",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081702999575965697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081703019880616398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ray056939172369: 等老娘补完妆就来撕了你\n#kda #cosplay #Leagueoflegends #LOL #Evelyn https://t.co/D2HATYFCJa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081702999575965697"
+          ]
+        },
+        "author_id": "1647459436716523520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081703019880616398",
+        "created_at": "2026-07-27T11:27:30.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081703019880616398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "kda"
+            },
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "cosplay"
+            },
+            {
+              "end": 42,
+              "start": 26,
+              "tag": "Leagueoflegends"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "LOL"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "Evelyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2HATYFCJa",
+              "end": 79,
+              "expanded_url": "https://x.com/Ray056939172369/status/2081703019880616398/photo/1",
+              "media_key": "3_2081702999575965697",
+              "start": 56,
+              "url": "https://t.co/D2HATYFCJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081703019880616398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081702999575965697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "等老娘补完妆就来撕了你\n#kda #cosplay #Leagueoflegends #LOL #Evelyn https://t.co/D2HATYFCJa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2104447784065835361",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 1444,
+          "like_count": 44281,
+          "listed_count": 6,
+          "media_count": 1980,
+          "tweet_count": 13970
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-16T04:38:49.000Z",
+        "description": "",
+        "id": "1647459436716523520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082389569823985793",
+        "name": "112z_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647459436716523520/1753183825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929760576389120/l5oioMyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 95,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Ray056939172369",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

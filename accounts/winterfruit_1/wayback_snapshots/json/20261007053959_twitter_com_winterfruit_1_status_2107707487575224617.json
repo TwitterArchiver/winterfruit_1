@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2104546396573733319",
+    "created_at": "2026-10-07T05:39:59.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107707487575224617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681362222461734912",
+          "start": 0,
+          "username": "PWFFFFFF_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107707487575224617",
+    "in_reply_to_user_id": "1681362222461734912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107663011972587912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWFFFFFF_ 兑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107663011972587912].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107663011972587912",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107663011972587912"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2104546396573733319",
+        "created_at": "2026-10-07T05:39:59.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107707487575224617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681362222461734912",
+              "start": 0,
+              "username": "PWFFFFFF_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107707487575224617",
+        "in_reply_to_user_id": "1681362222461734912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107663011972587912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWFFFFFF_ 兑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p  香香梨 @K1ku21_\n圣虹夏 @Nijika_Dark2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Nijika_Dark2"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2107707487575224617",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 1432,
+          "like_count": 44610,
+          "listed_count": 6,
+          "media_count": 2006,
+          "tweet_count": 14148
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-18T17:56:31.000Z",
+        "description": "2009\\中（繁/简）、EN(Poor,CEFR-B2)、日本語(マジ苦手です)\\N高生\\如果您認為我令您產生了不快，請block/mute我，我不想與任何人產生爭執，謝謝您。\\如果您在現實中認識我並在未被我推薦的情況下找到了此帳號，請離開吧，我很害怕您，我很抱歉。\\私:@PWFFFFFF_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "PWFFFFFF_"
+              }
+            ]
+          }
+        },
+        "id": "1681362222461734912",
+        "is_identity_verified": false,
+        "location": "I(|{裏, 絲}|x|{P | P(-1, 0)}|)",
+        "most_recent_tweet_id": "2096887307232309539",
+        "name": "PureWhiteFFFFFF",
+        "pinned_tweet_id": "2054199854692528422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681362222461734912/1708584045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009395325208023043/pUPnm8PE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 858,
+          "like_count": 17718,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 3584
+        },
+        "url": "",
+        "username": "PWFFFFFF_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

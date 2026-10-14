@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2108380303865823655",
+    "created_at": "2026-10-09T02:13:30.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T03:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108380303865823655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942422285044047873",
+          "start": 3,
+          "username": "Hakonootoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108380303865823655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107826138353664091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hakonootoko: 我才发现很多日本程序员认为app没有「登出账号」功能是正常的。\n😅什么舍身一击，有进无退，老武士道了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2108380303865823655",
+        "created_at": "2026-10-09T02:13:30.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T03:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108380303865823655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942422285044047873",
+              "start": 3,
+              "username": "Hakonootoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108380303865823655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107826138353664091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hakonootoko: 我才发现很多日本程序员认为app没有「登出账号」功能是正常的。\n😅什么舍身一击，有进无退，老武士道了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942422285044047873",
+        "conversation_id": "2107826138353664091",
+        "created_at": "2026-10-07T13:31:27.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107826138353664091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107826138353664091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 99146,
+          "like_count": 852,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我才发现很多日本程序员认为app没有「登出账号」功能是正常的。\n😅什么舍身一击，有进无退，老武士道了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p  香香梨 @K1ku21_\n圣虹夏 @Nijika_Dark2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Nijika_Dark2"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2108380303865823655",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 1430,
+          "like_count": 44701,
+          "listed_count": 7,
+          "media_count": 2009,
+          "tweet_count": 14183
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "is_identity_verified": false,
+        "location": "女权市出生・防失联小号👉",
+        "most_recent_tweet_id": "2108371288230363476",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942422285044047873/1751983537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690,
+          "following_count": 1105,
+          "like_count": 56822,
+          "listed_count": 58,
+          "media_count": 546,
+          "tweet_count": 38103
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

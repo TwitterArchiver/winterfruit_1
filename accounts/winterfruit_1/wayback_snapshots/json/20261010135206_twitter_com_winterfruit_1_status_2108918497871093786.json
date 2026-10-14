@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "2108906054801142223",
+    "created_at": "2026-10-10T13:52:06.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T14:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108918497871093786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108918497871093786",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108906054801142223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 这图也是gpt画的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 242,
+        "media_key": "16_2108906030587367426",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HURW3IHW0AIBaE2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HURW3IHW0AIBaE2.mp4"
+          }
+        ],
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2108906054801142223",
+        "created_at": "2026-10-10T13:52:06.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108918497871093786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108918497871093786",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108906054801142223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 这图也是gpt画的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2108906030587367426"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2108906054801142223",
+        "created_at": "2026-10-10T13:02:39.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108906054801142223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIXiOEvdX3",
+              "end": 48,
+              "expanded_url": "https://x.com/Rococo90933671/status/2108906054801142223/photo/1",
+              "media_key": "16_2108906030587367426",
+              "start": 25,
+              "url": "https://t.co/nIXiOEvdX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108906054801142223",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2108906030587367426"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 429,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到ChatGPT不停地画让自己吃瘪的图的大肥鱼 https://t.co/nIXiOEvdX3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p  香香梨 @K1ku21_\n圣虹夏 @Nijika_Dark2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Nijika_Dark2"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2108918497871093786",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 1429,
+          "like_count": 44720,
+          "listed_count": 7,
+          "media_count": 2010,
+          "tweet_count": 14201
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2108913646944612397",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15286,
+          "following_count": 3306,
+          "like_count": 54077,
+          "listed_count": 50,
+          "media_count": 5808,
+          "tweet_count": 28455
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

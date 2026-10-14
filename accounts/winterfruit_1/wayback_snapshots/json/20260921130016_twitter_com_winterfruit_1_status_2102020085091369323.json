@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837114188046684161",
+    "conversation_id": "1992952453642543572",
+    "created_at": "2026-09-21T13:00:16.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102020085091369323"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102020085091369323",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992952453642543572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这几把啥啊你咖喱人是不是咝完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1992952453642543572",
+        "created_at": "2026-09-21T13:00:16.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102020085091369323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102020085091369323",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992952453642543572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这几把啥啊你咖喱人是不是咝完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1992952453642543572",
+        "created_at": "2025-11-24T13:44:26.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992952453642543572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992952453642543572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 74197,
+          "like_count": 337,
+          "quote_count": 9,
+          "reply_count": 57,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "如果你觉得逼死一个十五岁双向情感障碍 +重度抑郁+手臂满是伤疤+喜欢晚睡+爱听网易云+敏感多疑胡思乱想+日日以泪洗面的infp蝴蝶小孩很好玩的话那你们可以继续"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2102020085091369323",
+        "name": "Winit",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100666182621974528/bXg5Y5P8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1452,
+          "like_count": 44131,
+          "listed_count": 6,
+          "media_count": 1970,
+          "tweet_count": 13873
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
